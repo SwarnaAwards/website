@@ -1,0 +1,718 @@
+Return-Path: <bantisingh742_aa5@indeedemail.com>
+Delivered-To: info@successassociates.in
+Received: from sg3plcpnl0078.prod.sin3.secureserver.net
+	by sg3plcpnl0078.prod.sin3.secureserver.net with LMTP id OKJ+LtRNZlyxmSgAUghlVg
+	for <info@successassociates.in>; Thu, 14 Feb 2019 22:27:48 -0700
+Return-path: <bantisingh742_aa5@indeedemail.com>
+Envelope-to: info@successassociates.in
+Delivery-date: Thu, 14 Feb 2019 22:27:48 -0700
+Received: from mail97.indeedemail.com ([198.58.75.97]:51058 helo=mail97.indeedmail.com)
+	by sg3plcpnl0078.prod.sin3.secureserver.net with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.91)
+	(envelope-from <bantisingh742_aa5@indeedemail.com>)
+	id 1guW2J-00BKsa-My
+	for info@successassociates.in; Thu, 14 Feb 2019 22:27:48 -0700
+Received: from aus-mexec88.indeed.net (unknown [10.1.3.212])
+	by mail97.indeedmail.com (Postfix) with ESMTP id 4411wP4dZ1zYmTKm
+	for <info@successassociates.in>; Thu, 14 Feb 2019 23:27:01 -0600 (CST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=indeedemail.com;
+	s=default; t=1550208421;
+	bh=2sxD1raMvCWE2D+TBOnswDJeJyIHkAEHQ30r2Jn4uI0=;
+	h=Date:From:To:Subject;
+	b=iR/h+rui+X3LSjqKroN4HV3R+N1hHNez5UY8dP/sdMMxq3IIVSxbzVSplceGzHDUs
+	 gCwUNZnvycPuHtTCH/il2hz8Y/wCGyk1muqVLYICpAsrTOnfE1HZPdOUkYx/37BcaN
+	 WctP2+45tgZli+xEBRKPOeNTnBTVRPZyxBY2hbDw=
+Date: Thu, 14 Feb 2019 23:27:01 -0600 (CST)
+From: "Banti Singh  (Indeed Applicant)" <bantisingh742_aa5@indeedemail.com>
+To: info@successassociates.in
+Message-ID: <1d3npujbm0cvv000@indeedemail.com>
+Subject: Delivery Person candidate - Banti Singh  applied on Indeed
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_148934099_691134159.1550208421524"
+X-Indeed-FBL: :2:17d48d7cf0b784a164a4e7ea2446c2507f8813e3477ed274be9ec29b886dde04
+X-Indeed-Client-App: DREMR
+X-Indeed-Content-Type: DREMR
+X-Indeed-TK: 1d3npujkg3daa801
+X-Spam-Status: No, score=-0.1
+X-Spam-Score: 0
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "sg3plcpnl0078.prod.sin3.secureserver.net",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  Banti Singh applied to the Delivery Person position posted
+    on Indeed. You will find their information below and resume attached (if
+   one was provided). https://employers.indeed.com/l/c?refUid=1d3npujh2
+ 
+ Content analysis details:   (-0.1 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 SURBL_BLOCKED          ADMINISTRATOR NOTICE: The query to SURBL was blocked.
+                             See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: indeedemail.com]
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+                             See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: indeedemail.com]
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+ -0.0 RCVD_IN_MSPIKE_H2      RBL: Average reputation (+2)
+                             [198.58.75.97 listed in wl.mailspike.net]
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily valid
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from author's
+                             domain
+  0.0 T_REMOTE_IMAGE         Message contains an external image
+X-Spam-Flag: NO
+
+------=_Part_148934099_691134159.1550208421524
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Banti Singh  applied to the Delivery Person position posted on Indeed. You will find their information below and resume attached (if one was provided).
+
+https://employers.indeed.com/l/c?refUid=1d3npujh23nom800&amp;token=candidates%2Fview%3Fid%3D031a02b227ac&amp;ctx=email-application&amp;lid=manage-on-indeed
+
+Name: Banti Singh 
+Email: bantisingh742_aa5@indeedemail.com
+
+
+
+Suspect spam or fraud?
+Report this message to Indeed <https://m.indeedemail.com/report-email?info=tQ9kIE_tXhCgflYkQA4nCdSR9Yy146O_M9tanc_fFo-BY-twydcYc4wSu9PfrqMnE3rO31_IslW-EuPdYmkDRWtj5Pqs0_8pMGrWrZy-4UGcObIQs_6PBX8myhM0Wbpk4ntj-QcyfCIikXEfhdFK5DTzyNeMzzs36DKhHLTpU-ycJE-pcRg43YvP6AbO>
+
+By replying or using an indeedemail.com email address, you agree that this email will be processed and analyzed according to the Indeed Cookie Policy <https://www.indeed.com/legal?hl=en&amp;co=US#cookies>, Privacy Policy <https://www.indeed.com/legal?hl=en&amp;co=US#privacy>, and Terms of Service <https://www.indeed.com/legal?hl=en&amp;co=US#tos>.
+------=_Part_148934099_691134159.1550208421524
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.=
+w3.org/TR/html4/loose.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+ <head>=20
+  <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8">=
+=20
+  <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D=
+1">=20
+  <meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3Dedge">=20
+  <!--[if (mso)|(mso 16)]>
+        <style type=3D"text/css">
+        a {text-decoration: none;}
+        </style>
+        <![endif]-->=20
+  <style type=3D"text/css">
+
+        /* CLIENT-SPECIFIC STYLES */
+        body, table, td, a { -webkit-text-size-adjust: 100%; -ms-text-size-=
+adjust: 100%; }
+        table, td { mso-table-lspace: 0pt; mso-table-rspace: 0pt; }
+        img { -ms-interpolation-mode: bicubic; }
+
+        /* RESET STYLES */
+        img { border: 0; height: auto; line-height: 100%; outline: none; te=
+xt-decoration: none; }
+        table { border-collapse: collapse !important; }
+        body { height: 100% !important; margin: 0 !important; padding: 0 !i=
+mportant; width: 100% !important; }
+
+        /* iOS BLUE LINKS */
+        a[x-apple-data-detectors] {
+            color: inherit !important;
+            text-decoration: none !important;
+            font-size: inherit !important;
+            font-family: inherit !important;
+            font-weight: inherit !important;
+            line-height: inherit !important;
+        }
+
+        .gmail-mobile-fix {
+            width:170px !important;
+        }
+        @media only screen and (min-width:600px) {
+            .desktop-only-button {
+                display: table !important;
+            }
+            .mobile-only-button {
+                display: none !important;
+            }
+        }
+
+        @media only screen and (max-width:600px) {
+            .inner-padding {
+                padding:30px 20px !important;
+            }
+            .title{
+                font-size:16px !important;
+                line-height:24px !important;
+            }
+            .section-title {
+                font-size:14px !important;
+                line-height:24px !important;
+            }
+            .card-title {
+                font-size:16px !important;
+                line-height:20px !important;
+            }
+            .button-label {
+                font-size:14px !important;
+                font-weight:500 !important
+            }
+
+            .button_text_height {
+                line-height:42px !important;
+            }
+
+            .cta-box {
+                text-align:center !important;
+                padding:30px 0 0 !important;
+                margin:0 auto !important;
+            }
+            .stack {
+                display:block !important;
+                width:100% !important;
+                text-align:center !important;
+                padding-left:0 !important;
+                margin:0 auto !important;
+            }
+            .full-width {
+                width:100% !important;
+                max-width:280px !important;
+                margin:0 auto !important;
+                padding-left:0 !important;
+                padding-right:0 !important;
+                box-sizing:border-box !important;
+            }
+            .notice {
+                width:auto !important;
+                margin:0 auto !important;
+            }
+            .yes-no-maybe-button {
+                margin:0 auto !important;
+                max-width:280px !important;
+            }
+            .cta-button {
+                font-size:14px !important;
+            }
+            .footer-address {
+                padding:15px 20px 30px !important;
+            }
+            .pt-0 {
+                padding-top:0 !important;
+            }
+            .pt-16 {
+                padding-top:16px !important;
+            }
+            .lh-18 {
+                line-height:18px !important;
+            }
+            .center-margin{
+                margin:0 auto !important;
+            }
+            .center {
+                text-align:center !important;
+            }
+            u + .body .notice {
+                max-width:280px !important;
+            }
+
+            u + .body .notice td {
+                font-size:11px !important;
+            }
+        }
+
+
+        u + #body a {
+            color: inherit;
+            text-decoration: none;
+            font-size: inherit;
+            font-family: inherit;
+            font-weight: inherit;
+            line-height: inherit;
+        }
+
+        .address a {
+            color:#494949 !important;
+            text-decoration:none !important;
+        }
+        </style>=20
+  <!--[if gte mso 9]><xml>
+         <o:OfficeDocumentSettings>
+          <o:AllowPNG/>
+          <o:PixelsPerInch>96</o:PixelsPerInch>
+         </o:OfficeDocumentSettings>
+        </xml><![endif]-->=20
+  <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8">=
+=20
+  <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D=
+1">=20
+  <meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3Dedge">=20
+  <meta name=3D"format-detection" content=3D"address=3Dno">=20
+  <meta name=3D"format-detection" content=3D"telephone=3Dno">=20
+  <style type=3D"text/css">@media screen and (max-width: 500px) {.stack {di=
+splay:block !important; padding:8px 12px !important; box-sizing:border-box =
+!important; width:100% !important;}.iris-button-wrapper {width:100% !import=
+ant; margin:auto !important; text-align:center !important;}.iris-button {wi=
+dth:100% !important; display:block !important; box-sizing:border-box !impor=
+tant;}.iris-button-label {width:300px !important; display:block !important;=
+ margin:0 auto !important;}.iris-button-mobile-only {display:table !importa=
+nt; max-height:none !important; overflow:visible !important;}.iris-button-h=
+eader-mobile-only {display:block !important; max-height:none !important; ov=
+erflow:visible !important;}.ph-20 {padding-left:20px !important; padding-ri=
+ght:20px !important;}.iris-replay-test-2-wrapper {display:block !important;=
+ width:280px !important; margin:0 auto !important;}}</style>=20
+ </head>=20
+ <body id=3D"body" class=3D"body" style=3D"background-color:#F2F2F2;margin:=
+0; padding:0;">=20
+  <div id=3D"indeedemailpixel">=20
+   <img src=3D"https://m.indeedemail.com/emailpixel.gif?info=3DRhXan3gQRZvA=
+_1yHHKtd2lgxWe2YmPV3WbOIatG13B4QsEL5R0C8us0DPTxL-wTkTG8GW-wrppaJEBv5n0Q7uGu=
+BhppKchgd5gECeT9u1g4ASS9O1jb4lK_XNV0XM7kXm92UR_9FUi76wr0ePQEajSZM7lKq61SNFn=
+hcuZ7veOi4Zg">=20
+  </div>=20
+  <div alt=3D"dradis-application-email">=20
+   <table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" b=
+gcolor=3D"#F2F2F2">=20
+    <tbody>=20
+     <tr>=20
+      <td class=3D"content-box" align=3D"center">=20
+       <!-- HEADER -->=20
+       <table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D"=
+0">=20
+        <tbody>=20
+         <tr>=20
+          <td align=3D"center" style=3D"padding:20px 0"><a href=3D"http://w=
+ww.indeed.com?isid=3Dapplication-email&amp;hl=3Den&amp;co=3DIN" target=3D"_=
+blank" style=3D"border:0;"><img class=3D"indeed-logo" src=3D"https://ads.in=
+deed.com/images/email/indeed-logo.png?refUid=3D1d3npujh23nom800" width=3D"1=
+30" alt=3D"indeed" border=3D"0" style=3D"width:130px;color:#2164f3;font-siz=
+e:38px;font-weight:500;font-family:'Arial Rounded MT Bold', 'Helvetica Neue=
+', Helvetica, Roboto, Arial ,sans-serif;letter-spacing:-1px;"></a></td>=20
+         </tr>=20
+        </tbody>=20
+       </table>=20
+       <!-- BODY -->=20
+       <!--[if mso><table width=3D"600" border=3D"0" cellspacing=3D"0" cell=
+padding=3D"0"><tr><td><![endif]-->=20
+       <table class=3D"frame" style=3D"max-width:600px;" width=3D"100%" cel=
+lpadding=3D"0" cellspacing=3D"0" border=3D"0">=20
+        <tbody>=20
+         <tr>=20
+          <td align=3D"center" style=3D"padding:0 0 20px">=20
+           <table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=
+=3D"0">=20
+            <tbody>=20
+             <tr>=20
+              <td class=3D"content" style=3D"border:1px solid #DDDDDD;box-s=
+izing:border-box;" align=3D"center">=20
+               <table bgcolor=3D"#FFFFFF" width=3D"100%" cellpadding=3D"0" =
+cellspacing=3D"0" border=3D"0">=20
+                <tbody>=20
+                 <tr>=20
+                  <td class=3D"inner-padding" style=3D"padding:30px;border-=
+bottom:1px solid #DDDDDD;">=20
+                   <table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0=
+" border=3D"0">=20
+                    <tbody>=20
+                     <tr>=20
+                      <td class=3D"title center" align=3D"left" style=3D"fo=
+nt-family:'Helvetica Neue', Helvetica, Roboto, Arial, sans-serif;font-weigh=
+t:bold;font-size:22px;line-height:36px;color:#000000;"><span>Banti Singh </=
+span> applied for your Delivery Person job in 560040</td>=20
+                     </tr>=20
+                    </tbody>=20
+                   </table></td>=20
+                 </tr>=20
+                </tbody>=20
+               </table>=20
+               <table bgcolor=3D"#FFFFFF" width=3D"100%" cellpadding=3D"0" =
+cellspacing=3D"0" border=3D"0">=20
+                <tbody>=20
+                 <tr>=20
+                  <td class=3D"inner-padding" style=3D"padding:30px 20px">=
+=20
+                   <table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0=
+" border=3D"0">=20
+                    <tbody>=20
+                     <tr>=20
+                      <td>=20
+                       <table width=3D"100%" cellpadding=3D"0" cellspacing=
+=3D"0" border=3D"0" align=3D"left">=20
+                        <tbody>=20
+                         <tr>=20
+                          <td class=3D"stack gmail-mobile-fix" style=3D"wid=
+th:50%;">=20
+                           <table width=3D"80%" class=3D"full-width " borde=
+r=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"margin: auto; ">=20
+                            <tbody>=20
+                             <tr>=20
+                              <td>=20
+                               <div style=3D"margin-bottom: 10px">=20
+                                <a href=3D"mailto:bantisingh742_aa5@indeede=
+mail.com?subject=3DApplication%20for%20Delivery%20Person%20with%20Success%2=
+0Associates&amp;amp;body=3DHi%20Banti%20Singh%20%2C" target=3D"_blank" styl=
+e=3D"background:#2E5AD7;background:linear-gradient(#5698FF, #2E5AD7);backgr=
+ound:-moz-linear-gradient(#5698FF, #2E5AD7);background:-webkit-linear-gradi=
+ent(#5698FF, #2E5AD7);border:1px solid #1642BB;color:#FFFFFF;border-radius:=
+5px;display:inline-block;font-family:'Helvetica Neue', Roboto, Arial, sans-=
+serif;font-size:16px;font-weight:bold;text-align:center;text-decoration:non=
+e;width:100%;-webkit-text-size-adjust:none;mso-hide:all;line-height: 42px;"=
+>Reply now</a>=20
+                               </div></td>=20
+                             </tr>=20
+                            </tbody>=20
+                           </table>=20
+                           <div style=3D"width:80%;margin:auto;font-family:=
+'Helvetica Neue', Helvetica, Roboto, Arial, sans-serif;font-weight:400;font=
+-size:14px;">=20
+                            <a href=3D"https://employers.indeed.com/l/c?ref=
+Uid=3D1d3npujh23nom800&amp;token=3Dcandidates%2Fview%3Fid%3D031a02b227ac&am=
+p;ctx=3Demail-application&amp;lid=3Dmanage-on-indeed" target=3D"_blank" cla=
+ss=3D"button_text_height" style=3D"display: inline-block">View Candidate</a=
+>=20
+                            <span style=3D"color:#666666"> - </span>=20
+                            <a href=3D"https://employers.indeed.com/l/c/can=
+didates/sentiment?refUid=3D1d3npujh23nom800&amp;id=3DAAAAAae0rMuP10RU1yVRkl=
+slORM5OpRavd5SYFGgdGjatNR7T5P3r3wcoK3obnpUH4S4bpjr4zhwJsVBLhdzy65Uwd5%2B1rB=
+qpYxFP3l7OqNfem0Q56V%2FZI768p0%2BkfzcULa5xmMvx5ydH56vy7S%2B4Xh2BTk9nAycWuCp=
+m6Vno9G9sWk1Nw%3D%3D&amp;token=3Dhttps%3A%2F%2Femployers.indeed.com%2Fl%2Fc=
+%2Fcandidates%2Fsentiment%3FrefUid%3D1d3npujh23nom800%26id%3DAAAAAae0rMuP10=
+RU1yVRklslORM5OpRavd5SYFGgdGjatNR7T5P3r3wcoK3obnpUH4S4bpjr4zhwJsVBLhdzy65Uw=
+d5%252B1rBqpYxFP3l7OqNfem0Q56V%252FZI768p0%252BkfzcULa5xmMvx5ydH56vy7S%252B=
+4Xh2BTk9nAycWuCpm6Vno9G9sWk1Nw%253D%253D%26token%3Dhttps%253A%252F%252Fempl=
+oyers.indeed.com%252Fl%252Fc%252Fcandidates%252Fsentiment%253FrefUid%253D1d=
+3npujh23nom800%2526id%253DAAAAAa5ErCfhQ4s%25252By24ey7RHDNj07kEObrW0S2B5hBa=
+AvjWl05TecCj60yU2y1ntlS5moXNVjhmKnLG5VEBXvpWWwLqEQG1xtDKatVcdVpZm5qZ%25252B=
+OjXTRyd6jx6XhEkkzUAvZPEF0DOlIZoGw8DaMRNaVjTq%25252BiI5KVBl2F2i1bXkIQ%25253D=
+%25253D%2526token%253Dhttps%25253A%25252F%25252Femployers.indeed.com%25252F=
+l%25252Fc%25252Fcandidates%25252Fsentiment%25253FrefUid%25253D1d3npujh23nom=
+800%252526id%25253DAAAAAaAj%2525252BUZJuf%2525252BPg%2525252FpVVZFLb9Pf25%2=
+525252FbFY1zxS%2525252BsNczWeJMr3E7A8i0hZnAMJy0qtynLfQnLkn3iSkWVXEMe7DgDUv0=
+gp5xVEwKxyav00d8L9SgxcUxx8dFL8%2525252FMUg74HyfQnUISnlwpR%2525252FakIxfmkVH=
+S%2525252FsnDHH4GDMa1QaWsXIW7RXHLsMQ%2525253D%2525253D" target=3D"_blank" c=
+lass=3D"button_text_height" style=3D"display: inline-block">Reject candidat=
+e</a>=20
+                           </div></td>=20
+                          <td class=3D"stack subtitle pt-16" style=3D"width=
+:50%; padding-left:20px;padding-top:5px;vertical-align:baseline;font-family=
+:'Helvetica Neue', Helvetica, Roboto, Arial, sans-serif;font-weight:400;fon=
+t-size:14px;line-height:18px;color:#000000" valign=3D"middle">=20
+                           <table>=20
+                            <tbody>=20
+                             <tr>=20
+                              <td style=3D"vertical-align: top;width: 20px"=
+><img height=3D"20" width=3D"20" src=3D"https://d3l2aiuysuvlk2.cloudfront.n=
+et/draw/s/b8cdbd6/messages-icon.png" border=3D"0" style=3D"vertical-align:b=
+ottom;outline:none; text-decoration:none; -ms-interpolation-mode:bicubic; m=
+ax-width:100%; height:auto; border-style:none"></td>=20
+                              <td style=3D"text-align: initial">You can als=
+o respond to this candidate by replying directly to this email.</td>=20
+                             </tr>=20
+                            </tbody>=20
+                           </table></td>=20
+                         </tr>=20
+                        </tbody>=20
+                       </table></td>=20
+                     </tr>=20
+                    </tbody>=20
+                   </table></td>=20
+                 </tr>=20
+                </tbody>=20
+               </table></td>=20
+             </tr>=20
+            </tbody>=20
+           </table></td>=20
+         </tr>=20
+         <tr>=20
+          <td align=3D"center" style=3D"padding:0 0 20px">=20
+           <table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=
+=3D"0">=20
+            <tbody>=20
+             <tr>=20
+              <td class=3D"content" align=3D"center" style=3D"border:1px so=
+lid #DDDDDD;box-sizing:border-box;">=20
+               <table bgcolor=3D"#FFFFFF" width=3D"100%" cellpadding=3D"0" =
+cellspacing=3D"0" border=3D"0">=20
+                <tbody>=20
+                 <tr>=20
+                  <td class=3D"inner-padding" style=3D"padding:30px;border-=
+bottom:1px solid #DDDDDD">=20
+                   <table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0=
+" border=3D"0">=20
+                    <tbody>=20
+                     <tr>=20
+                      <td class=3D"card-title" style=3D"font-family:'Helvet=
+ica Neue', Helvetica, Roboto, Arial, sans-serif;font-weight:bold;font-size:=
+20px;line-height:28px;color:#000000;padding:0;" align=3D"left">Candidate Ov=
+erview</td>=20
+                     </tr>=20
+                    </tbody>=20
+                   </table></td>=20
+                 </tr>=20
+                </tbody>=20
+               </table>=20
+               <table bgcolor=3D"#FFFFFF" width=3D"100%" cellpadding=3D"0" =
+cellspacing=3D"0" border=3D"0">=20
+                <tbody>=20
+                 <tr>=20
+                  <td class=3D"inner-padding" style=3D"padding:15px 30px 10=
+px">=20
+                   <table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0=
+" border=3D"0">=20
+                    <tbody>=20
+                     <tr>=20
+                      <td class=3D"section-title" style=3D"font-family:'Hel=
+vetica Neue', Helvetica, Roboto, Arial, sans-serif;font-weight:bold;font-si=
+ze:16px;line-height:22px;color:#000000;padding:0 0 16px;border-bottom:1px s=
+olid #DDDDDD;" align=3D"left">Cover Letter</td>=20
+                     </tr>=20
+                     <tr>=20
+                      <td style=3D"padding:16px 0 20px; border-bottom: 1px =
+solid #DDDDDD">=20
+                       <table width=3D"100%" cellpadding=3D"0" cellspacing=
+=3D"0" border=3D"0">=20
+                        <tbody>=20
+                         <tr>=20
+                          <td style=3D"font-family:'Helvetica Neue', Helvet=
+ica, Roboto, Arial, sans-serif;font-size:14px;line-height:22px;color:#66666=
+6;" align=3D"left">No cover letter was submitted with this application.</td=
+>=20
+                         </tr>=20
+                        </tbody>=20
+                       </table></td>=20
+                     </tr>=20
+                    </tbody>=20
+                   </table></td>=20
+                 </tr>=20
+                 <tr>=20
+                  <td class=3D"inner-padding" style=3D"padding:30px 20px">=
+=20
+                   <table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0=
+" border=3D"0">=20
+                    <tbody>=20
+                     <tr>=20
+                      <td>=20
+                       <table width=3D"100%" cellpadding=3D"0" cellspacing=
+=3D"0" border=3D"0" align=3D"left">=20
+                        <tbody>=20
+                         <tr>=20
+                          <td class=3D"stack gmail-mobile-fix" style=3D"wid=
+th:50%;">=20
+                           <table width=3D"80%" class=3D"full-width " borde=
+r=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"margin: auto; ">=20
+                            <tbody>=20
+                             <tr>=20
+                              <td>=20
+                               <div style=3D"margin-bottom: 10px">=20
+                                <a href=3D"mailto:bantisingh742_aa5@indeede=
+mail.com?subject=3DApplication%20for%20Delivery%20Person%20with%20Success%2=
+0Associates&amp;amp;body=3DHi%20Banti%20Singh%20%2C" target=3D"_blank" styl=
+e=3D"background:#2E5AD7;background:linear-gradient(#5698FF, #2E5AD7);backgr=
+ound:-moz-linear-gradient(#5698FF, #2E5AD7);background:-webkit-linear-gradi=
+ent(#5698FF, #2E5AD7);border:1px solid #1642BB;color:#FFFFFF;border-radius:=
+5px;display:inline-block;font-family:'Helvetica Neue', Roboto, Arial, sans-=
+serif;font-size:16px;font-weight:bold;text-align:center;text-decoration:non=
+e;width:100%;-webkit-text-size-adjust:none;mso-hide:all;line-height: 42px;"=
+>Reply now</a>=20
+                               </div></td>=20
+                             </tr>=20
+                            </tbody>=20
+                           </table>=20
+                           <div style=3D"width:80%;margin:auto;font-family:=
+'Helvetica Neue', Helvetica, Roboto, Arial, sans-serif;font-weight:400;font=
+-size:14px;">=20
+                            <a href=3D"https://employers.indeed.com/l/c?ref=
+Uid=3D1d3npujh23nom800&amp;token=3Dcandidates%2Fview%3Fid%3D031a02b227ac&am=
+p;ctx=3Demail-application&amp;lid=3Dmanage-on-indeed" target=3D"_blank" cla=
+ss=3D"button_text_height" style=3D"display: inline-block">View Candidate</a=
+>=20
+                            <span style=3D"color:#666666"> - </span>=20
+                            <a href=3D"https://employers.indeed.com/l/c/can=
+didates/sentiment?refUid=3D1d3npujh23nom800&amp;id=3DAAAAAae0rMuP10RU1yVRkl=
+slORM5OpRavd5SYFGgdGjatNR7T5P3r3wcoK3obnpUH4S4bpjr4zhwJsVBLhdzy65Uwd5%2B1rB=
+qpYxFP3l7OqNfem0Q56V%2FZI768p0%2BkfzcULa5xmMvx5ydH56vy7S%2B4Xh2BTk9nAycWuCp=
+m6Vno9G9sWk1Nw%3D%3D&amp;token=3Dhttps%3A%2F%2Femployers.indeed.com%2Fl%2Fc=
+%2Fcandidates%2Fsentiment%3FrefUid%3D1d3npujh23nom800%26id%3DAAAAAae0rMuP10=
+RU1yVRklslORM5OpRavd5SYFGgdGjatNR7T5P3r3wcoK3obnpUH4S4bpjr4zhwJsVBLhdzy65Uw=
+d5%252B1rBqpYxFP3l7OqNfem0Q56V%252FZI768p0%252BkfzcULa5xmMvx5ydH56vy7S%252B=
+4Xh2BTk9nAycWuCpm6Vno9G9sWk1Nw%253D%253D%26token%3Dhttps%253A%252F%252Fempl=
+oyers.indeed.com%252Fl%252Fc%252Fcandidates%252Fsentiment%253FrefUid%253D1d=
+3npujh23nom800%2526id%253DAAAAAa5ErCfhQ4s%25252By24ey7RHDNj07kEObrW0S2B5hBa=
+AvjWl05TecCj60yU2y1ntlS5moXNVjhmKnLG5VEBXvpWWwLqEQG1xtDKatVcdVpZm5qZ%25252B=
+OjXTRyd6jx6XhEkkzUAvZPEF0DOlIZoGw8DaMRNaVjTq%25252BiI5KVBl2F2i1bXkIQ%25253D=
+%25253D%2526token%253Dhttps%25253A%25252F%25252Femployers.indeed.com%25252F=
+l%25252Fc%25252Fcandidates%25252Fsentiment%25253FrefUid%25253D1d3npujh23nom=
+800%252526id%25253DAAAAAaAj%2525252BUZJuf%2525252BPg%2525252FpVVZFLb9Pf25%2=
+525252FbFY1zxS%2525252BsNczWeJMr3E7A8i0hZnAMJy0qtynLfQnLkn3iSkWVXEMe7DgDUv0=
+gp5xVEwKxyav00d8L9SgxcUxx8dFL8%2525252FMUg74HyfQnUISnlwpR%2525252FakIxfmkVH=
+S%2525252FsnDHH4GDMa1QaWsXIW7RXHLsMQ%2525253D%2525253D" target=3D"_blank" c=
+lass=3D"button_text_height" style=3D"display: inline-block">Reject candidat=
+e</a>=20
+                           </div></td>=20
+                          <td class=3D"stack subtitle pt-16" style=3D"width=
+:50%; padding-left:20px;padding-top:5px;vertical-align:baseline;font-family=
+:'Helvetica Neue', Helvetica, Roboto, Arial, sans-serif;font-weight:400;fon=
+t-size:14px;line-height:18px;color:#000000" valign=3D"middle">=20
+                           <table>=20
+                            <tbody>=20
+                             <tr>=20
+                              <td style=3D"vertical-align: top;width: 20px"=
+><img height=3D"20" width=3D"20" src=3D"https://d3l2aiuysuvlk2.cloudfront.n=
+et/draw/s/b8cdbd6/messages-icon.png" border=3D"0" style=3D"vertical-align:b=
+ottom;outline:none; text-decoration:none; -ms-interpolation-mode:bicubic; m=
+ax-width:100%; height:auto; border-style:none"></td>=20
+                              <td style=3D"text-align: initial">You can als=
+o respond to this candidate by replying directly to this email.</td>=20
+                             </tr>=20
+                            </tbody>=20
+                           </table></td>=20
+                         </tr>=20
+                        </tbody>=20
+                       </table></td>=20
+                     </tr>=20
+                    </tbody>=20
+                   </table></td>=20
+                 </tr>=20
+                </tbody>=20
+               </table></td>=20
+             </tr>=20
+            </tbody>=20
+           </table></td>=20
+         </tr>=20
+         <tr>=20
+          <td align=3D"center" style=3D"padding:0 0 20px">=20
+           <table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=
+=3D"0">=20
+            <tbody>=20
+             <tr>=20
+              <td class=3D"content" align=3D"center" style=3D"border:1px so=
+lid #DDDDDD;box-sizing:border-box;">=20
+               <table bgcolor=3D"#FFFFFF" width=3D"100%" cellpadding=3D"0" =
+cellspacing=3D"0" border=3D"0">=20
+                <tbody>=20
+                 <tr>=20
+                  <td class=3D"center inner-padding" style=3D"padding: 30px=
+">=20
+                   <table>=20
+                    <tbody>=20
+                     <tr>=20
+                      <td class=3D"section-title" style=3D"font-family:'Hel=
+vetica Neue', Helvetica, Roboto, Arial, sans-serif;font-weight:bold;font-si=
+ze:16px;line-height:22px;color:#000000">Reach more quality candidates</td>=
+=20
+                     </tr>=20
+                     <tr>=20
+                      <td class=3D"lh-18" style=3D"font-family:'Helvetica N=
+eue', Helvetica, Roboto, Arial, sans-serif;font-size:14px;color:#000000;pad=
+ding-top: 16px;line-height:18px;">Sponsored jobs get up to 5X more clicks t=
+han free job posts.*</td>=20
+                     </tr>=20
+                     <tr>=20
+                      <td style=3D"padding-top: 16px">=20
+                       <div class=3D"full-width" style=3D"width: 40%">=20
+                        <!--[if mso]><v:roundrect xmlns:v=3D"urn:schemas-mi=
+crosoft-com:vml" xmlns:w=3D"urn:schemas-microsoft-com:office:word" href=3D"=
+https://employers.indeed.com/p#sponsor?id=3Dd7187de7e436&linksource=3Dapply=
+_email" style=3D"height:44px;v-text-anchor:middle;width:200px;" arcsize=3D"=
+0%" strokecolor=3D"#1642BB" fillcolor=3D"#2E5AD7"><w:anchorlock/><center cl=
+ass=3D"button_text_height" style=3D"color:#ffffff;font-family:'Helvetica Ne=
+ue', Roboto, Arial, sans-serif;font-size:16px;line-height: 42px;">Sponsor t=
+his job</center></v:roundrect><![endif]-->=20
+                        <a href=3D"https://employers.indeed.com/p#sponsor?i=
+d=3Dd7187de7e436&amp;linksource=3Dapply_email" target=3D"_blank" class=3D"b=
+utton_text_height" style=3D"background:#2E5AD7;background:linear-gradient(#=
+5698FF, #2E5AD7);background:-moz-linear-gradient(#5698FF, #2E5AD7);backgrou=
+nd:-webkit-linear-gradient(#5698FF, #2E5AD7);border-radius:5px;border:1px s=
+olid #1642BB;color:#ffffff;display:inline-block;font-family:'Helvetica Neue=
+', Roboto, Arial, sans-serif;font-size:16px;text-align:center;text-decorati=
+on:none;width:100%;-webkit-text-size-adjust:none;mso-hide:all;line-height: =
+42px;">Sponsor this job</a>=20
+                       </div></td>=20
+                     </tr>=20
+                     <tr>=20
+                      <td style=3D"font-family:'Helvetica Neue', Helvetica,=
+ Roboto, Arial, sans-serif;color:#666666;font-size:12px;line-height:16px;pa=
+dding-top: 16px;">*Indeed data (worldwide)</td>=20
+                     </tr>=20
+                    </tbody>=20
+                   </table></td>=20
+                 </tr>=20
+                </tbody>=20
+               </table></td>=20
+             </tr>=20
+            </tbody>=20
+           </table></td>=20
+         </tr>=20
+        </tbody>=20
+       </table>=20
+       <!-- FOOTER -->=20
+       <table class=3D"frame" style=3D"max-width:600px;" width=3D"100%" cel=
+lpadding=3D"0" cellspacing=3D"0" border=3D"0">=20
+        <tbody>=20
+         <tr>=20
+          <td class=3D"footer-text" style=3D"font-family:'Helvetica Neue', =
+Helvetica, Roboto, Arial, sans-serif;font-weight:400;font-size:12px;line-he=
+ight:18px;color:#494949;padding:30px 20px" align=3D"center">=E2=93=92 2019 =
+<span class=3D"address">Indeed India Operations (Pte.) Ltd., Ground Floor, =
+Block C, Divyasree Omega, Hitech City Road, Kondapur, Hyderabad TG 500084 I=
+ndia</span></td>=20
+         </tr>=20
+         <tr>=20
+          <td style=3D"border-top:1px solid #DDDDDD;">&nbsp;</td>=20
+         </tr>=20
+         <tr>=20
+          <td class=3D"footer-text" style=3D"font-family:'Helvetica Neue', =
+Helvetica, Roboto, Arial, sans-serif;font-weight:400;font-size:12px;line-he=
+ight:18px;color:#494949;padding:0 20px 40px 0" align=3D"center"><a style=3D=
+"color:#2164F3;" href=3D"http://www.indeed.com/legal?isid=3Dapplication-ema=
+il&amp;hl=3Den&amp;co=3DIN#privacy">Privacy Policy</a>&nbsp;&nbsp;|&nbsp;&n=
+bsp;<a style=3D"color:#2164F3;" href=3D"http://www.indeed.com/legal?isid=3D=
+application-email&amp;hl=3Den&amp;co=3DIN#tos">Terms</a>&nbsp;&nbsp;|&nbsp;=
+&nbsp;<a style=3D"color:#2164F3;" href=3D"http://www.indeed.com/legal?isid=
+=3Dapplication-email&amp;hl=3Den&amp;co=3DIN#cookies">Cookie Policy</a></td=
+>=20
+         </tr>=20
+        </tbody>=20
+       </table>=20
+       <!--[if mso></td></tr></table><![endif]--></td>=20
+     </tr>=20
+    </tbody>=20
+   </table>=20
+  </div>=20
+  <div id=3D"report-suspicious-4689464183199934510" style=3D"border-top:sol=
+id 1px #d8d8d8; color:#999; padding-top:7px; margin-top:3px; font-size:12px=
+;" class=3D"dremr-report-suspicious">=20
+   <b>Suspect spam or fraud?</b>=20
+   <a href=3D"https://m.indeedemail.com/report-email?info=3DtQ9kIE_tXhCgflY=
+kQA4nCdSR9Yy146O_M9tanc_fFo-BY-twydcYc4wSu9PfrqMnE3rO31_IslW-EuPdYmkDRWtj5P=
+qs0_8pMGrWrZy-4UGcObIQs_6PBX8myhM0Wbpk4ntj-QcyfCIikXEfhdFK5DTzyNeMzzs36DKhH=
+LTpU-ycJE-pcRg43YvP6AbO" style=3D"color:#999">Report this message to Indeed=
+</a>=20
+   <span>=E2=80=83 =E2=80=83 =E2=80=83</span>=20
+   <a href=3D"https://m.indeedemail.com/report-email-hidden?info=3DtQ9kIE_t=
+XhCgflYkQA4nCdSR9Yy146O_M9tanc_fFo-BY-twydcYc4wSu9PfrqMnE3rO31_IslW-EuPdYmk=
+DRWtj5Pqs0_8pMGrWrZy-4UGcObIQs_6PBX8myhM0Wbpk4ntj-QcyfCIikXEfhdFK5DTzyNeMzz=
+s36DKhHLTpU-ycJE-pcRg43YvP6AbO"></a>=20
+  </div> =20
+  <div id=3D"legal-disclaimer" style=3D"color:gray;margin-top:10px;font-siz=
+e:12px" class=3D"dremr-disclaimer">
+   <div>
+    By replying or using an indeedemail.com email address, you agree that t=
+his email will be processed and analyzed according to the Indeed=20
+    <a href=3D"https://www.indeed.com/legal?hl=3Den&amp;co=3DUS#cookies" st=
+yle=3D"color:#999">Cookie Policy</a>,=20
+    <a href=3D"https://www.indeed.com/legal?hl=3Den&amp;co=3DUS#privacy" st=
+yle=3D"color:#999">Privacy Policy</a>, and=20
+    <a href=3D"https://www.indeed.com/legal?hl=3Den&amp;co=3DUS#tos" style=
+=3D"color:#999">Terms of Service</a>.
+   </div>
+  </div>
+ </body>
+</html>
+------=_Part_148934099_691134159.1550208421524--

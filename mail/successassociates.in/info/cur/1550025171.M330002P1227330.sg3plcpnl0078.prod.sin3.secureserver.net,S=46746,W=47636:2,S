@@ -1,0 +1,890 @@
+Return-Path: <bounces+1664773-2ec9-info=successassociates.in@n.aasaanjobs.com>
+Delivered-To: info@successassociates.in
+Received: from sg3plcpnl0078.prod.sin3.secureserver.net
+	by sg3plcpnl0078.prod.sin3.secureserver.net with LMTP id WA6rEdOBY1xCuhIAUghlVg
+	for <info@successassociates.in>; Tue, 12 Feb 2019 19:32:51 -0700
+Return-path: <bounces+1664773-2ec9-info=successassociates.in@n.aasaanjobs.com>
+Envelope-to: info@successassociates.in
+Delivery-date: Tue, 12 Feb 2019 19:32:51 -0700
+Received: from o198216x97.outbound-mail.sendgrid.net ([198.21.6.97]:64535)
+	by sg3plcpnl0078.prod.sin3.secureserver.net with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.91)
+	(envelope-from <bounces+1664773-2ec9-info=successassociates.in@n.aasaanjobs.com>)
+	id 1gtkLt-005k0f-UC
+	for info@successassociates.in; Tue, 12 Feb 2019 19:32:51 -0700
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; d=aasaanjobs.com; 
+	h=content-transfer-encoding:content-type:from:mime-version:reply-to:to:subject; 
+	s=s1; bh=Eop1aLg+rNlaJhT98a+2Bvt6lvw=; b=ORpyotPdUZhE6MzX6XcWQDL
+	eX98Q8x7DGeCkPVtQ5UhogxHOkpsS/CNNQxHKyBrgTjI+TTtRRyMZASJZ/mQ8QdY
+	uFxTsJ7qFgW3L9UN+Djd2G7Ww49fcw0Qsi3Eg0McZxHAzQzH9mB2CmhKxzhWBdAf
+	/UO2ameFEVSQI9IA9oWg=
+Received: by filter0063p3mdw1.sendgrid.net with SMTP id filter0063p3mdw1-5980-5C6381A2-36
+        2019-02-13 02:32:02.850363281 +0000 UTC m=+778.530413269
+Received: from MTY2NDc3Mw (73.245.200.35.bc.googleusercontent.com [35.200.245.73])
+	by ismtpd0006p1hnd1.sendgrid.net (SG) with HTTP id x75JshboRTaqjVfeoduMvw
+	Wed, 13 Feb 2019 02:32:02.674 +0000 (UTC)
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 13 Feb 2019 02:32:03 +0000 (UTC)
+From: "Arzaan Wadia" <arzaan.wadia@aasaanjobs.com>
+Mime-Version: 1.0
+Reply-to: "Arzaan Wadia" <arzaan.wadia@aasaanjobs.com>
+To: info@successassociates.in
+Message-ID: <x75JshboRTaqjVfeoduMvw@ismtpd0006p1hnd1.sendgrid.net>
+Subject: Interviews | Delivery Man | 13 Feb, 19
+X-SG-EID: O/CNMu1VWAhooWuHTIQmNzsJmwtfThVfoKhGvTa+NbimwzvzCci8kCuA7nvc6d+5Nkouom59KqacZJ
+ WKAssWwPOMmMonG8mZvSlGmGVHXJ9wGyBxJfsC0xbFkNKByNHS4FtOmoBWICquMS3urucb+UsLe6GB
+ HccVhSCjAHuhHCbb0S3JrX6n1xEQctYHY3vbU8Oo+T5MPXTey5mTO18Lg7tdhAeWwrsm1rfEOgzTVu
+ ZJd//w/3GPg1hdi1tH5pIU
+X-SG-ID: gnwugAPEk90ONPODfP9NuzK2URMWkwD8L1I/1i9jgPeI2PIVxRthuPVi6J6etAl58z2iPOHwY8T6H5
+ voEEQBiMPBoE8z7YnCWGnoMhcApLs3vzkhoQ45qMOSE89H5QpIMyaqzKhQqQgZELNLZybpIwHTLpvl
+ rbbTijEw4odNP1U/b8de2yypJ/Rmt+CtS84sDCoaCO6QwChNdewqqCo2LIUr5RTWZTZKsjb4sQJ5GG
+ B3Pnbth9SQcXPkWkZU0iob
+X-Spam-Status: No, score=3.3
+X-Spam-Score: 33
+X-Spam-Bar: +++
+X-Ham-Report: Spam detection software, running on the system "sg3plcpnl0078.prod.sin3.secureserver.net",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  Free Employer - SFIs Today Interviews today Hi Sanoj Kumar
+    [...] 
+ 
+ Content analysis details:   (3.3 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 SURBL_BLOCKED          ADMINISTRATOR NOTICE: The query to SURBL was blocked.
+                             See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: amazonaws.com]
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+                             See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: amazonaws.com]
+  0.5 KAM_NUMSUBJECT         Subject ends in numbers
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  1.1 MIME_HTML_ONLY         BODY: Message only has text/html MIME parts
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  0.0 HTML_FONT_LOW_CONTRAST BODY: HTML font color similar or identical to
+                             background
+  1.1 KAM_REALLYHUGEIMGSRC   RAW: Spam with image tags with ridiculously huge
+                              http urls
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily valid
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from author's
+                             domain
+  0.6 HTML_MIME_NO_HTML_TAG  HTML-only message, but there is no HTML tag
+  0.0 T_REMOTE_IMAGE         Message contains an external image
+X-Spam-Flag: NO
+
+<head>
+    <style type=3D"text/css">
+    @media all and (max-width: 620px) {
+        .hide_on_mobile {
+            display: none !important
+        }
+        .fullwidth {
+            width: 100% !important;
+            height: auto !important;
+            min-width: 100% !important;
+            float: none !important
+        }
+        .padded {
+            box-sizing: border-box;
+            padding-left: 10px !important;
+            padding-right: 10px !important
+        }
+    }
+
+    @media all and (max-width: 620px) {
+        .bodytextlink {
+            font-size: 14px !important
+        }
+        .masthead {
+            padding: 0 0 20px 0 !important
+        }
+        .content {
+            padding: 0 !important
+        }
+        .mobinopad {
+            padding-left: 0 !important;
+            padding-right: 0 !important;
+            padding-top: 20px !important;
+            padding-bottom: 10px !important
+        }
+        .mobipad {
+            padding-left: 20px !important;
+            padding-right: 20px !important
+        }
+        .nopad {
+            padding-left: 0px !important;
+            padding-right: 0px !important
+        }
+        .mobiheight {
+            height: 30px !important
+        }
+        #tagline {
+            text-align: center !important;
+            padding-bottom: 20px !important;
+            padding-top: 20px !important;
+            height: auto !important
+        }
+        #logo {
+            float: none !important;
+            width: 40px !important;
+            margin: auto !important
+        }
+        .hero {
+            width: 280px !important;
+            height: auto !important
+        }
+        .headline {
+            font-size: 20px !important
+        }
+        .headline1 {
+            font-size: 18px !important;
+            padding-top: 20px !important
+        }
+        .heading {
+            padding-left: 20px !important;
+            padding-right: 20px !important
+        }
+        .button {
+            font-size: 16px !important
+        }
+        .boxcontent {
+            font-size: 16px !important;
+            padding-top: 20px !important;
+            padding-bottom: 20px !important
+        }
+        .body {
+            padding-left: 20px !important;
+            padding-right: 20px !important;
+            font-size: 14px !important
+        }
+        .click a {
+            display: block;
+            text-decoration: none;
+        }
+        .bodytext {
+            font-size: 14px !important
+        }
+        .footer {
+            font-size: 12px !important
+        }
+        .half-left {
+            width: 60% !important
+        }
+        .half-right {
+            width: 40% !important
+        }
+        .unsub td {
+            padding-top: 30px !important;
+            font-size: 12px !important
+        }
+        .mobiwrap {
+            display: block
+        }
+        .borders {
+            border-left: none !important;
+            border-right: none !important
+        }
+        .sideimg {
+            display: none
+        }
+        .boxpad {
+            padding-top: 20px !important
+        }
+        .mobiborder {
+            border-top: 1px solid #e7e7e7 !important
+        }
+        .mobitoppad {
+            padding-top: 30px !important
+        }
+        .mobilessbot {
+            padding-bottom: 10px !important
+        }
+        .templates {
+            padding-top: 10px !important
+        }
+        .feature-icon-cell {
+            padding-right: 20px !important
+        }
+        .feature-icon {
+            width: 45px !important
+        }
+        .undo-valign {
+            vertical-align: top !important;
+            padding-top: 10px !important;
+        }
+        .remove-outlook-padding {
+            padding-top: 0 !important
+        }
+    }
+
+    @-ms-viewport {
+        width: auto !important
+    }
+
+    @media screen {
+        .avenir {
+            font-family: 'Avenir Next', 'AvenirNext', Avenir, sans-serif !i=
+mportant
+        }
+        .trans30 {
+            color: rgba(0, 0, 0, 0.31) !important
+        }
+        .trans30white {
+            color: rgba(255, 255, 255, 0.41) !important
+        }
+        .social-icon {
+            vertical-align: middle !important;
+        }
+    }
+    </style>
+    <style type=3D"text/css">
+    @media all and (max-width: 620px) {
+        .pt440 {
+            padding-top: 20px !important
+        }
+        .pb420 {
+            padding-bottom: 20px !important
+        }
+        .content-4 p:last-child {
+            margin-bottom: 0 !important
+        }
+    }
+    </style>
+    <style type=3D"text/css">
+    @media all and (max-width: 620px) {
+        .pt640 {
+            padding-top: 20px !important
+        }
+        .pb640 {
+            padding-bottom: 20px !important
+        }
+    }
+    </style>
+    <style type=3D"text/css">
+    @media all and (max-width: 620px) {
+        .pt1040 {
+            padding-top: 20px !important
+        }
+        .pb1040 {
+            padding-bottom: 20px !important
+        }
+    }
+    </style>
+    <title>Free Employer - SFIs Today</title>
+    <meta name=3D"robots" content=3D"noindex, nofollow">
+</head>
+
+<body marginheight=3D"0" marginwidth=3D"0" topmargin=3D"0" leftmargin=3D"0"=
+ rightmargin=3D"0" bottommargin=3D"0" bgcolor=3D"#ffffff" style=3D"backgrou=
+nd-image: url(); background-color: #ffffff; margin: 0; padding: 0; font-fam=
+ily: Arial,Helvetica,sans-serif; -webkit-text-size-adjust: none;">
+    <style>
+    div.OutlookMessageHeader,
+    table.moz-email-headers-table,
+    blockquote #_t
+    </style>
+    <div style=3D"display:none;font-size:1px;color:#ffffff;line-height:1px;=
+max-height:0px;max-width:0px;opacity:0;overflow:hidden;"></div>
+    <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" =
+bgcolor=3D"#FFFFFF" class=3D"fullwidth" style=3D"border-collapse: collapse">
+        <tbody>
+            <tr>
+                <td>
+                    <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0"=
+ width=3D"800" class=3D"fullwidth" align=3D"center" style=3D"border-collaps=
+e:collapse;margin:auto;min-width:800px">
+                        <tbody>
+                            <tr>
+                                <td style=3D"padding:30px 30px 20px 30px" c=
+lass=3D"masthead">
+                                    <table border=3D"0" cellpadding=3D"0" c=
+ellspacing=3D"0" width=3D"400" class=3D"fullwidth" align=3D"left">
+                                        <tbody>
+                                            <tr>
+                                                <td height=3D"39" valign=3D=
+"middle" style=3D"text-align: left; font-size: 14px; font-weight: 600; colo=
+r: #C1BCBC; letter-spacing: 3px; text-transform: uppercase; font-family: 'A=
+venir Next','AvenirNext',Avenir,sans-serif !important;" id=3D"tagline" clas=
+s=3D"avenir fullwidth">Interviews today</td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                    <a href=3D"https://u1664773.ct.sendgrid=
+.net/wf/click?upn=3Dsjt-2B7uNFuT-2FbZAMb1Lpd8BMA38Ezvc95GIEcQ-2Fa0ZOgAQ4ZlX=
+HU5GsxCJVTLPdUw_VxlAuX98jGTImtRfy8qSMjxfPST58bUH44FH8gukAsqebeueT7cMeQeEArX=
+YtrNuiacdeFfFgIn5SFQs-2FAFoXvuPTxgcm73quK2z-2BS1BNviMP2legbKuvKgwRrOOjTKJqP=
+UaAZkpnNjaoAufiRLfqnWWwsHIjt1J7y70iYiQn-2FemgvHbVUjEQ4USk-2Bw-2BfLs7Ky0tEYo=
+E-2BxyVcjrS7XX2RkwrBWhepKHb-2FekLOkTM-2BQVF2cPCwPEY3YJWGa7TpnQKbUdvSkueaKVn=
+FwFBmfhzzJaNjPGKfsdDRrYeBgZ8JPpaZ2uBa5de2byiRZDZiUhLAvf0gHBUD-2Fgh9xkSeTHGm=
+FavbYdQWBl3ws2F3kF0PcvWl409WIzw2mMVfq13SdVtqAwnarcBHBmrEG9Wd-2F1wKHKQTllKVV=
+gXoZDBbMPE-2BN4jw8TQ07y-2BRB-2FRy9ZKqLF8Wcol-2FF5uhe8qLUCQ4-2FFIow-3D-3D" t=
+arget=3D"_blank" style=3D"color:#e4b83a;text-decoration:none;display:block;=
+float:right;" id=3D"logo">
+<img src=3D"https://s3-ap-southeast-1.amazonaws.com/static.aasaanjobs.com/l=
+ogos/aasaanjobs-logo.png" width=3D"40" alt=3D"AJ" style=3D"-ms-interpolatio=
+n-mode: bicubic; display: block; border: none;" border=3D"0">
+</a>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                    <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0"=
+ width=3D"800" class=3D"fullwidth" align=3D"center" style=3D"border-collaps=
+e: collapse; margin: auto; min-width: 800px">
+                        <tbody>
+                            <tr>
+                                <td>
+                                    <div>
+                                        <table border=3D"0" cellpadding=3D"=
+0" cellspacing=3D"0" width=3D"100%" style=3D"border-collapse: collapse">
+                                            <tbody>
+                                                <tr>
+                                                    <td style=3D"padding: 0=
+ 30px" class=3D"content">
+                                                        <table border=3D"0"=
+ cellpadding=3D"0" cellspacing=3D"0" width=3D"740" class=3D"fullwidth borde=
+rs" style=3D"border-collapse: collapse; border-style: solid; border-width: =
+1px; border-color: #e7e7e7;">
+                                                            <tbody>
+                                                                <tr>
+                                                                    <td sty=
+le=3D"color: #3c4044; font-family: 'Avenir Next','AvenirNext',Avenir,sans-s=
+erif !important; font-size: 14px; font-weight: 400; line-height: 100%; padd=
+ing-top: 20px; padding-left: 80px; text-align: left;" class=3D"avenir body =
+mobipad" align=3D"left">
+                                                                        <p =
+style=3D"margin-bottom: 1em">Hi Sanoj Kumar</p>
+                                                                    </td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td sty=
+le=3D"color: #3c4044; font-family: 'Avenir Next','AvenirNext',Avenir,sans-s=
+erif !important; font-size: 14px; font-weight: 400; line-height: 25px; padd=
+ing-left: 80px; padding-right: 80px; text-align: justify;" class=3D"avenir =
+body mobipad" align=3D"left">
+                                                                        <p =
+style=3D"margin-bottom: 10px;"><strong>1 candidate</strong> is are schedule=
+d for today's interview for the role of <strong>Delivery Man</strong>.</p>
+                                                                        <p =
+style=3D"margin-bottom: 10px;"><strong>Kindly follow up with candidates on =
+the mentioned contact details.</strong></p>
+                                                                    </td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td sty=
+le=3D"padding-bottom: 20px;">
+                                                                        <di=
+v style=3D"border-bottom: solid 1px #E5E5E5; clear: both;"></div>
+                                                                    </td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td sty=
+le=3D"color: #4990e2; font-family: 'Avenir Next','AvenirNext',Avenir,sans-s=
+erif !important; font-size: 14px; font-weight: 500; line-height: 100%; padd=
+ing-left: 80px; text-align: left;" class=3D"avenir body mobipad" align=3D"l=
+eft">
+                                                                        <p =
+style=3D"margin-bottom: 10px;">Interview Details</p>
+                                                                    </td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td sty=
+le=3D"padding-bottom: 20px;">
+                                                                        <ta=
+ble width=3D"580" align=3D"center">
+                                                                           =
+ <tbody>
+                                                                           =
+     <tr>
+                                                                           =
+         <td style=3D"border:1px solid #E5E5E5; font-family: 'Avenir Next',=
+'AvenirNext',Avenir,sans-serif; border-radius: 5px; background-color: #FAFA=
+FA;">
+                                                                           =
+             <div style=3D"clear: both; padding: 2px 10px; font-size: 14px;=
+">
+                                                                           =
+                 <div style=3D"width: 15%; float: left; text-align: left; p=
+adding: 5px 0">
+                                                                           =
+                     <p style=3D"margin: 0; line-height: 16px;">Type:</p>
+                                                                           =
+                 </div>
+                                                                           =
+                 <div style=3D"width: 85%; float: left; text-align: left; p=
+adding: 5px 0;">
+                                                                           =
+                     <p style=3D"margin: 0; line-height: 16px;">Face to Fac=
+e Interview</p>
+                                                                           =
+                 </div>
+                                                                           =
+             </div>
+                                                                           =
+             <div style=3D"clear: both; padding: 2px 10px; font-size: 14px;=
+">
+                                                                           =
+                 <div style=3D"width: 15%; float: left; text-align: left; p=
+adding: 5px 0;">
+                                                                           =
+                     <p style=3D"margin: 0; line-height: 16px;">Slot:</p>
+                                                                           =
+                 </div>
+                                                                           =
+                 <div style=3D"width: 85%; float: left; text-align: left; p=
+adding: 5px 0;">
+                                                                           =
+                     <p style=3D"margin: 0; line-height: 16px;">08:00 AM - =
+05:00 PM (1 Lineups)</p>
+                                                                           =
+                 </div>
+                                                                           =
+             </div>
+                                                                           =
+             <div style=3D"clear: both; padding: 2px 10px; font-size: 14px;=
+">
+                                                                           =
+                 <div style=3D"width: 15%; float: left; text-align: left; p=
+adding: 5px 0;">
+                                                                           =
+                     <p style=3D"margin: 0; line-height: 16px;">Location:</=
+p>
+                                                                           =
+                 </div>
+                                                                           =
+                 <div style=3D"width: 85%; float: left; text-align: left; p=
+adding: 5px 0;">
+                                                                           =
+                     <p style=3D"margin: 0; line-height: 16px;">151, 1st fl=
+oor, 4th Cross, 7th Main, Rpc layout Main road, vijayanagar 2nd stage, Hamp=
+inagar 560104</p>
+                                                                           =
+                 </div>
+                                                                           =
+             </div>
+                                                                           =
+         </td>
+                                                                           =
+     </tr>
+                                                                           =
+     <tr>
+                                                                           =
+         <td style=3D"border:1px solid #E5E5E5; font-family: 'Avenir Next',=
+'AvenirNext',Avenir,sans-serif; border-radius: 5px;">
+                                                                           =
+             <div style=3D"clear: both; font-size: 14px;">
+                                                                           =
+                 <div style=3D"width: 33.33%; float: left; text-align: cent=
+er; font-weight: 600; text-indent: 12px; padding: 5px 0;">Candidate</div>
+                                                                           =
+                 <div style=3D"width: 33.33%; float: left; text-align: cent=
+er; font-weight: 600; padding: 5px 0">Experience</div>
+                                                                           =
+                 <div style=3D"width: 33.33%; float: left; text-align: cent=
+er; font-weight: 600; padding: 5px 0; text-indent: -12px;">Current Salary</=
+div>
+                                                                           =
+                 <div style=3D"border-bottom: solid 1px #E5E5E5; clear: bot=
+h;"></div>
+                                                                           =
+             </div>
+                                                                           =
+             <div style=3D"clear: both; padding: 2px 10px; font-size: 14px;=
+">
+                                                                           =
+                 <div style=3D"width: 33.33%; float: left; text-align: cent=
+er; padding: 5px 0">
+                                                                           =
+                     <p style=3D"margin: 0; line-height: 16px;">Charan j</p>
+                                                                           =
+                     <p style=3D"margin: 0; line-height: 16px; font-size: 1=
+2px; padding-top: 5px;">+91 8095867276</p>
+                                                                           =
+                 </div>
+                                                                           =
+                 <div style=3D"width: 33.33%; float: left; text-align: cent=
+er; padding: 5px 0;">
+                                                                           =
+                     <p style=3D"margin: 0; line-height: 16px;">0 yr 5 mo</=
+p>
+                                                                           =
+                 </div>
+                                                                           =
+                 <div style=3D"width: 33.33%; float: left; text-align: cent=
+er; padding: 5px 0;">
+                                                                           =
+                     <p style=3D"margin: 0; line-height: 16px;">Rs.12000 Mo=
+nthly</p>
+                                                                           =
+                 </div>
+                                                                           =
+             </div>
+                                                                           =
+         </td>
+                                                                           =
+     </tr>
+                                                                           =
+ </tbody>
+                                                                        </t=
+able>
+                                                                    </td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td cla=
+ss=3D"avenir" align=3D"center" style=3D"font-family: 'Avenir Next','AvenirN=
+ext',Avenir,sans-serif !important; padding: 20px 0 20px"><a href=3D"https:/=
+/u1664773.ct.sendgrid.net/wf/click?upn=3Dsjt-2B7uNFuT-2FbZAMb1Lpd8BMA38Ezvc=
+95GIEcQ-2Fa0ZOi2-2BpKQkQnagTRVhf0tfckYPKt1l7bKog1wFx31VCIfdxX8EtoaQ0Be3qLyf=
+O8XNnybdyNWM9n-2BA59d-2FvuAV8xURBf-2Buwfw3R-2F4RWI02nJZztH5J5S5OCnGDxYAgi-2=
+FbeQNTSiZA9y0yn5GCNu7FTb9uZu7V-2FmxOhem3Z6d-2BDBos2GrrrNjVmaV234FlX2pZOlQd7=
+-2BbHZKeFEJyNfj177LUQAKftXLCTYPudft27xXqHujudGsuZsijMkix1ZaM19Tv6ibIbePJOL5=
+V2bLSnMk8uyU8Nmeb-2FNuE5LsIrc0Cxoab-2B5FFuJWFgGKCoHueI8jCUiEPE14iFfLGsb-2FI=
+9Y-2B3Sk7VybYUXOxN6BadXNNwPWQeVzMPj2ZXCaDqnhlAtDAuw69ygPW5JANeYz1Ef-2B52b_V=
+xlAuX98jGTImtRfy8qSMjxfPST58bUH44FH8gukAsqebeueT7cMeQeEArXYtrNuiacdeFfFgIn5=
+SFQs-2FAFoXvuPTxgcm73quK2z-2BS1BNviMP2legbKuvKgwRrOOjTKJqPUaAZkpnNjaoAufiRL=
+fqnWWwsHIjt1J7y70iYiQn-2FemgvHbVUjEQ4USk-2Bw-2BfLs7Ky0tEYoE-2BxyVcjrS7XX2Rk=
+wrBWhepKHb-2FekLOkTM-2BQWfx5ONINLVMa91hnhH2Nt3dNp0BXC62YZExs0irBbN-2B5zW-2B=
+6t5iULsq2rKdElMqLxk-2FYOHpJmCURK1Jj08kyjSkEaDsMYGogXmNRc57aidhdBpNZ47rhIqVa=
+18NbAqTaC1AMRAxuPKyTqWVEol4J23F-2FK738g2u3xn3U3ASpAhAh6ifgaBAIVG3Xf0Aa0oiCx=
+jxOijDXRYHAz3j7qg4ZLJzFl0qYAj4hwTVPKYFRKk-2Bw-3D-3D" style=3D"border: 2px s=
+olid #4990e2; border-radius: 3px; color: #4990e2; display: inline-block; fo=
+nt-family: 'Avenir Next','AvenirNext',Avenir,sans-serif !important; font-si=
+ze: 18px; font-weight: 600; margin: 0; padding: 5px 40px; text-decoration: =
+none" class=3D"avenir button" target=3D"_blank">View Line Up=20
+                                                                        <p =
+style=3D"font-size: 10px; font-weight: 400; margin: 0;">
+                                                                        (Th=
+is is an auto-login link)
+                                                                        </p>
+                                                                    </a></t=
+d>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td sty=
+le=3D"color: #3c4044; font-family: 'Avenir Next','AvenirNext',Avenir,sans-s=
+erif !important; font-size: 14px; font-weight: 400; line-height: 100%; padd=
+ing-left: 80px; text-align: left;" class=3D"avenir body mobipad" align=3D"l=
+eft">
+                                                                        <p =
+style=3D"margin-bottom: 10px;">Don't wish to receive any more applications =
+on this job? Click to <a href=3D"https://u1664773.ct.sendgrid.net/wf/click?=
+upn=3Dsjt-2B7uNFuT-2FbZAMb1Lpd8BMA38Ezvc95GIEcQ-2Fa0ZOi2-2BpKQkQnagTRVhf0tf=
+ckYSPaZCRyj-2Bi-2FOE3yCNlVrgQN5GkCIxZR7gVUTUgl-2FdAWyr2MrM-2BwThJfvK1g2zfs7=
+rwUzZ9w5ROPwrJClpknR5i2-2FU9-2BECgwTi-2BU-2B652QaU0o5SD-2BVZeQyjMC-2BlEFB00=
+VjTE-2Fgt8NT1qV1I6jTvU010HQWqJIKjVD4ReGBcN3VoLZSzHwpHatQVcFEANRMFbI5mpMOOQM=
+Ld-2FO10ycOAOy1dAvpQk6BQHxlnSfduxn7AWVRRRAgBJVtWtUd0CWAEjm1HSJBAVM9qTR5eGn-=
+2BGFq3j4P8tmI8lvAqAcmRV9kY3s-3D_VxlAuX98jGTImtRfy8qSMjxfPST58bUH44FH8gukAsq=
+ebeueT7cMeQeEArXYtrNuiacdeFfFgIn5SFQs-2FAFoXvuPTxgcm73quK2z-2BS1BNviMP2legb=
+KuvKgwRrOOjTKJqPUaAZkpnNjaoAufiRLfqnWWwsHIjt1J7y70iYiQn-2FemgvHbVUjEQ4USk-2=
+Bw-2BfLs7Ky0tEYoE-2BxyVcjrS7XX2RkwrBWhepKHb-2FekLOkTM-2BQXlK-2FZtVm2pOWENkS=
+BWpU3oYwWZqFGg3oT-2FzR7ipfsZ0cqGyS9VQfVrdNDxJZsfTFzYq7Kr1g9z8Th-2BG6NqpY0iA=
+tF3OzGmy-2BD4NwzxY61JuHp8LAROFjmVWo-2B-2B-2FnxUg4veLxWDJFwRgHuql20jDRQPauXH=
+IfrlmwYZWpQ-2Fs4BzJHNEPVl31RsUAG3LPVkS2AtZOK5bNUSX0Sr-2B2Co7TXsFCkAynzSZMNt=
+voBk0LKJckw-3D-3D" style=3D"text-decoration: none; color:#4990e2;">Pause/Cl=
+ose</a> the job.</p>
+                                                                    </td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td sty=
+le=3D"border:1px solid #E5E5E5; font-family: 'Avenir Next','AvenirNext',Ave=
+nir,sans-serif; border-radius: 5px; background-color: #FAFAFA; padding: 5px=
+ 80px; font-size: 14px;">
+                                                                        <p>=
+Tired of following up with candidates? We can help you. <a href=3D"https://=
+u1664773.ct.sendgrid.net/wf/click?upn=3Dsjt-2B7uNFuT-2FbZAMb1Lpd8BMA38Ezvc9=
+5GIEcQ-2Fa0ZOjo-2Fzu9plXm0MQOISlveC0FbPy-2B0VXJuxFL5iwP-2Bzr5Iw-3D-3D_VxlAu=
+X98jGTImtRfy8qSMjxfPST58bUH44FH8gukAsqebeueT7cMeQeEArXYtrNuiacdeFfFgIn5SFQs=
+-2FAFoXvuPTxgcm73quK2z-2BS1BNviMP2legbKuvKgwRrOOjTKJqPUaAZkpnNjaoAufiRLfqnW=
+WwsHIjt1J7y70iYiQn-2FemgvHbVUjEQ4USk-2Bw-2BfLs7Ky0tEYoE-2BxyVcjrS7XX2RkwrBW=
+hepKHb-2FekLOkTM-2BQXzjRzR-2Fgplnw-2BYitXnUaEZxlHTY-2BA7l1r8fGWSU7XEkT8gKbY=
+I6zCvQLSXZKTHCPey1Yk7dAC-2FUVRVTFVOw2YVwOyyXorOZB-2Fm3n-2F1UtJfE6mNukvGdh6z=
+13pU-2FMhlAfa0NSqS58FPygDbJomKN-2Ffr5SrQYpEP89T-2FbGDcl6omX-2B-2Fvy3UsGPdqE=
+DLbNnQ7kR1LgeiN8MYTe9y4toe-2FTVy-2BsSNMBAKpc4ksR-2BaY4sT6fw-3D-3D" style=3D=
+"text-decoration: none; font-weight: 600; color: #4990e2;">Check our Plans.=
+</a></p>
+                                                                    </td>
+                                                                </tr>
+                                                            </tbody>
+                                                        </table>
+                                                    </td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                    </div>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class=3D"content" style=3D"padding: 0 3=
+0px 30px">
+                                    <table border=3D"0" cellpadding=3D"0" c=
+ellspacing=3D"0" width=3D"740" class=3D"fullwidth borders" style=3D"border-=
+bottom-color: #e7e7e7; border-bottom-style: solid; border-bottom-width: 1px=
+; border-collapse: collapse; border-left-color: #e7e7e7; border-left-style:=
+ solid; border-left-width: 1px; border-right-color: #e7e7e7; border-right-s=
+tyle: solid; border-right-width: 1px; mso-table-lspace: 0pt; mso-table-rspa=
+ce: 0pt">
+                                        <tbody>
+                                            <tr>
+                                                <td style=3D"padding: 30px;=
+ padding-top: 20px;">
+                                                    <table border=3D"0" cel=
+lpadding=3D"0" cellspacing=3D"0" width=3D"490" align=3D"left" class=3D"half=
+-left" style=3D"border-collapse: collapse; mso-table-lspace: 0pt; mso-table=
+-rspace: 0pt">
+                                                        <tbody>
+                                                            <tr>
+                                                                <td style=
+=3D"color: #37404A; font-family: 'Avenir Next','AvenirNext',Avenir,sans-ser=
+if !important; font-size: 14px; font-weight: 600; line-height: 167%; paddin=
+g-bottom: 10px" class=3D"avenir footer">Regards</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td valign=
+=3D"top" style=3D"padding-top: 5px; width: 80px;">
+                                                                    <img sr=
+c=3D"https://static.aasaanjobs.com/media/photo/2017-1-9/aca48668ada0627/arz=
+aan-2.jpg" alt=3D"AJ" style=3D"width: 64px; height: 64px; border-radius: 5p=
+x;background-color: #d8d8d8; border: solid 1px #979797;">
+                                                                </td>
+                                                                <td valign=
+=3D"top" style=3D"margin-left: -5px;">
+                                                                    <table =
+border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"fullwidth" style=
+=3D"border-collapse: collapse">
+                                                                        <tb=
+ody>
+                                                                           =
+ <tr>
+                                                                           =
+     <td style=3D"font-weight: 400; font-size: 14px; line-height: 167%; pad=
+ding-bottom: 5px; text-align: left; font-family: 'Avenir Next','AvenirNext'=
+,Avenir,sans-serif;" class=3D"avenir footer">
+                                                                           =
+         Arzaan Wadia
+                                                                           =
+     </td>
+                                                                           =
+ </tr>
+                                                                           =
+ <tr>
+                                                                           =
+     <td style=3D"font-weight: 400; font-size: 14px; line-height: 167%; pad=
+ding-bottom: 5px; text-align: left; font-family: 'Avenir Next','AvenirNext'=
+,Avenir,sans-serif;" class=3D"avenir footer">
+                                                                           =
+         Recruitment Consultant
+                                                                           =
+     </td>
+                                                                           =
+ </tr>
+                                                                           =
+ <tr>
+                                                                           =
+     <td style=3D"font-weight: 400; font-size: 14px; line-height: 167%; pad=
+ding-bottom: 5px; text-align: left; font-family: 'Avenir Next','AvenirNext'=
+,Avenir,sans-serif;" class=3D"avenir footer">
+                                                                           =
+         +91 7045921988 | <a href=3D"mailto:arzaan.wadia@aasaanjobs.com" st=
+yle=3D"color: #4990e2;">arzaan.wadia@aasaanjobs.com</a>
+                                                                           =
+     </td>
+                                                                           =
+ </tr>
+                                                                        </t=
+body>
+                                                                    </table>
+                                                                </td>
+                                                            </tr>
+                                                        </tbody>
+                                                    </table>
+                                                    <table border=3D"0" cel=
+lpadding=3D"0" cellspacing=3D"0" width=3D"150" align=3D"left" class=3D"half=
+-right" style=3D"border-collapse: collapse; mso-table-lspace: 0pt; mso-tabl=
+e-rspace: 0pt">
+                                                        <tbody>
+                                                            <tr>
+                                                                <td style=
+=3D"color: #37404A; font-family: 'Avenir Next','AvenirNext',Avenir,sans-ser=
+if !important; font-size: 14px; font-weight: 600; line-height: 167%; paddin=
+g-bottom: 10px" class=3D"avenir footer">Connect With Us</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td valign=
+=3D"top">
+                                                                    <table =
+border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"185" class=3D"ful=
+lwidth" style=3D"border-collapse: collapse">
+                                                                        <tb=
+ody>
+                                                                           =
+ <tr>
+                                                                           =
+     <td width=3D"22" style=3D"padding-bottom: 5px">
+                                                                           =
+         <a href=3D"https://u1664773.ct.sendgrid.net/wf/click?upn=3Dsjt-2B7=
+uNFuT-2FbZAMb1Lpd8Lz0ALlQLhQIG72udYKu9zPOBhgczJ84-2BEJgBQ1-2BAm8C_VxlAuX98j=
+GTImtRfy8qSMjxfPST58bUH44FH8gukAsqebeueT7cMeQeEArXYtrNuiacdeFfFgIn5SFQs-2FA=
+FoXvuPTxgcm73quK2z-2BS1BNviMP2legbKuvKgwRrOOjTKJqPUaAZkpnNjaoAufiRLfqnWWwsH=
+Ijt1J7y70iYiQn-2FemgvHbVUjEQ4USk-2Bw-2BfLs7Ky0tEYoE-2BxyVcjrS7XX2RkwrBWhepK=
+Hb-2FekLOkTM-2BQVCKAa00L1FB1YPfH2fd9gDgsBVppgedv7cdqXbZcJq-2BI50b2C93NQr-2B=
+Yd28uBq4hLmm-2BGXNqDcAWOCba62Nq1IdwT-2BsYRm8PyqD9zNPn-2B-2F4rIrC9OEEj3rM0zU=
+OvIhvKLouREQtV8bvD5jKW-2FBhFc5HSy7ZeRtdqEY8fWZFu7k03gd0XOIO60p5rpYW2-2B04B6=
+J0bQC4ramqP-2BTNvqTGRMdUDH2P8s4agCJBa2-2FyR9QRw-3D-3D" style=3D"color: #e4b=
+83a; text-decoration: none" target=3D"_blank"><img src=3D"https://s3-ap-sou=
+theast-1.amazonaws.com/static.aasaanjobs.com/logos/twitter-logo.png" width=
+=3D"14" alt=3D"Twitter icon" style=3D"border: none; display: block"></a>
+                                                                           =
+     </td>
+                                                                           =
+     <td width=3D"163" style=3D"font-family: 'Avenir Next','AvenirNext',Ave=
+nir,sans-serif !important; font-size: 14px; font-weight: 400; line-height: =
+167%; padding-bottom: 5px" class=3D"avenir footer"><a href=3D"https://u1664=
+773.ct.sendgrid.net/wf/click?upn=3Dsjt-2B7uNFuT-2FbZAMb1Lpd8Lz0ALlQLhQIG72u=
+dYKu9zPOBhgczJ84-2BEJgBQ1-2BAm8C_VxlAuX98jGTImtRfy8qSMjxfPST58bUH44FH8gukAs=
+qebeueT7cMeQeEArXYtrNuiacdeFfFgIn5SFQs-2FAFoXvuPTxgcm73quK2z-2BS1BNviMP2leg=
+bKuvKgwRrOOjTKJqPUaAZkpnNjaoAufiRLfqnWWwsHIjt1J7y70iYiQn-2FemgvHbVUjEQ4USk-=
+2Bw-2BfLs7Ky0tEYoE-2BxyVcjrS7XX2RkwrBWhepKHb-2FekLOkTM-2BQVpTdvChXxoj9WYtPt=
+rnJYGOu25jqYHoACU2MBT-2BZ1Fg2my8LvEoPGNns6ljQLthjGBsHpFZxJ3dbpVrOEc0yGtH5C4=
+ZpCq-2BUGmcHFQ9uG3lqmVbZMTNrp2ixaTZaUBjV5IckQwbNmza7AATamVJqTdnz3qVsdB3F2U-=
+2FWWWr6f-2B-2B43tsSAqNrAjIoKADRoRIJCcs2HagJ7g7BCLF17zuYjmkp62akf0svotUiF1hG=
+fHcw-3D-3D" style=3D"color: #55ACEE; text-decoration: none" target=3D"_blan=
+k">Twitter</a></td>
+                                                                           =
+ </tr>
+                                                                           =
+ <tr>
+                                                                           =
+     <td width=3D"22" style=3D"padding-bottom: 6px; padding-left: 2px">
+                                                                           =
+         <a href=3D"https://u1664773.ct.sendgrid.net/wf/click?upn=3Dsjt-2B7=
+uNFuT-2FbZAMb1Lpd8Gf5pTqQv2CONbCvb2LmR0w-2Fhqyc9BsWa-2BKtzHPnize7_VxlAuX98j=
+GTImtRfy8qSMjxfPST58bUH44FH8gukAsqebeueT7cMeQeEArXYtrNuiacdeFfFgIn5SFQs-2FA=
+FoXvuPTxgcm73quK2z-2BS1BNviMP2legbKuvKgwRrOOjTKJqPUaAZkpnNjaoAufiRLfqnWWwsH=
+Ijt1J7y70iYiQn-2FemgvHbVUjEQ4USk-2Bw-2BfLs7Ky0tEYoE-2BxyVcjrS7XX2RkwrBWhepK=
+Hb-2FekLOkTM-2BQWahDqx7zk6QcAT0OWvTibQo-2F2e1p96eMs0fDIay1cZXkHLGHRjjF2EqsN=
+sC7CSGNFIbDxCA3h6wL0zWTPLjDXleDblZnRDKV-2BrZb0JX5ZEDiwkFCXwXmQc5Pwfv3TMbTAT=
+JjSLjaGuHtpCOYTEzFnhtEPuq0PshcMLeDeq9N4wZlMiQiXFR-2BMxXg4ngPUond5S7uPOFv3ez=
+eB7ANLq-2FXx27JXMFya14V7g-2FuXjfogTzw-3D-3D" style=3D"color: #e4b83a; text-=
+decoration: none" target=3D"_blank"><img src=3D"https://s3-ap-southeast-1.a=
+mazonaws.com/static.aasaanjobs.com/logos/facebook-logo.png" width=3D"8" alt=
+=3D"Facebook icon" style=3D"border: none; display: block"></a>
+                                                                           =
+     </td>
+                                                                           =
+     <td style=3D"font-family: 'Avenir Next','AvenirNext',Avenir,sans-serif=
+ !important; font-size: 14px; font-weight: 400; line-height: 167%; padding-=
+bottom: 5px" class=3D"avenir footer"><a href=3D"https://u1664773.ct.sendgri=
+d.net/wf/click?upn=3Dsjt-2B7uNFuT-2FbZAMb1Lpd8Gf5pTqQv2CONbCvb2LmR0w-2Fhqyc=
+9BsWa-2BKtzHPnize7_VxlAuX98jGTImtRfy8qSMjxfPST58bUH44FH8gukAsqebeueT7cMeQeE=
+ArXYtrNuiacdeFfFgIn5SFQs-2FAFoXvuPTxgcm73quK2z-2BS1BNviMP2legbKuvKgwRrOOjTK=
+JqPUaAZkpnNjaoAufiRLfqnWWwsHIjt1J7y70iYiQn-2FemgvHbVUjEQ4USk-2Bw-2BfLs7Ky0t=
+EYoE-2BxyVcjrS7XX2RkwrBWhepKHb-2FekLOkTM-2BQWJT4e4l6x-2F-2FlESyEkU2o-2Fxabn=
+Gkzo5-2BnpByQqj5gRkt09FFBM6WqZ0VmFPqZmLREo3ztSqiW52aXcrHyjnOOMN0lwj7XJQRC0R=
+42fwPq63GEzVd45eKixuyf37Of0kZlyfJbYQs-2B0x95FEjUTOj5X-2FjEN3-2FrhkcCnzxqArI=
+R3xO2JLagQckZoCd7GhumEnZbQio7lEODAh1kHAGn2Bjsekp6s3CHQd-2BA30x-2B2mG8o0Lw-3=
+D-3D" style=3D"color: #4B6EA9; text-decoration: none" target=3D"_blank">Fac=
+ebook</a></td>
+                                                                           =
+ </tr>
+                                                                           =
+ <tr>
+                                                                           =
+     <td width=3D"22" style=3D"padding-bottom: 7px">
+                                                                           =
+         <a href=3D"https://u1664773.ct.sendgrid.net/wf/click?upn=3Dsjt-2B7=
+uNFuT-2FbZAMb1Lpd8EfpgmNz7ZY0UcPx3nP7xNjZu-2Frt51RrinMS3eb2ezOjASabLSmW6XXr=
+V5l024wobA-3D-3D_VxlAuX98jGTImtRfy8qSMjxfPST58bUH44FH8gukAsqebeueT7cMeQeEAr=
+XYtrNuiacdeFfFgIn5SFQs-2FAFoXvuPTxgcm73quK2z-2BS1BNviMP2legbKuvKgwRrOOjTKJq=
+PUaAZkpnNjaoAufiRLfqnWWwsHIjt1J7y70iYiQn-2FemgvHbVUjEQ4USk-2Bw-2BfLs7Ky0tEY=
+oE-2BxyVcjrS7XX2RkwrBWhepKHb-2FekLOkTM-2BQXkV-2Bo5bsOfU9rqzim5gmIyhK9VNMqT-=
+2Bh9ZDfvLB71Q-2B3uWJBPVFloL2UhCoEW5sia6GfYils7Ht-2Bzhlkzt6KPt8wz9ub6uFDtwjn=
+10E2Y8Ltcc2xBZ31IH72eWoWRG41GK98Iqb-2FcjDsGxiT402xPKW4i0M4V-2F7Qn-2BLiGY0vp=
+SyMXi9j4pitPq6z3YVpUVumwX6GJzs-2BCXvn3S6WwLBHcwLecOeus4I1PxbjZOEgzghg-3D-3D=
+" style=3D"color: #e4b83a; text-decoration: none" target=3D"_blank"><img sr=
+c=3D"https://s3-ap-southeast-1.amazonaws.com/static.aasaanjobs.com/logos/li=
+nkedin-logo.png" width=3D"12" alt=3D"Linkedin icon" style=3D"border: none; =
+display: block"></a>
+                                                                           =
+     </td>
+                                                                           =
+     <td style=3D"font-family: 'Avenir Next','AvenirNext',Avenir,sans-serif=
+ !important; font-size: 14px; font-weight: 400; line-height: 167%; padding-=
+bottom: 5px" class=3D"avenir footer"><a href=3D"https://u1664773.ct.sendgri=
+d.net/wf/click?upn=3Dsjt-2B7uNFuT-2FbZAMb1Lpd8EfpgmNz7ZY0UcPx3nP7xNjZu-2Frt=
+51RrinMS3eb2ezOjASabLSmW6XXrV5l024wobA-3D-3D_VxlAuX98jGTImtRfy8qSMjxfPST58b=
+UH44FH8gukAsqebeueT7cMeQeEArXYtrNuiacdeFfFgIn5SFQs-2FAFoXvuPTxgcm73quK2z-2B=
+S1BNviMP2legbKuvKgwRrOOjTKJqPUaAZkpnNjaoAufiRLfqnWWwsHIjt1J7y70iYiQn-2Femgv=
+HbVUjEQ4USk-2Bw-2BfLs7Ky0tEYoE-2BxyVcjrS7XX2RkwrBWhepKHb-2FekLOkTM-2BQU3rum=
+bxZlo5Bb0Oz3JCgSpivuwUooFOL2M-2BSiCk0QGpSsqE-2Fn40pWwvbjJVEUrk7OQ-2FL2uwkzw=
+ZHWNflBp5f-2BfYNDDZh-2FFsslW0SPQ-2FUIaGm1EnGXeHXk3WbSTPdyr4Zp89gSnZ0RXt9P-2=
+FV5HG-2Bc9-2BTvHwN-2FgR48CH85rTLpJ6fzsO2-2BoxW-2FPY5HR3rTA-2FmL5PvaSChGGMTJ=
+rI1bvY34GG1lm92M45qNdq97L4HdDGRA-3D-3D" style=3D"color: #4E86AB; text-decor=
+ation: none" target=3D"_blank">Linkedin</a></td>
+                                                                           =
+ </tr>
+                                                                        </t=
+body>
+                                                                    </table>
+                                                                </td>
+                                                            </tr>
+                                                        </tbody>
+                                                    </table>
+                                                </td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td align=3D"center" style=3D"padding: 0px =
+0px 100px">
+                                    <a href=3D"https://u1664773.ct.sendgrid=
+.net/wf/click?upn=3Dsjt-2B7uNFuT-2FbZAMb1Lpd8BMA38Ezvc95GIEcQ-2Fa0ZOil8fUwZ=
+xwzBOsC6QdwvhtT_VxlAuX98jGTImtRfy8qSMjxfPST58bUH44FH8gukAsqebeueT7cMeQeEArX=
+YtrNuiacdeFfFgIn5SFQs-2FAFoXvuPTxgcm73quK2z-2BS1BNviMP2legbKuvKgwRrOOjTKJqP=
+UaAZkpnNjaoAufiRLfqnWWwsHIjt1J7y70iYiQn-2FemgvHbVUjEQ4USk-2Bw-2BfLs7Ky0tEYo=
+E-2BxyVcjrS7XX2RkwrBWhepKHb-2FekLOkTM-2BQUkNHNaw634ya7Bk7Ft8pJbwIFCwJaRUF0e=
+L5pTDLA3fN7UDMGW-2B1DpUqjGTG102ZeVDdyz7m56qRVyDT7Rjk-2F5lqEb31q6YPVJWGPTqpT=
+kC3RHCFZVYEfqlmt2q67aqRnDu3TFKfdn0o3K7rRB5A-2F-2F5yln2Q3Ev7qpCLwCJ07TmSu28J=
+0ottaT9yua-2BQRrYRbCumX2Cg0vTTqfiRz7JVXKhLZC7OeezsG92gUeWjPsjA-3D-3D" style=
+=3D"color: #e4b83a; text-decoration: none" target=3D"_blank"><img src=3D"ht=
+tps://s3-ap-southeast-1.amazonaws.com/static.aasaanjobs.com/logos/aasaanjob=
+s-logo-text.png" width=3D"129" style=3D"border: none; display: block; margi=
+n: auto"></a>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+    <div class=3D"hide_on_mobile" style=3D"color: #FFF; display: none; font=
+: 15px courier; white-space: nowrap">
+        - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+    </div>
+
+<img src=3D"https://u1664773.ct.sendgrid.net/wf/open?upn=3DVxlAuX98jGTImtRf=
+y8qSMjxfPST58bUH44FH8gukAsqebeueT7cMeQeEArXYtrNuiacdeFfFgIn5SFQs-2FAFoXvuPT=
+xgcm73quK2z-2BS1BNviMP2legbKuvKgwRrOOjTKJqPUaAZkpnNjaoAufiRLfqnWWwsHIjt1J7y=
+70iYiQn-2FemgvHbVUjEQ4USk-2Bw-2BfLs7Ky0tEYoE-2BxyVcjrS7XX2RkwrBWhepKHb-2Fek=
+LOkTM-2BQUXprXPoQUVbtMOYG0d8vuYN7UclKQAC869EJ99N-2B-2FuljbgSg88TfTq0ihVdekA=
+pEzTikbno-2BoU0gA0hVSop7WAY3FxM5HIZVk9bfL01l1V6Nu8lsX6j-2FpCDUg-2BKa3PtMnae=
+I4Nz-2BRr-2BKvfYWPjLRIXfhJtLjxElkrbZrjqM6lN6X-2B4w-2FU4gJ-2Fovx405RlDjeEyHl=
+CjeAcm6YwQDWD-2BCAUSekvD2Vigx6QAZDewU7bzLA-3D-3D" alt=3D"" width=3D"1" heig=
+ht=3D"1" border=3D"0" style=3D"height:1px !important;width:1px !important;b=
+order-width:0 !important;margin-top:0 !important;margin-bottom:0 !important=
+;margin-right:0 !important;margin-left:0 !important;padding-top:0 !importan=
+t;padding-bottom:0 !important;padding-right:0 !important;padding-left:0 !im=
+portant;"/>
+</body>

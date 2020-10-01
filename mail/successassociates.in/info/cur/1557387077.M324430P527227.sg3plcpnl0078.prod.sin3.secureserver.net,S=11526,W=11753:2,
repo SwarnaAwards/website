@@ -1,0 +1,227 @@
+Return-Path: <noreply@mudrakwik.com>
+Delivered-To: info@successassociates.in
+Received: from sg3plcpnl0078.prod.sin3.secureserver.net
+	by sg3plcpnl0078.prod.sin3.secureserver.net with LMTP
+	id mDoREkXX01x7CwgAUghlVg
+	(envelope-from <noreply@mudrakwik.com>)
+	for <info@successassociates.in>; Thu, 09 May 2019 00:31:17 -0700
+Return-path: <noreply@mudrakwik.com>
+Envelope-to: info@successassociates.in
+Delivery-date: Thu, 09 May 2019 00:31:17 -0700
+Received: from forward101o.mail.yandex.net ([37.140.190.181]:47005)
+	by sg3plcpnl0078.prod.sin3.secureserver.net with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.91)
+	(envelope-from <noreply@mudrakwik.com>)
+	id 1hOdWG-0039AW-UO
+	for info@successassociates.in; Thu, 09 May 2019 00:31:17 -0700
+Received: from mxback18g.mail.yandex.net (mxback18g.mail.yandex.net [IPv6:2a02:6b8:0:1472:2741:0:8b7:318])
+	by forward101o.mail.yandex.net (Yandex) with ESMTP id 2D25F3C005EC
+	for <info@successassociates.in>; Thu,  9 May 2019 10:30:26 +0300 (MSK)
+Received: from smtp4o.mail.yandex.net (smtp4o.mail.yandex.net [2a02:6b8:0:1a2d::28])
+	by mxback18g.mail.yandex.net (nwsmtp/Yandex) with ESMTP id 4pWFO0GK4z-UQW4dK95;
+	Thu, 09 May 2019 10:30:26 +0300
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=mudrakwik.com; s=mail; t=1557387026;
+	bh=tj3Vd/h4L7BCRgonezFwxhkmULAyxtq4ihGYHc2xKuQ=;
+	h=To:From:Subject:Date:Message-ID;
+	b=Lh9+nyB1SJ0+quH+96nqvfG/lPW5BEnBE9KEiHcrRO2jYaSWlT+oFPLXpQn3+IzOU
+	 AN23wQK/5EGh/eeHHiFO/q9zcl/hbNHhgXYKoTpl3nVPzVV8faXxBKbmpVTzgGpFRr
+	 P3jgIvfUj9IZXXQBhqRUMA4TnX1j/Gimneog7wpo=
+Authentication-Results: mxback18g.mail.yandex.net; dkim=pass header.i=@mudrakwik.com
+Received: by smtp4o.mail.yandex.net (nwsmtp/Yandex) with ESMTPSA id 5RRItdzxzL-UOqCcWOY;
+	Thu, 09 May 2019 10:30:25 +0300
+	(using TLSv1.2 with cipher ECDHE-RSA-AES128-GCM-SHA256 (128/128 bits))
+	(Client certificate not present)
+Content-Type: text/html; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Subject: MudraKwik - Loan Applied
+From: noreply@mudrakwik.com
+To: "['info"@successassociates.in']
+Date: Thu, 09 May 2019 07:30:24 -0000
+Message-ID: 
+ <155738702485.17067.16241204711407485915@ip-172-31-31-229.ap-south-1.compute.internal>
+X-Spam-Status: No, score=1.2
+X-Spam-Score: 12
+X-Spam-Bar: +
+X-Ham-Report: Spam detection software, running on the system "sg3plcpnl0078.prod.sin3.secureserver.net",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  Dear Josh Pallikkel James, We like to let you know that your
+    loan #792610721 application has been successfully processed. Loan Application
+    Number : 792610721 
+ 
+ Content analysis details:   (1.2 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was
+                             blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: anandfin.com]
+  0.0 SURBL_BLOCKED          ADMINISTRATOR NOTICE: The query to SURBL was
+                             blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: anandfin.com]
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  1.1 MIME_HTML_ONLY         BODY: Message only has text/html MIME parts
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+X-Spam-Flag: NO
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+    <head>
+        <meta name=3D"viewport" content=3D"width=3Ddevice-width" />
+        <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DU=
+TF-8" />
+        <style>
+            * { margin: 0; font-family: "Helvetica Neue", Helvetica, Arial,=
+ sans-serif; box-sizing: border-box; font-size: 14px; } img { max-width: 10=
+0%; } body { -webkit-font-smoothing: antialiased; -webkit-text-size-adjust:=
+ none; width: 100% !important; height: 100%; line-height: 1.6em; } table td=
+ { vertical-align: top; } body { background-color: #f6f6f6; } .body-wrap { =
+background-color: #f6f6f6; width: 100%; } .container { display: block !impo=
+rtant; max-width: 600px !important; margin: 0 auto !important; clear: both =
+!important; } .content { max-width: 600px; margin: 0 auto; display: block; =
+padding: 20px; } .main { background-color: #fff; border: 1px solid #e9e9e9;=
+ border-radius: 3px; } .content-wrap { padding: 20px; } .content-block { pa=
+dding: 0 0 20px; } .header { width: 100%; margin-bottom: 20px; } .footer { =
+width: 100%; clear: both; color: #999; padding: 20px; } .footer p, .footer =
+a, .footer td { color: #999; font-size: 12px; } h1, h2, h3 { font-family: "=
+Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; color: #000=
+; margin: 40px 0 0; line-height: 1.2em; font-weight: 400; } h1 { font-size:=
+ 32px; font-weight: 500; } h2 { font-size: 24px; } h3 { font-size: 18px; } =
+h4 { font-size: 14px; font-weight: 600; } p, ul, ol { margin-bottom: 10px; =
+font-weight: normal; } p li, ul li, ol li { margin-left: 5px; list-style-po=
+sition: inside; } a { color: #348eda; text-decoration: underline; } .btn-pr=
+imary { text-decoration: none; color: #FFF; background-color: #348eda; bord=
+er: solid #348eda; border-width: 10px 20px; line-height: 2em; font-weight: =
+bold; text-align: center; cursor: pointer; display: inline-block; border-ra=
+dius: 5px; text-transform: capitalize; } .last { margin-bottom: 0; } .first=
+ { margin-top: 0; } .aligncenter { text-align: center; } .alignright { text=
+-align: right; } .alignleft { text-align: left; } .clear { clear: both; } .=
+alert { font-size: 16px; color: #fff; font-weight: 500; padding: 20px; text=
+-align: center; border-radius: 3px 3px 0 0; } .alert a { color: #fff; text-=
+decoration: none; font-weight: 500; font-size: 16px; } .alert.alert-warning=
+ { background-color: #FF9F00; } .alert.alert-bad { background-color: #D0021=
+B; } .alert.alert-good { background-color: #68B90F; } .invoice { margin: 40=
+px auto; text-align: left; width: 80%; } .order { text-align: left; width: =
+100%; } .invoice td, .order td { padding: 5px 0; } .invoice .invoice-items,=
+ .order .order-items { width: 100%; } <!--.invoice .invoice-items td, .orde=
+r .order-items td {--> <!--border-top: #eee 1px solid;--> <!--}--> .invoice=
+ .invoice-items .total td, .order .order-items .total td { <!--border-top: =
+2px solid #333;--> <!--border-bottom: 2px solid #333;--> font-weight: 700; =
+} @media only screen and (max-width: 640px) { body { padding: 0 !important;=
+ } h1, h2, h3, h4 { font-weight: 800 !important; margin: 20px 0 5px !import=
+ant; } h1 { font-size: 22px !important; } h2 { font-size: 18px !important; =
+} h3 { font-size: 16px !important; } .container { padding: 0 !important; wi=
+dth: 100% !important; } .content { padding: 0 !important; } .content-wrap {=
+ padding: 10px !important; } .invoice { width: 100% !important; } .order { =
+width: 100% !important; } } .greytext{ color:#666; }
+        </style>
+    </head>
+
+    <body itemscope itemtype=3D"http://schema.org/EmailMessage">
+
+        <table class=3D"body-wrap">
+            <tr>
+                <td>
+
+                </td>
+                <td>
+                    <div class=3D"content">
+                        <table class=3D"main" width=3D"100%" cellpadding=3D=
+"0" cellspacing=3D"0" itemprop=3D"action" itemscope itemtype=3D"http://sche=
+ma.org/ConfirmAction">
+                            <tr>
+                                <td class=3D"content-wrap">
+                                    <table width=3D"100%" cellpadding=3D"0"=
+ cellspacing=3D"0">
+
+                                       =20
+                                            <tr>
+                                                <td style=3D"box-shadow: 0p=
+x 0px 10px 0px rgba(0, 0, 0, 0.07);background-color:#fff;">
+                                                    <div style=3D"text-alig=
+n:center;padding:10px; margin-bottom:20px; background-color:#009688">
+                                                        <img src=3D"https:/=
+/anandfin.com//media/logo_for_email/Mudrakwik.png" style=3D"width:15%"/>
+                                                    </div>
+                                                </td>
+                                            </tr>
+                                       =20
+
+                                       =20
+    <tr>
+        <td class=3D"content-block">
+
+            <p xmlns=3D"http://www.w3.org/1999/html"></p>
+            <p>Dear Josh Pallikkel James,</p>
+            <p>We like to let you know that your loan #792610721 applicatio=
+n has been successfully processed.</p>
+            <br/>
+            <p><b>Loan Application Number :</b> 792610721</p>
+            <p><b>Loan Applied Date :</b> May 9, 2019, 1 p.m.</p>
+            <p><b>Loan Amount :</b> 900.00 &#x20B9;</p>
+            <p><b>Loan Repayment Amount :</b> 1000.00 &#x20B9;</p>
+
+            <br>
+            <p></p>
+        </td>
+    </tr>
+
+
+                                       =20
+                                            <tr>
+                                                <td class=3D"content-block"=
+ >
+                                                    <p style=3D"">Thank You=
+</p>
+                                                    <p style=3D"">MudraKwik=
+</p>
+                                                    <br/>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td>
+                                                    <div style=3D"text-alig=
+n:center; background-color:#009688;padding:10px; margin-bottom:20px;">
+                                                        <p class=3D"greytex=
+t m" style=3D"font-size:12px; color:#fff;">&copy; 2018 MudraKwik | Designed=
+ & Developed by <a target=3D"_blank" href=3D"#" style=3D"font-size:12px; co=
+lor:#fff;">MudraKwik</a> </p>
+                                                    </div>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td>
+                                                    <p style=3D"font-family=
+:Arial;font-size:10px;color:#878787;padding:10px;">This email was sent from=
+ a notification-only address that cannot accept incoming email. Please do n=
+ot reply to this message. </p>
+                                                </td>
+                                            </tr>
+                                       =20
+
+                                    </table>
+                                </td>
+                            </tr>
+                        </table>
+                    </div>
+                </td>
+                <td>
+
+                </td>
+            </tr>
+        </table>
+
+    </body>
+</html>

@@ -1,0 +1,806 @@
+Return-Path: <699-SXJ-715.0.192764.0.0.55541.9.179117493@em-sj-77.mktomail.com>
+Delivered-To: info@successassociates.in
+Received: from sg3plcpnl0078.prod.sin3.secureserver.net
+	by sg3plcpnl0078.prod.sin3.secureserver.net with LMTP id yDzBJbM0iVwNiDQAUghlVg
+	for <info@successassociates.in>; Wed, 13 Mar 2019 09:49:55 -0700
+Return-path: <699-SXJ-715.0.192764.0.0.55541.9.179117493@em-sj-77.mktomail.com>
+Envelope-to: info@successassociates.in
+Delivery-date: Wed, 13 Mar 2019 09:49:55 -0700
+Received: from barrosasaurus.mktdns.com ([192.28.146.14]:35555)
+	by sg3plcpnl0078.prod.sin3.secureserver.net with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.91)
+	(envelope-from <699-SXJ-715.0.192764.0.0.55541.9.179117493@em-sj-77.mktomail.com>)
+	id 1h474f-00EVZg-TA
+	for info@successassociates.in; Wed, 13 Mar 2019 09:49:55 -0700
+X-MSFBL: SdbX1rMRm8iyIvAutfTyeHjKu3CxEp46fil8MzYcxI4=|eyJnIjoiYmctc2pkLTI
+	xNSIsInUiOiI2OTktU1hKLTcxNToxMDg3MjQ6MjQ5NjM6OTk1NjU6MDo1NTU0MTo
+	5OjE5Mjc2NDoxNzkxMTc0OTMiLCJyIjoiaW5mb0BzdWNjZXNzYXNzb2NpYXRlcy5
+	pbiIsImIiOiJkdnAtMTkyLTI4LTE0Ni0xNCJ9
+Received: from [10.0.87.249] ([10.0.87.249:35072] helo=sjmas02.marketo.org)
+	by sjmta13.marketo.org (envelope-from <employers-noreply@indeed.com>)
+	(ecelerity 4.2.38.62370 r(:)) with ESMTP
+	id 1A/99-39458-184398C5; Wed, 13 Mar 2019 11:49:05 -0500
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; t=1552495745;
+	s=m1; d=indeed.com; i=@indeed.com;
+	h=Date:From:To:Subject:MIME-Version:Content-Type;
+	bh=VmjxdXszZHW7/7NMlR2nBKYiooyk73Yf2fqZP3FRLKc=;
+	b=K7fO9ox7NdyC3K9lsMDJ2gF2wln8fo26H6dtV8ojbAku9ZVLpxps4U5fDU3GOUD9
+	l6A60j7WxY/rnn/CsiKd6a8QjNuNn7KcIWPOwNevz7sF2FZNTik3wJQccXmqYKWRBPK
+	gM2gaistqfhlPgncAVWaTS0fASus74wUN+2camwk=
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; t=1552495745;
+	s=m1; d=mktdns.com; i=@mktdns.com;
+	h=Date:From:To:Subject:MIME-Version:Content-Type;
+	bh=VmjxdXszZHW7/7NMlR2nBKYiooyk73Yf2fqZP3FRLKc=;
+	b=JBtjbKKjOj6hJAlrGh3GP3bVvzPnO+v3k2FGtUbnA4TnMZOk970q0HjIVCI79vBC
+	igDa/DQHxdrsJDE/QT5N1DZ/rHiMglpHRhev9GRU2T169wQ1EZL3j6/8hXpSgMsVGHv
+	12+010bZYoQhaGkddrg5Evz68JDvBnghxPzdDvsU=
+Date: Wed, 13 Mar 2019 11:49:05 -0500 (CDT)
+From: Indeed for Employers <employers-noreply@indeed.com>
+Reply-To: employers-noreply@indeed.com
+To: info@successassociates.in
+Message-ID: <466499551.-1804252685.1552495745096.JavaMail.root@sjmas02.marketo.org>
+Subject: Check out our Hiring Handbook
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_-1804252687_1444093120.1552495745096"
+X-PVIQ: mkto-699SXJ715-000001-000000-192764
+X-Binding: bg-sjd-215
+X-MarketoID: 699-SXJ-715:108724:24963:99565:0:55541:9:192764:179117493
+X-MKTOID: qcUEhsFcBiTvMa4PdC35pw==
+List-Unsubscribe: <mailto:GVRWOQRVNBAXCYTJGBRXEZRTJVFU62KNMNMTC43JOA3UQMTMNZLHO4T2OFCES4THNZCESPI.192764.55541.9@unsub-sj.mktomail.com>
+X-Mailfrom: 699-SXJ-715.0.192764.0.0.55541.9.179117493@em-sj-77.mktomail.com
+X-MSYS-API: {"options":{"open_tracking":false,"click_tracking":false}}
+X-MktMailDKIM: true
+X-Spam-Status: No, score=-7.3
+X-Spam-Score: -72
+X-Spam-Bar: -------
+X-Ham-Report: Spam detection software, running on the system "sg3plcpnl0078.prod.sin3.secureserver.net",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  Check out our Hiring Handbook Whether it's time to hire or
+    you just want to be ready when it is, Indeed is here to help. Download your
+    free hiring guide Download your free hiring guide <http://content
+ 
+ Content analysis details:   (-7.3 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 SURBL_BLOCKED          ADMINISTRATOR NOTICE: The query to SURBL was blocked.
+                             See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: indeed.com]
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+                             See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: indeed.com]
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+ -0.0 SPF_HELO_PASS          SPF: HELO matches SPF record
+  0.2 HEADER_FROM_DIFFERENT_DOMAINS From and EnvelopeFrom 2nd level mail
+                             domains are different
+ -7.5 USER_IN_DEF_DKIM_WL    From: address is in the default DKIM white-list
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from author's
+                             domain
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily valid
+X-Spam-Flag: NO
+
+------=_Part_-1804252687_1444093120.1552495745096
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Check out our Hiring Handbook
+
+Whether it's time to hire or you just want to be ready when it is, Indeed i=
+s here to help.
+Download your free hiring guide  Download your free hiring guide <http://co=
+ntent.indeed.com/mc001d2075yWLJPDXwi0SJ0>
+
+Our Hiring Handbook is packed with useful how-to tips to help with everythi=
+ng from conducting interviews to planning the first day with your new emplo=
+yee.
+
+Post a job <http://content.indeed.com/a025cJ0LyS0D00eJjX1w7PW>
+
+We're here to help
+
+When you're ready to fill a position, our Customer Success team is ready to=
+ help you post your job <http://content.indeed.com/dW0JPLk1wycJD00X7f520S0>=
+ and boost your hiring results.
+
+Visit Help Center <http://content.indeed.com/O0w0P7yJ02c51SJl0g0WLDX>
+
+1-800-462-5842 <http://content.indeed.com/jy3X0L2JSc07D5P1JW80w00>
+M-F, 8am-8pm ET
+
+Thanks for making us a partner in your company's growth.
+
+Sincerely,
+The Indeed Team
+
+Facebook - <http://content.indeed.com/x0S0050w2mLcJ1X0hW7PDJy>
+Twitter - <http://content.indeed.com/I0LcnSD0J7Pi1W2y0w0XJ05>
+Blog - <http://content.indeed.com/VDXjc05WwL0J200SJ7yPo10>
+
+=C2=A9 2018 Indeed.com
+6433 Champion Grandview Way, Building 1, Austin, TX 78750
+Privacy Policy <http://content.indeed.com/Awck07SX201WLPy00J0p5DJ>=20
+
+Terms <http://content.indeed.com/p0700S5LlJ0ycq1XWJ0PDw2>=20
+
+Help <http://content.indeed.com/qLJS0WcDJm017w52X0Pr00y>=20
+
+Unsubscribe <http://content.indeed.com/E5W0ScPnXsD010yJ2w07J0L>
+
+-
+
+------=_Part_-1804252687_1444093120.1552495745096
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<!doctype html>
+<html xmlns=3D"http://www.w3.org/1999/xhtml" xmlns:a=3D"urn:schemas-microso=
+ft-com:vml" xmlns:o=3D"urn:schemas-microsoft-com:office:office">
+<head>=20
+<!--[if gte mso 9]>
+                        <xml>
+                                <o:OfficeDocumentSettings>
+                        <o:AllowPNG/>
+                        <o:PixelsPerInch>96</o:PixelsPerInch>
+                        </o:OfficeDocumentSettings>
+                </xml>
+        <![endif]-->=20
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8">=
+=20
+<meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D1"=
+>=20
+<meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3Dedge">=20
+<style type=3D"text/css">
+                /* iOS BLUE LINKS */
+                        a[x-apple-data-detectors] {color: inherit !importan=
+t;text-decoration: none !important;font-size: inherit !important;font-famil=
+y: inherit !important;font-weight: inherit !important;line-height: inherit =
+!important;}
+</style>=20
+<style type=3D"text/css">
+                a,body,table,td{-webkit-text-size-adjust:100%;-ms-text-size=
+-adjust:100%;box-sizing:border-box !important;}
+                table,td{mso-table-lspace:0;mso-table-rspace:0;}
+                img{-ms-interpolation-mode:bicubic;border:0;height:auto;lin=
+e-height:100%;outline:0;text-decoration:none}
+                table{border-collapse:collapse!important}
+                body{height:100%!important;margin:0!important;padding:0!imp=
+ortant;width:100%!important}
+</style>=20
+<!-- CUSTOM CSS -->=20
+<style type=3D"text/css">
+                        @media only screen and (max-width:550px) {
+                                u ~ div .full-wrap {
+                    min-width: 100vw;
+                }
+                                .full-wrap .m-contain{
+                                        padding:0 16px !important;
+                                }
+                                .stack {
+                                        display:block !important;
+                                }
+                                .center {
+                                        margin:0 auto !important;
+                                }
+                                .m-padding {
+                                        padding:0 16px !important;
+                                }
+                                .pt-24 {
+                                        padding-top: 24px !important;
+                                }
+                                .pl-16 {
+                                        padding-left:16px !important;
+                                }
+                                .pl-0 {
+                                        padding-left:0 !important;
+                                }
+                                .ph-16 {
+                                        padding-left: 16px !important;
+                                        padding-right: 16px !important;
+                                }
+                                .pb-16 {
+                                        padding-bottom:16px !important;
+                                }
+                                .pb-0 {
+                                        padding-bottom:0 !important;
+                                }
+                                .cta.stack a {
+                                        width:100% !important;
+                                }
+                                .hero-graphic-container img {
+                                        width:128px !important;
+                                }
+                                .help-cta {
+                                        width:136px !important;
+                                }
+                                .phone {
+                                        font-size:14px !important;
+                                }
+                                .full-width{
+                                        width:100% !important;
+                                }
+                        }
+</style>=20
+<title></title>=20
+</head>=20
+<body class=3D"body" id=3D"body" style=3D"margin:0; padding:0; ">
+<!-- PREHEADER -->=20
+<div style=3D"display: none; max-height: 0px; overflow: hidden;">
+Whether it's time to hire or you just want to be ready when it is, Indeed i=
+s here to help.
+</div>=20
+<!-- END PREHEADER -->=20
+<table class=3D"full-wrap" width=3D"100%" cellpadding=3D"0" cellspacing=3D"=
+0" border=3D"0" style=3D"">
+<tbody>
+<tr style=3D"">
+<td align=3D"center" style=3D"">
+<table id=3D"hero-container" bgcolor=3D"#FEF9EF" width=3D"100%" cellpadding=
+=3D"0" cellspacing=3D"0" border=3D"0" style=3D"">
+<tbody>
+<tr style=3D"">
+<td align=3D"center" style=3D"">
+<!--[if (gte mso 9)|(IE)]>
+                                        <table width=3D"550" border=3D"0" c=
+ellspacing=3D"0" cellpadding=3D"0">
+                                                <tr>
+                                                        <td>
+                                <![endif]-->=20
+<table class=3D"content-550" width=3D"100%" style=3D"max-width:550px; " cel=
+lpadding=3D"0" cellspacing=3D"0" border=3D"0">
+<tbody>
+<tr style=3D"">
+<td class=3D"m-contain" style=3D"">
+<table id=3D"logo-container" width=3D"100%" cellpadding=3D"0" cellspacing=
+=3D"0" border=3D"0" style=3D"">
+<tbody>
+<tr style=3D"">
+<td align=3D"left" style=3D"padding:32px 16px 24px 16px; ">
+<div class=3D"mktEditable" id=3D"indeedlogo" style=3D"">
+<a href=3D
+"http://content.indeed.com/vc7D01w30WJJSPYLX02y005" style=3D"text-decoratio=
+n: none; outline: 0;"
+><img src=3D"http://offers.indeed.com/rs/699-SXJ-715/images/employers-logo-=
+janus.png" alt=3D"Indeed for Employers" width=3D"178" style=3D"font-family:=
+ 'Helvetica Neue', Helvetica, Arial, 'Liberation Sans', Roboto, Noto, sans-=
+serif; color: #085ff7; font-size: 20px;"></a>
+</div></td>
+</tr>
+</tbody>
+</table>
+<table id=3D"hero-two-column" width=3D"100%" cellpadding=3D"0" cellspacing=
+=3D"0" border=3D"0" style=3D"">
+<tbody>
+<tr style=3D"">
+<td class=3D"stack center pb-0 ph-16 full-width" width=3D"284" valign=3D"to=
+p" style=3D"padding:0 0 0 16px; ">
+<table class=3D"hero-info-container" width=3D"100%" cellpadding=3D"0" cells=
+pacing=3D"0" border=3D"0" style=3D"">
+<tbody>
+<tr style=3D"">
+<td class=3D"hero-h1 mktEditable hero-h1 mktEditable" align=3D"left" style=
+=3D"font-family:'Helvetica Neue', Helvetica, Arial, 'Liberation Sans', Robo=
+to, Noto, sans-serif; font-weight:bold; letter-spacing:-0.12px; font-size:3=
+0px; line-height:34px; color:#2A2226; " id=3D"mkto_autogen_id_0">Check out =
+our Hiring Handbook</td>
+</tr>
+<tr style=3D"">
+<td class=3D"h3 mktEditable h3 mktEditable" align=3D"left" style=3D"padding=
+-top:24px; font-family:'Helvetica Neue', Helvetica, Arial, 'Liberation Sans=
+', Roboto, Noto, sans-serif; letter-spacing:-0.12px; font-size:20px; line-h=
+eight:26px; color:#2A2226; " id=3D"mkto_autogen_id_1">Whether it's time to =
+hire or you just want to be ready when it is, Indeed is here to help.</td>
+</tr>
+<tr style=3D"">
+<td class=3D"hero-cta cta cta-primary stack mktEditable hero-cta cta cta-pr=
+imary stack mktEditable" align=3D"left" style=3D"padding:24px 0 32px; " id=
+=3D"mkto_autogen_id_2">
+<div>
+<!--[if mso]>
+                                                                           =
+                 <v:roundrect xmlns:v=3D"urn:schemas-microsoft-com:vml" xml=
+ns:w=3D"urn:schemas-microsoft-com:office:word" href=3D"https://www.indeed.c=
+om/hire/c/smb-hiring-guide?ctx=3Demail-relcynurture-hiringhandbook&isid=3De=
+mail-relcynurture-hiringhandbook&ikw=3Dhiringguide&utm_source=3Demployer_em=
+ails&utm_medium=3Demail&utm_campaign=3Drelcynurture-hiringhandbook&utm_pr=
+=3Ddr&utm_cnt=3Dsite&utm_type=3Dlink&utm_loc=3Dmid&utm_co=3DUS" style=3D"he=
+ight:44px;v-text-anchor:middle;width:284px;" arcsize=3D"63%" strokecolor=3D=
+"#085FF7" fillcolor=3D"#085FF7">
+                                                                           =
+                     <w:anchorlock/>
+                                                                           =
+                     <center style=3D"color:#FFFFFF;font-family:'Helvetica =
+Neue', Helvetica, Arial, 'Liberation Sans', Roboto, Noto, sans-serif;font-s=
+ize:14px;font-weight:700;">Download your free hiring guide</center>
+                                                                           =
+                 </v:roundrect>
+                                                                           =
+         <![endif]-->
+<a href=3D
+"http://content.indeed.com/s04wcJL0DX1Z0S5y7P20W0J" style=3D"background-col=
+or: #085ff7; color: #ffffff; display: inline-block; font-family: 'Helvetica=
+ Neue', Helvetica, Arial, 'Liberation Sans', Roboto, Noto, sans-serif; font=
+-size: 14px; font-weight: bold; line-height: 44px; text-align: center; text=
+-decoration: none; width: 284px; -webkit-text-size-adjust: none; mso-hide: =
+all; border-radius: 25px;"
+>Download your free hiring guide</a>
+</div> </td>
+</tr>
+</tbody>
+</table></td>
+<td class=3D"stack center" valign=3D"middle" style=3D"padding:0; ">
+<table class=3D"hero-graphic-container" width=3D"100%" cellpadding=3D"0" ce=
+llspacing=3D"0" border=3D"0" style=3D"">
+<tbody>
+<tr style=3D"">
+<td align=3D"right" class=3D"pb-16 mktEditable pb-16 mktEditable" style=3D"=
+" id=3D"mkto_autogen_id_3"><img class=3D"center" src=3D"http://offers.indee=
+d.com/rs/699-SXJ-715/images/handbook-illustration.png" width=3D"192" alt=3D=
+"" style=3D"display:block;"></td>
+</tr>
+</tbody>
+</table></td>
+</tr>
+</tbody>
+</table></td>
+</tr>
+</tbody>
+</table>
+<!--[if (gte mso 9)|(IE)]>
+                                                        </td>
+                                                </tr>
+                                        </table>
+                                <![endif]--></td>
+</tr>
+</tbody>
+</table>
+<table id=3D"top-lip" bgcolor=3D"#FEF9EF" width=3D"100%" cellpadding=3D"0" =
+cellspacing=3D"0" border=3D"0">=20
+<tbody>
+<tr>=20
+<td class=3D"m-padding" align=3D"center">
+<!--[if (gte mso 9)|(IE)]>
+                                        <table width=3D"550" border=3D"0" c=
+ellspacing=3D"0" cellpadding=3D"0">
+                                                <tr>
+                                                        <td>
+                                <![endif]-->=20
+<table class=3D"content-550" bgcolor=3D"#FFFFFF" width=3D"100%" style=3D"ma=
+x-width:550px;" cellpadding=3D"0" cellspacing=3D"0" border=3D"0">=20
+<tbody>
+<tr>=20
+<td class=3D"pl-16" align=3D"left" style=3D"padding-left:16px;">=20
+<table class=3D"color-block-top" width=3D"130" cellpadding=3D"0" cellspacin=
+g=3D"0" border=3D"0">=20
+<tbody>
+<tr>=20
+<td style=3D"border-top:6px solid #FFDC7A;padding:16px 0;font-size:0;line-h=
+eight:0;">&nbsp;</td>=20
+</tr>=20
+</tbody>
+</table> </td>=20
+</tr>=20
+</tbody>
+</table>=20
+<!--[if (gte mso 9)|(IE)]>
+                                                        </td>
+                                                </tr>
+                                        </table>
+                                <![endif]--></td>=20
+</tr>=20
+</tbody>
+</table>=20
+<table id=3D"body-content" width=3D"100%" bgcolor=3D"#FFFFFF" cellpadding=
+=3D"0" cellspacing=3D"0" border=3D"0" style=3D"">
+<tbody>
+<tr style=3D"">
+<td align=3D"center" style=3D"">
+<!--[if (gte mso 9)|(IE)]>
+                                        <table width=3D"550" border=3D"0" c=
+ellspacing=3D"0" cellpadding=3D"0">
+                                                <tr>
+                                                        <td>
+                                <![endif]-->=20
+<table class=3D"content-550" width=3D"100%" style=3D"max-width:550px; " cel=
+lpadding=3D"0" cellspacing=3D"0" border=3D"0">
+<tbody>
+<tr style=3D"">
+<td style=3D"padding:0 32px; ">
+<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" styl=
+e=3D"">
+<tbody>
+<tr style=3D"">
+<td class=3D"list-with-header" style=3D"">
+<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" styl=
+e=3D"">
+<tbody>
+<tr style=3D"">
+<td class=3D"h3 mktEditable h3 mktEditable" align=3D"left" style=3D"font-fa=
+mily:'Helvetica Neue', Helvetica, Arial, 'Liberation Sans', Roboto, Noto, s=
+ans-serif; letter-spacing:-0.12px; font-size:16px; line-height:22px; color:=
+#2A2226; " id=3D"mkto_autogen_id_4">Our Hiring Handbook is packed with usef=
+ul how-to tips to help with everything from conducting interviews to planni=
+ng the first day with your new employee.</td>
+</tr>
+<tr style=3D"">
+<td class=3D"mktEditable" align=3D"left" style=3D"padding-top:24px; " id=3D=
+"mkto_autogen_id_5">
+<div>
+<!--[if mso]>
+                                                                           =
+                 <v:roundrect xmlns:v=3D"urn:schemas-microsoft-com:vml" xml=
+ns:w=3D"urn:schemas-microsoft-com:office:word" href=3D"https://employers.in=
+deed.com/j?ctx=3Demail-relcynurture-hiringhandbook&isid=3Demail-relcynurtur=
+e-hiringhandbook&ikw=3Dpostjob&utm_source=3Demployer_emails&utm_medium=3Dem=
+ail&utm_campaign=3Drelcynurture-hiringhandbook&utm_pr=3Ddr&utm_cnt=3Dsite&u=
+tm_type=3Dlink&utm_loc=3Dmid&utm_co=3DUS#post-job" style=3D"height:36px;v-t=
+ext-anchor:middle;width:172px;" arcsize=3D"63%" strokecolor=3D"#085FF7" fil=
+lcolor=3D"#FFFFFF">
+                                                                           =
+                     <w:anchorlock/>
+                                                                           =
+                     <center style=3D"color:#085FF7;font-family:'Helvetica =
+Neue', Helvetica, Arial, 'Liberation Sans', Roboto, Noto, sans-serif;font-s=
+ize:12px;font-weight:700;">Post a job</center>
+                                                                           =
+                 </v:roundrect>
+                                                                           =
+         <![endif]-->
+<a class=3D"help-cta" href=3D
+"http://content.indeed.com/ZX17P0L0W050cy0D520JJSw" style=3D"background-col=
+or: #ffffff; color: #085ff7; border: 2px solid #085FF7; display: inline-blo=
+ck; font-family: 'Helvetica Neue', Helvetica, Arial, 'Liberation Sans', Rob=
+oto, Noto, sans-serif; font-size: 12px; font-weight: bold; line-height: 36p=
+x; text-align: center; text-decoration: none; width: 172px; -webkit-text-si=
+ze-adjust: none; mso-hide: all; border-radius: 25px;"
+>Post a job</a>
+</div></td>
+</tr>
+<tr>=20
+<td class=3D"horizontal-break" style=3D"padding:36px 0;">=20
+<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0">=20
+<tbody>
+<tr>=20
+<td style=3D"font-size:0;line-height:0;border-top:2px solid #ECECEC;"></td>=
+=20
+</tr>=20
+</tbody>
+</table> </td>=20
+</tr>=20
+</tbody>
+</table></td>
+</tr>
+<tr style=3D"">
+<td class=3D"list-without-header" style=3D"">
+<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" styl=
+e=3D"">
+<tbody>
+<tr style=3D"">
+<td class=3D"list" style=3D"padding-bottom:16px; ">
+<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" styl=
+e=3D"">
+<tbody>
+<tr style=3D"">
+<td class=3D"list-icon stack pb-16 mktEditable list-icon stack pb-16 mktEdi=
+table" valign=3D"top" style=3D"padding-bottom:32px; " id=3D"mkto_autogen_id=
+_6"><img src=3D"http://offers.indeed.com/rs/699-SXJ-715/images/bandage.png"=
+ width=3D"60" alt=3D"" style=3D"display:block;"></td>
+<td class=3D"list-info stack pl-0" valign=3D"middle" style=3D"padding-left:=
+36px; padding-bottom:0; ">
+<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" styl=
+e=3D"">
+<tbody>
+<tr style=3D"">
+<td class=3D"h3 mktEditable h3 mktEditable" align=3D"left" style=3D"font-fa=
+mily:'Helvetica Neue', Helvetica, Arial, 'Liberation Sans', Roboto, Noto, s=
+ans-serif; letter-spacing:-0.12px; font-size:18px; line-height:24px; font-w=
+eight:bold; " id=3D"mkto_autogen_id_7">We're here to help</td>
+</tr>
+<tr style=3D"">
+<td class=3D"h3 mktEditable h3 mktEditable" align=3D"left" style=3D"padding=
+-top:8px; font-family:'Helvetica Neue', Helvetica, Arial, 'Liberation Sans'=
+, Roboto, Noto, sans-serif; letter-spacing:-0.12px; font-size:16px; line-he=
+ight:22px; color:#2A2226; " id=3D"mkto_autogen_id_8">When you're ready to f=
+ill a position, our Customer Success team is ready to help you <a href=3D
+"http://content.indeed.com/dW0JPL61wycJD00X71520S0" style=3D"color: #085ff7=
+;"
+>post your job</a> and boost your hiring results.</td>
+</tr>
+<tr style=3D"">
+<td class=3D"button-text-group" style=3D"padding-top:16px; ">
+<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" styl=
+e=3D"">
+<tbody>
+<tr style=3D"">
+<td class=3D"help-center-mobile mktEditable help-center-mobile mktEditable"=
+ align=3D"left" style=3D"padding-right:16px; width:50%; " id=3D"mkto_autoge=
+n_id_9">
+<div>
+<!--[if mso]>
+                                                                           =
+                                                                           =
+              <v:roundrect xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:=
+w=3D"urn:schemas-microsoft-com:office:word" href=3D"https://indeedemployers=
+.zendesk.com/hc/en-us?ctx=3Demail-relcynurture-hiringhandbook&isid=3Demail-=
+relcynurture-hiringhandbook&ikw=3Dhelpcenter&utm_source=3Demployer_emails&u=
+tm_medium=3Demail&utm_campaign=3Drelcynurture-hiringhandbook&utm_pr=3Ddr&ut=
+m_cnt=3Dsite&utm_type=3Dlink&utm_loc=3Dmid&utm_co=3DUS" style=3D"height:36p=
+x;v-text-anchor:middle;width:176px;" arcsize=3D"63%" strokecolor=3D"#ECECEC=
+" fillcolor=3D"#FFFFFF">
+                                                                           =
+                                                                           =
+                  <w:anchorlock/>
+                                                                           =
+                                                                           =
+                  <center style=3D"color:#085FF7;font-family:'Helvetica Neu=
+e', Helvetica, Arial, 'Liberation Sans', Roboto, Noto, sans-serif;font-size=
+:12px;font-weight:700;">Visit Help Center</center>
+                                                                           =
+                                                                           =
+              </v:roundrect>
+                                                                           =
+                                                                           =
+      <![endif]-->
+<a class=3D"help-cta" href=3D
+"http://content.indeed.com/ZX17P0L2W050cy0D720JJSw" style=3D"background-col=
+or: #ffffff; color: #085ff7; border: 2px solid #ECECEC; display: inline-blo=
+ck; font-family: 'Helvetica Neue', Helvetica, Arial, 'Liberation Sans', Rob=
+oto, Noto, sans-serif; font-size: 12px; font-weight: bold; line-height: 36p=
+x; text-align: center; text-decoration: none; width: 176px; -webkit-text-si=
+ze-adjust: none; mso-hide: all; border-radius: 25px;"
+>Visit Help Center</a>
+</div></td>
+<td style=3D"border-left:2px solid #ECECEC; padding-left:16px; width:50%; "=
+>
+<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" styl=
+e=3D"">
+<tbody>
+<tr style=3D"">
+<td class=3D"h3 phone mktEditable h3 phone mktEditable" align=3D"left" styl=
+e=3D"font-family:'Helvetica Neue', Helvetica, Arial, 'Liberation Sans', Rob=
+oto, Noto, sans-serif; letter-spacing:-0.12px; font-size:16px; line-height:=
+22px; color:#2A2226; " id=3D"mkto_autogen_id_10"><a href=3D
+"http://content.indeed.com/jy3X0L2JSc07D5P1JW80w00" style=3D"color:#085FF7;=
+" target=3D"_blank"
+>1-800-462-5842</a></td>
+</tr>
+<tr style=3D"">
+<td class=3D"h5 mktEditable h5 mktEditable" align=3D"left" style=3D"font-fa=
+mily:'Helvetica Neue', Helvetica, Arial, 'Liberation Sans', Roboto, Noto, s=
+ans-serif; letter-spacing:-0.12px; font-size:12px; line-height:22px; color:=
+#2A2226; " id=3D"mkto_autogen_id_11">M-F, 8am-8pm ET</td>
+</tr>
+</tbody>
+</table></td>
+</tr>
+</tbody>
+</table></td>
+</tr>
+</tbody>
+</table></td>
+</tr>
+</tbody>
+</table></td>
+</tr>
+</tbody>
+</table></td>
+</tr>
+<tr style=3D"">
+<td class=3D"paragraph" style=3D"padding:16px 0 36px; ">
+<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" styl=
+e=3D"">
+<tbody>
+<tr style=3D"">
+<td class=3D"h3 mktEditable h3 mktEditable" align=3D"left" style=3D"font-fa=
+mily:'Helvetica Neue', Helvetica, Arial, 'Liberation Sans', Roboto, Noto, s=
+ans-serif; letter-spacing:-0.12px; font-size:16px; line-height:22px; color:=
+#2A2226; " id=3D"mkto_autogen_id_12">Thanks for making us a partner in your=
+ company's growth.</td>
+</tr>
+</tbody>
+</table></td>
+</tr>
+</tbody>
+</table></td>
+</tr>
+</tbody>
+</table>
+<!--[if (gte mso 9)|(IE)]>
+                                                        </td>
+                                                </tr>
+                                        </table>
+                                <![endif]--></td>
+</tr>
+</tbody>
+</table>
+<table id=3D"bottom-lip-with-signature" bgcolor=3D"#F6F5F6" width=3D"100%" =
+cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"">
+<tbody>
+<tr style=3D"">
+<td class=3D"m-padding" align=3D"center" style=3D"">
+<!--[if (gte mso 9)|(IE)]>
+                                        <table width=3D"550" border=3D"0" c=
+ellspacing=3D"0" cellpadding=3D"0">
+                                                <tr>
+                                                        <td>
+                                <![endif]-->=20
+<table class=3D"content-550" bgcolor=3D"#FFFFFF" width=3D"100%" style=3D"ma=
+x-width:550px; " cellpadding=3D"0" cellspacing=3D"0" border=3D"0">
+<tbody>
+<tr style=3D"">
+<td class=3D"pl-16" align=3D"left" style=3D"padding-left:32px; ">
+<table class=3D"color-block-bottom" width=3D"150" cellpadding=3D"0" cellspa=
+cing=3D"0" border=3D"0" style=3D"">
+<tbody>
+<tr style=3D"">
+<td style=3D"border-bottom:6px solid #FFDC7A; padding-bottom:16px; ">
+<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" styl=
+e=3D"">
+<tbody>
+<tr style=3D"">
+<td class=3D"h3 mktEditable h3 mktEditable" align=3D"left" style=3D"font-fa=
+mily:'Helvetica Neue', Helvetica, Arial, 'Liberation Sans', Roboto, Noto, s=
+ans-serif; letter-spacing:-0.12px; font-size:18px; line-height:24px; color:=
+#2A2226; " id=3D"mkto_autogen_id_13">Sincerely,</td>
+</tr>
+<tr style=3D"">
+<td class=3D"h3 mktEditable h3 mktEditable" align=3D"left" style=3D"font-fa=
+mily:'Helvetica Neue', Helvetica, Arial, 'Liberation Sans', Roboto, Noto, s=
+ans-serif; letter-spacing:-0.12px; font-size:18px; font-weight:bold; line-h=
+eight:24px; color:#2A2226; " id=3D"mkto_autogen_id_14">The Indeed Team</td>
+</tr>
+</tbody>
+</table></td>
+</tr>
+</tbody>
+</table></td>
+</tr>
+</tbody>
+</table>
+<!--[if (gte mso 9)|(IE)]>
+                                                        </td>
+                                                </tr>
+                                        </table>
+                                <![endif]--></td>
+</tr>
+</tbody>
+</table>
+<table id=3D"footer" bgcolor=3D"#F6F5F6" width=3D"100%" cellpadding=3D"0" c=
+ellspacing=3D"0" border=3D"0" style=3D"">
+<tbody>
+<tr style=3D"">
+<td align=3D"center" style=3D"">
+<!--[if (gte mso 9)|(IE)]>
+                                                <table width=3D"550" border=
+=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+                                                <tr>
+                                                        <td>
+                                        <![endif]-->=20
+<table width=3D"100%" style=3D"max-width:550px; " cellpadding=3D"0" cellspa=
+cing=3D"0" border=3D"0">
+<tbody>
+<tr style=3D"">
+<td align=3D"left" style=3D"padding:24px 32px; ">
+<table id=3D"social-links" width=3D"100%" cellpadding=3D"0" cellspacing=3D"=
+0" border=3D"0" style=3D"">
+<tbody>
+<tr style=3D"">
+<td style=3D"padding-bottom:16px; ">
+<!--[if (gte mso 9)|(IE)]>
+                                                                           =
+     <table width=3D"170" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+                                                                           =
+                     <tr>
+                                                                           =
+                             <td>
+                                                                           =
+     <![endif]-->=20
+<table width=3D"100%" style=3D"max-width:170px; " cellpadding=3D"0" cellspa=
+cing=3D"0" border=3D"0">
+<tbody>
+<tr style=3D"">
+<td class=3D"mktEditable" align=3D"left" style=3D"" id=3D"mkto_autogen_id_1=
+5"><a href=3D
+"http://content.indeed.com/T41Sw0P0L005DX92cJ7yWJ0"
+><img src=3D"http://offers.indeed.com/rs/699-SXJ-715/images/ico-facebook.pn=
+g" width=3D"32" alt=3D"Facebook"></a></td>
+<td class=3D"mktEditable" align=3D"left" style=3D"" id=3D"mkto_autogen_id_1=
+6"><a href=3D
+"http://content.indeed.com/VDX5c05WwL0J200SJ7yPa10"
+><img src=3D"http://offers.indeed.com/rs/699-SXJ-715/images/ico-twitter.png=
+" width=3D"32" alt=3D"Twitter"></a></td>
+<td class=3D"mktEditable" align=3D"left" style=3D"" id=3D"mkto_autogen_id_1=
+7"><a href=3D
+"http://content.indeed.com/HS0025y01P6DwJ7cJLX00bW"
+><img src=3D"http://offers.indeed.com/rs/699-SXJ-715/images/ico-indeed.png"=
+ width=3D"32" alt=3D"Indeed Blog"></a></td>
+</tr>
+</tbody>
+</table>
+<!--[if (gte mso 9)|(IE)]>
+                                                                           =
+                     </td>
+                                                                           =
+             </tr>
+                                                                           =
+     </table>
+                                                                           =
+     <![endif]--></td>
+</tr>
+</tbody>
+</table>
+<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" styl=
+e=3D"">
+<tbody>
+<tr style=3D"">
+<td class=3D"mktEditable" align=3D"left" style=3D"font-family:'Helvetica Ne=
+ue', Helvetica, Arial, 'Liberation Sans', Roboto, Noto, sans-serif; letter-=
+spacing:-0.12px; font-size:11px; line-height:14px; color:#6F6F6F; " id=3D"m=
+kto_autogen_id_18">=C2=A9 2019 <a href=3D
+"http://content.indeed.com/CXP0070cJcwS01WD2y5LJ07" target=3D"_blank" id=3D=
+"" style=3D"color: #085ff7; text-decoration: none;"
+>Indeed</a></td>
+</tr>
+<tr style=3D"">
+<td class=3D"mktEditable" align=3D"left" style=3D"font-family:'Helvetica Ne=
+ue', Helvetica, Arial, 'Liberation Sans', Roboto, Noto, sans-serif; letter-=
+spacing:-0.12px; font-size:11px; line-height:14px; color:#6F6F6F; " id=3D"m=
+kto_autogen_id_19"><a style=3D"color: #6f6f6f; text-decoration: none;">6433=
+ Champion Grandview Way, Building 1, Austin, TX 78750</a></td>
+</tr>
+<tr style=3D"">
+<td class=3D"mktEditable" align=3D"left" style=3D"padding:16px 0 24px; font=
+-family:'Helvetica Neue', Helvetica, Arial, 'Liberation Sans', Roboto, Noto=
+, sans-serif; letter-spacing:-0.12px; font-size:11px; line-height:14px; col=
+or:#6F6F6F; " id=3D"mkto_autogen_id_20"><a href=3D
+"http://content.indeed.com/hJPLd7X05S000yWw1c20J8D" style=3D"color: #085ff7=
+;"
+>Privacy Policy</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href=3D
+"http://content.indeed.com/yLwSDyP10W0JJXe57900c20" style=3D"color: #085ff7=
+;"
+>Terms</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href=3D
+"http://content.indeed.com/vc7D01wf0WJJSPaLX02y005" style=3D"color: #085ff7=
+;"
+>Help</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href=3D
+"http://content.indeed.com/FLDXJ00gb5ScP2wy000JW17" style=3D"color:=20
+#085ff7;"
+>Unsubscribe</a> </td>
+</tr>
+</tbody>
+</table></td>
+</tr>
+</tbody>
+</table>
+<!--[if (gte mso 9)|(IE)]>
+                                                        </td>
+                                                </tr>
+                                                </table>
+                                        <![endif]--></td>
+</tr>
+</tbody>
+</table></td>
+</tr>
+</tbody>
+</table>
+<a href=3D
+"http://content.indeed.com/jycX0L2JSc07D5P1JWh0w00"
+></a>
+<img src=3D"http://content.indeed.com/trk?t=3D1&mid=3DNjk5LVNYSi03MTU6MTA4N=
+zI0OjI0OTYzOjk5NTY1OjA6NTU1NDE6OToxOTI3NjQ6MTc5MTE3NDkzOmluZm9Ac3VjY2Vzc2Fz=
+c29jaWF0ZXMuaW4%3D" width=3D"1" height=3D"1" style=3D"display:none !importa=
+nt;" alt=3D"" />
+
+<!-- Unsubscribe Blank Comment -->
+</body>
+</html>
+------=_Part_-1804252687_1444093120.1552495745096--

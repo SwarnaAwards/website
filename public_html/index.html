@@ -1,0 +1,1450 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Swarnaawards</title>
+    <link
+      rel="icon"
+      href="assets/img/swarna-logo.png"
+      sizes="16x16"
+      type="image/png"
+    />
+    <link rel="stylesheet" href="assets/css/animate.min.css" type="text/css" />
+    <link
+      rel="stylesheet"
+      href="assets/css/venom-button.min.css"
+      type="text/css"
+    />
+    <link rel="stylesheet" href="assets/css/icofont.min.css" type="text/css" />
+    <link rel="stylesheet" href="assets/css/boostrap.css" type="text/css" />
+    <link rel="stylesheet" href="assets/css/homepage.css" type="text/css" />
+    
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-176976396-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-176976396-1');
+</script>
+
+    
+    
+    <style>
+      .disable-scroll {
+        margin: 0;
+        height: 100%;
+        overflow: hidden;
+      }
+
+      .progress-modal {
+        display: none;
+      }
+
+      .overlay {
+        display: block;
+        position: fixed; /* Stay in place */
+        z-index: 1; /* Sit on top */
+        left: 0;
+        top: 0;
+        width: 100%; /* Full width */
+        height: 100%; /* Full height */
+        overflow: hidden; /* Enable scroll if needed */
+        background-color: rgb(0, 0, 0); /* Fallback color */
+        background-color: rgba(0, 0, 0, 0.4); /* Black w/ opacity */
+      }
+
+      .centered {
+        position: fixed;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+      }
+
+      .hr-bar-wrap {
+        margin: 0 auto;
+        width: 99%;
+        height: 20px;
+        background: #dee2e6;
+        display: none;
+        border-radius: 5px;
+      }
+
+      .hr-bar-percent {
+        margin-left: 50%;
+        transform: translate(-50%, -5%);
+        float: left;
+        font-size: xx-small;
+        color: white;
+      }
+
+      .hr-fill {
+        display: inherit;
+        /* background: green; */
+        height: 100%;
+        width: 30%;
+        border-radius: 5px;
+      }
+
+      .file-upload-msg {
+        color: green;
+        font-size: small;
+        margin-left: 5px;
+        display: none;
+      }
+      .razorpay-payment-button {
+        display: none;
+      }
+    </style>
+  </head>
+
+  <body>
+    <section>
+      <div class="banner-wrapper" id="home">
+        <div class="nav-relative">
+          <nav
+            class="navbar navbar-expand-lg menu-bar animate__animated animate__fadeInDown animate__delay-1s"
+          >
+            <div class="container">
+              <a class="navbar-brand" href="#">
+                <img src="assets/img/swarna-logo.png" alt="" />
+              </a>
+              <div class="navbar-collapse">
+                <div class="navbar-nav ml-auto">
+                  <a class="nav-link active" data-id="#home"
+                    ><i class="icofont-home"></i>Home</a
+                  >
+                  <a class="nav-link" data-id="#aboutUs"
+                    ><i class="icofont-flame-torch"></i>About us</a
+                  >
+                  <a class="nav-link" data-id="#awards"
+                    ><i class="icofont-award"></i>Awards</a
+                  >
+                  <a class="nav-link" href="terms-conditions.html"
+                    ><i class="icofont-location-arrow"></i>T&amp;C</a
+                  >
+                  <a class="nav-link" href="contact.html"
+                    ><i class="icofont-contacts"></i>Contact us</a
+                  >
+                  <!-- <a class="nav-link" data-toggle="modal" data-target="#signIn"><i
+                                        class="icofont-sign-in"></i>Sign In</a> -->
+                </div>
+              </div>
+              <i class="icofont-navigation-menu"></i>
+            </div>
+          </nav>
+        </div>
+
+        <div class="container">
+          <div class="banner-caption">
+            <div class="row">
+              <div
+                class="caption-text col-12 align-self-center col-sm-12 col-md-6 col-lg-7"
+              >
+                   <img src="assets/img/WinUpto.png" alt="" class="winupto" />
+                <p>#ಸ್ವರ್ಣ ಅವಾರ್ಡ್ಸ್</p>
+                <h1
+                  class="animate__animated animate__delay-2s animate__flipInX"
+                >
+                  ನಿಮಗೊಂದು ಸುವರ್ಣಾವಕಾಶ ಗೆಲ್ಲಿರಿ 5 ಲಕ್ಷದವರೆಗೂ
+                </h1>
+                <a
+                  class="mobile-register focus_name btn btn-lg btn-outline-primary mt-3 animate__delay-2s animate__animated animate__zoomIn"
+                  >ಈಗಲೇ  ಭಾಗವಹಿಸಿ!</a
+                >
+              </div>
+              <div class="col-5 col-sm-12 col-md-6 col-lg-5">
+                <form
+                  name="registration-form-desktop"
+                  id="registration-desktop"
+                  novalidate
+                  class="register-form"
+                  enctype="multipart/form-data"
+                >
+                  <h2>ಈಗಲೇ  ಭಾಗವಹಿಸಿ!</h2>
+                  <label class="mand"
+                    ><span>*</span>ಎಲ್ಲಾ ಆವರಣಗಳು ಕಡ್ಡಾಯವಾಗಿವೆ </label
+                  >
+                  <div
+                    class="row mt-3 animate__animated animate__slideInRight animate__delay-3s"
+                  >
+                    <div class="col">
+                      <input
+                        type="text"
+                        class="form-control"
+                        id="uname"
+                        name="UserName"
+                        value=""
+                        placeholder="ಹೆಸರು  *"
+                        required="true"
+                      />
+                    </div>
+                  </div>
+                  <div
+                    class="row mt-4 animate__animated animate__slideInRight animate__delay-3s"
+                  >
+                    <div class="col">
+                      <input type="tel" class="form-control" value=""
+                      name="UserMobile" id="mobileNum" pattern="[0-9]{10}""
+                      onKeyPress="if(this.value.length==10) return false;"
+                      placeholder="ದೂರವಾಣಿ ಸಂಖ್ಯೆ *" required="true">
+                    </div>
+                  </div>
+                  <div
+                    class="row mt-4 animate__animated animate__slideInRight animate__delay-3s"
+                  >
+                    <div class="col">
+                      <input
+                        type="email"
+                        class="form-control"
+                        value=""
+                        name="UserEmail"
+                        id="emailValid"
+                        pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,4}$"
+                        placeholder="ಇಮೇಲ್  *"
+                        required="true"
+                      />
+                    </div>
+                  </div>
+                  <div
+                    class="row mt-4 animate__animated animate__slideInRight animate__delay-3s"
+                  >
+                    <div class="col">
+                      <input
+                        type="text"
+                        class="form-control"
+                        value=""
+                        name="UserLocation"
+                        placeholder="ಸ್ಥಳ *"
+                        required="true"
+                      />
+                    </div>
+                  </div>
+                  <div
+                    class="row multi-s mt-4 animate__animated animate__slideInRight animate__delay-3s"
+                  >
+                    <div class="col-12">
+                      <!-- Note the missing multiple attribute! -->
+                      <select
+                        class="form-control"
+                        name="AwardCategory"
+                        required="true"
+                      >
+                        <option value="" disabled>Select Award Category</option>
+                        <option value="1">
+                          Swarna Super Star - Male
+                        </option>
+                        <option value="2">Swarna Super Star - Female</option>
+                        <option value="3">Swarna Star Couple</option>
+                        <option value="4">Swarna Comedy Star - Male</option>
+                        <option value="5">Swarna Comedy Star - Female</option>
+                        <option value="6">Swarna Stars Team - Comedy</option>
+                        <option value="7">
+                          Swarna Star Social Cause - Team
+                        </option>
+                        <option value="8">Swarna Star kid</option>
+                        <option value="9">Swarna Star Singer</option>
+                      </select>
+                    </div>
+                  </div>
+                  <div
+                    class="row mt-4 animate__animated animate__slideInRight animate__delay-3s"
+                  >
+                    <div class="col">
+                      <div class="custom-file">
+                        <input
+                          type="file"
+                          value=""
+                          class="custom-file-input"
+                          name="UserVideos"
+                          id="UserVideos_desktop"
+                          accept="video/*"
+                          required="true"
+                        />
+                        <span></span>
+                        <label class="custom-file-label">ವೀಡಿಯೋ ಅಪ್ಲೋಡ್ ಮಾಡಿ *</label>
+                        <div class="invalid-feedback">
+                          Field cannot be empty
+                        </div>
+                        <div class="hr-bar-wrap">
+                          <span class="hr-bar-percent">50%</span>
+                          <span class="hr-fill"></span>
+                        </div>
+                        <div class="file-upload-msg"></div>
+                        <small id="emailHelp" class="form-text text-muted"
+                          >ಫ಼ೈಲ್ ನ ಗಾತ್ರ 120 ಎಮ್ ಬಿ ಯಷ್ಟಿರಬಹುದು      </small >
+                      </div>
+                    </div>
+                  </div>
+                  <div
+                    class="row mt-4 check-tc animate__animated animate__slideInRight animate__delay-3s"
+                  >
+                    <div class="col">
+                      <div class="form-group form-check">
+                        <input
+                          type="checkbox"
+                          class="form-check-input"
+                          id="tc"
+                          required="true"
+                          checked
+                        />
+                        <label class="form-check-label" for="tc"
+                          >ನಾನು‌ ಎಲ್ಲ
+                          <a
+                            data-toggle="modal"
+                            data-target="#terms"
+                            href="terms-conditions.html"
+                            >ನಿಯಮಗಳನ್ನು ಹಾಗೂ ಷರತ್ತುಗಳನ್ನು   </a
+                          >
+                          ಅಂಗೀಕರಿಸುತ್ತೇನೆ. ನೊಂದಣಿ ಶುಲ್ಕ<b>Rs.99</b></label
+                        >
+                      </div>
+                    </div>
+                  </div>
+                  <button
+                    type="submit"
+                    id="desktop_submit"
+                    class="regForm btn btn-lg btn-primary mt-2 animate__animated animate__slideInRight animate__delay-3s"
+                  >
+                    ನೊಂದಾಯಿಸಿ!
+                  </button>
+
+                  <div class="form-loader">
+                    <div class="card-loader">
+                      <div
+                        class="spinner-border"
+                        style="width: 3rem; height: 3rem"
+                        role="status"
+                      ></div>
+                      <span>Proceed to payment</span>
+                    </div>
+                  </div>
+                </form>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="aboutus-wrapper common-bg common-pad-top" id="aboutUs">
+        <div class="container">
+          <div class="row">
+            <div class="col-12 col-md-5">
+              <div class="abt-left">
+                <small>EVENT OUTCOMES</small>
+                <h3>ನೀವು ಸ್ವರ್ಣ ಕುಟುಂಬದ ಜೊತೆಯಾಗಿ</h3>
+                <p>
+                  ಸ್ವರ್ಣ ಅವಾರ್ಡ್ಸ್ ಕರ್ನಾಟಕದಲ್ಲಿರುವ ಪ್ರತಿಭೆಗಳನ್ನು ಹುಡುಕಿ ಅವರನ್ನು ಎಲ್ಲಾ ಜನತೆಯ ಮುಂದೆ ತರುವ ಸಣ್ಣ ಪ್ರಯತ್ನವನ್ನು ಮಾಡುತ್ತದೆ. ಇದು ಸ್ಪರ್ಧೆ ಮಾತ್ರವಲ್ಲ. ಇದರಿಂದ ನೀವು ಎಲ್ಲಾ ಕನ್ನಡಿಗರ ಮುಂದೆ ಬಂದು ಮನೆಮಾತಾಗುವ ಅವಕಾಶ.  
+                </p>
+                <blockquote>
+                  ಸ್ವರ್ಣ ಅವಾರ್ಡ್ಸ್ ಪ್ರತಿಭಾನ್ವಿತ ಸ್ಪರ್ಧಾಳುಗಳು ಕಳಿಸುವ ಸಣ್ಣ ವಿಡಿಯೋಗಳನ್ನು ಕೂಲಂಕಷವಾಗಿ ಪರಿಶೀಲಿಸಿ ಅತ್ಯುತ್ತಮವಾದವುಗಳನ್ನು ಆಯ್ಕೆ ಮಾಡುತ್ತದೆ.
+
+
+                </blockquote>
+              </div>
+            </div>
+            <div class="col-12 col-md-7">
+              <div class="row abt-right">
+                <div class="col-12">
+                  <div class="row">
+                    <div class="col-2 text-center">
+                     <i class="icofont-bullseye"></i>
+                    </div>
+                    <div class="col-10">
+                      <h4>ಮಿಶನ್</h4>
+                      <p>
+                        ಕರ್ನಾಟಕದ ಹಳ್ಳಿ-ಹಳ್ಳಿಗಳಲ್ಲಿರುವ ಪ್ರತಿಭಾನ್ವಿತ ಜನರನ್ನು ಗುರುತಿಸಿ, ಅವರನ್ನು ಮುಖ್ಯವಾಹಿನಿಗೆ ತರುವ ಉದ್ದೇಶ ಸ್ವರ್ಣ ಅವಾರ್ಡ್ಸ್ ದದ್ದಾಗಿದೆ.
+
+                      </p>
+                    </div>
+                  </div>
+                  <div class="row">
+                    <div class="col-2 text-center">
+                     <i class="icofont-learn"></i>
+                    </div>
+                    <div class="col-10">
+                      <h4>ನಮ್ಮ ಬಗ್ಗೆ</h4>
+                      <p>
+                        ಸಕ್ಸಸ್ ಅಸೋಸಿಯೇಟ್ಸ್ ಪ್ರಶಸ್ತಿ ವಿಜೇತ ಕಾರ್ಯಕ್ರಮಗಳನ್ನು ನಿರ್ಮಾಣ ಮಾಡುತ್ತಾ ಬಂದಿವೆ. ಈ ಕಾರ್ಯಕ್ರಮಗಳು ವಿವಿಧ ಪ್ರಕಾರದ ಮನರಂಜನಾ ಕಾರ್ಯಕ್ರಮಗಳು, ಸಾಕ್ಷ್ಯಚಿತ್ರಗಳು  ಹಾಗೂ ಸಂಗೀತ ಕಾರ್ಯಕ್ರಮಗಳನ್ನು ಒಳಗೊಂಡಿವೆ.  
+
+                      </p>
+                    </div>
+                  </div>
+                  <div class="row">
+                    <div class="col-2 text-center">
+                      <i class="icofont-users-alt-2"></i>
+                    </div>
+                    <div class="col-10">
+                      <h4>ನಮ್ಮ ತಂಡ</h4>
+                      <p>
+                        ನಮ್ಮ ತಂಡದ ತೀರ್ಪುಗಾರರು ಮನರಂಜನಾ ಉದ್ಯಮದ ವಿವಿಧ ಕ್ಷೇತ್ರಗಳಲ್ಲಿ ಪರಿಣಿತರಾಗಿ ಬಂದವರಾಗಿರುತ್ತಾರೆ.
+                      </p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="video-wrapper">
+        <div class="d-md-flex">
+          <div class="col-12 col-md-6">
+            <div class="video-tag">
+              <!-- <i class="icofont-play animate__animated animate__pulse"></i> -->
+              <h4>Swarna awards aims to create</h4>
+              <p>
+                India's first celebration of digital entertainment <br />
+                Singing | Dancing | Standup comedy | Acting
+              </p>
+            </div>
+          </div>
+          <div class="col-12 col-md-6 d-none d-sm-none d-md-block v-wrap">
+            <video
+              autoplay=""
+              muted=""
+              playsinline=""
+              loop=""
+              src="assets/videos/MAIN_COMP02.mp4"
+              id="vid"
+            ></video>
+          </div>
+          <div class="col-12 d-none d-sm-block d-md-none mob-video">
+            <video
+              autoplay=""
+              muted=""
+              playsinline=""
+              loop=""
+              src="assets/videos/MAIN_COMP02.mp4"
+              id="vid"
+            ></video>
+          </div>
+        </div>
+      </div>
+      <div class="awards-wrapper common-pad-top pb-5" id="awards">
+        <div class="container">
+          <div class="row">
+            <div class="col-12 col-lg-4">
+              <article class="awd-left">
+                <h3><span>#ಸ್ವರ್ಣಅವಾರ್ಡ್ಸ್</span></h3>
+                <img
+                  class="d-md-none d-lg-block"
+                  src="assets/img/ShieldSIde.png"
+                  alt=""
+                />
+              </article>
+            </div>
+            <div class="col-12 col-md-12 col-lg-8">
+              <div class="row awd-right">
+                <div class="col-12 col-sm-6">
+                  <div class="card focus_name mobile-register">
+                    <img src="assets/img/awards-icon/sp-male.svg" alt="" />
+                    <em>ಸ್ವರ್ಣ ಸೂಪರ್‌ ಸ್ಟಾರ್ - ಪುರುಷ </em>
+                    <p>
+                      ನಿಮ್ಮಲ್ಲಿರುವ ಪ್ರತಿಭೆಗಳಿಗೆ ವೇದಿಕೆ ಸಿಗುತ್ತಿಲ್ಲವೇ? ಇಲ್ಲಿದೆ ನೋಡಿ!
+                    </p>
+                    <span class="semi-circle">01</span>
+                  </div>
+                </div>
+                <div class="col-12 col-sm-6">
+                  <div class="card focus_name mobile-register">
+                    <img src="assets/img/awards-icon/sp-female.svg" alt="" />
+                    <em>ಸ್ವರ್ಣ ಸೂಪರ್ ಸ್ಟಾರ್ - ಮಹಿಳೆ </em>
+                    <p>
+                      ನಿಮ್ಮಲ್ಲಡಗಿರುವ ಪ್ರತಿಭೆಗಳನ್ನು ಪ್ರದರ್ಶಿಸಲು ವೇದಿಕೆಯನ್ನು ಹುಡುಕುತ್ತಿದ್ದೀರೇ? ಇಲ್ಲಿದೆ ನಿಮಗೊಂದು ಸುವರ್ಣವಕಾಶ.
+
+                    </p>
+                    <span class="semi-circle">02</span>
+                  </div>
+                </div>
+                <div class="col-12 col-sm-6">
+                  <div class="card focus_name mobile-register">
+                    <img src="assets/img/awards-icon/couple.svg" alt="" />
+                    <em>ಸ್ವರ್ಣ ಸ್ಟಾರ್ ಜೋಡಿ </em>
+                    <p>
+                     ಜೊತೆಯಾಗಿ ಕೂಡಿ ಮಾಡಿದರೆ ಗೆಲುವು ನಿಶ್ಚಯ.
+                    </p>
+                    <span class="semi-circle">03</span>
+                  </div>
+                </div>
+                <div class="col-12 col-sm-6">
+                  <div class="card focus_name mobile-register">
+                    <img src="assets/img/awards-icon/male-cmd.svg" alt="" />
+                    <em>ಸ್ವರ್ಣ ಕಾಮಿಡಿ ಸ್ಟಾರ್ - ಪುರುಷ</em>
+                    <p>
+                      ನಿಮ್ಮ ಹಾಸ್ಯಚಟಾಕಿಗಳಿಂದ ನೀವು ನಿಮ್ಮ ಗುಂಪಿನಲ್ಲಿ ಎಲ್ಲರ ಅಚ್ಚುಮೆಚ್ಚಿನ ವ್ಯಕ್ತಿಯೇ? ನಿಮ್ಮ ಹಾಸ್ಯಚಟಾಕಿಗಳನ್ನು ಕೇಳಲು ನಾವೂ ಉತ್ಸುಕರಾಗಿದ್ದೇವೆ.
+
+                    </p>
+                    <span class="semi-circle">04</span>
+                  </div>
+                </div>
+                <div class="col-12 col-sm-6">
+                  <div class="card focus_name mobile-register">
+                    <img src="assets/img/awards-icon/female-cmd.svg" alt="" />
+                    <em>ಸ್ವರ್ಣ ಕಾಮಿಡಿ ಸ್ಟಾರ್ - ಮಹಿಳೆ</em>
+                    <p>
+                      ಭಾರತದಲ್ಲಿ ಹಾಸ್ಯನಟರಿಗೆ ಹೋಲಿಸಿದರೆ ಹಾಸ್ಯನಟಿಯರು ಬಹಳ ಕಡಿಮೆ. ಮಹಿಳೆಯರು ಯಾರಿಗಿಂತಲೂ ಕಡಿಮೆಯಿಲ್ಲ ಎಂದು‌ ಸಾಬೀತುಪಡಿಸಲು ಇದೊಂದು ಅವಕಾಶ.
+
+                    </p>
+                    <span class="semi-circle">05</span>
+                  </div>
+                </div>
+                <div class="col-12 col-sm-6">
+                  <div class="card focus_name mobile-register">
+                    <img src="assets/img/awards-icon/comedy-team.svg" alt="" />
+                    <em>ಸ್ವರ್ಣ ಕಾಮಿಡಿ ಸ್ಟಾರ್ - ತಂಡ</em>
+                    <p>
+                      ಹಾಸ್ಯವು ಪ್ರತಿಯೊಬ್ಬರ ಜೀವನದ ಒಂದು ಪ್ರಮುಖವಾದ ಅಂಗ. ಹಾಸ್ಯವಿಲ್ಲದ ಜೀವನವು ಶೂನ್ಯ. ನಿಮ್ಮ ಹತ್ತಿರ ಮ್ಯಾಡ್-ಆಡ್ಸ್ ಅಥವಾ ಯಾವುದೇ ಹಾಸ್ಯದ ಲಘು ಕೃತಿಯಿದ್ದರೆ ಕೂಡಲೇ ನೊಂದಾಯಿಸಿಕೊಳ್ಳಿ.
+                    </p>
+                    <span class="semi-circle">06</span>
+                  </div>
+                </div>
+
+                <div class="col-12 col-sm-6">
+                  <div class="card focus_name mobile-register">
+                    <img src="assets/img/awards-icon/kids.svg" alt="" />
+                    <em>ಸ್ವರ್ಣ ಸ್ಟಾರ್ - ಮಗು</em>
+                    <p>
+                      ನಿಮ್ಮ ಮಗುವಿನ ಪ್ರತಿಭೆಗಳನ್ನು ತೋರಿಸಲು ಸರಿಯಾದ ವೇದಿಕೆ ಹುಡುಕುತ್ತಿದ್ದೀರೇ? ಇಲ್ಲಿದೆ ಒಂದು ಸುವರ್ಣವಕಾಶ.
+
+                    </p>
+                    <span class="semi-circle">08</span>
+                  </div>
+                </div>
+                <div class="col-12 col-sm-6">
+                  <div class="card focus_name mobile-register">
+                    <img src="assets/img/awards-icon/singer.svg" alt="" />
+                    <em>ಸ್ವರ್ಣ ಸ್ಟಾರ್ - ಗಾಯಕ/ಗಾಯಕಿ</em>
+                    <p>
+                      ನೀವು ಮುಂದಿನ ಪಿ. ಬಿ. ಶ್ರೀನಿವಸ್ ಅಥವಾ ಸಿ. ಅಶ್ವಥ್ ಅಥವಾ ಎಸ್. ಜಾನಕಿ ಆಗಲು ಬಯಸುತ್ತಿರುವಿರೇ?
+                    </p>
+                    <span class="semi-circle">09</span>
+                  </div>
+                </div>
+                <div class="col-12 col-sm-6">
+                  <div class="card focus_name mobile-register">
+                    <img src="assets/img/awards-icon/social-team.svg" alt="" />
+                    <em>ಸಾಮಾಜಿಕ ಕಳಕಳಿಯ ಸಂದೇಶ - ತಂಡ</em>
+                    <p>
+                      ಯಾವ ಕಾರ್ಯಕ್ರಮವು ಸಾಮಾಜಿಕ ಕಳಕಳಿಯ ಸಂದೇಶವಿಲ್ಲದೆ ಪರಿಪೂರ್ಣವಲ್ಲ. ನಿಮ್ಮ ಹಾಗೂ ನಿಮ್ಮ ತಂಡದ ಪ್ರತಿಭೆಗಳನ್ನು ಸಾಮಾಜಿಕ ಕಳಕಳಿಯ ಸಂದೇಶವನ್ನು ಕೊಡುವುದಕ್ಕೆ ಉಪಯೋಗಿಸಿ, ಬಹುಮಾನಗಳನ್ನು ಗೆಲ್ಲಿ.
+                    </p>
+                    <span class="semi-circle">07</span>
+                  </div>
+                </div>
+                <div
+                  class="col-12 col-sm-6 h-100 align-self-center text-center"
+                >
+                  <button
+                    type="submit"
+                    class="mobile-register focus_name btn-outline-primary btn-lg mt-2 v2"
+                  >
+                    ಈಗಲೇ ನೊಂದಾಯಿಸಿ
+                  </button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <footer class="footer" id="contactUs">
+        <div class="container">
+          <div class="row">
+            <div class="col-12 col-sm-4">
+              <img src="assets/img/swarna-logo.png" alt="" />
+            </div>
+
+            <div class="col-12 col-sm-4 made-india">
+              <img src="assets/img/made-in.png" alt="" />
+              
+            </div>
+            <div class="col-12 col-sm-4">
+              <h4>Follow us on</h4>
+              <div class="middle">
+                <a
+                  class="soci-btn facebook"
+                  href="https://www.facebook.com/Swarnaawards/"
+                  target="_blank"
+                >
+                  <i class="icofont-facebook"></i>
+                </a>
+                <a
+                  class="soci-btn instagram"
+                  href="https://www.instagram.com/swarnaawards/"
+                  target="_blank"
+                >
+                  <i class="icofont-instagram"></i>
+                </a>
+                <a
+                  class="soci-btn google"
+                  href="https://twitter.com/SwarnaAwards"
+                  target="_blank"
+                >
+                  <i class="icofont-twitter"></i>
+                </a>
+                <a
+                  class="soci-btn youtube"
+                  href="https://www.youtube.com/channel/UCwFCnf2g6sAyJr10nnWBL0A"
+                  target="_blank"
+                >
+                  <i class="icofont-youtube-play"></i>
+                </a>
+              </div>
+            </div>
+            <div class="col-12 col-sm-12 copy-right text-center">
+              <p>&copy; Powered by success associates @swarnaawards</p>
+            </div>
+          </div>
+        </div>
+      </footer>
+    </section>
+
+    <!-- videos -->
+    <!-- <div class="modal custom-modal fade video-modal" id="videoModal" tabindex="-1" aria-labelledby="videoModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-xl">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="videoModalLabel">Swarna Awards</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <video loop autoplay id="vid">
+                        <source src="assets/videos/MAIN_COMP02.mp4" type="video/mp4">
+                    </video>
+                </div>
+            </div>
+        </div>
+    </div> -->
+
+    <!-- TC -->
+    <div class="modal custom-modal tc-modal fade" id="terms" tabindex="-1">
+      <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h5 class="modal-title">Terms &amp; Conditions</h5>
+            <button
+              type="button"
+              class="close"
+              data-dismiss="modal"
+              aria-label="Close"
+            >
+              <span aria-hidden="true">&times;</span>
+            </button>
+          </div>
+          <div class="modal-body">
+            <ul>
+              <li>Age limit: Kids below 16 years and others above 16 years.</li>
+              <li>
+                The video should be clear and the size must be less than 50 MB.
+              </li>
+              <li>Duration of the video must be between 10 and 60 seconds.</li>
+              <li>
+                Recorded videos or videos shot through any short video
+                application such as Sharechat, Metron, Mojo, Josh, Reposso,
+                Insta Reels, etc. may be uploaded.
+              </li>
+              <li>
+                The videos must be related to any social cause or comedy stars.
+              </li>
+              <li>Teams must comprise of three to seven participants.</li>
+              <li>
+                Star Singer: The video must be recorded in one’s own voice.
+              </li>
+              <li>
+                All the videos must be uploaded in our listed channels to ease
+                the selection process.
+              </li>
+              <li>
+                Our company reserves the rights to upload the videos and select
+                the best one.
+              </li>
+              <li>
+                For more updates, please visit our Facebook page, WhatsApp
+                group, and other links.
+              </li>
+            </ul>
+          </div>
+          <div class="modal-footer">
+            <button
+              type="button"
+              class="btn btn-outline-primary"
+              data-dismiss="modal"
+            >
+              Okay
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- signIn -->
+    <div class="modal fade sign-modal" id="signIn" tabindex="-1">
+      <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+          <button
+            type="button"
+            class="close"
+            data-dismiss="modal"
+            aria-label="Close"
+          >
+            <span aria-hidden="true">&times;</span>
+          </button>
+          <div class="modal-body">
+            <div class="row">
+              <div class="col-6">
+                <figure>
+                  <img src="assets/img/cta_img.jpg" alt="" />
+                </figure>
+              </div>
+              <div class="col-6">
+                <form class="login-form">
+                  <h3>Sign In</h3>
+                  <div class="form-group mt-4">
+                    <label for="">Username</label>
+                    <input
+                      type="email"
+                      class="form-control"
+                      id=""
+                      aria-describedby="emailHelp"
+                    />
+                    <small id="emailHelp" class="form-text text-muted"
+                      >We'll never share your email with anyone else.</small
+                    >
+                  </div>
+                  <div class="form-group">
+                    <label for="">Password</label>
+                    <input type="password" class="form-control" id="" />
+                  </div>
+                  <div class="form-group form-check">
+                    <input
+                      type="checkbox"
+                      class="form-check-input"
+                      id="checkMeOut"
+                    />
+                    <label class="form-check-label" for="checkMeOut"
+                      >Check me out</label
+                    >
+                  </div>
+                  <button
+                    type="submit"
+                    class="btn btn-primary btn-lg btn-block mt-5"
+                  >
+                    Submit
+                  </button>
+                </form>
+              </div>
+            </div>
+          </div>
+          <!-- <div class="modal-footer">
+                    <button type="button" class="btn btn-outline-primary" data-dismiss="modal">Okay</button>
+                </div> -->
+        </div>
+      </div>
+    </div>
+
+    <!-- page loader -->
+    <div id="pulse-wrapper">
+      <div id="pulse">
+        <span></span>
+        <!-- Wave 1 -->
+        <span></span>
+        <!-- Wave 2 -->
+      </div>
+    </div>
+
+    <div class="lang-settings">
+      <i class="icofont-settings-alt"></i>
+      <div class="lang-panel">
+        <div class="form-group">
+          <select name="" class="form-control" id="">
+            <option value="">-- Change Language --</option>
+            <option value="">Kannada</option>
+            <option value="">English</option>
+            <option value="">Tamil</option>
+          </select>
+        </div>
+      </div>
+    </div>
+
+    <!-- chat integration popup -->
+    <div id="whatsapp"></div>
+
+    <div class="overlay-menu"></div>
+    <div class="panel-modal menu-modal">
+      <div class="mobile-menu">
+        <h3><i class="icofont-close-line"></i>Main Menu</h3>
+        <ul>
+          <a class="nav-link" data-id="#home">Home</a>
+          <a class="nav-link" data-id="#aboutUs">About us</a>
+          <a class="nav-link" data-id="#awards">Awards</a>
+          <a class="nav-link" href="terms-conditions.html">T&amp;C</a>
+          <a class="nav-link" href="contact.html">Contact us</a>
+          <div class="form-group">
+            <select name="" class="form-control" id="">
+              <option value="">-- Change Language --</option>
+              <option value="">Kannada</option>
+              <option value="">English</option>
+              <option value="">Tamil</option>
+            </select>
+          </div>
+        </ul>
+      </div>
+    </div>
+
+    <div class="panel-modal login-modal">
+      <form
+        name="registration-form-mobile"
+        id="registration-mob"
+        novalidate
+        class="register-form mob-reg"
+        enctype="multipart/form-data"
+      >
+        <h2><i class="icofont-arrow-left"></i>ಈಗಲೇ  ಭಾಗವಹಿಸಿ!</h2>
+        <label class="mand"><span>*</span> ಎಲ್ಲಾ ಆವರಣಗಳು ಕಡ್ಡಾಯವಾಗಿವೆ</label>
+        <div class="row mt-3">
+          <div class="col">
+            <input
+              type="text"
+              class="form-control"
+              id="uname"
+              name="UserName"
+              placeholder="ಹೆಸರು *"
+              required="true"
+            />
+          </div>
+        </div>
+        <div class="row mt-4">
+          <div class="col-12 col-md-12">
+            <input type="tel" class="form-control" value="" name="UserMobile"
+            id="mobileNum" pattern="[0-9]{10}""
+            onKeyPress="if(this.value.length==10) return false;"
+            placeholder="ದೂರವಾಣಿ ಸಂಖ್ಯೆ *" required="true">
+          </div>
+        </div>
+        <div class="row mt-4">
+          <div class="col-12 col-md-12">
+            <input
+              type="email"
+              class="form-control"
+              value=""
+              name="UserEmail"
+              id="emailValid"
+              placeholder="ಇಮೇಲ್ *"
+              pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,4}$"
+              required="true"
+            />
+          </div>
+        </div>
+        <div class="row mt-4">
+          <div class="col">
+            <input
+              type="text"
+              class="form-control"
+              name="UserLocation"
+              placeholder="ಸ್ಥಳ *"
+              required="true"
+            />
+          </div>
+        </div>
+        <div class="row multi-s mt-4">
+          <div class="col-12">
+            <!-- Note the missing multiple attribute! -->
+            <select class="form-control" name="AwardCategory" required="true">
+              <option value="" disabled>Select Award Category</option>
+              <option value="1">Swarna Super Star - Male</option>
+              <option value="2">Swarna Super Star - Female</option>
+              <option value="3">Swarna Star Couple</option>
+              <option value="4">Swarna Comedy Star - Male</option>
+              <option value="5">Swarna Comedy Star - Female</option>
+              <option value="6">Swarna Stars Team - Comedy</option>
+              <option value="7">Swarna Star Social Cause - Team</option>
+              <option value="8">Swarna Star kid</option>
+              <option value="9">Swarna Star Singer</option>
+            </select>
+          </div>
+        </div>
+        <div class="row mt-4">
+          <div class="col">
+            <div class="custom-file">
+              <input
+                type="file"
+                class="custom-file-input"
+                name="UserVideos"
+                id="UserVideos_mobile"
+                accept="video/*"
+                required="true"
+              />
+              <span></span>
+              <label class="custom-file-label">ವೀಡಿಯೋ ಅಪ್ಲೋಡ್ ಮಾಡಿ *</label>
+              <div class="invalid-feedback">Field cannot be empty</div>
+              <div class="hr-bar-wrap">
+                <span class="hr-bar-percent">50%</span>
+                <span class="hr-fill"></span>
+              </div>
+              <div class="file-upload-msg"></div>
+              <small id="emailMobHelp" class="form-text text-muted"
+                >ಫ಼ೈಲ್ ನ ಗಾತ್ರ 120 ಎಮ್ ಬಿ ಯಷ್ಟಿರಬಹುದು</small
+              >
+            </div>
+          </div>
+        </div>
+        <div class="row mt-4 check-tc">
+          <div class="col">
+            <div class="form-group form-check">
+              <input
+                type="checkbox"
+                class="form-check-input"
+                id="tc_mobile"
+                required="true"
+              />
+              <label class="form-check-label" for="tc"
+                >ನಾನು‌ ಎಲ್ಲ
+                <a
+                  data-toggle="modal"
+                  data-target="#terms"
+                  href="terms-conditions.html"
+                  >ನಿಯಮಗಳನ್ನು ಹಾಗೂ ಷರತ್ತುಗಳನ್ನು</a
+                >
+                ಅಂಗೀಕರಿಸುತ್ತೇನೆ. ನೊಂದಣಿ ಶುಲ್ಕ<b>Rs.99</b></label
+              >
+            </div>
+          </div>
+        </div>
+        <button
+          type="submit"
+          id="mobile_submit"
+          class="btn btn-lg btn-primary mt-2"
+        >
+                    ನೊಂದಾಯಿಸಿ!
+        </button>
+        <div class="form-loader">
+          <div class="card-loader">
+            <div
+              class="spinner-border"
+              style="width: 3rem; height: 3rem"
+              role="status"
+            ></div>
+            <span>Proceed to payment</span>
+          </div>
+        </div>
+      </form>
+    </div>
+
+    <div class="progress-modal">
+      <div class="centered c100 p0" id="div_loading_progress">
+        <span id="span_progress">0%</span>
+        <div class="slice">
+          <div class="bar"></div>
+          <div class="fill"></div>
+        </div>
+      </div>
+    </div>
+    <form
+      name="razorform"
+      id="razorform"
+      action="razor-php/charge.php"
+      method="POST"
+    >
+      <input type="hidden" custom="Hidden Element" name="hidden" />
+    </form>
+
+    <script src="assets/js/jquery.min.js"></script>
+    <script src="assets/js/popper.min.js"></script>
+    <script src="assets/js/bootstrap.min.js"></script>
+    <script src="assets/js/venom-button.min.js"></script>
+    <script>
+      const updateProgress = (progress) => {
+        $(".hr-bar-percent").html(progress + "%");
+        $(".hr-fill").css({
+          width: progress + "%",
+          backgroundColor: `rgba(0, 128, 0, ${0.7 + 0.003 * progress})`,
+        });
+      };
+
+      const showHideProgress = (show = true) => {
+        $(".hr-bar-percent").html("0%");
+        $(".hr-fill").css({ width: "0%" });
+
+        if (show) {
+          $(".hr-bar-wrap").show();
+        } else {
+          $(".hr-bar-wrap").hide();
+        }
+      };
+
+      const disableFileUpload = (disable, type = "desktop") => {
+        if (disable) {
+          $(`#UserVideos_${type}`).attr("disabled", "disabled");
+          $(`#${type}_submit`).attr("disabled", "disabled");
+        } else {
+          $(`#UserVideos_${type}`).removeAttr("disabled");
+          $(`#${type}_submit`).removeAttr("disabled");
+        }
+      };
+
+      $(document).ready(function () {
+        if ($(window).width() < 767) {
+          // mobile-register
+          
+          $(".overlay-menu").fadeIn();
+            $("body").css({
+              overflow: "hidden",
+            });
+            $(".login-modal").addClass("open");
+          
+          $(".mobile-register").on("click", function () {
+            $(".overlay-menu").fadeIn();
+            $("body").css({
+              overflow: "hidden",
+            });
+            setTimeout(() => {
+              $(".login-modal").addClass("open");
+            }, 100);
+          });
+
+          $(".mob-reg h2 i").on("click", function () {
+            $(".login-modal").removeClass("open");
+            $("body").css({
+              overflow: "auto",
+            });
+            setTimeout(() => {
+              $(".overlay-menu").fadeOut();
+            }, 100);
+          });
+        }
+        if ($(window).width() < 991) {
+          $(".icofont-navigation-menu").on("click", function () {
+            $(".overlay-menu").fadeIn();
+            $("body").css({
+              overflow: "hidden",
+            });
+            setTimeout(() => {
+              $(".menu-modal").addClass("open");
+            }, 100);
+          });
+
+          $(".mobile-menu h3 i").on("click", function () {
+            $(".menu-modal").removeClass("open");
+            $("body").css({
+              overflow: "auto",
+            });
+            setTimeout(() => {
+              $(".overlay-menu").fadeOut();
+            }, 100);
+          });
+          $(".mobile-menu .nav-link").on("click", function () {
+            $("body").css({
+              overflow: "auto",
+            });
+            $(".nav-link").removeClass("active");
+            $(this).addClass("active");
+            let id = $(this).data("id");
+            let posTop = $(id).position().top - $(".navbar").height();
+            if (id) {
+              $("html, body").animate(
+                {
+                  scrollTop: posTop,
+                },
+                "slow"
+              );
+              $(".panel-modal").removeClass("open");
+              setTimeout(() => {
+                $(".overlay-menu").fadeOut();
+              }, 200);
+            }
+          });
+
+          $(window).scroll(function () {
+            $(".mobile-menu a[data-id]").each(function (e) {
+              let topId = $(this).data("id");
+              let offDiv = $(topId).offset().top - 100;
+              if ($(window).scrollTop() >= offDiv) {
+                $(".nav-link").removeClass("active");
+                $(this).addClass("active");
+              }
+            });
+            if (
+              $(window).scrollTop() >=
+              $(".video-wrapper").offset().top - 80
+            ) {
+              $("#vid")[0].play();
+            }
+          });
+        }
+
+        $(".lang-settings>i").click(function () {
+          $(".lang-settings").toggleClass("active");
+        });
+
+        $("#whatsapp").venomButton({
+          phone: "+918105556019",
+          popupMessage: "Hello, how can we help you?",
+          message: "Hai! SwarnaAwards!",
+          showPopup: true,
+          position: "right",
+          linkButton: false,
+          showOnIE: true,
+          headerTitle: "Welcome!",
+          headerColor: "#25d366",
+          backgroundColor: "#25d366",
+          buttonImage: '<img src="assets/img/q-a.svg" alt="">',
+        });
+
+        $(".regForm").click(function (event) {
+          setTimeout(() => {
+            $(".form-loader").fadeOut();
+          }, 600);
+        });
+
+        if ($(window).width() > 992) {
+          $(".nav-link").on("click", function () {
+            let id = $(this).data("id");
+            let posTop = $(id).position().top - $(".menu-bar").height();
+            $(".nav-link").removeClass("active");
+            $(this).addClass("active");
+            if (id) {
+              $("html, body").animate(
+                {
+                  scrollTop: posTop,
+                },
+                "slow"
+              );
+            }
+          });
+
+          $(window).scroll(function () {
+            if ($(window).scrollTop() > 100) {
+              $(".menu-bar").addClass("fixed-nav");
+            } else {
+              $(".menu-bar").removeClass("fixed-nav");
+            }
+            $(".navbar-nav a[data-id]").each(function (e) {
+              let topId = $(this).data("id");
+              let offDiv = $(topId).offset().top - 100;
+              if ($(window).scrollTop() >= offDiv) {
+                $(".nav-link").removeClass("active");
+                $(this).addClass("active");
+              }
+            });
+
+            if (
+              $(window).scrollTop() >=
+              $(".video-wrapper").offset().top - 80
+            ) {
+              $("#vid")[0].play();
+            }
+          });
+
+          $(".register-form input").focus(function () {
+            $(".mand").addClass("animate__animated animate__shakeX");
+          });
+        }
+        $(".focus_name").click(function () {
+          $("html, body").animate(
+            {
+              scrollTop: 0,
+            },
+            "slow"
+          );
+          setTimeout(function () {
+            $(".mand").addClass("animate__animated animate__shakeX");
+            $("#uname").focus();
+          }, 300);
+        });
+
+        // $('.video-tag').click(function() {
+        //     document.getElementById('vid').play();
+        // })
+        // $('.custom-modal .close').click(function() {
+        //     document.getElementById('vid').pause();
+        // })
+      });
+
+      // page loader
+      $(window).on("load", function () {
+        setTimeout(function () {
+          $("body").css({
+            overflow: "auto",
+          });
+          $("#pulse-wrapper").fadeOut();
+
+          $(".lang-settings").addClass("active");
+          setTimeout(function () {
+            $(".lang-settings").removeClass("active");
+          }, 3000);
+        }, 2000);
+      });
+
+      $("#desktop_submit").click(function (event) {
+        event.preventDefault();
+        event.stopPropagation();
+
+        // Fetch form to apply custom Bootstrap validation
+        var form = $("#registration-desktop");
+
+        if (form[0].checkValidity() === false) {
+          form.addClass("was-validated");
+          return;
+        }
+
+        form.addClass("was-validated");
+        // Perform ajax submit here...
+
+        const formData = new FormData(form[0]);
+        formData.delete("UserVideos");
+        formData.append("fid", $("#UserVideos_desktop").attr("data-fid"));
+
+        $.ajax({
+          type: "POST",
+          url: "./registration.php",
+          data: formData,
+          contentType: false,
+          cache: false,
+          processData: false,
+          beforeSend: () => {
+            $(".form-loader").fadeIn();
+          },
+          error: (error) => {
+            $(".form-loader").fadeOut();
+            alert("Something went wrong, please try again later");
+          },
+          success: (response) => {
+            $(".form-loader").fadeOut();
+            if (response.success && response.location) {
+              // window.location.href = response.location;
+
+              let myScript = document.createElement("script");
+              myScript.setAttribute(
+                "src",
+                "https://checkout.razorpay.com/v1/checkout.js"
+              );
+              myScript.setAttribute("data-key", response.razorApiKey);
+              myScript.setAttribute("data-amount", "9900");
+              myScript.setAttribute("data-currency", "INR");
+              myScript.setAttribute("data-image", "https://swarnaawards.com/assets/img/swarna-logo-small.png");
+              myScript.setAttribute("data-name", "Swarna Awards");
+              myScript.setAttribute("data-buttontext", "Pay with Razorpay");
+              myScript.setAttribute("data-description", "Participation Fees");
+              myScript.setAttribute(
+                "data-prefill.email",
+                response.razorPrefillEmail
+              );
+              myScript.setAttribute(
+                "data-prefill.contact",
+                response.razorPrefillMobile
+              );
+              myScript.setAttribute("async", "false");
+
+              document.getElementById("razorform").appendChild(myScript);
+
+              myScript.addEventListener("load", razorScriptLoaded, false);
+
+              function razorScriptLoaded() {
+                console.log("Razor Script is ready to rock and roll!");
+                jQuery(".razorpay-payment-button").click();
+              }
+            } else {
+              alert(response.message);
+            }
+          },
+        });
+      });
+
+      $("#mobile_submit").click(function (event) {
+        event.preventDefault();
+        event.stopPropagation();
+        // Fetch form to apply custom Bootstrap validation
+        var form = $("#registration-mob");
+
+        if (form[0].checkValidity() === false) {
+          form.addClass("was-validated");
+          return;
+        }
+
+        form.addClass("was-validated");
+
+        // Perform ajax submit here...
+
+        const formData = new FormData(form[0]);
+        formData.append("fid", $("#UserVideos_mobile").attr("data-fid"));
+        formData.delete("UserVideos");
+
+        $.ajax({
+          type: "POST",
+          url: "./registration.php",
+          data: formData,
+          contentType: false,
+          cache: false,
+          processData: false,
+          beforeSend: () => {},
+          error: (error) => {
+            alert("Something went wrong, please try again later");
+          },
+          success: (response) => {
+            if (response.success && response.location) {
+              // window.location.href = response.location;
+
+              let myScript = document.createElement("script");
+              myScript.setAttribute(
+                "src",
+                "https://checkout.razorpay.com/v1/checkout.js"
+              );
+              myScript.setAttribute("data-key", response.razorApiKey);
+              myScript.setAttribute("data-amount", "9900");
+              myScript.setAttribute("data-currency", "INR");
+              myScript.setAttribute("data-name", "Swarna Awards");
+              myScript.setAttribute("data-buttontext", "Pay with Razorpay");
+              myScript.setAttribute("data-description", "Participation Fees");
+              myScript.setAttribute(
+                "data-prefill.email",
+                response.razorPrefillEmail
+              );
+              myScript.setAttribute(
+                "data-prefill.contact",
+                response.razorPrefillMobile
+              );
+              myScript.setAttribute("async", "false");
+
+              document.getElementById("razorform").appendChild(myScript);
+
+              myScript.addEventListener("load", razorScriptLoaded, false);
+
+              function razorScriptLoaded() {
+                console.log("Razor Script is ready to rock and roll!");
+                jQuery(".razorpay-payment-button").click();
+              }
+            } else {
+              alert(response.message);
+            }
+          },
+        });
+      });
+
+      $("#UserVideos_desktop").change(function (event) {
+        var fileName = event.target.files[0].name;
+
+        $("#UserVideos_desktop").attr("data-fid", "");
+
+        const formData = new FormData();
+        formData.append("UserVideos", event.target.files[0]);
+
+        $.ajax({
+          type: "POST",
+          url: "./uploadHandler.php",
+          data: formData,
+          contentType: false,
+          cache: false,
+          processData: false,
+          beforeSend: () => {
+            showHideProgress();
+            disableFileUpload(true, "desktop");
+            $(".file-upload-msg").hide();
+          },
+          error: (error) => {
+            if(error.responseJSON && error.responseJSON.message && error.responseJSON.message.includes('file type') ){
+              alert("File format is invalid (or) file too large. Please select a different file.");   
+            } else {
+              alert("Something went wrong, please try again later");
+            }
+            showHideProgress(false);
+            disableFileUpload(false, "desktop");
+          },
+          xhr: () => {
+            const xhr = new window.XMLHttpRequest();
+            xhr.upload.addEventListener(
+              "progress",
+              function (evt) {
+                if (evt.lengthComputable) {
+                  const percentComplete = Math.round(
+                    (evt.loaded / evt.total) * 100
+                  );
+                  updateProgress(percentComplete);
+                }
+              },
+              false
+            );
+            return xhr;
+          },
+          success: (response) => {
+            showHideProgress(false);
+            disableFileUpload(false, "desktop");
+            if (response.success) {
+              $(".file-upload-msg").show();
+              $(".file-upload-msg").html(response.message);
+              $("#UserVideos_desktop").attr("data-fid", response.fid);
+            }
+          },
+        });
+
+        if (event.target.nextElementSibling != null) {
+          //event.target.nextElementSibling.innerText=fileName;
+          $("#emailHelp").html(fileName);
+        }
+      });
+
+      $("#UserVideos_mobile").change(function (event) {
+        var fileName = event.target.files[0].name;
+
+        $("#UserVideos_mobile").attr("data-fid", "");
+
+        const formData = new FormData();
+        formData.append("UserVideos", event.target.files[0]);
+
+        $.ajax({
+          type: "POST",
+          url: "./uploadHandler.php",
+          data: formData,
+          contentType: false,
+          cache: false,
+          processData: false,
+          beforeSend: () => {
+            showHideProgress();
+            $(".file-upload-msg").hide();
+            disableFileUpload(true, "mobile");
+          },
+          error: (error) => {
+            if(error.responseJSON && error.responseJSON.message && error.responseJSON.message.includes('file type') ){
+              alert("File format is invalid (or) file too large. Please select a different file.");   
+            } else {
+              alert("Something went wrong, please try again later");
+            }
+            showHideProgress(false);
+            disableFileUpload(false, "mobile");
+          },
+          xhr: () => {
+            const xhr = new window.XMLHttpRequest();
+            xhr.upload.addEventListener(
+              "progress",
+              function (evt) {
+                if (evt.lengthComputable) {
+                  const percentComplete = Math.round(
+                    (evt.loaded / evt.total) * 100
+                  );
+                  updateProgress(percentComplete);
+                }
+              },
+              false
+            );
+            return xhr;
+          },
+          success: (response) => {
+            showHideProgress(false);
+            disableFileUpload(false, "mobile");
+            if (response.success) {
+              $(".file-upload-msg").show();
+              $(".file-upload-msg").html(response.message);
+              $("#UserVideos_mobile").attr("data-fid", response.fid);
+            }
+          },
+        });
+
+        if (event.target.nextElementSibling != null) {
+          //event.target.nextElementSibling.innerText=fileName;
+          $("#emailMobHelp").html(fileName);
+        }
+      });
+    </script>
+  </body>
+</html>

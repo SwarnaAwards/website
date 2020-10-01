@@ -1,0 +1,956 @@
+Return-Path: <bounces+1664773-2ec9-info=successassociates.in@n.aasaanjobs.com>
+Delivered-To: info@successassociates.in
+Received: from sg3plcpnl0078.prod.sin3.secureserver.net
+	by sg3plcpnl0078.prod.sin3.secureserver.net with LMTP id 0O1yM2SxZlze1xAAUghlVg
+	for <info@successassociates.in>; Fri, 15 Feb 2019 05:32:36 -0700
+Return-path: <bounces+1664773-2ec9-info=successassociates.in@n.aasaanjobs.com>
+Envelope-to: info@successassociates.in
+Delivery-date: Fri, 15 Feb 2019 05:32:36 -0700
+Received: from o198216x97.outbound-mail.sendgrid.net ([198.21.6.97]:28840)
+	by sg3plcpnl0078.prod.sin3.secureserver.net with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.91)
+	(envelope-from <bounces+1664773-2ec9-info=successassociates.in@n.aasaanjobs.com>)
+	id 1gucfP-004m4P-N4
+	for info@successassociates.in; Fri, 15 Feb 2019 05:32:36 -0700
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; d=aasaanjobs.com; 
+	h=content-transfer-encoding:content-type:from:mime-version:reply-to:to:subject; 
+	s=s1; bh=HqdGruRwrtGUZY2609v/EWE9GXY=; b=P0j1SKMDlLZqyDO2yJ6nVv1
+	zcPxadqt/+oVmb0XFK3PV7UsUQYJOqlxjJwsGYXREfm3zFjGitJpE7Ar+0pvNp9F
+	JY6yqsuncuEPBHY3GnYvN15N3mNGjkAaicdQsz2dSWlKtexwwRMQjDVAh3VXlhws
+	CCRLZUyAtVMN+YQOrXH8=
+Received: by filter0044p3las1.sendgrid.net with SMTP id filter0044p3las1-8257-5C66B135-3
+        2019-02-15 12:31:49.423410343 +0000 UTC m=+38360.114209552
+Received: from MTY2NDc3Mw (73.245.200.35.bc.googleusercontent.com [35.200.245.73])
+	by ismtpd0006p1hnd1.sendgrid.net (SG) with HTTP id t9fPMWy6Rya2PiApJxe6xg
+	Fri, 15 Feb 2019 12:31:48.783 +0000 (UTC)
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 15 Feb 2019 12:31:49 +0000 (UTC)
+From: "Arzaan Wadia" <arzaan.wadia@aasaanjobs.com>
+Mime-Version: 1.0
+Reply-to: "Arzaan Wadia" <arzaan.wadia@aasaanjobs.com>
+To: info@successassociates.in
+Message-ID: <t9fPMWy6Rya2PiApJxe6xg@ismtpd0006p1hnd1.sendgrid.net>
+Subject: Interviews | Delivery Man | 15 Feb, 19
+X-SG-EID: O/CNMu1VWAhooWuHTIQmNzsJmwtfThVfoKhGvTa+Nbizuw0oy3dYntbmi74iV7qXt0RTca9bVeib2S
+ N6tJpsCghHQWlv54c0aV63PoJlEjJY682LZBcXQ2SDak9c453bykOr6OKXC7Hu30WJ1qs6B/yx6c61
+ NRv2ZFlAaiU6P2QjduOg+a5WROaT6wWNhM0vy3dT24nyeFZIhmCm7ANfc59+vOM9MY7RAmUI1DKlx3
+ A=
+X-SG-ID: gnwugAPEk90ONPODfP9NuzK2URMWkwD8L1I/1i9jgPeI2PIVxRthuPVi6J6etAl58z2iPOHwY8T6H5
+ voEEQBiM0UGSZi8+w9Nv96JdteFjYKCFJVjw6C6xeaRtUtaS3g62y4KuAxXVxFvPmRr4x2VMi5cksG
+ p2/cHbEdEJq4IPROnDOVMPYMcBRC90mP3P9GeHHXxBWHTyLcsYAuMfEpt21KL2Rv1SzbEWPo+ByDWK
+ I=
+X-Spam-Status: No, score=2.6
+X-Spam-Score: 26
+X-Spam-Bar: ++
+X-Ham-Report: Spam detection software, running on the system "sg3plcpnl0078.prod.sin3.secureserver.net",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  Your job, Delivery Man had 4 Interviews Lined up Today Face
+    to Face Interview [...] 
+ 
+ Content analysis details:   (2.6 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 SURBL_BLOCKED          ADMINISTRATOR NOTICE: The query to SURBL was blocked.
+                             See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: sendgrid.net]
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+                             See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: sendgrid.net]
+  0.5 KAM_NUMSUBJECT         Subject ends in numbers
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  1.1 MIME_HTML_ONLY         BODY: Message only has text/html MIME parts
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  0.0 HTML_FONT_LOW_CONTRAST BODY: HTML font color similar or identical to
+                             background
+  1.1 KAM_REALLYHUGEIMGSRC   RAW: Spam with image tags with ridiculously huge
+                              http urls
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily valid
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from author's
+                             domain
+  0.0 T_REMOTE_IMAGE         Message contains an external image
+X-Spam-Flag: NO
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org=
+/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+  <head>
+    <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=
+=3D1">
+    <style type=3D"text/css">
+      @media only screen and (max-width:480px) {
+      .footer-table td {
+      width: 100% !important;
+      display: block;
+      }
+      .visitor-block {
+      margin: 32px 0 35px 0;
+      }
+      .main-plan-block {
+      padding-bottom: 20px !important;
+      }
+      /*     .matching-candidate-caption {
+      margin: 0 10px !important;
+      }*/
+      .details-caption {
+      width: 1% !important;
+      font-size: 0;
+      padding: 0 !important;
+      }
+      .premium-plan td{
+      width: 100% !important;
+      display: block !important;
+      text-align: left !important;
+      }
+      .premium-plan-caption {
+      width: 60% !important;=20
+      }
+      .premium-plan-snipet{
+      width: 100%;
+      margin-bottom: 16px !important;=20
+      }
+      .matching-candidate-snipet {
+      width: 90% !important;
+      }
+      .interview-table td {
+        width: 80% !important;=20
+        display: block;
+        padding: 10px 10px 10px 32px !important;
+      }
+      table.candidate-details td {
+        width: 20% !important;
+        display: table-cell !important;
+      }
+      table.candidate-details td:first-child div{
+        padding-right: 0 !important;
+      }
+      table.candidate-details td:last-child div{
+        padding-right: 20px !important;
+      }
+      .candidate-data td {
+        width: 100% !important;
+        display: block;
+      }=20
+      .candidate-work-details {
+        padding-left: 32px !important;
+      }
+      .cta-section a {
+        margin-right: 0 !important;
+        margin-bottom: 12px !important;
+      }
+      .line-up-block p {
+        margin-top: 0 !important;
+      }
+      .right-details {
+        float: right;
+      }
+      .apply-cta {
+        padding:  0 0 20px 32px !important;
+      }
+      .apply-cta a{=20
+        margin-right: 8px !important;
+      }=20
+      }
+    </style>
+  </head>
+  <body style=3D"background-color:#fff;align-items:center;font-family: 'Hel=
+vetica Neue', Helvetica,arialmt, Arial, sans-serif">
+    <div class=3D"center_content" style=3D"display:block;margin-left:auto;m=
+argin-right:auto;max-width:600px;">
+      <img src=3D"https://s3-ap-southeast-1.amazonaws.com/aasaan-notificati=
+ons/emailer-images/partner-feature-mail/logotype.png" style=3D"display:bloc=
+k;height:20px;margin:50px 0 32px 0;margin-left:auto;margin-right:auto;objec=
+t-fit:contain;width:132px" id=3D"logotype" alt=3D"logotype.png">
+    </div>
+    <div class=3D"container" style=3D"background-color:#fff;border:1px soli=
+d #eee;display:block;margin-left:auto;margin-right:auto;max-width:600px;">
+      <!-- hero banner starts here -->
+      <div class=3D"hero-banner" style=3D"background-color: #f7f8fa;padding=
+: 30px 32px 48px;text-align: center;">
+        <p class=3D"matching-candidate-snipet" style=3D"margin:0 auto 8px;c=
+olor: #3d4351;line-height: 1.67;font-size: 14px;">Your job, Delivery Man ha=
+d</p>
+        <p class=3D"matching-candidate-caption" style=3D"margin:0 0 30PX 0;=
+text-align: center;color: #3d4351;line-height: 1.6;font-size: 20px;font-wei=
+ght: bold;">4 Interviews Lined up Today</p>
+        <table class=3D"interview-table" style=3D"width: 100%;border-collap=
+se: collapse;background-color: #fff;border:1px solid #eee;" border=3D"0" ce=
+llpadding=3D"0" cellspacing=3D"0" >
+          <tr style=3D"text-align: left;">
+            <td class=3D"job-details" style=3D"vertical-align: middle;paddi=
+ng: 10px 10px 10px 20px;width: 50%">
+              <div style=3D"display: inline-block;vertical-align: top;margi=
+n-right: 10px;margin-top: 15px;">
+                <img src=3D"https://s3-ap-southeast-1.amazonaws.com/static.=
+aasaanjobs.com/static/images/telephone.png" alt=3D"" />
+              </div>
+              <div style=3D"display: inline-block;vertical-align: middle;te=
+xt-align: left;">
+                <p style=3D"font-weight: bold;margin:2px 0;color: #3d4351;l=
+ine-height: 1.67;font-size: 12px;">Face to Face Interview</p>
+                <p style=3D"margin:2px 0;color: #607286;line-height: 1.43;f=
+ont-size: 12px;">
+                  15 Feb, 2019
+                  , 08:00 AM to 05:00 PM
+                </p>
+                <p style=3D"margin:2px 0;color: #607286;line-height: 1.43;f=
+ont-size: 12px;">
+                  30 minutes each
+                </p>
+              </div>
+            </td>
+            <td class=3D"job-details" style=3D"vertical-align: middle;paddi=
+ng: 10px 10px 10px 0;width: 50%">
+              <div style=3D"display: inline-block;vertical-align: top;margi=
+n-right: 10px;margin-top: 15px;">
+                <img src=3D"https://s3-ap-southeast-1.amazonaws.com/static.=
+aasaanjobs.com/static/images/building.png" alt=3D"" />
+              </div>
+              <div style=3D"display: inline-block;vertical-align: middle;te=
+xt-align: left;width: 80%;">
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                <p style=3D"font-weight: bold;margin:2px 0;color: #3d4351;l=
+ine-height: 1.67;font-size: 12px;">Address</p>
+                <p style=3D"margin:2px 0;color: #607286;line-height: 1.43;f=
+ont-size: 12px;">
+                  151, 1st floor, 4th Cross, 7th Main, Rpc layout Main road=
+, vijayanagar 2nd stage, Hampinagar 560104
+                </p>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                <!-- <p style=3D"margin:2px 0;color: #607286;line-height: 1=
+.43;font-size: 12px;">
+                  Unit No. 4, B Wing, Krislon House
+                  </p> -->
+              </div>
+            </td>
+          </tr>
+        </table>
+      </div>
+      <!-- Hero banner ends here -->
+      <!-- candidate list  starts here -->
+      <table style=3D"width: 100%;border-collapse: collapse;" border=3D"0" =
+cellpadding=3D"0" cellspacing=3D"0" class=3D"candidate-data">
+        <thead style=3D"text-align: left;background-color: #01b8c5;color: #=
+fff;font-size: 14px;line-height: 1.43;font-weight: bold;">
+          <tr>
+            <th style=3D"width: 50%;padding: 6px 32px;">
+              <span>Candidate</span>
+            </th>
+            <th style=3D"width: 50%;padding: 6px 32px 6px 0;" class=3D"deta=
+ils-caption">
+              <span>Details</span>
+            </th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr style=3D"border-bottom: 1px solid #eee">
+            <td style=3D"vertical-align: top;">
+              <div style=3D"padding: 12px 0 0 32px;">
+                <p style=3D"margin:2px 0;color: #0897a1;line-height: 1.43;f=
+ont-size: 14px;font-weight: 600">
+                  <a href=3D"https://u1664773.ct.sendgrid.net/wf/click?upn=
+=3Dsjt-2B7uNFuT-2FbZAMb1Lpd8BMA38Ezvc95GIEcQ-2Fa0ZOi2-2BpKQkQnagTRVhf0tfckY=
+krDoNMeykYpjEhDwSUrLPLQKM-2BlSo0VazdgFzjAVwG1pKpXJvZZCx42vbLmfhpLOMPb-2B3O-=
+2FEBJ2PrJ-2FAQpqsN0AL0FRdpNvTcleCpEkFAUMj9qgrntVzpBsmvzMAJpzUb0gJ-2BDe7ISZR=
+ngIPXiUgli7lsT6zZ4xQIipNiFOtXLJI-2B3mkhD-2FiPf4MnFQAwXF5DGFTCJJR0i6uzLKSURJ=
+2nXF5b4RJbzn9hwV0EP59iPDU34vH24YbXl02utM-2FZ-2BcMEyTMglldiDKafUfpCMF8lrCseM=
+VEGmhZ2m8zUR8u9AqRlsSQZxpUuglHvtbZjoGessznRSI5oXfS7FEZVNOmNo3RgFTclDtMD6tYL=
+msM0SI-3D_VxlAuX98jGTImtRfy8qSMjxfPST58bUH44FH8gukAsqebeueT7cMeQeEArXYtrNui=
+acdeFfFgIn5SFQs-2FAFoXvuPTxgcm73quK2z-2BS1BNviMP2legbKuvKgwRrOOjTKJqPUaAZkp=
+nNjaoAufiRLfqgVsW9nMJ9LiSYmeNgn0YqOmrqYgMrCqnUVN4P6JQRExv0X8RXjcAVAPXXO-2FP=
+cSakkZj3leC7XHPEAKYk-2FmpRImK5tV1kTjKKh3vV27uBfd2X3J7jG-2Fu4JC9v2FItZfvpEwW=
+E5OFxmqF0sjRdnJiwmkYtFb-2FCcrRcH1rEOmiGJnIpmaUz1-2BkLAk04fWoqgRR7UapPOPHhMN=
+3bmgW1ohHo6iM69dSMBDtYAFi7BatyyJ-2FkDPfDvg3l5dMC5-2FlrKvMc8GBk6auEiHumMwujx=
+NDguTtHBs6wkFMdcRpB4QV17HR" style=3D"margin: 0 0 8px 0;color: #1f91cc;font-=
+weight: bold;font-size:12px;text-decoration: none;">
+                  Saachin Shetty
+                  </a>
+                </p>
+                <p style=3D"margin:5px 0;color: #607286;line-height: 1.43;f=
+ont-size: 12px;">
+                  Annapurneshwari Nagar, Bengaluru=20
+                </p>
+                <p style=3D"margin:2px 0;color: #607286;line-height: 1.43;f=
+ont-size: 12px;">=20
+                  Not Specified/ Not Specified, Not Specified
+                </p>
+              </div>
+            </td>
+            <td style=3D"vertical-align: top;">
+              <table style=3D"width: 100%;border-collapse: collapse;" borde=
+r=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"candidate-details">
+                <tr>
+                  <td>
+                    <div style=3D"padding: 12px 12px 15px 0;" class=3D"cand=
+idate-work-details">
+                      <p style=3D"margin:2px 0;color: #607286;line-height: =
+1.43;font-size: 12px;">
+                        Experience:=20
+                        <span>
+                        Fresher
+                        </span>
+                      </p>
+                      <p style=3D"margin:2px 0;color: #607286;line-height: =
+1.43;font-size: 12px;">
+                        Current:=20
+                        <span>Not Specified</span>
+                      </p>
+                      <p style=3D"margin:2px 0;color: #607286;line-height: =
+1.43;font-size: 12px;">
+                        Notice: <span>NA</span>
+                      </p>
+                    </div>
+                  </td>
+                  <td style=3D"vertical-align: top; font-size: 12px;">
+                    <div class=3D"right-details" style=3D"text-align: right=
+;padding: 15px 32px 15px 0;">
+                    <p style=3D"margin: 0 0 8px 0;color: #3d4351;font-weigh=
+t: bold;">
+                      <img src=3D"https://s3-ap-southeast-1.amazonaws.com/s=
+tatic.aasaanjobs.com/static/images/clock.png" alt=3D""  style=3D"vertical-a=
+lign: middle;" />
+                      <span style=3D"display: inline-block; vertical-align:=
+ middle;">04:30 PM</span>
+                    </p>
+                    <!-- <p style=3D"margin: 0 0 8px 0;color: #1f91cc;font-=
+weight: bold;">
+                      <a href=3D"https://u1664773.ct.sendgrid.net/wf/click?=
+upn=3Dsjt-2B7uNFuT-2FbZAMb1Lpd8BMA38Ezvc95GIEcQ-2Fa0ZOi2-2BpKQkQnagTRVhf0tf=
+ckYkrDoNMeykYpjEhDwSUrLPLQKM-2BlSo0VazdgFzjAVwG1pKpXJvZZCx42vbLmfhpLOMPb-2B=
+3O-2FEBJ2PrJ-2FAQpqsN0AL0FRdpNvTcleCpEkFAUMj9qgrntVzpBsmvzMAJpzUb0gJ-2BDe7I=
+SZRngIPXiUgli7lsT6zZ4xQIipNiFOtXLJI-2B3mkhD-2FiPf4MnFQAwXF5DGFTCJJR0i6uzLKS=
+URJ2nXF5b4RJbzn9hwV0EP59iPDU34vH24YbXl02utM-2FZ-2BcMEyTMglldiDKafUfpCMF8lrC=
+seMVEGmhZ2m8zUR8u9AqRlsSQZxpUuglHvtbZjoGessznRSI5oXfS7FEZVNOmNo3RgFTclDtMD6=
+tYLmsM0SI-3D_VxlAuX98jGTImtRfy8qSMjxfPST58bUH44FH8gukAsqebeueT7cMeQeEArXYtr=
+NuiacdeFfFgIn5SFQs-2FAFoXvuPTxgcm73quK2z-2BS1BNviMP2legbKuvKgwRrOOjTKJqPUaA=
+ZkpnNjaoAufiRLfqgVsW9nMJ9LiSYmeNgn0YqOmrqYgMrCqnUVN4P6JQRExv0X8RXjcAVAPXXO-=
+2FPcSakkZj3leC7XHPEAKYk-2FmpRIlkurEseGQgW3fJ9wR-2FDyWpReqbOwrIdiwitEiDkOjQD=
+yXZlggxZ6C7ehp3YSryxcpkuvwgP8peV1grNoOYIsM9XN-2BzIxskrjdVbOnQ6NgDq5Es-2FwgB=
+CDYLlNLsmvI-2B6hMN33zSFzHcP0sP-2FUPTKVFTWGT7xQHOlE3P3VyOxX3ZFUxEg5rGMrLooN8=
+IpXN1Hj6uNilvcy3sbfYn65qhmeNb" style=3D"margin: 0 0 8px 0;color: #1f91cc;fo=
+nt-weight: bold;font-size:12px;text-decoration: none;">
+                        <img src=3D"https://s3-ap-southeast-1.amazonaws.com=
+/static.aasaanjobs.com/static/images/document-icon.png" alt=3D""  style=3D"=
+vertical-align: middle;" />
+                        <span style=3D"display: inline-block; vertical-alig=
+n: middle;">Veiw CV</span>
+                      </a>
+                      </p> -->
+                    </div>
+                  </td>
+                </tr>
+                <tr>
+                  <td colspan=3D"2" class=3D"apply-cta" style=3D"padding:0 =
+0 20px 0;">
+                    <a href=3Dhttps://u1664773.ct.sendgrid.net/wf/click?upn=
+=3Dsjt-2B7uNFuT-2FbZAMb1Lpd8BMA38Ezvc95GIEcQ-2Fa0ZOi2-2BpKQkQnagTRVhf0tfckY=
+SZGKaPlKKLDSE2YM-2Fr7dp-2BlQT-2BEFW8pIPXhr57n1mXSdeli9ZGurvEYOqy-2FdP9xLE6P=
+nh0xa9cUCv3Vbz7Kz3-2FdSITKAYeoQ25KoyWYIhUibIvwZeR9TRoJfFBC6vmdWcxgRdeeb1tZ-=
+2BEJov6sOuS6UCwQccA9sxj9apzHU6AvIAOB1tlSz12F-2FTft-2Bo6wb4ReI-2BkEQVuuFYlpS=
+7KfFhKNLS6hGz6E6nUtsFkPSRt6mOKeCKJ-2BMNSotpSO1zLR1O734SwvxC3HxB9FboNPa-2B9i=
+ZQnglSc9j8VazU1WjMBqGMidaCT8QX40IQwV1s5IAJfm8J-2BtoyW3L6vu5C5F8HmhOKmAwP72G=
+zC8TVA3vOoDf7dStsErWcy6zl9QifeXNDq8b6D-2BAExHaEJ0oTaPkr26-2BSjYqRsl8dc4Du-2=
+B2O-2Ffck-3D_VxlAuX98jGTImtRfy8qSMjxfPST58bUH44FH8gukAsqebeueT7cMeQeEArXYtr=
+NuiacdeFfFgIn5SFQs-2FAFoXvuPTxgcm73quK2z-2BS1BNviMP2legbKuvKgwRrOOjTKJqPUaA=
+ZkpnNjaoAufiRLfqgVsW9nMJ9LiSYmeNgn0YqOmrqYgMrCqnUVN4P6JQRExv0X8RXjcAVAPXXO-=
+2FPcSakkZj3leC7XHPEAKYk-2FmpRIm9tgyPHfEGysWml8fnizWryDVZ8bpZ-2BW6X8TrYkSa0F=
+LhYFT7YM0gvhljI-2FnIyjE-2BwJM5h79g-2F8-2B8P915YPFGfb5sRBIUcZ8Cr5VMk6rDePP7f=
+QU8E6eIC68GRtjUUbnBzKGyhuhrizBAepCwaRRvcEIa5su7dLt-2FQj5BR-2Bndp7Wh0psvL0Mb=
+D79tyx8SFlWhDPjXBnM-2BBm6b9csrU0Sfw style=3D"border-radius:2px;min-width:10=
+0px;border:1px solid #4caf50;color:#fff;font-size:14px;font-style:normal;fo=
+nt-weight:600;padding:8px;text-align:center;display:inline-block;text-decor=
+ation:none;background: #4caf50;margin-right: 8px;"> Select
+                    </a>
+                    <a href=3Dhttps://u1664773.ct.sendgrid.net/wf/click?upn=
+=3Dsjt-2B7uNFuT-2FbZAMb1Lpd8BMA38Ezvc95GIEcQ-2Fa0ZOi2-2BpKQkQnagTRVhf0tfckY=
+SZGKaPlKKLDSE2YM-2Fr7dp-2BlQT-2BEFW8pIPXhr57n1mXSdeli9ZGurvEYOqy-2FdP9xLE6P=
+nh0xa9cUCv3Vbz7Kz3-2FdSITKAYeoQ25KoyWYIhUibIvwZeR9TRoJfFBC6vmdWcxgRdeeb1tZ-=
+2BEJov6sOuS6UCwQccA9sxj9apzHU6AvIAOB1tlSz12F-2FTft-2Bo6wb4ReI-2BkEQVuuFYlpS=
+7KfFhKNLS6hGz6E6nUtsFkPSRt6mOKeCKJ-2BMNSotpSO1zLR1O734SwvxC3HxB9FboNPa-2B9i=
+ZQnglSc9j8VazU1WjMBqGMidaCT8QX40IQwV1s5IAJfm8J-2BtoyW3L6vu5C5F8HmhOKmAwP72G=
+zC8TVA3vOoDf7dStsErWcy6zl9QifeXNDq8b6D-2BAExHaEJ0oTaPkr26-2BSjYqRsl8dc4Du-2=
+B2O-2Ffck-3D_VxlAuX98jGTImtRfy8qSMjxfPST58bUH44FH8gukAsqebeueT7cMeQeEArXYtr=
+NuiacdeFfFgIn5SFQs-2FAFoXvuPTxgcm73quK2z-2BS1BNviMP2legbKuvKgwRrOOjTKJqPUaA=
+ZkpnNjaoAufiRLfqgVsW9nMJ9LiSYmeNgn0YqOmrqYgMrCqnUVN4P6JQRExv0X8RXjcAVAPXXO-=
+2FPcSakkZj3leC7XHPEAKYk-2FmpRImCFQ4HfPe52ILq0qlHdzKkwBhZijRjp2qrUUBSKHNgIpU=
+dRLeVislzit4lJfbB1Rb7JJ-2FruqO5pWae-2BDUEpjncXFW2UL4PSRDGdUXwEEcIOn-2Fg1IRQ=
+UIxdMJqYDmk0ksgiQHIYw6sI9FX-2BWlnLacuNJRR0OZReTYdUeJJUCmbD-2F0mXMBxbDI-2BFL=
+MNQDMMiUDSGnimjBSpLGpwE1ZsTCUij style=3D"border-radius:2px;min-width:100px;=
+border:1px solid#4caf50;color:#4caf50;font-size:14px;font-style:normal;font=
+-weight:600;padding:8px;text-align:center;display:inline-block;text-decorat=
+ion:none;"> Reject
+                    </a>
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>=20=20
+          <tr style=3D"border-bottom: 1px solid #eee">
+            <td style=3D"vertical-align: top;">
+              <div style=3D"padding: 12px 0 0 32px;">
+                <p style=3D"margin:2px 0;color: #0897a1;line-height: 1.43;f=
+ont-size: 14px;font-weight: 600">
+                  <a href=3D"https://u1664773.ct.sendgrid.net/wf/click?upn=
+=3Dsjt-2B7uNFuT-2FbZAMb1Lpd8BMA38Ezvc95GIEcQ-2Fa0ZOi2-2BpKQkQnagTRVhf0tfckY=
+JeLUCxPnimY62nhPQ2KPcy2RdxzyIwnApzmqr5H-2FhQqrb9MYE-2BroLGyl5ExRjEBHB6ApZjD=
+xF0YqoUYBsOpfMNwokA6cqU6b6dm61nJxEmyIbck090qGZgYS5nDpdgJU7qSXscwDO-2BLlJ7SA=
+SiY6guR04nv09fmsUbEjgMhINPx69nMBc5m4AOOu-2FGSeibP-2F5ksKYWyMHCan1y29IYHmZP0=
+XuyWlcvMgJ5QA6B-2B1kFBNLHywCQdf3zDOknDsnkiNn42aHgE81eeu1aOvY49yfz2zm8WjXzJ7=
+vQ-2BHo3-2Bk8ZuzfuGESe-2BpTfmJEtAeTGTR-2BT0z1xZMMZJV2PXpHWa-2BvG1oDOJCKE0Th=
+cjm060Rvz0-3D_VxlAuX98jGTImtRfy8qSMjxfPST58bUH44FH8gukAsqebeueT7cMeQeEArXYt=
+rNuiacdeFfFgIn5SFQs-2FAFoXvuPTxgcm73quK2z-2BS1BNviMP2legbKuvKgwRrOOjTKJqPUa=
+AZkpnNjaoAufiRLfqgVsW9nMJ9LiSYmeNgn0YqOmrqYgMrCqnUVN4P6JQRExv0X8RXjcAVAPXXO=
+-2FPcSakkZj3leC7XHPEAKYk-2FmpRIkIJaoXkLqBPAdeEONmPne-2BmQIvrDzOx-2FjT7hAuuD=
+VvqV0mY-2BT5IIwTuTi-2FmIrQc4qrQIg1F6RyBXSfpj4h7E23aB7pECmAVKaw-2BS3a8keJ-2B=
+BPyaYqyiAWbluY00zYsBeQDYWU7w7cXSQgAGGZ-2FaXR88kKm-2FwnXnDLIH0fotELfMOxaddUF=
+7d4upS48qH3Z2dQKFGTDbwKBlUkdahCRNbPe" style=3D"margin: 0 0 8px 0;color: #1f=
+91cc;font-weight: bold;font-size:12px;text-decoration: none;">
+                  Kuldeep Pal
+                  </a>
+                </p>
+                <p style=3D"margin:5px 0;color: #607286;line-height: 1.43;f=
+ont-size: 12px;">
+                  Noida, Gautam Buddh Nagar=20
+                </p>
+                <p style=3D"margin:2px 0;color: #607286;line-height: 1.43;f=
+ont-size: 12px;">=20
+                  Not Specified/ Not Specified, Not Specified
+                </p>
+              </div>
+            </td>
+            <td style=3D"vertical-align: top;">
+              <table style=3D"width: 100%;border-collapse: collapse;" borde=
+r=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"candidate-details">
+                <tr>
+                  <td>
+                    <div style=3D"padding: 12px 12px 15px 0;" class=3D"cand=
+idate-work-details">
+                      <p style=3D"margin:2px 0;color: #607286;line-height: =
+1.43;font-size: 12px;">
+                        Experience:=20
+                        <span>
+                        Fresher
+                        </span>
+                      </p>
+                      <p style=3D"margin:2px 0;color: #607286;line-height: =
+1.43;font-size: 12px;">
+                        Current:=20
+                        <span>Not Specified</span>
+                      </p>
+                      <p style=3D"margin:2px 0;color: #607286;line-height: =
+1.43;font-size: 12px;">
+                        Notice: <span>NA</span>
+                      </p>
+                    </div>
+                  </td>
+                  <td style=3D"vertical-align: top; font-size: 12px;">
+                    <div class=3D"right-details" style=3D"text-align: right=
+;padding: 15px 32px 15px 0;">
+                    <p style=3D"margin: 0 0 8px 0;color: #3d4351;font-weigh=
+t: bold;">
+                      <img src=3D"https://s3-ap-southeast-1.amazonaws.com/s=
+tatic.aasaanjobs.com/static/images/clock.png" alt=3D""  style=3D"vertical-a=
+lign: middle;" />
+                      <span style=3D"display: inline-block; vertical-align:=
+ middle;">04:30 PM</span>
+                    </p>
+                    <!-- <p style=3D"margin: 0 0 8px 0;color: #1f91cc;font-=
+weight: bold;">
+                      <a href=3D"https://u1664773.ct.sendgrid.net/wf/click?=
+upn=3Dsjt-2B7uNFuT-2FbZAMb1Lpd8BMA38Ezvc95GIEcQ-2Fa0ZOi2-2BpKQkQnagTRVhf0tf=
+ckYJeLUCxPnimY62nhPQ2KPcy2RdxzyIwnApzmqr5H-2FhQqrb9MYE-2BroLGyl5ExRjEBHB6Ap=
+ZjDxF0YqoUYBsOpfMNwokA6cqU6b6dm61nJxEmyIbck090qGZgYS5nDpdgJU7qSXscwDO-2BLlJ=
+7SASiY6guR04nv09fmsUbEjgMhINPx69nMBc5m4AOOu-2FGSeibP-2F5ksKYWyMHCan1y29IYHm=
+ZP0XuyWlcvMgJ5QA6B-2B1kFBNLHywCQdf3zDOknDsnkiNn42aHgE81eeu1aOvY49yfz2zm8WjX=
+zJ7vQ-2BHo3-2Bk8ZuzfuGESe-2BpTfmJEtAeTGTR-2BT0z1xZMMZJV2PXpHWa-2BvG1oDOJCKE=
+0Thcjm060Rvz0-3D_VxlAuX98jGTImtRfy8qSMjxfPST58bUH44FH8gukAsqebeueT7cMeQeEAr=
+XYtrNuiacdeFfFgIn5SFQs-2FAFoXvuPTxgcm73quK2z-2BS1BNviMP2legbKuvKgwRrOOjTKJq=
+PUaAZkpnNjaoAufiRLfqgVsW9nMJ9LiSYmeNgn0YqOmrqYgMrCqnUVN4P6JQRExv0X8RXjcAVAP=
+XXO-2FPcSakkZj3leC7XHPEAKYk-2FmpRIm9XVJAe2VoYyPCtDh5mHxHn4cxJWQbRlSngfVb3wi=
+mRcbdh3Kn722VEzMoL1ZA5MEb87I2CHSOlEnY5ozcN-2BlQRWA-2B60APoruXtxllKOt57EvcWI=
+963YPqQj6wGG-2FxNSGD1Lj-2FWL0013aJdr-2FmvRnjzrCCgyivMa-2Bm-2FKW21iNGFqGkil2=
+y1jkyQG0f21PWO7Zdg0dQVbRxe4of2MoHQJkU" style=3D"margin: 0 0 8px 0;color: #1=
+f91cc;font-weight: bold;font-size:12px;text-decoration: none;">
+                        <img src=3D"https://s3-ap-southeast-1.amazonaws.com=
+/static.aasaanjobs.com/static/images/document-icon.png" alt=3D""  style=3D"=
+vertical-align: middle;" />
+                        <span style=3D"display: inline-block; vertical-alig=
+n: middle;">Veiw CV</span>
+                      </a>
+                      </p> -->
+                    </div>
+                  </td>
+                </tr>
+                <tr>
+                  <td colspan=3D"2" class=3D"apply-cta" style=3D"padding:0 =
+0 20px 0;">
+                    <a href=3Dhttps://u1664773.ct.sendgrid.net/wf/click?upn=
+=3Dsjt-2B7uNFuT-2FbZAMb1Lpd8BMA38Ezvc95GIEcQ-2Fa0ZOi2-2BpKQkQnagTRVhf0tfckY=
+SZGKaPlKKLDSE2YM-2Fr7dp-2BlQT-2BEFW8pIPXhr57n1mXSdeli9ZGurvEYOqy-2FdP9xLE6P=
+nh0xa9cUCv3Vbz7Kz3-2FdSITKAYeoQ25KoyWYIhUibIvwZeR9TRoJfFBC6vmdWcxgRdeeb1tZ-=
+2BEJov6sOuS6UCwQccA9sxj9apzHU6AvIAOB1tlSz12F-2FTft-2Bo6wb4ReI-2BkEQVuuFYlpS=
+7KfFhKNLS6hGz6E6nUtsFkPSRt6mOKeCKJ-2BMNSotpSO1zLR1O734SwvxC3HxB9FboNPa-2B9i=
+ZQnglSc9j8VazU1WjMBqGMidaCT8QX40IQwV1s5IAJfm8J-2BtoyW3L6vu5C5F8HmhOKmAwP72G=
+zC8TVA3vOoDf7dStsErWcy6zl9QifeXNDq8b6D-2BAExHaEJ0oTaPkr26-2BSjYqRsl8dc4Du-2=
+B2O-2Ffck-3D_VxlAuX98jGTImtRfy8qSMjxfPST58bUH44FH8gukAsqebeueT7cMeQeEArXYtr=
+NuiacdeFfFgIn5SFQs-2FAFoXvuPTxgcm73quK2z-2BS1BNviMP2legbKuvKgwRrOOjTKJqPUaA=
+ZkpnNjaoAufiRLfqgVsW9nMJ9LiSYmeNgn0YqOmrqYgMrCqnUVN4P6JQRExv0X8RXjcAVAPXXO-=
+2FPcSakkZj3leC7XHPEAKYk-2FmpRInY40ElaV0fbH90pGJ-2F0W3CWzW5uhcrK9HQZu-2FKoaJ=
+4W7gWyls3s09ObgX9MK0kv-2BGZcqeZGj9smcS7QWiNvbXZDyAXMsw5hFSklBUgJWTQfdoxCmZ0=
+Cy58yhCt8ZGr2nIgJSXo1qtndedIG1h9aBy0fvw0CkC0qc1068wjHc7xTiV-2BRG9gm3onMAWmG=
+EIhlTtaPGCKuMMYduNTxSmYtq-2B7 style=3D"border-radius:2px;min-width:100px;bo=
+rder:1px solid #4caf50;color:#fff;font-size:14px;font-style:normal;font-wei=
+ght:600;padding:8px;text-align:center;display:inline-block;text-decoration:=
+none;background: #4caf50;margin-right: 8px;"> Select
+                    </a>
+                    <a href=3Dhttps://u1664773.ct.sendgrid.net/wf/click?upn=
+=3Dsjt-2B7uNFuT-2FbZAMb1Lpd8BMA38Ezvc95GIEcQ-2Fa0ZOi2-2BpKQkQnagTRVhf0tfckY=
+SZGKaPlKKLDSE2YM-2Fr7dp-2BlQT-2BEFW8pIPXhr57n1mXSdeli9ZGurvEYOqy-2FdP9xLE6P=
+nh0xa9cUCv3Vbz7Kz3-2FdSITKAYeoQ25KoyWYIhUibIvwZeR9TRoJfFBC6vmdWcxgRdeeb1tZ-=
+2BEJov6sOuS6UCwQccA9sxj9apzHU6AvIAOB1tlSz12F-2FTft-2Bo6wb4ReI-2BkEQVuuFYlpS=
+7KfFhKNLS6hGz6E6nUtsFkPSRt6mOKeCKJ-2BMNSotpSO1zLR1O734SwvxC3HxB9FboNPa-2B9i=
+ZQnglSc9j8VazU1WjMBqGMidaCT8QX40IQwV1s5IAJfm8J-2BtoyW3L6vu5C5F8HmhOKmAwP72G=
+zC8TVA3vOoDf7dStsErWcy6zl9QifeXNDq8b6D-2BAExHaEJ0oTaPkr26-2BSjYqRsl8dc4Du-2=
+B2O-2Ffck-3D_VxlAuX98jGTImtRfy8qSMjxfPST58bUH44FH8gukAsqebeueT7cMeQeEArXYtr=
+NuiacdeFfFgIn5SFQs-2FAFoXvuPTxgcm73quK2z-2BS1BNviMP2legbKuvKgwRrOOjTKJqPUaA=
+ZkpnNjaoAufiRLfqgVsW9nMJ9LiSYmeNgn0YqOmrqYgMrCqnUVN4P6JQRExv0X8RXjcAVAPXXO-=
+2FPcSakkZj3leC7XHPEAKYk-2FmpRIlpN-2FnhX73USEuMRnz2BDgBwErqG12fwpo2I26QLQyq2=
+4ig-2BH9bfYPtiedVpnkeT-2FhOpHxfsnkwMHBlJv-2FvT-2FeMfqE-2BgBqoFAHtiq-2FSXb83=
+rqU-2FE2qZwhbqj-2Bu6j0-2FC-2BCHKbQ4gJWd-2BjVU36A6qIVWNCIeBuXGhAJZh4n-2B2wsk=
+oyGYasfm82UW2zyCMka8MtAPVLMX-2FFGJKUZosJlIldGkM style=3D"border-radius:2px;=
+min-width:100px;border:1px solid#4caf50;color:#4caf50;font-size:14px;font-s=
+tyle:normal;font-weight:600;padding:8px;text-align:center;display:inline-bl=
+ock;text-decoration:none;"> Reject
+                    </a>
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>=20=20
+          <tr style=3D"border-bottom: 1px solid #eee">
+            <td style=3D"vertical-align: top;">
+              <div style=3D"padding: 12px 0 0 32px;">
+                <p style=3D"margin:2px 0;color: #0897a1;line-height: 1.43;f=
+ont-size: 14px;font-weight: 600">
+                  <a href=3D"https://u1664773.ct.sendgrid.net/wf/click?upn=
+=3Dsjt-2B7uNFuT-2FbZAMb1Lpd8BMA38Ezvc95GIEcQ-2Fa0ZOi2-2BpKQkQnagTRVhf0tfckY=
+MB34OeXAZwJt4hP6HpLQK-2Bt5NYwz6Y-2B45RJ85-2Fq7HKDem-2BwRNq33mCdx-2BTXVYtpK2=
+H7xpGsCfDYlbotVZrlfGXmKiTegmW-2F4axdCP1nzT8X3wCJSzBlcCB0bZXH90IUbDo-2FBFK-2=
+F7JEuaY32RjqB7n160YrOFKQCecy73LjNCSjrVkUa3tu-2BdIvufWQIrxrwDd-2BMT73fvm28w0=
+eFuHZMS-2BEhKgbpzjWictQGP-2F-2F5UdtjDLk3P6VsxFjZ9ce7NIfVJH-2FSSS4k9WP9HXdRy=
+HIq-2FC-2FsUFVP1uGL1QN-2FHdvbGD9LgbRoW-2FaVSq0lmx1fnjdcxxqdSL1AcEJYY2WRsUSQ=
+TRRvAIFy4NO0gwGZ1gXbJMvU-3D_VxlAuX98jGTImtRfy8qSMjxfPST58bUH44FH8gukAsqebeu=
+eT7cMeQeEArXYtrNuiacdeFfFgIn5SFQs-2FAFoXvuPTxgcm73quK2z-2BS1BNviMP2legbKuvK=
+gwRrOOjTKJqPUaAZkpnNjaoAufiRLfqgVsW9nMJ9LiSYmeNgn0YqOmrqYgMrCqnUVN4P6JQRExv=
+0X8RXjcAVAPXXO-2FPcSakkZj3leC7XHPEAKYk-2FmpRIn01PdlyDNGfeOZudwfn-2Fs-2FjHz-=
+2F0OyeSH906F25jeRQ1v5cmx0dB7uAUpjoQaKX4E0DOHjS6fy7mxVMmtbVlPlFynbk7B1NN3fnY=
+wqtkQ8S8mYTFKHhsUq9UvwG6eyhVoPHbzGKWaVW85ltS3bVUdzMh8JPTkuMPAnlqbK00n5YJY7o=
+Znimi1LdkEt-2F9WQG2928pWnbClXOF0Pbx7m9vjCt" style=3D"margin: 0 0 8px 0;colo=
+r: #1f91cc;font-weight: bold;font-size:12px;text-decoration: none;">
+                  Md Aquib
+                  </a>
+                </p>
+                <p style=3D"margin:5px 0;color: #607286;line-height: 1.43;f=
+ont-size: 12px;">
+                  Sudhama Nagar, Bengaluru=20
+                </p>
+                <p style=3D"margin:2px 0;color: #607286;line-height: 1.43;f=
+ont-size: 12px;">=20
+                  Not Specified/ Not Specified, Not Specified
+                </p>
+              </div>
+            </td>
+            <td style=3D"vertical-align: top;">
+              <table style=3D"width: 100%;border-collapse: collapse;" borde=
+r=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"candidate-details">
+                <tr>
+                  <td>
+                    <div style=3D"padding: 12px 12px 15px 0;" class=3D"cand=
+idate-work-details">
+                      <p style=3D"margin:2px 0;color: #607286;line-height: =
+1.43;font-size: 12px;">
+                        Experience:=20
+                        <span>
+                        Fresher
+                        </span>
+                      </p>
+                      <p style=3D"margin:2px 0;color: #607286;line-height: =
+1.43;font-size: 12px;">
+                        Current:=20
+                        <span>Not Specified</span>
+                      </p>
+                      <p style=3D"margin:2px 0;color: #607286;line-height: =
+1.43;font-size: 12px;">
+                        Notice: <span>4</span>
+                      </p>
+                    </div>
+                  </td>
+                  <td style=3D"vertical-align: top; font-size: 12px;">
+                    <div class=3D"right-details" style=3D"text-align: right=
+;padding: 15px 32px 15px 0;">
+                    <p style=3D"margin: 0 0 8px 0;color: #3d4351;font-weigh=
+t: bold;">
+                      <img src=3D"https://s3-ap-southeast-1.amazonaws.com/s=
+tatic.aasaanjobs.com/static/images/clock.png" alt=3D""  style=3D"vertical-a=
+lign: middle;" />
+                      <span style=3D"display: inline-block; vertical-align:=
+ middle;">01:00 PM</span>
+                    </p>
+                    <!-- <p style=3D"margin: 0 0 8px 0;color: #1f91cc;font-=
+weight: bold;">
+                      <a href=3D"https://u1664773.ct.sendgrid.net/wf/click?=
+upn=3Dsjt-2B7uNFuT-2FbZAMb1Lpd8BMA38Ezvc95GIEcQ-2Fa0ZOi2-2BpKQkQnagTRVhf0tf=
+ckYMB34OeXAZwJt4hP6HpLQK-2Bt5NYwz6Y-2B45RJ85-2Fq7HKDem-2BwRNq33mCdx-2BTXVYt=
+pK2H7xpGsCfDYlbotVZrlfGXmKiTegmW-2F4axdCP1nzT8X3wCJSzBlcCB0bZXH90IUbDo-2FBF=
+K-2F7JEuaY32RjqB7n160YrOFKQCecy73LjNCSjrVkUa3tu-2BdIvufWQIrxrwDd-2BMT73fvm2=
+8w0eFuHZMS-2BEhKgbpzjWictQGP-2F-2F5UdtjDLk3P6VsxFjZ9ce7NIfVJH-2FSSS4k9WP9HX=
+dRyHIq-2FC-2FsUFVP1uGL1QN-2FHdvbGD9LgbRoW-2FaVSq0lmx1fnjdcxxqdSL1AcEJYY2WRs=
+USQTRRvAIFy4NO0gwGZ1gXbJMvU-3D_VxlAuX98jGTImtRfy8qSMjxfPST58bUH44FH8gukAsqe=
+beueT7cMeQeEArXYtrNuiacdeFfFgIn5SFQs-2FAFoXvuPTxgcm73quK2z-2BS1BNviMP2legbK=
+uvKgwRrOOjTKJqPUaAZkpnNjaoAufiRLfqgVsW9nMJ9LiSYmeNgn0YqOmrqYgMrCqnUVN4P6JQR=
+Exv0X8RXjcAVAPXXO-2FPcSakkZj3leC7XHPEAKYk-2FmpRIl7eRD13V6tGqSu7Tj7t8v67RabB=
+VhgBAltdpHEY2MGtSNNbpTLpscspspMY8TqCm8VFaV08wXbn1UTFdm-2F0i7Al4Uidh-2FANI-2=
+FKnAOx7pb2tTUr56vt7bWDjiLH2rs4or751jB10Oe9fpIK-2Bzqi2KvoAqhl1mqPGPFeX7SEDGA=
+tuq-2FdA71d-2BOlqKdfcYq5iLMZRkwtooOcHfld2obKeETD2" style=3D"margin: 0 0 8px=
+ 0;color: #1f91cc;font-weight: bold;font-size:12px;text-decoration: none;">
+                        <img src=3D"https://s3-ap-southeast-1.amazonaws.com=
+/static.aasaanjobs.com/static/images/document-icon.png" alt=3D""  style=3D"=
+vertical-align: middle;" />
+                        <span style=3D"display: inline-block; vertical-alig=
+n: middle;">Veiw CV</span>
+                      </a>
+                      </p> -->
+                    </div>
+                  </td>
+                </tr>
+                <tr>
+                  <td colspan=3D"2" class=3D"apply-cta" style=3D"padding:0 =
+0 20px 0;">
+                    <a href=3Dhttps://u1664773.ct.sendgrid.net/wf/click?upn=
+=3Dsjt-2B7uNFuT-2FbZAMb1Lpd8BMA38Ezvc95GIEcQ-2Fa0ZOi2-2BpKQkQnagTRVhf0tfckY=
+SZGKaPlKKLDSE2YM-2Fr7dp-2BlQT-2BEFW8pIPXhr57n1mXSdeli9ZGurvEYOqy-2FdP9xLE6P=
+nh0xa9cUCv3Vbz7Kz3-2FdSITKAYeoQ25KoyWYIhUibIvwZeR9TRoJfFBC6vmdWcxgRdeeb1tZ-=
+2BEJov6sOuS6UCwQccA9sxj9apzHU6AvIAOB1tlSz12F-2FTft-2Bo6wb4ReI-2BkEQVuuFYlpS=
+7KfFhKNLS6hGz6E6nUtsFkPSRt6mOKeCKJ-2BMNSotpSO1zLR1O734SwvxC3HxB9FboNPa-2B9i=
+ZQnglSc9j8VazU1WjMBqGMidaCT8QX40IQwV1s5IAJfm8J-2BtoyW3L6vu5C5F8HmhOKmAwP72G=
+zC8TVA3vOoDf7dStsErWcy6zl9QifeXNDq8b6D-2BAExHaEJ0oTaPkr26-2BSjYqRsl8dc4Du-2=
+B2O-2Ffck-3D_VxlAuX98jGTImtRfy8qSMjxfPST58bUH44FH8gukAsqebeueT7cMeQeEArXYtr=
+NuiacdeFfFgIn5SFQs-2FAFoXvuPTxgcm73quK2z-2BS1BNviMP2legbKuvKgwRrOOjTKJqPUaA=
+ZkpnNjaoAufiRLfqgVsW9nMJ9LiSYmeNgn0YqOmrqYgMrCqnUVN4P6JQRExv0X8RXjcAVAPXXO-=
+2FPcSakkZj3leC7XHPEAKYk-2FmpRImvRNIT0lifQkaog51VD5WnOA-2BKM5URrjl9Kv3YC1fm3=
+MBZmtj3besCnrSNGFw9zH50cotQPzbl2yNdm5u3DZz7-2FBFFtWty52SAS2WggRnBKs-2F9mkg2=
+0nXk0pz081MHRttEZWOtS5KKBJ0555C86FwHvq5sugoJGz-2Bp3FkJuCOTUsRnd3haebCmDsRgr=
+qeQ0kPyu-2Fdjta0glisRI0ouXqg8fl2VJoUUUROxbS-2B0SEJv5w-3D-3D style=3D"border=
+-radius:2px;min-width:100px;border:1px solid #4caf50;color:#fff;font-size:1=
+4px;font-style:normal;font-weight:600;padding:8px;text-align:center;display=
+:inline-block;text-decoration:none;background: #4caf50;margin-right: 8px;">=
+ Select
+                    </a>
+                    <a href=3Dhttps://u1664773.ct.sendgrid.net/wf/click?upn=
+=3Dsjt-2B7uNFuT-2FbZAMb1Lpd8BMA38Ezvc95GIEcQ-2Fa0ZOi2-2BpKQkQnagTRVhf0tfckY=
+SZGKaPlKKLDSE2YM-2Fr7dp-2BlQT-2BEFW8pIPXhr57n1mXSdeli9ZGurvEYOqy-2FdP9xLE6P=
+nh0xa9cUCv3Vbz7Kz3-2FdSITKAYeoQ25KoyWYIhUibIvwZeR9TRoJfFBC6vmdWcxgRdeeb1tZ-=
+2BEJov6sOuS6UCwQccA9sxj9apzHU6AvIAOB1tlSz12F-2FTft-2Bo6wb4ReI-2BkEQVuuFYlpS=
+7KfFhKNLS6hGz6E6nUtsFkPSRt6mOKeCKJ-2BMNSotpSO1zLR1O734SwvxC3HxB9FboNPa-2B9i=
+ZQnglSc9j8VazU1WjMBqGMidaCT8QX40IQwV1s5IAJfm8J-2BtoyW3L6vu5C5F8HmhOKmAwP72G=
+zC8TVA3vOoDf7dStsErWcy6zl9QifeXNDq8b6D-2BAExHaEJ0oTaPkr26-2BSjYqRsl8dc4Du-2=
+B2O-2Ffck-3D_VxlAuX98jGTImtRfy8qSMjxfPST58bUH44FH8gukAsqebeueT7cMeQeEArXYtr=
+NuiacdeFfFgIn5SFQs-2FAFoXvuPTxgcm73quK2z-2BS1BNviMP2legbKuvKgwRrOOjTKJqPUaA=
+ZkpnNjaoAufiRLfqgVsW9nMJ9LiSYmeNgn0YqOmrqYgMrCqnUVN4P6JQRExv0X8RXjcAVAPXXO-=
+2FPcSakkZj3leC7XHPEAKYk-2FmpRInDkm-2BDbHJUuWQLwSnPWOiFJChMhYFlOyd4iAIRLJZKz=
+SKOQxr6uDTnZtrYqff83pqkBLoHFoARRSoc-2Bpfep2TIwfT-2FaCbk6pjPpySb-2BEi-2FdlL-=
+2BN3HP1dcak9B1wBc-2Fu-2FQH44bi9idJLRsr1YK9WbnCEseQYC0OvqTvV8fXB60QaQVp7TdH2=
+OzDw7hjWWCbqpwneK73yMj4kexHkIoUSGVrOZ5qTODXbZIf9SDJcGEwhA-3D-3D style=3D"bo=
+rder-radius:2px;min-width:100px;border:1px solid#4caf50;color:#4caf50;font-=
+size:14px;font-style:normal;font-weight:600;padding:8px;text-align:center;d=
+isplay:inline-block;text-decoration:none;"> Reject
+                    </a>
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>=20=20
+          <tr style=3D"border-bottom: 1px solid #eee">
+            <td style=3D"vertical-align: top;">
+              <div style=3D"padding: 12px 0 0 32px;">
+                <p style=3D"margin:2px 0;color: #0897a1;line-height: 1.43;f=
+ont-size: 14px;font-weight: 600">
+                  <a href=3D"https://u1664773.ct.sendgrid.net/wf/click?upn=
+=3Dsjt-2B7uNFuT-2FbZAMb1Lpd8BMA38Ezvc95GIEcQ-2Fa0ZOi2-2BpKQkQnagTRVhf0tfckY=
+Su76SkLg0DKMB3DaQDJTKPdXKQO-2B77LtZWBRn0UL6uWq5FmlhKPIbYlG5E-2F0Yn4LJqWdoD2=
+DWGa-2F3DOJicar1PWPTQ84TRiCYOsecgu77xCXCTO9cO6Tuk5uQ2sHqPIowwjCWm30wFLcCoDm=
+XNiK4jGrYzyfZp3jdKkgMCdmwRFnwdR79hp-2BAzYsiGamOkOfT1YHXUZv2OoL-2BPjk4gXfpwd=
+TLrzVbx8c2PW-2Bbz0YjYQL8yyYxispQCwbFKUax5NROFILOqEU2S-2BHIt5ZbYZtvQ-2FChFeE=
+9uG3G36Au7NrzJQTjs-2BYEzwasPQ-2F2vMopd07y2jF-2BAYyWiDvCCzuut2XOWhonSA2-2Fa0=
+Us4hhRGNHD5c-3D_VxlAuX98jGTImtRfy8qSMjxfPST58bUH44FH8gukAsqebeueT7cMeQeEArX=
+YtrNuiacdeFfFgIn5SFQs-2FAFoXvuPTxgcm73quK2z-2BS1BNviMP2legbKuvKgwRrOOjTKJqP=
+UaAZkpnNjaoAufiRLfqgVsW9nMJ9LiSYmeNgn0YqOmrqYgMrCqnUVN4P6JQRExv0X8RXjcAVAPX=
+XO-2FPcSakkZj3leC7XHPEAKYk-2FmpRImNRPAvYmqUptkg-2Bw-2F9OQR7XSkfXqAczB85Td2M=
+4WCBAcS2kOm6jlBZd2RFn9-2Fs8oRgjp7weN-2BSSLlHXB7H5kwZ6gluC3gFfokqalMANUmxLRc=
+F4u9p4AdmFcc7ZCHA-2FY-2FJXUHbUsRTUreVjZH67skUr02mmpK3nOSMLYfpSUpqvS26s5VI-2=
+F076gL2JGXl3aDz8M64DV06wufo96aXCRA9uIc55DE0xzXr9d5UQaRRLJg-3D-3D" style=3D"=
+margin: 0 0 8px 0;color: #1f91cc;font-weight: bold;font-size:12px;text-deco=
+ration: none;">
+                  Biplob Paul
+                  </a>
+                </p>
+                <p style=3D"margin:5px 0;color: #607286;line-height: 1.43;f=
+ont-size: 12px;">
+                  Electronic City, Bengaluru=20
+                </p>
+                <p style=3D"margin:2px 0;color: #607286;line-height: 1.43;f=
+ont-size: 12px;">=20
+                  Not Specified/ Not Specified, Not Specified
+                </p>
+              </div>
+            </td>
+            <td style=3D"vertical-align: top;">
+              <table style=3D"width: 100%;border-collapse: collapse;" borde=
+r=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"candidate-details">
+                <tr>
+                  <td>
+                    <div style=3D"padding: 12px 12px 15px 0;" class=3D"cand=
+idate-work-details">
+                      <p style=3D"margin:2px 0;color: #607286;line-height: =
+1.43;font-size: 12px;">
+                        Experience:=20
+                        <span>
+                        Fresher
+                        </span>
+                      </p>
+                      <p style=3D"margin:2px 0;color: #607286;line-height: =
+1.43;font-size: 12px;">
+                        Current:=20
+                        <span>Not Specified</span>
+                      </p>
+                      <p style=3D"margin:2px 0;color: #607286;line-height: =
+1.43;font-size: 12px;">
+                        Notice: <span>NA</span>
+                      </p>
+                    </div>
+                  </td>
+                  <td style=3D"vertical-align: top; font-size: 12px;">
+                    <div class=3D"right-details" style=3D"text-align: right=
+;padding: 15px 32px 15px 0;">
+                    <p style=3D"margin: 0 0 8px 0;color: #3d4351;font-weigh=
+t: bold;">
+                      <img src=3D"https://s3-ap-southeast-1.amazonaws.com/s=
+tatic.aasaanjobs.com/static/images/clock.png" alt=3D""  style=3D"vertical-a=
+lign: middle;" />
+                      <span style=3D"display: inline-block; vertical-align:=
+ middle;">12:30 PM</span>
+                    </p>
+                    <!-- <p style=3D"margin: 0 0 8px 0;color: #1f91cc;font-=
+weight: bold;">
+                      <a href=3D"https://u1664773.ct.sendgrid.net/wf/click?=
+upn=3Dsjt-2B7uNFuT-2FbZAMb1Lpd8BMA38Ezvc95GIEcQ-2Fa0ZOi2-2BpKQkQnagTRVhf0tf=
+ckYSu76SkLg0DKMB3DaQDJTKPdXKQO-2B77LtZWBRn0UL6uWq5FmlhKPIbYlG5E-2F0Yn4LJqWd=
+oD2DWGa-2F3DOJicar1PWPTQ84TRiCYOsecgu77xCXCTO9cO6Tuk5uQ2sHqPIowwjCWm30wFLcC=
+oDmXNiK4jGrYzyfZp3jdKkgMCdmwRFnwdR79hp-2BAzYsiGamOkOfT1YHXUZv2OoL-2BPjk4gXf=
+pwdTLrzVbx8c2PW-2Bbz0YjYQL8yyYxispQCwbFKUax5NROFILOqEU2S-2BHIt5ZbYZtvQ-2FCh=
+FeE9uG3G36Au7NrzJQTjs-2BYEzwasPQ-2F2vMopd07y2jF-2BAYyWiDvCCzuut2XOWhonSA2-2=
+Fa0Us4hhRGNHD5c-3D_VxlAuX98jGTImtRfy8qSMjxfPST58bUH44FH8gukAsqebeueT7cMeQeE=
+ArXYtrNuiacdeFfFgIn5SFQs-2FAFoXvuPTxgcm73quK2z-2BS1BNviMP2legbKuvKgwRrOOjTK=
+JqPUaAZkpnNjaoAufiRLfqgVsW9nMJ9LiSYmeNgn0YqOmrqYgMrCqnUVN4P6JQRExv0X8RXjcAV=
+APXXO-2FPcSakkZj3leC7XHPEAKYk-2FmpRImRtu9aDEr-2BYSSDiC-2B69YuXg5iNX-2BDERan=
+ZtxYRG-2FG57YoWWMm3GYWp7qU3zviG0hHcRVuclFkCCZBWYI-2B1azpp8mv7wTg2E4McZzReUx=
+MJeOsLAqS8CJgg8pdHBPSyTyuaV-2B0BSufh4t0P6w4cgkfKa-2FuJAilb38bsaCsHX5sVl1UC4=
+4A817se9dcEHKScECmEDii94eeOUszeEjchytV00hhcFVWxq8BAtgTeVBtThQ-3D-3D" style=
+=3D"margin: 0 0 8px 0;color: #1f91cc;font-weight: bold;font-size:12px;text-=
+decoration: none;">
+                        <img src=3D"https://s3-ap-southeast-1.amazonaws.com=
+/static.aasaanjobs.com/static/images/document-icon.png" alt=3D""  style=3D"=
+vertical-align: middle;" />
+                        <span style=3D"display: inline-block; vertical-alig=
+n: middle;">Veiw CV</span>
+                      </a>
+                      </p> -->
+                    </div>
+                  </td>
+                </tr>
+                <tr>
+                  <td colspan=3D"2" class=3D"apply-cta" style=3D"padding:0 =
+0 20px 0;">
+                    <a href=3Dhttps://u1664773.ct.sendgrid.net/wf/click?upn=
+=3Dsjt-2B7uNFuT-2FbZAMb1Lpd8BMA38Ezvc95GIEcQ-2Fa0ZOi2-2BpKQkQnagTRVhf0tfckY=
+SZGKaPlKKLDSE2YM-2Fr7dp-2BlQT-2BEFW8pIPXhr57n1mXSdeli9ZGurvEYOqy-2FdP9xLE6P=
+nh0xa9cUCv3Vbz7Kz3-2FdSITKAYeoQ25KoyWYIhUibIvwZeR9TRoJfFBC6vmdWcxgRdeeb1tZ-=
+2BEJov6sOuS6UCwQccA9sxj9apzHU6AvIAOB1tlSz12F-2FTft-2Bo6wb4ReI-2BkEQVuuFYlpS=
+7KfFhKNLS6hGz6E6nUtsFkPSRt6mOKeCKJ-2BMNSotpSO1zLR1O734SwvxC3HxB9FboNPa-2B9i=
+ZQnglSc9j8VazU1WjMBqGMidaCT8QX40IQwV1s5IAJfm8J-2BtoyW3L6vu5C5F8HmhOKmAwP72G=
+zC8TVA3vOoDf7dStsErWcy6zl9QifeXNDq8b6D-2BAExHaEJ0oTaPkr26-2BSjYqRsl8dc4Du-2=
+B2O-2Ffck-3D_VxlAuX98jGTImtRfy8qSMjxfPST58bUH44FH8gukAsqebeueT7cMeQeEArXYtr=
+NuiacdeFfFgIn5SFQs-2FAFoXvuPTxgcm73quK2z-2BS1BNviMP2legbKuvKgwRrOOjTKJqPUaA=
+ZkpnNjaoAufiRLfqgVsW9nMJ9LiSYmeNgn0YqOmrqYgMrCqnUVN4P6JQRExv0X8RXjcAVAPXXO-=
+2FPcSakkZj3leC7XHPEAKYk-2FmpRIkHfbJQZeRWMfvVn0sTUU-2Ff97SXldxCMeb15DYLsql-2=
+BsWQPWWhfN5eUKH34FIklLY4PFWM6-2FiVPQ2Bl4TaAOihE8XJfecDF4x5xUA2rb9CTkYFhBLcX=
+hJhU4pkEKbqrQuIQNFPSmWQYY3OqyRSAEpa9gRgoIQrXLJzsjyqe02DPbRCp1S4gK-2FOAov7Q5=
+LZnwo0kxjRL-2FXjouiYna2G4SC-2Bd4HxedIpZ-2FSa6iNP-2FJtHONQ-3D-3D style=3D"bo=
+rder-radius:2px;min-width:100px;border:1px solid #4caf50;color:#fff;font-si=
+ze:14px;font-style:normal;font-weight:600;padding:8px;text-align:center;dis=
+play:inline-block;text-decoration:none;background: #4caf50;margin-right: 8p=
+x;"> Select
+                    </a>
+                    <a href=3Dhttps://u1664773.ct.sendgrid.net/wf/click?upn=
+=3Dsjt-2B7uNFuT-2FbZAMb1Lpd8BMA38Ezvc95GIEcQ-2Fa0ZOi2-2BpKQkQnagTRVhf0tfckY=
+SZGKaPlKKLDSE2YM-2Fr7dp-2BlQT-2BEFW8pIPXhr57n1mXSdeli9ZGurvEYOqy-2FdP9xLE6P=
+nh0xa9cUCv3Vbz7Kz3-2FdSITKAYeoQ25KoyWYIhUibIvwZeR9TRoJfFBC6vmdWcxgRdeeb1tZ-=
+2BEJov6sOuS6UCwQccA9sxj9apzHU6AvIAOB1tlSz12F-2FTft-2Bo6wb4ReI-2BkEQVuuFYlpS=
+7KfFhKNLS6hGz6E6nUtsFkPSRt6mOKeCKJ-2BMNSotpSO1zLR1O734SwvxC3HxB9FboNPa-2B9i=
+ZQnglSc9j8VazU1WjMBqGMidaCT8QX40IQwV1s5IAJfm8J-2BtoyW3L6vu5C5F8HmhOKmAwP72G=
+zC8TVA3vOoDf7dStsErWcy6zl9QifeXNDq8b6D-2BAExHaEJ0oTaPkr26-2BSjYqRsl8dc4Du-2=
+B2O-2Ffck-3D_VxlAuX98jGTImtRfy8qSMjxfPST58bUH44FH8gukAsqebeueT7cMeQeEArXYtr=
+NuiacdeFfFgIn5SFQs-2FAFoXvuPTxgcm73quK2z-2BS1BNviMP2legbKuvKgwRrOOjTKJqPUaA=
+ZkpnNjaoAufiRLfqgVsW9nMJ9LiSYmeNgn0YqOmrqYgMrCqnUVN4P6JQRExv0X8RXjcAVAPXXO-=
+2FPcSakkZj3leC7XHPEAKYk-2FmpRImwpaIj4XUisYKaeU8cro1eIdVuftXJFPX76fXYfvdsAwz=
+wdIblnxEkr3tv5oKAeFGMF6IOwqbaKMu5pY5sW6ZqfpNux3hD-2FNbB5vrBCWzWpr-2FCIbp6RK=
+7-2Fct9mHQkxkzzvBez05PjOsFkczZR0dhi0DC2ppBep9iTAW8fTizAFyeR7ugCQtSZQ9jn2xiv=
+QyjK8L3PFLCgCVHStRLPLHVs02l-2FLhxUsviZoHF-2F5UkyK1g-3D-3D style=3D"border-r=
+adius:2px;min-width:100px;border:1px solid#4caf50;color:#4caf50;font-size:1=
+4px;font-style:normal;font-weight:600;padding:8px;text-align:center;display=
+:inline-block;text-decoration:none;"> Reject
+                    </a>
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>=20=20
+        </tbody>
+      </table>
+      <!-- candidate list ends here -->
+      <!-- feature price block starts here -->
+      <div style=3D"text-align: center;padding: 48px 10px 48px 10px;backgro=
+und-color: #f7f8fa;" class=3D"line-up-block">
+        <div class=3D"cta-section" style=3D"text-align: center;">
+          <a href=3D"https://u1664773.ct.sendgrid.net/wf/click?upn=3Dsjt-2B=
+7uNFuT-2FbZAMb1Lpd8BMA38Ezvc95GIEcQ-2Fa0ZOi2-2BpKQkQnagTRVhf0tfckYSZGKaPlKK=
+LDSE2YM-2Fr7dp-2BlQT-2BEFW8pIPXhr57n1mXSdeli9ZGurvEYOqy-2FdP9xLE6Pnh0xa9cUC=
+v3Vbz7Kz3-2FdSITKAYeoQ25KoyWYIhUibIvwZeR9TRoJfFBC6vmdWcxgRdeeb1tZ-2BEJov6sO=
+uS6UCwQccA9sxj9apzHU6AvIAOB1tlSz12F-2FTft-2Bo6wb4ReI-2BkEQVuuFYlpS7KfFhKNLS=
+6hGz6E6nUtsFkPSRt6mOKeCKJ-2BMNSotpSO1zLR1O734SwvxC3HxB9FboNPa-2B9iZQnglSc9j=
+8VazU1WjMBqGMidaCT8QX40IQwV1s5IAJfm8J-2BtoyW3L6vu5C5F8HmhOKmAwP72GzC8TVA3vO=
+oDf7dStsErWcy6zl9QifeXNDq8b6D-2BAExHaEJ0oTaPkr26-2BSjYqRsl8dc4Du-2B2O-2Ffck=
+-3D_VxlAuX98jGTImtRfy8qSMjxfPST58bUH44FH8gukAsqebeueT7cMeQeEArXYtrNuiacdeFf=
+FgIn5SFQs-2FAFoXvuPTxgcm73quK2z-2BS1BNviMP2legbKuvKgwRrOOjTKJqPUaAZkpnNjaoA=
+ufiRLfqgVsW9nMJ9LiSYmeNgn0YqOmrqYgMrCqnUVN4P6JQRExv0X8RXjcAVAPXXO-2FPcSakkZ=
+j3leC7XHPEAKYk-2FmpRIlAJkN1LSlx7WX0VqLhbqTIFc-2FHJdgxbetKEPt3Eboz5swYZJciqY=
+z9lHSYHMlwO1WKhqa-2FRKd-2ByTUdZQxjTWfVOvwfIJTgRS9VMiVgTHkfW0oNsV8wqptnIAH-2=
+BeUAvsCQAcOIA9eA7H-2BEEc3JPFoR5DqFMDis99DJkssy5-2BlxDCt9mMV28THSOkElmKj5EQO=
+qQ8oMrojg4CAcwA13hGH7Ll8-2BHzN29yHyZiSwT6h9zvg-3D-3D" class=3D"blue_button"=
+ style=3D"background-color:#ed9a00;border-radius:2px;color:#fff;font-size:1=
+4px;font-style:normal;font-weight:600;line-height:1.43;padding:8px 16px;mar=
+gin:0 15px 0 0;min-width:200px;text-align:center;display:inline-block;text-=
+decoration:none;">Mark Feedback</a>
+=20=20=20=20=20=20=20=20=20=20
+        </div>
+        <p style=3D"margin-bottom: 40px;font-size:14px; color: #607286;font=
+-size: 14px;line-height: 1.67;margin: 12px 0 0 0">( This is an auto login l=
+ink )</p>
+      </div>
+      <!-- feature price block ends here -->
+
+      <!-- footer starts here -->
+      <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"foot=
+er-table" style=3D"background-color: #3d4351; color: #fff; padding: 20px 20=
+px 20px 32px; width: 100%;">
+        <tbody>
+          <tr>
+            <td align=3D"left" style=3D"width: 50%;">
+              <span style=3D"display: block; color:#fff;font-family: &quot;=
+ArialMT&quot;, Arial, sans-serif;font-size:14px;margin-bottom:7px;">Regards=
+</span><span style=3D"color: #fff;font-family: &quot;ArialMT&quot;, Arial, =
+sans-serif;font-size:14px;font-weight:600;">Team Aasaanjobs</span>
+              <p style=3D"width: 180px;color: #fff;font-size: 12px;font-wei=
+ght: normal;font-style: normal;line-height:22px; opacity: 0.75; ">Aasaanjob=
+s Pvt. Ltd.
+                <br>
+                3rd Floor, B-Wing, Krislon House
+                <br>
+                Mumbai, 400072=20
+              </p>
+            </td>
+            <td align=3D"left" style=3D"width: 50%;">
+              <div class=3D"visitor-block">
+                <span style=3D"display: block; color:#fff;font-family: &quo=
+t;ArialMT&quot;, Arial, sans-serif;font-size:14px;margin-bottom:7px;">Visit=
+ us at:</span><a href=3D"www.aasaanjobs.com" target=3D"_blank" style=3D"col=
+or: #fff;text-decoration:none;font-size:14px;font-weight:600;">www.aasaanjo=
+bs.com</a>
+              </div>
+              <ul style=3D"color: #fff; font-size: 12px; font-weight: bold;=
+ list-style: none; margin-top: 60px; padding: 0;" class=3D"footer-social">
+                <li style=3D"display: inline-block; margin-left: 0 !importa=
+nt; padding-right: 10px;"><a href=3D"https://u1664773.ct.sendgrid.net/wf/cl=
+ick?upn=3Dsjt-2B7uNFuT-2FbZAMb1Lpd8Lz0ALlQLhQIG72udYKu9zPOBhgczJ84-2BEJgBQ1=
+-2BAm8C_VxlAuX98jGTImtRfy8qSMjxfPST58bUH44FH8gukAsqebeueT7cMeQeEArXYtrNuiac=
+deFfFgIn5SFQs-2FAFoXvuPTxgcm73quK2z-2BS1BNviMP2legbKuvKgwRrOOjTKJqPUaAZkpnN=
+jaoAufiRLfqgVsW9nMJ9LiSYmeNgn0YqOmrqYgMrCqnUVN4P6JQRExv0X8RXjcAVAPXXO-2FPcS=
+akkZj3leC7XHPEAKYk-2FmpRIkRw-2Bv0XdJMicC8lfnTO12QnyBtJiW1zoU5UqOYlEhsVVqv0V=
+i3kFH8dJYj881RuSGCiR7NMtO1W0-2F-2FnxWHmZFkbSPHugLUhAfk4yILu4O6a1QvkOm3K1dpv=
+jEOgiO0Ay9IVz-2BACr1E5R60J2ImZAsoTrAj4aYohE39TJ-2B2wsRjo5QOPIOyNCQUJI7E6htF=
+rhYn9Z41ZaWHvMmCCAqv8mQ-2F-2FacmF22KLNIkHSICH7vTeg-3D-3D" target=3D"_blank"=
+ style=3D"text-decoration: none;color: #fff;display: inline-block;"><img sr=
+c=3D"https://s3-ap-southeast-1.amazonaws.com/static.aasaanjobs.com/logos/tw=
+itter-white.png" alt=3D"Twitter Image" style=3D"margin-right:3px;vertical-a=
+lign: middle;"><span>Twitter</span></a></li>
+                <li style=3D"display: inline-block; margin-left: 0 !importa=
+nt; padding-right: 10px;"><a href=3D"https://u1664773.ct.sendgrid.net/wf/cl=
+ick?upn=3Dsjt-2B7uNFuT-2FbZAMb1Lpd8Gf5pTqQv2CONbCvb2LmR0wkW9xObLG8zzwGU4F-2=
+Bv2iD_VxlAuX98jGTImtRfy8qSMjxfPST58bUH44FH8gukAsqebeueT7cMeQeEArXYtrNuiacde=
+FfFgIn5SFQs-2FAFoXvuPTxgcm73quK2z-2BS1BNviMP2legbKuvKgwRrOOjTKJqPUaAZkpnNja=
+oAufiRLfqgVsW9nMJ9LiSYmeNgn0YqOmrqYgMrCqnUVN4P6JQRExv0X8RXjcAVAPXXO-2FPcSak=
+kZj3leC7XHPEAKYk-2FmpRImi3FDOPxHCdSQNgs8I-2BpgFfp5lPhJncMePZFI-2FGxRj-2B-2B=
+jfrNZYelSCl-2BrrwOeC5Odbc7Cno4eVbHFMdU2q-2B80foczaeL1q7QjX2P3ddore-2BxfZdjN=
+CYDfs-2FpD-2BsePbQBHGrtP0M4SriaJisbYN41ZvhFZjxCJHjinS9ZMGq-2FvHbHyeGDgRekfw=
+GOEoZKEoSSVFPvd-2BUEhDDNp8BNspQ1xBJHaoBSYE47SKP3PXzi-2B5qw-3D-3D" target=3D=
+"_blank" style=3D"text-decoration: none;color: #fff;display: inline-block;"=
+><img src=3D"https://s3-ap-southeast-1.amazonaws.com/static.aasaanjobs.com/=
+logos/facebook-white.png" alt=3D"Facebook Image" style=3D"margin-right:3px;=
+vertical-align: middle;"><span>Facebook</span></a></li>
+                <li style=3D"display: inline-block; margin-left: 0 !importa=
+nt; padding-right: 10px;"><a href=3D"https://u1664773.ct.sendgrid.net/wf/cl=
+ick?upn=3Dsjt-2B7uNFuT-2FbZAMb1Lpd8EfpgmNz7ZY0UcPx3nP7xNht4y5ruB00SuvGyeobo=
+NCzIyV-2FPE3wb9YCNNpDF-2ByKgQ-3D-3D_VxlAuX98jGTImtRfy8qSMjxfPST58bUH44FH8gu=
+kAsqebeueT7cMeQeEArXYtrNuiacdeFfFgIn5SFQs-2FAFoXvuPTxgcm73quK2z-2BS1BNviMP2=
+legbKuvKgwRrOOjTKJqPUaAZkpnNjaoAufiRLfqgVsW9nMJ9LiSYmeNgn0YqOmrqYgMrCqnUVN4=
+P6JQRExv0X8RXjcAVAPXXO-2FPcSakkZj3leC7XHPEAKYk-2FmpRInU7GEGe3nUusNBQrLWYLWM=
+dvOkA4MofsYL4GVkX-2BUqNDQXE-2BPIDm7qpGwEKChwM4CGrCrlCtMn3iAImg9brRbYADfBplk=
+mnubqgQpwrtSRJtZQk-2FDr-2FrxYaUeZKDrWJW1Ex0Nv-2B3fdZsrjJ5yT5GmgfXb5xIkB7E4h=
+onNT-2FcNy5wuLv-2FC-2BlIc4QSlgDx9ISS5hJicnIe6tHrWiDcborTznGxXx4WwKpQr2PObm-=
+2B-2BxHtQ-3D-3D" target=3D"_blank" style=3D"text-decoration: none;color: #f=
+ff;display: inline-block;"><img src=3D"https://s3-ap-southeast-1.amazonaws.=
+com/static.aasaanjobs.com/logos/linkedin-white.png" alt=3D"Linked In Image"=
+ style=3D"margin-right:3px;vertical-align: middle;"><span>LinkedIn</span></=
+a></li>
+              </ul>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+      <!-- footer ends here -->
+    </div>
+=20=20
+<img src=3D"https://u1664773.ct.sendgrid.net/wf/open?upn=3DVxlAuX98jGTImtRf=
+y8qSMjxfPST58bUH44FH8gukAsqebeueT7cMeQeEArXYtrNuiacdeFfFgIn5SFQs-2FAFoXvuPT=
+xgcm73quK2z-2BS1BNviMP2legbKuvKgwRrOOjTKJqPUaAZkpnNjaoAufiRLfqgVsW9nMJ9LiSY=
+meNgn0YqOmrqYgMrCqnUVN4P6JQRExv0X8RXjcAVAPXXO-2FPcSakkZj3leC7XHPEAKYk-2FmpR=
+Il82nz5VwaqyRRlILtrrTE4XR7YJB21kELlp-2FfDgd-2BHQl71AnBfWaSuB9LqQZxUNtci8A29=
+CTMV8uv1-2FvO8nXrYj496hlYDH2UH6zgcZejKYAZ0TydC0xkEzwagHuZ-2BY1TmMu2xfHa-2Bx=
+RLUT-2FTV-2B75hJN8-2F9mdprSmqIILLZL11Df1U5Ivuucdn3ZKqnOajECQ3qUQR5XGjJUaZFT=
+9h-2FCwIzEi35B08SWyZpHFZcP3hoQ-3D-3D" alt=3D"" width=3D"1" height=3D"1" bor=
+der=3D"0" style=3D"height:1px !important;width:1px !important;border-width:=
+0 !important;margin-top:0 !important;margin-bottom:0 !important;margin-righ=
+t:0 !important;margin-left:0 !important;padding-top:0 !important;padding-bo=
+ttom:0 !important;padding-right:0 !important;padding-left:0 !important;"/>
+</body>
+</html>

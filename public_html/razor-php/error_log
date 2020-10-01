@@ -1,0 +1,6 @@
+[22-Aug-2020 19:28:51 UTC] PHP Notice:  Undefined index: razor_payment_id in /home/uhiu77c2vc0e/public_html/razor-php/charge.php on line 3
+[23-Aug-2020 02:21:46 UTC] PHP Notice:  Undefined index: razor_payment_id in /home/uhiu77c2vc0e/public_html/razor-php/charge.php on line 3
+[23-Aug-2020 06:45:49 UTC] PHP Notice:  Undefined index: razor_payment_id in /home/uhiu77c2vc0e/public_html/razor-php/charge.php on line 3
+[23-Aug-2020 07:00:55 UTC] PHP Notice:  Undefined index: razor_payment_id in /home/uhiu77c2vc0e/public_html/razor-php/charge.php on line 3
+[23-Aug-2020 10:32:01 UTC] PHP Warning:  require(razor-php/index.php): failed to open stream: No such file or directory in /home/uhiu77c2vc0e/public_html/razor-php/charge.php on line 7
+[23-Aug-2020 10:32:01 UTC] PHP Fatal error:  require(): Failed opening required 'razor-php/index.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/uhiu77c2vc0e/public_html/razor-php/charge.php on line 7

@@ -1,0 +1,196 @@
+Return-Path: <mediasline@gmail.com>
+Delivered-To: josh@pjbproductions.in
+Received: from sg3plcpnl0078.prod.sin3.secureserver.net
+	by sg3plcpnl0078.prod.sin3.secureserver.net with LMTP id INP4DgFoTVx0PxgAUghlVg
+	for <josh@pjbproductions.in>; Sun, 27 Jan 2019 01:12:49 -0700
+Return-path: <mediasline@gmail.com>
+Envelope-to: josh@pjbproductions.in
+Delivery-date: Sun, 27 Jan 2019 01:12:49 -0700
+Received: from mail-lj1-f180.google.com ([209.85.208.180]:37064)
+	by sg3plcpnl0078.prod.sin3.secureserver.net with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.91)
+	(envelope-from <mediasline@gmail.com>)
+	id 1gnfYb-006eVp-5X
+	for josh@pjbproductions.in; Sun, 27 Jan 2019 01:12:49 -0700
+Received: by mail-lj1-f180.google.com with SMTP id t18-v6so11668296ljd.4
+        for <josh@pjbproductions.in>; Sun, 27 Jan 2019 00:12:24 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=swXvO7zkDnt/o1Wp1Xeg9dJClM66Phze9KzR53yZ/nw=;
+        b=mb3HsH7cJwKZ3zOLw9nGit1FEmATURWayZT20kUbD7DgxzhCRrZJSDC+8dyEgQfmP2
+         G7RqsFuA0/f8OVL1Eg3FA1KdW1Rd2oaP20pwkFWOJzQ0m1FMXDLnX+tZLlHlSVycO490
+         0lm+QDgTznNK1/IU3VcQyJDKjQ6UdU/TA82EyFrSdZkDdUImFjvkynSZCJIpGvLEpYdp
+         BsJuHo367Ah0nwHbpGJPk/vlFI7BBjF5F8B9zjz38Odo27fqT4MB6fGrEKdXBrkIBskb
+         bSpqoOOg2vEo+BIudfMygqJJ01Z4bMfPaXjK44GbHkuviozbHVwT/psJDzlo/i0g0kc5
+         2jag==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=swXvO7zkDnt/o1Wp1Xeg9dJClM66Phze9KzR53yZ/nw=;
+        b=sjRvayDzRBPjXM1hQO7HXxmuHUk7jf+P958UMkvP2Krl7hUO0Pkz8LHnSXfdhdsvUB
+         TMdzCGzHCCvWlv50lFEswern86DobjuaE6ogloOOMhfzm6SVHjRHmaSzc/LTBQeDJXka
+         lL+sNkgbrT26hMdIPf45bLdHvZash8q+VRljn34SCKZYus1rHfrR1NPesgFO8vmf6FNq
+         zTNbewofT74DKOSGDM+nGSn3aYonP8bZHd2/f9Z93S9tM/51eBTZ1PA3Sniu1CenCbDC
+         QPIfseAh6z6aC3JXqLGE4h4Xxbg6fkEmTSGJUnh/G8LXtYXOFCOavE4qbOXX1neftFod
+         Ec/Q==
+X-Gm-Message-State: AJcUuke6pP0mIGEC5KXKez1c8al9pyx5Kmc09P8LP6Jredq5p3aYlFTN
+	yyNuS1fUaUP1a0e/cdMIFtzLkVWIMB0GtTuegrt4B40i
+X-Google-Smtp-Source: ALg8bN5rNXQ0aS9HIBwtYjkFdRJizGBxcnZtlmtBcIl/PoQmcB+HA7iZaIFC7nz+uoLegvrlAmxUebRb9lv3NVxco8I=
+X-Received: by 2002:a2e:81da:: with SMTP id s26-v6mr13718513ljg.183.1548576721813;
+ Sun, 27 Jan 2019 00:12:01 -0800 (PST)
+MIME-Version: 1.0
+From: Sline Media <mediasline@gmail.com>
+Date: Sun, 27 Jan 2019 13:42:09 +0530
+Message-ID: <CANs9R7+cP71s-t++=cg1LKmdHhoan_FmPp6rmh3k0irQfvDFqg@mail.gmail.com>
+Subject: Test email
+To: Josh PJ <josh@pjbproductions.in>
+Content-Type: multipart/alternative; boundary="0000000000006943f405806c1dec"
+X-Spam-Status: No, score=-0.1
+X-Spam-Score: 0
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "sg3plcpnl0078.prod.sin3.secureserver.net",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  Hello Jimmy, Thank you for writing in. We appreciate the proposal
+    from your organisation regarding promoting your brand in India. [...] 
+ 
+ Content analysis details:   (-0.1 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.0 FREEMAIL_FROM          Sender email is commonly abused enduser mail provider
+                             (mediasline[at]gmail.com)
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily valid
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from author's
+                             domain
+X-Spam-Flag: NO
+
+--0000000000006943f405806c1dec
+Content-Type: text/plain; charset="UTF-8"
+
+Hello Jimmy,
+
+
+
+Thank you for writing in.
+
+
+
+We appreciate the proposal from your organisation regarding promoting your
+brand in India.
+
+
+
+As requested, we contacted the team of Shah Rukh Khan. We found that, he is
+already endorsing several well-known organisations/companies. As your
+company has not yet been introduced in India and that people are not aware
+of your company/brand, we wish to suggest that, the best option would be to
+create brand awareness in Indian market through films and media. This is
+the best way to reach the general public.
+
+
+
+If you are going with international superstars at this stage, you might
+have to pay huge remuneration to them. Hence, we suggest to promote your
+brand at regional level and create brand awareness. This way you can
+attract more investors and customers.
+
+
+
+We assure that, all the artists associated with P. J. B. Productions Pvt.
+Ltd. will support and promote your brand in our projects.
+
+
+
+Looking forward for a long lasting relationship.
+
+-- 
+*Thanks and regards,*
+*Josh PJ*
+*+919880289532*
+*(SlineMedia)*
+
+[CONFIDENTIALITY NOTICE:
+The contents of this email message and any attachments are intended solely
+for the addressee(s)
+and may contain confidential and/or privileged information and may be
+legally protected from disclosure. If you are not the intended recipient of
+this message or their agent, or if this message has been addressed to you
+in error, please immediately alert the sender by reply email and then
+delete this message and any attachments. If you are not the intended
+recipient, you are hereby notified that any use, dissemination, copying, or
+storage of this message or its attachments is strictly prohibited. ]
+
+--0000000000006943f405806c1dec
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><div dir=3D"ltr"><div class=3D"gmail_default"><p class=3D"=
+MsoNormal" style=3D"margin:0in 0in 0.0001pt;font-size:11pt;font-family:Cali=
+bri,sans-serif;color:rgb(51,51,51)">Hello Jimmy,</p><p class=3D"MsoNormal" =
+style=3D"margin:0in 0in 0.0001pt;font-size:11pt;font-family:Calibri,sans-se=
+rif;color:rgb(51,51,51)">=C2=A0</p><p class=3D"MsoNormal" style=3D"margin:0=
+in 0in 0.0001pt;font-size:11pt;font-family:Calibri,sans-serif;color:rgb(51,=
+51,51)">Thank you for writing in.</p><p class=3D"MsoNormal" style=3D"margin=
+:0in 0in 0.0001pt;font-size:11pt;font-family:Calibri,sans-serif;color:rgb(5=
+1,51,51)">=C2=A0</p><p class=3D"MsoNormal" style=3D"margin:0in 0in 0.0001pt=
+;font-size:11pt;font-family:Calibri,sans-serif;color:rgb(51,51,51)">We appr=
+eciate the proposal from your organisation regarding promoting your brand i=
+n India.</p><p class=3D"MsoNormal" style=3D"margin:0in 0in 0.0001pt;font-si=
+ze:11pt;font-family:Calibri,sans-serif;color:rgb(51,51,51)">=C2=A0</p><p cl=
+ass=3D"MsoNormal" style=3D"margin:0in 0in 0.0001pt;font-size:11pt;font-fami=
+ly:Calibri,sans-serif;color:rgb(51,51,51)">As requested, we contacted the t=
+eam of Shah Rukh Khan. We found that, he is already endorsing several well-=
+known organisations/companies. As your company has not yet been introduced =
+in India and that people are not aware of your company/brand, we wish to su=
+ggest that, the best option would be to create brand awareness in Indian ma=
+rket through films and media. This is the best way to reach the general pub=
+lic.</p><p class=3D"MsoNormal" style=3D"margin:0in 0in 0.0001pt;font-size:1=
+1pt;font-family:Calibri,sans-serif;color:rgb(51,51,51)">=C2=A0</p><p class=
+=3D"MsoNormal" style=3D"margin:0in 0in 0.0001pt;font-size:11pt;font-family:=
+Calibri,sans-serif;color:rgb(51,51,51)">If you are going with international=
+ superstars at this stage, you might have to pay huge remuneration to them.=
+ Hence, we suggest to promote your brand at regional level and create brand=
+ awareness. This way you can attract more investors and customers.</p><p cl=
+ass=3D"MsoNormal" style=3D"margin:0in 0in 0.0001pt;font-size:11pt;font-fami=
+ly:Calibri,sans-serif;color:rgb(51,51,51)">=C2=A0</p><p class=3D"MsoNormal"=
+ style=3D"margin:0in 0in 0.0001pt;font-size:11pt;font-family:Calibri,sans-s=
+erif;color:rgb(51,51,51)">We assure that, all the artists associated with P=
+. J. B. Productions Pvt. Ltd. will support and promote your brand in our pr=
+ojects.</p><p class=3D"MsoNormal" style=3D"margin:0in 0in 0.0001pt;font-siz=
+e:11pt;font-family:Calibri,sans-serif;color:rgb(51,51,51)">=C2=A0</p><p cla=
+ss=3D"MsoNormal" style=3D"margin:0in 0in 0.0001pt;font-size:11pt;font-famil=
+y:Calibri,sans-serif;color:rgb(51,51,51)">Looking forward for a long lastin=
+g relationship.</p></div><div><br></div>-- <br><div dir=3D"ltr" class=3D"gm=
+ail_signature"><div dir=3D"ltr"><div><div dir=3D"ltr"><font face=3D"tahoma,=
+ sans-serif" color=3D"#20124d"><b>Thanks and regards,</b></font><div><font =
+face=3D"tahoma, sans-serif" color=3D"#20124d"><b>Josh PJ</b></font></div><d=
+iv><b style=3D"color:rgb(32,18,77);font-family:tahoma,sans-serif;font-size:=
+12.8px">+919880289532</b><font face=3D"tahoma, sans-serif" color=3D"#20124d=
+"><b><br></b></font></div><div><b style=3D"color:rgb(32,18,77);font-family:=
+tahoma,sans-serif;font-size:12.8px">(SlineMedia)</b><br></div><div><b style=
+=3D"color:rgb(32,18,77);font-family:tahoma,sans-serif;font-size:12.8px"><br=
+></b></div><div><div><font color=3D"#20124d" face=3D"tahoma, sans-serif">[C=
+ONFIDENTIALITY NOTICE:</font></div><div><font size=3D"1"><font color=3D"#20=
+124d" face=3D"tahoma, sans-serif">The contents of this email message and an=
+y attachments are intended solely for the addressee(s)=C2=A0</font><div sty=
+le=3D"display:inline"><font color=3D"#20124d" face=3D"tahoma, sans-serif">a=
+nd may contain confidential and/or privileged information and may be legall=
+y protected from disclosure. If you are not the intended recipient of this =
+message or their agent, or if this message has been addressed to you in err=
+or, please immediately alert the sender by reply email and then delete this=
+ message and any attachments. If you are not the intended recipient, you ar=
+e hereby notified that any use, dissemination, copying, or storage of this =
+message or its attachments is strictly prohibited. ]</font></div></font></d=
+iv><div style=3D"font-weight:bold;color:rgb(32,18,77);font-family:tahoma,sa=
+ns-serif;font-size:12.8px"><br></div></div></div></div></div></div></div></=
+div>
+
+--0000000000006943f405806c1dec--

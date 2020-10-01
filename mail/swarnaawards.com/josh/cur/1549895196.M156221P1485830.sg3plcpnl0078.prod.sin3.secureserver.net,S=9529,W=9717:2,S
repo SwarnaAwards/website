@@ -1,0 +1,188 @@
+Return-Path: <saurabhgupta9599@gmail.com>
+Delivered-To: josh@pjbproductions.in
+Received: from sg3plcpnl0078.prod.sin3.secureserver.net
+	by sg3plcpnl0078.prod.sin3.secureserver.net with LMTP id 0CtBCRyGYVwGrBYAUghlVg
+	for <josh@pjbproductions.in>; Mon, 11 Feb 2019 07:26:36 -0700
+Return-path: <saurabhgupta9599@gmail.com>
+Envelope-to: josh@pjbproductions.in
+Delivery-date: Mon, 11 Feb 2019 07:26:36 -0700
+Received: from mail-it1-f175.google.com ([209.85.166.175]:52702)
+	by sg3plcpnl0078.prod.sin3.secureserver.net with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.91)
+	(envelope-from <saurabhgupta9599@gmail.com>)
+	id 1gtCXX-006RAF-Tt
+	for josh@pjbproductions.in; Mon, 11 Feb 2019 07:26:36 -0700
+Received: by mail-it1-f175.google.com with SMTP id r11so21285245itc.2
+        for <josh@pjbproductions.in>; Mon, 11 Feb 2019 06:26:11 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:references:in-reply-to:from:date:message-id:subject:to;
+        bh=l8j2I4p78HgdiPJEPeLAduEvtVbJPIhjFvQ96m/LOgE=;
+        b=n+60lh3m9JHWX3E01u/l1iYfLAJa+73dmPckx3A1D6P8rnFueo9MfYtx/48CBpT0fz
+         2ZQ0xLzQvXQ6Zq7I5bJrqMfmcZOsrtbm8nhHg6ufkEB3/AMRu9FvXp+nl3BJrY6maNus
+         m/i1z3x6EI+LmF/+DXGUSoXXYWxFJlUSwHfigMdprfGudyfl6Xso9Pp4R9L09qy1A+6Z
+         Y4xUp8beAOJ+2tCQU2csAYTWUJTtySJwsrxZvugUQO35Zq6JyicgTPc9L44tzjv5VA4f
+         iykwXjheCshkukjQCfbqnvc57cVrdiomZi3R1VmsvQENhn1U4uTPPRpfuGjJ5Lniyhaq
+         Aqew==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:references:in-reply-to:from:date
+         :message-id:subject:to;
+        bh=l8j2I4p78HgdiPJEPeLAduEvtVbJPIhjFvQ96m/LOgE=;
+        b=ozOLtEQUp1f2KtGBY+jTxFKGpWWqTTRvf69z5YS9MKNZ7kY7BvCevHu/l/YXq5Bhvy
+         02deDDcvY4nmg9y1FpMj6R0zMoTm3CuMYnHlJizWdLjYp1VCc5ZcVsm6Cs+P3VvZ11Nk
+         GNREMq0vfq2Mwa32o8OCYxbcEDyiiYVTVODAxQGuc/5+yDLsnFBuf5cOiO6F6otqfgH1
+         /d+jsigWNWirPBBzNmoNnrRNDOFfEpbfVUUfBFndiDIvUv1LesKeR5uAh5oKBbSUxDen
+         ooQjThBZD7v7POvITlqCjPKIHiw6jTWgoz5iOwXwzhBEljJwpdnq1op+qyUtUm/5RAib
+         VVAg==
+X-Gm-Message-State: AHQUAubsyFab0+nMULZYbdEqGZ9Lgx6sbwImcOeRruu46RGDQF5zcpZa
+	dPwffwqMUgHmt0vxhpsXQEhzhpBUC29a3umf7akJxQ==
+X-Google-Smtp-Source: AHgI3IYHktylqYI1JSU+TiM0VcLe9dF3ENzByXCFxAelmSVTC4aQIXo4/UU9+Tz9hzSfb5WV2fqZVB4uLTjiZJO42ng=
+X-Received: by 2002:a24:d857:: with SMTP id b84mr5526079itg.149.1549895150004;
+ Mon, 11 Feb 2019 06:25:50 -0800 (PST)
+MIME-Version: 1.0
+References: <5dc6205bdf67de36b56a4149eaea4c2c@pjbproductions.in>
+In-Reply-To: <5dc6205bdf67de36b56a4149eaea4c2c@pjbproductions.in>
+From: Ssaurabh Gupta <saurabhgupta9599@gmail.com>
+Date: Mon, 11 Feb 2019 19:55:39 +0530
+Message-ID: <CAGXMYqNDGRagcS06zewf-R6Pmhki36oE73NYObR=jq4AHrcnLA@mail.gmail.com>
+Subject: Re: Proposal for South Movie
+To: Josh PJ <josh@pjbproductions.in>
+Content-Type: multipart/alternative; boundary="000000000000daf13d05819f1587"
+X-Spam-Status: No, score=0.2
+X-Spam-Score: 2
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "sg3plcpnl0078.prod.sin3.secureserver.net",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  Got it On Mon, Feb 11, 2019, 19:51 Josh PJ > Hi Saurabh, >
+    > As per the telephonic conversation, please find attached the proposal for
+    > investing in our project. > > Feel free to contact me, should
+ 
+ Content analysis details:   (0.2 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+                             See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: pjbproductions.in]
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.0 FREEMAIL_FROM          Sender email is commonly abused enduser mail provider
+                             (saurabhgupta9599[at]gmail.com)
+  0.2 FREEMAIL_ENVFROM_END_DIGIT Envelope-from freemail username ends in
+                             digit (saurabhgupta9599[at]gmail.com)
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily valid
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from author's
+                             domain
+  0.0 SURBL_BLOCKED          ADMINISTRATOR NOTICE: The query to SURBL was blocked.
+                             See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: pjbproductions.in]
+ -0.0 RCVD_IN_MSPIKE_H2      RBL: Average reputation (+2)
+                             [209.85.166.175 listed in wl.mailspike.net]
+X-Spam-Flag: NO
+
+--000000000000daf13d05819f1587
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Got it
+
+On Mon, Feb 11, 2019, 19:51 Josh PJ <josh@pjbproductions.in wrote:
+
+> Hi Saurabh,
+>
+> As per the telephonic conversation, please find attached the proposal for
+> investing in our project.
+>
+> Feel free to contact me, should you have any questions.
+> --
+>
+> *=E2=80=8BThanks and regards,*
+> *Josh PJ*
+> *Managing Director |**PJB Productions Pvt.Ltd. *
+> *|Mob: +919880289532 | josh@pjbproductions.in <josh@pjbproductions.in>*
+> *|No. 151, 1st floor, 3rd Cross, Kalyan House Building Co-operative
+> Society(KHBC),*
+> *|Hampinagar,  RPC Layout, Vijayanagar 2nd Stage, Bangalore 560104*
+>
+>
+> [CONFIDENTIALITY NOTICE:
+> The contents of this email message and any attachments are intended solel=
+y
+> for the addressee(s)
+> and may contain confidential and/or privileged information and may be
+> legally protected from disclosure. If you are not the intended recipient =
+of
+> this message or their agent, or if this message has been addressed to you
+> in error, please immediately alert the sender by reply email and then
+> delete this message and any attachments. If you are not the intended
+> recipient, you are hereby notified that any use, dissemination, copying, =
+or
+> storage of this message or its attachments is strictly prohibited. ]
+>
+
+--000000000000daf13d05819f1587
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"auto">Got it</div><br><div class=3D"gmail_quote"><div dir=3D"lt=
+r">On Mon, Feb 11, 2019, 19:51 Josh PJ &lt;<a href=3D"mailto:josh@pjbproduc=
+tions.in">josh@pjbproductions.in</a> wrote:<br></div><blockquote class=3D"g=
+mail_quote" style=3D"margin:0 0 0 .8ex;border-left:1px #ccc solid;padding-l=
+eft:1ex"><div style=3D"font-size:10pt;font-family:Verdana,Geneva,sans-serif=
+">
+<p class=3D"m_16749477221143445m_-317473105309151497ydp23bdbc6aMsoNormal">H=
+i Saurabh,</p>
+<p class=3D"m_16749477221143445m_-317473105309151497ydp23bdbc6aMsoNormal">A=
+s per the telephonic conversation, please find attached the proposal for in=
+vesting in our project.</p>
+<p class=3D"m_16749477221143445m_-317473105309151497ydp23bdbc6aMsoNormal">F=
+eel free to contact me, should you have any questions.</p>
+<div>-- <br>
+<p><span style=3D"color:#000080;font-family:tahoma,sans-serif"><strong><spa=
+n class=3D"gmail_default">=E2=80=8B</span>Thanks and regards,</strong></spa=
+n></p>
+<div><span style=3D"color:#000080;font-family:tahoma,sans-serif"><strong>Jo=
+sh PJ</strong></span></div>
+<div><span style=3D"color:#000080"><span style=3D"font-family:tahoma,sans-s=
+erif"><strong>Managing Director |</strong></span><strong>PJB Productions Pv=
+t.Ltd. </strong></span></div>
+<div><span style=3D"color:#000080"><strong>|Mob: +919880289532 | <a href=3D=
+"mailto:josh@pjbproductions.in" target=3D"_blank" rel=3D"noreferrer">josh@p=
+jbproductions.in</a></strong></span></div>
+<div><span style=3D"font-size:8pt"><strong>|No. 151, 1st floor, 3rd Cross, =
+Kalyan House Building Co-operative Society(KHBC),</strong></span></div>
+<div><span style=3D"font-size:8pt"><strong>|Hampinagar,=C2=A0 RPC Layout, V=
+ijayanagar 2nd Stage, Bangalore 560104</strong></span></div>
+<div>=C2=A0</div>
+<div><strong>=C2=A0</strong></div>
+<div>
+<div><span style=3D"color:#20124d;font-family:tahoma,sans-serif">[CONFIDENT=
+IALITY NOTICE:</span></div>
+<div><span style=3D"font-size:10pt"><span style=3D"color:#20124d;font-famil=
+y:tahoma,sans-serif">The contents of this email message and any attachments=
+ are intended solely for the addressee(s)=C2=A0</span></span>
+<div><span style=3D"color:#20124d;font-family:tahoma,sans-serif;font-size:1=
+0pt">and may contain confidential and/or privileged information and may be =
+legally protected from disclosure. If you are not the intended recipient of=
+ this message or their agent, or if this message has been addressed to you =
+in error, please immediately alert the sender by reply email and then delet=
+e this message and any attachments. If you are not the intended recipient, =
+you are hereby notified that any use, dissemination, copying, or storage of=
+ this message or its attachments is strictly prohibited. ]</span></div>
+</div>
+</div>
+</div>
+</div>
+</blockquote></div>
+
+--000000000000daf13d05819f1587--

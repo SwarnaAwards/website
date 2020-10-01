@@ -1,0 +1,102 @@
+Return-Path: <mindzcinephilia@gmail.com>
+Delivered-To: josh@pjbproductions.in
+Received: from sg3plcpnl0078.prod.sin3.secureserver.net
+	by sg3plcpnl0078.prod.sin3.secureserver.net with LMTP
+	id ENRdBG+d6lxL6BYAUghlVg
+	(envelope-from <mindzcinephilia@gmail.com>)
+	for <josh@pjbproductions.in>; Sun, 26 May 2019 07:06:39 -0700
+Return-path: <mindzcinephilia@gmail.com>
+Envelope-to: josh@pjbproductions.in
+Delivery-date: Sun, 26 May 2019 07:06:39 -0700
+Received: from mail-qk1-f181.google.com ([209.85.222.181]:34963)
+	by sg3plcpnl0078.prod.sin3.secureserver.net with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.91)
+	(envelope-from <mindzcinephilia@gmail.com>)
+	id 1hUtnE-006bL0-KQ
+	for josh@pjbproductions.in; Sun, 26 May 2019 07:06:39 -0700
+Received: by mail-qk1-f181.google.com with SMTP id l128so1637639qke.2
+        for <josh@pjbproductions.in>; Sun, 26 May 2019 07:06:12 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=1m43hpO0Tm0Qn7xick0KczssT8litUICSyqP7NsRH+0=;
+        b=meL8HxXk82as9LE4Lgme64Im0Nzpgf7xpmO9MxY38tH0LW2tQpMrYfPSwZ4MpHjg/W
+         eO3Jd9yLx1HXttG/Zw8yj2Wvpb/w0B8WRjl2UHH4+E7jDX53IeWWgyIDMN4kDIG4t8hh
+         QqW6Ah5FE7hGjxQgNtxTgvXiH5jpiUu3mWxT2ideRQLH1ajrHisYQKU0WvS5oKEDwhmW
+         KSQ394Zm63le+9c8RifugH0L12GG42PKzy30wLPhvZRCdk7ZkBsGUQWNtv/QoCnfgex8
+         2RL+FJlE4KBfAv6EetZ6Iurv5IseqaqClz6ipWsLsrgUNHJohgTUY6KhRa6NtorDp4or
+         hKnQ==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=1m43hpO0Tm0Qn7xick0KczssT8litUICSyqP7NsRH+0=;
+        b=RfRsh0E2s78SkAksgMgilunPahAAopiE1ZmxRTDYonwO6rsJ5xQGzrA63nEuZz2iLl
+         eDQYhESW28NMKHzRtES02L7cN0CsmNiIHGq2KiTZ9+9u4B7KLfk++PuYchBxMOkuIJi2
+         zGiVSr9wW9S8Fd5pNqkBvjsmIKf/Y2MIreLJFuzHMa3V46yyA+UJaEIMbxM5HwymbEnf
+         NEYhEbwUDXUIY3uwUd4EOpW0wup92h7d0dssBqNiDsOXqPcxrb/Fv19MInlFZqnq4HJe
+         QWWpNBXSWaFWVBksIOWOkRbTRbfP0tWU6B6H0QhbclDaOvtzrxlglL8IaHTOEvIg/lNX
+         gqqA==
+X-Gm-Message-State: APjAAAXu9pOwtOuOHeuiDtLtBb/y4+heXYt0keWo4dfbOAJAWrVwkQi7
+	yo41Vss03aHR2JRWlIAdPXwONChpJizH3/i59k9hZQ==
+X-Google-Smtp-Source: APXvYqyhOj1iTToMEF/o5lnqzPc1OVjdIHkTs1L35RCw7H6FvbKoavUMW9X8AEWqYGNH3HklGvrJpJD+VT6PQ3LAHQI=
+X-Received: by 2002:ac8:4442:: with SMTP id m2mr2501681qtn.107.1558879550309;
+ Sun, 26 May 2019 07:05:50 -0700 (PDT)
+MIME-Version: 1.0
+From: Cinephilia Mindz <mindzcinephilia@gmail.com>
+Date: Sun, 26 May 2019 19:35:39 +0530
+Message-ID: <CAKLqgLYG2Vb3OSF+CvED+SToy0ABAQ-FVNw1LwJTRnbE4nwkkA@mail.gmail.com>
+Subject: Test mail
+To: josh@pjbproductions.in
+Content-Type: multipart/alternative; boundary="000000000000d80bf40589caedd3"
+X-Spam-Status: No, score=-0.2
+X-Spam-Score: -1
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "sg3plcpnl0078.prod.sin3.secureserver.net",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  Hi, Test Mail. Regards, 
+ 
+ Content analysis details:   (-0.2 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.0 FREEMAIL_FROM          Sender email is commonly abused enduser mail
+                             provider (mindzcinephilia[at]gmail.com)
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+ -0.1 DKIM_VALID_EF          Message has a valid DKIM or DK signature from
+                             envelope-from domain
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from
+                             author's domain
+X-Spam-Flag: NO
+
+--000000000000d80bf40589caedd3
+Content-Type: text/plain; charset="UTF-8"
+
+Hi,
+
+
+Test Mail.
+
+Regards,
+
+Bharath R Shastry,
+Cinephilia Mindz.
+
+--000000000000d80bf40589caedd3
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"auto">Hi,=C2=A0<div dir=3D"auto"><br></div><div dir=3D"auto"><b=
+r></div><div dir=3D"auto">Test Mail.=C2=A0</div><div dir=3D"auto"><br></div=
+><div dir=3D"auto">Regards,=C2=A0</div><div dir=3D"auto"><br></div><div dir=
+=3D"auto">Bharath R Shastry,=C2=A0</div><div dir=3D"auto">Cinephilia Mindz.=
+=C2=A0</div></div>
+
+--000000000000d80bf40589caedd3--

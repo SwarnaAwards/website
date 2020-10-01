@@ -1,0 +1,136 @@
+Return-Path: <15493914039351567-53936-0-successassociates.in@delivery.youth4work.com>
+Delivered-To: info@successassociates.in
+Received: from sg3plcpnl0078.prod.sin3.secureserver.net
+	by sg3plcpnl0078.prod.sin3.secureserver.net with LMTP id GKljA8JqWlxgfjEAUghlVg
+	for <info@successassociates.in>; Tue, 05 Feb 2019 22:04:02 -0700
+Return-path: <15493914039351567-53936-0-successassociates.in@delivery.youth4work.com>
+Envelope-to: info@successassociates.in
+Delivery-date: Tue, 05 Feb 2019 22:04:02 -0700
+Received: from 89.env.ptransmail.com ([175.158.64.89]:58122)
+	by sg3plcpnl0078.prod.sin3.secureserver.net with esmtp (Exim 4.91)
+	(envelope-from <15493914039351567-53936-0-successassociates.in@delivery.youth4work.com>)
+	id 1grFNN-00DarI-52
+	for info@successassociates.in; Tue, 05 Feb 2019 22:04:02 -0700
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=pepipost; d=youth4work.com;
+ h=MIME-Version:From:To:Subject:Content-Type:Content-Transfer-Encoding:Message-Id:List-Unsubscribe:Date;
+ bh=dUWMzw0EQMkTUokrrLCDzYckyj4=;
+ b=yjtJmItogwZdeRIZh3hAH3/4ikS899NelArJoKJzIVOunRxnMUaotwKKshB2sqAKS25Om3FirEh0
+   EputK/jzeU58NhNQw1M1JpRK9TSLlNwCGCrWDthmkI2Wf63qv1BiSgPh02FAkBDy+kKqgXKVxdXO
+   m2tQSNmX8hxMNJa+WHE=
+Received: by fadsn1-21.ptransmail.com id hb9lbq229vgh for <info@successassociates.in>; Wed, 6 Feb 2019 10:33:15 +0530 (envelope-from <15493914039351567-53936-0-successassociates.in@delivery.youth4work.com>)
+MIME-Version: 1.0
+From: "Youth4work" <registration@youth4work.com>
+To: info@successassociates.in
+X-Priority: 1
+Priority: urgent
+Importance: high
+Subject: Verify your Account in Youth4work
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+Message-Id: <20190206050314.BF27B1E007D@smta3.pepipost.com>
+List-Unsubscribe: <mailto:15493914039351567@usub.ftrans03.com?subject=Unsubscribe>, <http://delivery.youth4work.com/rdz?id=53936=MU9UAQMGAQQOHVIBBwkBCAZUUkk=WwtQDnQVQlRUUxBEBUAXXlVcWUNdEkxYWUUADQJdUQwDUQZSDVUCBgIAVA==>
+X-Abuse-Reports-To: abuse@falconidemailers.com
+X-FNCID: 53936-15493914039351567-0
+Date: Wed, 6 Feb 2019 10:33:57 +0530
+X-Spam-Status: No, score=1.0
+X-Spam-Score: 10
+X-Spam-Bar: +
+X-Ham-Report: Spam detection software, running on the system "sg3plcpnl0078.prod.sin3.secureserver.net",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  Mail Registration Details Hi Sanoj, Welcome to Youth4Work
+   Community. User Name: successassociates Company Name: Success Associates Contact
+    No.: 9742868456 Activate Account And Reset Password If you a
+ 
+ Content analysis details:   (1.0 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+                             See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: youth4work.com]
+  0.0 SURBL_BLOCKED          ADMINISTRATOR NOTICE: The query to SURBL was blocked.
+                             See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: successassociates.in]
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  1.1 MIME_HTML_ONLY         BODY: Message only has text/html MIME parts
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  0.0 HTML_FONT_LOW_CONTRAST BODY: HTML font color similar or identical to
+                             background
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily valid
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from author's
+                             domain
+X-Spam-Flag: NO
+
+<html><head><title>Mail</title></head><body><table align=3D'center' border=
+=3D'0' cellspacing=3D'0'> <tr><td><table align=3D'center' cellspacing=3D'0'=
+ cellpadding=3D'5' width=3D'600' style=3D'border: 1px solid #DDDDDD;'> <tr>=
+<td><table border=3D'0' cellspacing=3D'0' cellpadding=3D'0' align=3D'center=
+' style=3D'font-family: Verdana; font-size: 11px; color: #000; width: 100%;=
+'><tr><td width=3D'600' align=3D'center'> <table width=3D'100%' align=3D'ce=
+nter' style=3D'background-color: #087ccd; color: White;' cellspacing=3D'0' =
+cellpadding=3D'5'><tr><td align=3D'left' width=3D'500'> <span style=3D'font=
+-family: Arial; font-size: 16px; color: White; font-weight: bold; width: 10=
+0%'>Registration Details</span><span style=3D'font-family: Arial; font-size=
+: 11px; color: White; padding-left: 10px; width: 100%'> </span> </td><td al=
+ign=3D'right' width=3D'100px' valign=3D'top'><span style=3D'text-align: rig=
+ht; width: 100px;'> <img border=3D'0' src=3D'https://www.static-contents.yo=
+uth4work.com/icon/y4w_icon_30x30.png' width=3D'30px' height=3D'30px' /></sp=
+an> </td></tr></table></td></tr></table></td></tr><tr><td align=3D'left' st=
+yle=3D'font-family: Verdana; font-size: 11px;color: #666666; '>Hi Sanoj, </=
+td></tr><tr><td align=3D'left' style=3D'font-family: Verdana; font-size: 11=
+px; color: #666666;'>Welcome to Youth4Work Community. </td></tr><tr><td><ta=
+ble width=3D'100%' height=3D'100%' align=3D'left' cellpadding=3D'0' cellspa=
+cing=3D'5'> <tr><td align=3D'left' valign=3D'top' width=3D'50px' height=3D'=
+50px'><img border=3D'0' src=3D'https://www.static-contents.youth4work.com/i=
+mages/blank_img.gif' height=3D'50' width=3D'50' /></td><td align=3D'left' w=
+idth=3D'450px' height=3D'100%' valign=3D'top' style=3D'padding-left: 5px; b=
+order-right: 1px solid #DDDDDD'><table cellpadding=3D'0' cellspacing=3D'4' =
+width=3D'100%' align=3D'left' style=3D'font-family: Verdana; font-size: 11p=
+x; color: #666666;'><tr><td align=3D'left' style=3D'width: 80px;'><span>Use=
+r Name: </span></td><td align=3D'left'> <span>successassociates</span></td>=
+</tr><tr><td align=3D'left'><span>Company Name: </span></td><td align=3D'le=
+ft'><span>Success Associates</span></td></tr><tr><td align=3D'left'><span>C=
+ontact No.: </span> </td><td align=3D'left'><span>9742868456</span></td></t=
+r></table></td><td width=3D'250px' align=3D'center'> <table cellpadding=3D'=
+0' cellspacing=3D'5' style=3D'font-family: Verdana; font-size: 11px;color: =
+#666666; text-decoration: none; height: 100%; width: 250px;'> <tr><td align=
+=3D'center'><table cellspacing=3D'0' cellpadding=3D'5' width=3D'250' style=
+=3D'background-color: #087CCD;'> <tr><td height=3D'20px' style=3D'font-size=
+: 11px; font-family: verdana; padding: 7px 10px 7px 10px; border: 1px solid=
+ #2F619A; text-decoration: none'> <a href=3D'http://delivery.youth4work.com=
+/rdz?id=3D53936=3DJ09UAQMGAQQOHVIBBwkBCAZUUkk=3DWwtQDnQVQlRUUxBEBUAXXlVcWUN=
+dEkxYWUUADQJdUQwDUQZSDVUCBgIAVA=3D=3D&fl=3DDEcQQUUPFxhPFhUfTlZETF5QFVpADhgC=
+WwsYYkRTEURLZQFDX1NBYksEEB5WCwVcV1wAAB9UAAIASwNSAQdOVQZSVxwODV0OAFZXVQEIAwo=
+=3D' style=3D'color: #ffffff; text-decoration: none' target=3D'_blank'> <sp=
+an style=3D'color: #fff; font-size: 11px; text-decoration: none'>Activate A=
+ccount And Reset Password</span> </a></td></tr></table></td></tr></table></=
+td></tr></table></td></tr><tr><td align=3D'left' style=3D'font-family: Verd=
+ana; font-size: 11px; color: #666666;'>If you are unable to view links on t=
+his email, please copy and paste the following link in your browser. It wou=
+ld activate your account.</td></tr><tr><td align=3D'left' style=3D'font-fam=
+ily: Verdana; font-size: 11px; color: #666666;'>https://www.youth4work.com/=
+Users/VerifyUser/a24da8b5-16c4-4e61-bba3-88e9875d6122</td><br/></tr></table=
+></td></tr><tr><td style=3D'font-family: Verdana; width: 600; font-size: 9p=
+x; color: #666666; padding-top: 5px' align=3D'left' valign=3D'middle'>This =
+message was sent to <span style=3D'font-family: Verdana; font-size: 9px; co=
+lor: #087ccd; text-decoration: none;'><a style=3D'font-family: Verdana; fon=
+t-size: 9px; color: #087ccd; text-decoration: none;'><a style=3D'font-famil=
+y: Verdana; font-size: 9px; color: #087ccd; text-decoration: none;'>info@su=
+ccessassociates.in</a></span> because you have registered on youth4work. Co=
+mmunicate with us at  <span style=3D'color: #087ccd; text-decoration: none;=
+'>cossupport@youth4work.com</span> </a></td></tr></table><p>&nbsp;<br></p>=
+=0A=
+<img id=3D'SBBBB' src=3D'http://delivery.youth4work.com/rdz?id=3D53936=3DK0=
+9UAQMGAQQOHVIBBwkBCAZUUkk=3DWwtQDnQVQlRUUxBEBUAXXlVcWUNdEkxYWUUADQJdUQwDUQZ=
+SDVUCBgIAVA=3D=3D' /></body></html>=0A=
+=0A=
+

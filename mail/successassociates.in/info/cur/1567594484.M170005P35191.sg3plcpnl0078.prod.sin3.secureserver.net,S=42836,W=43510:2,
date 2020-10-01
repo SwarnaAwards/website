@@ -1,0 +1,674 @@
+Return-Path: <bounces+1664773-2ec9-info=successassociates.in@n.aasaanjobs.com>
+Delivered-To: info@successassociates.in
+Received: from sg3plcpnl0078.prod.sin3.secureserver.net
+	by sg3plcpnl0078.prod.sin3.secureserver.net with LMTP
+	id CKN+CPSXb113iQAAUghlVg
+	(envelope-from <bounces+1664773-2ec9-info=successassociates.in@n.aasaanjobs.com>)
+	for <info@successassociates.in>; Wed, 04 Sep 2019 03:54:44 -0700
+Return-path: <bounces+1664773-2ec9-info=successassociates.in@n.aasaanjobs.com>
+Envelope-to: info@successassociates.in
+Delivery-date: Wed, 04 Sep 2019 03:54:44 -0700
+Received: from o198216x97.outbound-mail.sendgrid.net ([198.21.6.97]:10629)
+	by sg3plcpnl0078.prod.sin3.secureserver.net with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.92)
+	(envelope-from <bounces+1664773-2ec9-info=successassociates.in@n.aasaanjobs.com>)
+	id 1i5Svr-000JRf-Uf
+	for info@successassociates.in; Wed, 04 Sep 2019 03:54:44 -0700
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=aasaanjobs.com;
+	h=content-transfer-encoding:content-type:from:mime-version:reply-to:
+	subject:to;
+	s=s1; bh=hldvWJc45QUD+oIXwrB6b+Vym6j/dYrkn+b8DOKWM1c=;
+	b=FySZ/ms/KneP1l4tIgndA64NRjxOGXoYJPbEl2shQ//uemIth+I0okRmXJZC+Pg+a9PE
+	iQ2FU/yOTe8RSbVpvLqVVCSa/YCGCKlUqQ2467roTUBthHYpfS8OMp3jS0qMxbEzB5JpLa
+	ollax/ebvYrKHCTGH4soM7q5wZeGMTT5Y=
+Received: by filter0082p3las1.sendgrid.net with SMTP id filter0082p3las1-3529-5D6F97C1-A
+        2019-09-04 10:53:53.357950045 +0000 UTC m=+66377.233883411
+Received: from MTY2NDc3Mw (unknown [35.244.36.11])
+	by ismtpd0004p1hnd1.sendgrid.net (SG) with HTTP id 7bbX3c-PQImDziNxPzkyOA
+	Wed, 04 Sep 2019 10:53:53.179 +0000 (UTC)
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=us-ascii
+Date: Wed, 04 Sep 2019 10:53:53 +0000 (UTC)
+From: Aasaanjobs <noreply@aasaanjobs.com>
+Mime-Version: 1.0
+Message-ID: <7bbX3c-PQImDziNxPzkyOA@ismtpd0004p1hnd1.sendgrid.net>
+Reply-To: Aasaanjobs <arzaan.wadia@aasaanjobs.com>
+Subject: New Applications | Delivery Man | Aasaanjobs
+X-SG-EID: 
+ =?us-ascii?Q?Yyq5sZDFOOB7+s+IkI5yOOrpEdVHa8QBnxquMhQCo51twVjFsqk38TxO2Rqliq?=
+ =?us-ascii?Q?hmLNhmd5H+YTwDzvcH7ytLISz1IIi4ApiCX7ql8?=
+ =?us-ascii?Q?TF2Y6zXQQjMG5ya=2FEjiqTShG956mrzGZ0cJbl+y?=
+ =?us-ascii?Q?Uh9awLckPEYbns4yzEh4FVenqO2oPQ3jfx1T4FM?=
+ =?us-ascii?Q?DIGjksJ+S3Nt4V7tf3=2FTyGmX8GI3lTSL69m0Lly?=
+ =?us-ascii?Q?a7TfNVKIEoTOuId2Hrj5+i=2Ft8m=2FBmjyjBMTZ5j?=
+X-SG-ID: 
+ =?us-ascii?Q?N2C25iY2uzGMFz6rgvQsb9HELvpcOKJAEwmSxTXEbjfLEajepsvjYdiiSO79yb?=
+ =?us-ascii?Q?Q1C=2F=2Fcp=2FrNbOw6vd=2F7RAGUr4kFS+Z0tX5M9ngQp?=
+ =?us-ascii?Q?YMNgO4srY96RqI1vZxXGfEbmdnrUcJKdy5kNbh+?=
+ =?us-ascii?Q?DA43fbjvYbk3YJ7D8MW=2F=2FpdQFwQTn+=2F6USrnPW0?=
+ =?us-ascii?Q?wU5C3rjn7Lo=2F82ZgXtGBvTvKWpgMhMlSbWNnd8n?=
+ =?us-ascii?Q?4=2FuQEsm3vUevNrfx8EbcH0dfVT=2FI6uvqjdERzAR?=
+ =?us-ascii?Q?yLpYyI9CaXwwG6mf0+1RQ=3D=3D?=
+To: info@successassociates.in
+X-Spam-Status: No, score=3.0
+X-Spam-Score: 30
+X-Spam-Bar: +++
+X-Ham-Report: Spam detection software, running on the system "sg3plcpnl0078.prod.sin3.secureserver.net",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  Free Employer - SFIs Today Applications Hi Sanoj Kumar 
+ 
+ Content analysis details:   (3.0 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  1.0 SURBL_BLOCKED          ADMINISTRATOR NOTICE: The query to SURBL was
+                             blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: aasaanjobs.com]
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was
+                             blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: aasaanjobs.com]
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  0.0 T_KAM_HTML_FONT_INVALID BODY: Test for Invalidly Named or
+                             Formatted Colors in HTML
+  1.1 MIME_HTML_ONLY         BODY: Message only has text/html MIME parts
+  0.0 HTML_FONT_LOW_CONTRAST BODY: HTML font color similar or
+                             identical to background
+  1.1 KAM_REALLYHUGEIMGSRC   RAW: Spam with image tags with ridiculously
+                              huge http urls
+ -0.1 DKIM_VALID_EF          Message has a valid DKIM or DK signature from
+                             envelope-from domain
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from
+                             author's domain
+X-Spam-Flag: NO
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org=
+/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+
+<head style=3D"font-family:'Avenir Next',AvenirNext,Avenir,Arial,'Helvetica=
+ Neue',Helvetica,sans-serif">
+  <title style=3D"font-family:'Avenir Next',AvenirNext,Avenir,Arial,'Helvet=
+ica Neue',Helvetica,sans-serif">Free Employer - SFIs Today</title>
+  <meta name=3D"viewport" content=3D"width=3Ddevice-width" style=3D"font-fa=
+mily:'Avenir Next',AvenirNext,Avenir,Arial,'Helvetica Neue',Helvetica,sans-=
+serif">
+  <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8" =
+style=3D"font-family:'Avenir Next',AvenirNext,Avenir,Arial,'Helvetica Neue'=
+,Helvetica,sans-serif">
+</head>
+
+<body style=3D"font-family:'Avenir Next',AvenirNext,Avenir,Arial,'Helvetica=
+ Neue',Helvetica,sans-serif;margin:50px auto;max-width:800px;width:800px">
+  <style type=3D"text/css" style=3D"font-family:'Avenir Next',AvenirNext,Av=
+enir,Arial,'Helvetica Neue',Helvetica,sans-serif"></style>
+  <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" bgcolor=3D"#FFFFF=
+F" style=3D"border-collapse:collapse;font-family:'Avenir Next',AvenirNext,A=
+venir,Arial,'Helvetica Neue',Helvetica,sans-serif">
+    <tbody style=3D"font-family:'Avenir Next',AvenirNext,Avenir,Arial,'Helv=
+etica Neue',Helvetica,sans-serif">
+      <tr style=3D"font-family:'Avenir Next',AvenirNext,Avenir,Arial,'Helve=
+tica Neue',Helvetica,sans-serif">
+        <td style=3D"font-family:'Avenir Next',AvenirNext,Avenir,Arial,'Hel=
+vetica Neue',Helvetica,sans-serif">
+          <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"=
+800" class=3D"fullwidth" align=3D"center" style=3D"border-collapse:collapse=
+;font-family:'Avenir Next',AvenirNext,Avenir,Arial,'Helvetica Neue',Helveti=
+ca,sans-serif;margin:auto;min-width:800px;width:100%">
+            <tbody style=3D"font-family:'Avenir Next',AvenirNext,Avenir,Ari=
+al,'Helvetica Neue',Helvetica,sans-serif">
+              <tr style=3D"font-family:'Avenir Next',AvenirNext,Avenir,Aria=
+l,'Helvetica Neue',Helvetica,sans-serif">
+                <td style=3D"font-family:'Avenir Next',AvenirNext,Avenir,Ar=
+ial,'Helvetica Neue',Helvetica,sans-serif;padding:30px 30px 20px 30px" clas=
+s=3D"masthead">
+                  <p style=3D"float:left;font-family:'Avenir Next',AvenirNe=
+xt,Avenir,Arial,'Helvetica Neue',Helvetica,sans-serif;font-size:18px;margin=
+:0;padding-top:15px">Applications</p><a href=3D"https://u1664773.ct.sendgri=
+d.net/wf/click?upn=3Dsjt-2B7uNFuT-2FbZAMb1Lpd8BMA38Ezvc95GIEcQ-2Fa0ZOgAQ4Zl=
+XHU5GsxCJVTLPdUw_VxlAuX98jGTImtRfy8qSMjxfPST58bUH44FH8gukAsqebeueT7cMeQeEAr=
+XYtrNuRtquScUAxGuTjStR-2B2T4gFtJhmHh-2FMDBIgKLCgDVe4oGX4CPQXbFSUTf-2FRgdIgf=
+bKccH399GurFBtf341mmWFzUVhil66gJoNRrpp6mgbgnDJJVCqumCKW5FcwDJ6eDlzd-2ByVDGb=
+Fgo0UgydYlnr0UlI-2BPTF-2Bi8a-2B0RtEUeomFzH0DY7CTLcDbgTcOFHJirvnXZMBXjr15Chi=
+aFR7DHkStBChjymelcnqmenuAJs4mdabXuk-2B5BHh6RQy61-2BEWpwgPiMt8D94mgwii7eeB4U=
+98lfTslitntJuLagUJoACQ11NN-2BMRYNMk9-2FkPpEj1ebYjSaFodeAwB7Fo0LFjfJmnbfy8iP=
+ykhqD4ikyqhOuvbyF6vHED5bfFHnm-2F0zz-2BbRMMnlI2qZYgEYrazn4GER11yvhrd6ctCsnKL=
+Ecl9i8Ons-3D" target=3D"_blank" style=3D"color:#e4b83a;display:block;float:=
+right;font-family:'Avenir Next',AvenirNext,Avenir,Arial,'Helvetica Neue',He=
+lvetica,sans-serif;text-decoration:none" id=3D"logo"><img src=3D"https://s3=
+-ap-southeast-1.amazonaws.com/static.aasaanjobs.com/logos/aasaanjobs-logo.p=
+ng" width=3D"40" alt=3D"AJ" style=3D"-ms-interpolation-mode:bicubic;border:=
+none;display:block;font-family:'Avenir Next',AvenirNext,Avenir,Arial,'Helve=
+tica Neue',Helvetica,sans-serif" border=3D"0"></a></td>
+              </tr>
+            </tbody>
+          </table>
+          <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"=
+800" class=3D"fullwidth" align=3D"center" style=3D"border-collapse:collapse=
+;font-family:'Avenir Next',AvenirNext,Avenir,Arial,'Helvetica Neue',Helveti=
+ca,sans-serif;margin:auto;min-width:800px;width:100%">
+            <tbody style=3D"font-family:'Avenir Next',AvenirNext,Avenir,Ari=
+al,'Helvetica Neue',Helvetica,sans-serif">
+              <tr style=3D"font-family:'Avenir Next',AvenirNext,Avenir,Aria=
+l,'Helvetica Neue',Helvetica,sans-serif">
+                <td style=3D"font-family:'Avenir Next',AvenirNext,Avenir,Ar=
+ial,'Helvetica Neue',Helvetica,sans-serif;padding:0 30px" class=3D"content"=
+>
+                  <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" w=
+idth=3D"740" class=3D"fullwidth borders" style=3D"border-collapse:collapse;=
+border-color:#e7e7e7;border-style:solid;border-width:1px;font-family:'Aveni=
+r Next',AvenirNext,Avenir,Arial,'Helvetica Neue',Helvetica,sans-serif;width=
+:100%">
+                    <tbody style=3D"font-family:'Avenir Next',AvenirNext,Av=
+enir,Arial,'Helvetica Neue',Helvetica,sans-serif">
+                      <tr style=3D"font-family:'Avenir Next',AvenirNext,Ave=
+nir,Arial,'Helvetica Neue',Helvetica,sans-serif">
+                        <td style=3D"color:#3c4044;font-family:'Avenir Next=
+',AvenirNext,Avenir,sans-serif!important;font-size:14px;font-weight:400;lin=
+e-height:100%;padding-left:20px;padding-top:20px;text-align:left" class=3D"=
+avenir body mobipad" align=3D"left">
+                          <p style=3D"font-family:'Avenir Next',AvenirNext,=
+Avenir,Arial,'Helvetica Neue',Helvetica,sans-serif;margin-bottom:1em">Hi Sa=
+noj Kumar</p>
+                        </td>
+                      </tr>
+                      <tr style=3D"font-family:'Avenir Next',AvenirNext,Ave=
+nir,Arial,'Helvetica Neue',Helvetica,sans-serif">
+                        <td style=3D"color:#3c4044;font-family:'Avenir Next=
+',AvenirNext,Avenir,sans-serif!important;font-size:14px;font-weight:400;lin=
+e-height:25px;padding-left:20px;padding-right:20px;text-align:justify" clas=
+s=3D"avenir body mobipad" align=3D"left">
+                          <p style=3D"font-family:'Avenir Next',AvenirNext,=
+Avenir,Arial,'Helvetica Neue',Helvetica,sans-serif;margin-bottom:10px"><str=
+ong style=3D"font-family:'Avenir Next',AvenirNext,Avenir,Arial,'Helvetica N=
+eue',Helvetica,sans-serif">1 candidate</strong> applied in the last 24 hour=
+s for the role of <strong style=3D"font-family:'Avenir Next',AvenirNext,Ave=
+nir,Arial,'Helvetica Neue',Helvetica,sans-serif">Delivery Man</strong>.</p>
+                        </td>
+                      </tr>
+                      <tr style=3D"font-family:'Avenir Next',AvenirNext,Ave=
+nir,Arial,'Helvetica Neue',Helvetica,sans-serif">
+                        <td style=3D"font-family:'Avenir Next',AvenirNext,A=
+venir,Arial,'Helvetica Neue',Helvetica,sans-serif;padding-bottom:20px">
+                          <div style=3D"border-bottom:solid 1px #E5E5E5;cle=
+ar:both;font-family:'Avenir Next',AvenirNext,Avenir,Arial,'Helvetica Neue',=
+Helvetica,sans-serif"></div>
+                        </td>
+                      </tr>
+                      <tr style=3D"font-family:'Avenir Next',AvenirNext,Ave=
+nir,Arial,'Helvetica Neue',Helvetica,sans-serif">
+                        <td style=3D"color:#4990e2;font-family:'Avenir Next=
+',AvenirNext,Avenir,sans-serif!important;font-size:14px;font-weight:500;lin=
+e-height:100%;padding-left:20px;text-align:left" class=3D"avenir body mobip=
+ad" align=3D"left">
+                          <p style=3D"font-family:'Avenir Next',AvenirNext,=
+Avenir,Arial,'Helvetica Neue',Helvetica,sans-serif;margin-bottom:10px">Cand=
+idate Details</p>
+                        </td>
+                      </tr>
+                      <tr style=3D"font-family:'Avenir Next',AvenirNext,Ave=
+nir,Arial,'Helvetica Neue',Helvetica,sans-serif">
+                        <td style=3D"font-family:'Avenir Next',AvenirNext,A=
+venir,Arial,'Helvetica Neue',Helvetica,sans-serif;padding-bottom:20px">
+                          <table width=3D"100%" align=3D"center" style=3D"f=
+ont-family:'Avenir Next',AvenirNext,Avenir,Arial,'Helvetica Neue',Helvetica=
+,sans-serif">
+                            <tbody style=3D"font-family:'Avenir Next',Aveni=
+rNext,Avenir,Arial,'Helvetica Neue',Helvetica,sans-serif">
+                              <tr style=3D"font-family:'Avenir Next',Avenir=
+Next,Avenir,Arial,'Helvetica Neue',Helvetica,sans-serif">
+                                <td style=3D"border:1px solid #E5E5E5;font-=
+family:'Avenir Next',AvenirNext,Avenir,sans-serif;padding:0">
+                                  <div style=3D"background-color:#01b8c5!im=
+portant;clear:both;color:#fff;font-family:'Avenir Next',AvenirNext,Avenir,A=
+rial,'Helvetica Neue',Helvetica,sans-serif;font-size:14px">
+                                    <div style=3D"float:left;font-family:'A=
+venir Next',AvenirNext,Avenir,Arial,'Helvetica Neue',Helvetica,sans-serif;f=
+ont-weight:600;padding:5px 0;text-align:left;text-indent:12px;width:50%">Ca=
+ndidate Detail</div>
+                                    <div style=3D"float:left;font-family:'A=
+venir Next',AvenirNext,Avenir,Arial,'Helvetica Neue',Helvetica,sans-serif;f=
+ont-weight:600;padding:5px 0;text-align:left;width:50%">Professional Detail=
+</div>
+                                    <div style=3D"border-bottom:solid 1px #=
+E5E5E5;clear:both;font-family:'Avenir Next',AvenirNext,Avenir,Arial,'Helvet=
+ica Neue',Helvetica,sans-serif"></div>
+                                  </div>
+                                  <div class=3D"text-small" style=3D"font-f=
+amily:'Avenir Next',AvenirNext,Avenir,Arial,'Helvetica Neue',Helvetica,sans=
+-serif;font-size:13px;padding:10px 0">
+                                    <div class=3D"row" style=3D"font-family=
+:'Avenir Next',AvenirNext,Avenir,Arial,'Helvetica Neue',Helvetica,sans-seri=
+f">
+                                      <div class=3D"col-xs-4 col-xs-6" styl=
+e=3D"float:left;font-family:'Avenir Next',AvenirNext,Avenir,Arial,'Helvetic=
+a Neue',Helvetica,sans-serif;padding-left:12px;width:50%">
+                                        <div style=3D"font-family:'Avenir N=
+ext',AvenirNext,Avenir,Arial,'Helvetica Neue',Helvetica,sans-serif">
+                                          <div style=3D"font-family:'Avenir=
+ Next',AvenirNext,Avenir,Arial,'Helvetica Neue',Helvetica,sans-serif;margin=
+:0;width:100%">
+                                            <p class=3D"m-bottom-0 line-hei=
+ght-1" style=3D"font-family:'Avenir Next',AvenirNext,Avenir,Arial,'Helvetic=
+a Neue',Helvetica,sans-serif;margin:0"><a style=3D"font-family:'Avenir Next=
+',AvenirNext,Avenir,Arial,'Helvetica Neue',Helvetica,sans-serif;font-weight=
+:600;margin:0" class=3D"text-primary text-medium text-semibold flex-center =
+flex-wrap" href=3D"https://u1664773.ct.sendgrid.net/wf/click?upn=3Dsjt-2B7u=
+NFuT-2FbZAMb1Lpd8BMA38Ezvc95GIEcQ-2Fa0ZOi2-2BpKQkQnagTRVhf0tfckYPKt1l7bKog1=
+wFx31VCIfdxX8EtoaQ0Be3qLyfO8XNnybdyNWM9n-2BA59d-2FvuAV8xU40P5sWwCH-2F1S2AfP=
+Z5sL6TqkvQGoS0Ac-2FvEtdLw-2FSQkGIkOYtxBhnHJ6YEnoHQzEc8mWe9F6HruBOAMz4SN47Sb=
+4MwhQae5w-2B45Qy14khnlnx9a-2F1CQ2P-2BSiodyRW7-2Fh31cFan2jFY2x6bGgVq2sMXpZDm=
+QrzQDenb4E3YJ2A50IBESQgFBP250ZJjCABV0mF9yhZB-2BIeSJ9lo1krzSaZXo4LmN0xLEMf-2=
+B-2Bx77xXtkJ4Y2x-2Fq3xkuj2G0H1kW3gcdZ3VG4dt6A8Df5vlj-2FReNL8sovDIF-2FH9Po1b=
+ZxtTo-2Fk-3D_VxlAuX98jGTImtRfy8qSMjxfPST58bUH44FH8gukAsqebeueT7cMeQeEArXYtr=
+NuRtquScUAxGuTjStR-2B2T4gFtJhmHh-2FMDBIgKLCgDVe4oGX4CPQXbFSUTf-2FRgdIgfbKcc=
+H399GurFBtf341mmWFzUVhil66gJoNRrpp6mgbgnDJJVCqumCKW5FcwDJ6eDlzd-2ByVDGbFgo0=
+UgydYlnr0UlI-2BPTF-2Bi8a-2B0RtEUeomFyrnZo6tfjU4TfMYhDjSy92VyyxP4M4zU5ki1eqB=
+rT3fkw9XfxTETwTGjJeN2HvPxkXWt8UxWMZF3OJMfX6dMSQoVrTSkEm-2B1XCr3IZe0e-2BamZi=
+ecGKjkE57GAm3DsfVP4Pkvdu5labIl2zYxe20fUTp-2BQJp-2FbLHntjv16LB0V3p0WzMBWNbX9=
+mikdUlzJYUEwtpNKUmZD7yTNH1jFbXRYT7-2B7SFkCXzv-2B00SrX-2Fvhd1TIp8AHBHFAJVCvZ=
+-2FZZlygE-3D"><span class=3D"text-capitalize" style=3D"color: #00bec8;font-=
+family:'Avenir Next',AvenirNext,Avenir,Arial,'Helvetica Neue',Helvetica,san=
+s-serif;margin:0;padding:0; ">Aditya Singh</span></a></p>=20
+                                            <p style=3D"font-family:'Avenir=
+ Next',AvenirNext,Avenir,Arial,'Helvetica Neue',Helvetica,sans-serif;margin=
+:0"><span class=3D"ng-binding ng-scope" style=3D"font-family:'Avenir Next',=
+AvenirNext,Avenir,Arial,'Helvetica Neue',Helvetica,sans-serif">Karauli, Kar=
+auli</span></p>
+                                            <p style=3D"font-family:'Avenir=
+ Next',AvenirNext,Avenir,Arial,'Helvetica Neue',Helvetica,sans-serif;margin=
+:0"> <span class=3D"ng-binding ng-scope" style=3D"font-family:'Avenir Next'=
+,AvenirNext,Avenir,Arial,'Helvetica Neue',Helvetica,sans-serif">19 / </span=
+>  <span class=3D"text-capitalize ng-binding ng-scope" style=3D"font-family=
+:'Avenir Next',AvenirNext,Avenir,Arial,'Helvetica Neue',Helvetica,sans-seri=
+f">M, </span>  </p></div>
+                                        </div>
+                                      </div>
+                                      <div class=3D"col-xs-4 text-gray-dark=
+ col-xs-6" style=3D"font-family:'Avenir Next',AvenirNext,Avenir,Arial,'Helv=
+etica Neue',Helvetica,sans-serif">
+                                        <p class=3D"m-bottom-0" style=3D"fo=
+nt-family:'Avenir Next',AvenirNext,Avenir,Arial,'Helvetica Neue',Helvetica,=
+sans-serif;margin:0"><span class=3D"text-small" style=3D"font-family:'Aveni=
+r Next',AvenirNext,Avenir,Arial,'Helvetica Neue',Helvetica,sans-serif;font-=
+size:13px">Experience: </span> <span class=3D"text-gray-darker ng-binding n=
+g-scope" style=3D"font-family:'Avenir Next',AvenirNext,Avenir,Arial,'Helvet=
+ica Neue',Helvetica,sans-serif">Fresher</span></p>=20
+                                        <p style=3D"font-family:'Avenir Nex=
+t',AvenirNext,Avenir,Arial,'Helvetica Neue',Helvetica,sans-serif;margin:0" =
+class=3D"m-bottom-0 ng-scope"><span class=3D"text-small" style=3D"font-fami=
+ly:'Avenir Next',AvenirNext,Avenir,Arial,'Helvetica Neue',Helvetica,sans-se=
+rif;font-size:13px">Current: </span> <span class=3D"text-gray-darker ng-bin=
+ding ng-scope" style=3D"font-family:'Avenir Next',AvenirNext,Avenir,Arial,'=
+Helvetica Neue',Helvetica,sans-serif">- </span><span class=3D"text-gray-dar=
+ker ng-binding" style=3D"font-family:'Avenir Next',AvenirNext,Avenir,Arial,=
+'Helvetica Neue',Helvetica,sans-serif">CTC</span></p>  </div>
+                                    </div>
+                                  </div>
+                                  <div style=3D"border-bottom:solid 1px #E5=
+E5E5;clear:both;font-family:'Avenir Next',AvenirNext,Avenir,Arial,'Helvetic=
+a Neue',Helvetica,sans-serif;padding-top:5px"></div></td>
+                              </tr>
+                            </tbody>
+                          </table>
+                        </td>
+                      </tr>
+                      <tr style=3D"font-family:'Avenir Next',AvenirNext,Ave=
+nir,Arial,'Helvetica Neue',Helvetica,sans-serif">
+                        <td style=3D"color:#3c4044;font-family:'Avenir Next=
+',AvenirNext,Avenir,sans-serif!important;font-size:14px;font-weight:400;lin=
+e-height:100%;padding-left:20px;text-align:left" class=3D"avenir body mobip=
+ad" align=3D"left">
+                          <p style=3D"font-family:'Avenir Next',AvenirNext,=
+Avenir,Arial,'Helvetica Neue',Helvetica,sans-serif;margin-bottom:10px">Cand=
+idates couldn't book interviews because of unavailability of slots. Please =
+add new slots.</p>
+                        </td>
+                      </tr>
+                      <tr style=3D"font-family:'Avenir Next',AvenirNext,Ave=
+nir,Arial,'Helvetica Neue',Helvetica,sans-serif">
+                        <td class=3D"avenir" align=3D"center" style=3D"font=
+-family:'Avenir Next',AvenirNext,Avenir,sans-serif!important;padding:20px 0=
+ 20px;text-align:center"><a href=3D"https://u1664773.ct.sendgrid.net/wf/cli=
+ck?upn=3Dsjt-2B7uNFuT-2FbZAMb1Lpd8BMA38Ezvc95GIEcQ-2Fa0ZOi2-2BpKQkQnagTRVhf=
+0tfckYPKt1l7bKog1wFx31VCIfdxX8EtoaQ0Be3qLyfO8XNnybdyNWM9n-2BA59d-2FvuAV8xU4=
+0P5sWwCH-2F1S2AfPZ5sL6TqkvQGoS0Ac-2FvEtdLw-2FSQkGIkOYtxBhnHJ6YEnoHQzEc8mWe9=
+F6HruBOAMz4SN47Sb4MwhQae5w-2B45Qy14khnlnx9a-2F1CQ2P-2BSiodyRW7-2Fh31cFan2jF=
+Y2x6bGgVq2sMXpZDmQrzQDenb4E3YJ2A50IBESQgFBP250ZJjCABV0mF9yhZB-2BIeSJ9lo1krz=
+SaZXo4LmN0xLEMf-2B-2Bx77xXtkJ4Y2x-2Fq3xkuj2G0H1kW3gcdZ3VG4dt6A8Df5vlj-2FReN=
+L8sovDIF-2FH9Po1bZxtTo-2Fk-3D_VxlAuX98jGTImtRfy8qSMjxfPST58bUH44FH8gukAsqeb=
+eueT7cMeQeEArXYtrNuRtquScUAxGuTjStR-2B2T4gFtJhmHh-2FMDBIgKLCgDVe4oGX4CPQXbF=
+SUTf-2FRgdIgfbKccH399GurFBtf341mmWFzUVhil66gJoNRrpp6mgbgnDJJVCqumCKW5FcwDJ6=
+eDlzd-2ByVDGbFgo0UgydYlnr0UlI-2BPTF-2Bi8a-2B0RtEUeomFwP5eI1Mra1wYIhI0idPfHi=
+uf4UUSdDM9N3jXzxspsoieoWPq-2Bw4yM-2BS2G86KQnBGjM-2B-2B5fpawzBqLil4x3HsRyD-2=
+Bs9tntOCroBIL8keCYa-2FvIhHawNQnplgDPDFz7JC4d-2BInTy2oEZoS1D5Ol2l9OTgzVhNQy-=
+2FyrEgs3-2Bgq2mAWzr12krdrxq7CSy5UR-2B6d9zFCPkF-2Bbq5SxdAKG-2Fc3gf6qqR96tXEy=
+mOfmhd0jHbpAmiGnp2QN0li7K-2Fl4ef27qY-3D" style=3D"border:2px solid #4990e2;=
+border-radius:3px;color:#4990e2;display:inline-block;font-family:'Avenir Ne=
+xt',AvenirNext,Avenir,sans-serif!important;font-size:18px;font-weight:600;m=
+argin:0;padding:5px 40px;text-decoration:none" class=3D"avenir button" targ=
+et=3D"_blank">View Applications<p style=3D"font-family:'Avenir Next',Avenir=
+Next,Avenir,Arial,'Helvetica Neue',Helvetica,sans-serif;font-size:10px;font=
+-weight:400;margin:0">(This is an auto-login link)</p></a></td>
+                      </tr>
+                      <tr style=3D"font-family:'Avenir Next',AvenirNext,Ave=
+nir,Arial,'Helvetica Neue',Helvetica,sans-serif">
+                        <td style=3D"color:#3c4044;font-family:'Avenir Next=
+',AvenirNext,Avenir,sans-serif!important;font-size:14px;font-weight:400;lin=
+e-height:100%;padding-left:20px;text-align:center" class=3D"avenir body mob=
+ipad" align=3D"left">
+                          <p style=3D"font-family:'Avenir Next',AvenirNext,=
+Avenir,Arial,'Helvetica Neue',Helvetica,sans-serif;margin-bottom:10px">Don'=
+t wish to receive any more applications on this job? Click to <a href=3D"ht=
+tps://u1664773.ct.sendgrid.net/wf/click?upn=3Dsjt-2B7uNFuT-2FbZAMb1Lpd8BMA3=
+8Ezvc95GIEcQ-2Fa0ZOi2-2BpKQkQnagTRVhf0tfckYSPaZCRyj-2Bi-2FOE3yCNlVrgQN5GkCI=
+xZR7gVUTUgl-2FdAWyr2MrM-2BwThJfvK1g2zfs7rwUzZ9w5ROPwrJClpknR5i2-2FU9-2BECgw=
+Ti-2BU-2B652QaU0GvGmyUDFdWAm-2BRCkvKP4Z42-2FCUmv-2F0oZpRlN18sc5iLMiCPrR5M0h=
+svjxyrm-2BZVagp9O6CGBP0oqllZ4EkXQ9whgHgM8nb3Xe3-2Fra7toUggKN3gvuS00WAqUCnBe=
+l9wcc8pWfKwt5m4X5Vuo-2BCfpBdj3mzCQpYUjGffsx9xOkJZQbrXprUMrPlhnRSmTVbwzcFnLv=
+ILS7ivfVPh34sIDv_VxlAuX98jGTImtRfy8qSMjxfPST58bUH44FH8gukAsqebeueT7cMeQeEAr=
+XYtrNuRtquScUAxGuTjStR-2B2T4gFtJhmHh-2FMDBIgKLCgDVe4oGX4CPQXbFSUTf-2FRgdIgf=
+bKccH399GurFBtf341mmWFzUVhil66gJoNRrpp6mgbgnDJJVCqumCKW5FcwDJ6eDlzd-2ByVDGb=
+Fgo0UgydYlnr0UlI-2BPTF-2Bi8a-2B0RtEUeomFxtD3-2BkW5NP24EvyTbLU66GKFl8yvu2oY-=
+2BlwYvlWwZCYSei0-2BEP5ZTNNRvnT1vHJ8hvY3vfydvrb1pHcalkm09eHAKuyke999zTNdUWZL=
+xKJCxo9SFu2a8CT5evSCk-2B3UXJWBI0T9CKLK9oow4ntt5rUn0zv8aD0Ml822C8b4sd2mJiCbz=
+-2FzSCCOF3Tseo2OB2XpYg-2Bj9cxhpFPgnMqe0BKCVUw8L-2Ftkr9OFnSmcUdcLUIKEZoOLOYJ=
+sO0WTYH6C6o-3D" style=3D"color:#4990e2;font-family:'Avenir Next',AvenirNext=
+,Avenir,Arial,'Helvetica Neue',Helvetica,sans-serif;text-decoration:none">P=
+ause/Close</a> the job.</p>
+                        </td>
+                      </tr>
+                      <tr style=3D"font-family:'Avenir Next',AvenirNext,Ave=
+nir,Arial,'Helvetica Neue',Helvetica,sans-serif">
+                        <td style=3D"background-color:#FAFAFA;border:1px so=
+lid #E5E5E5;border-radius:5px;font-family:'Avenir Next',AvenirNext,Avenir,s=
+ans-serif;font-size:14px;padding:5px 80px;text-align:center">
+                          <p style=3D"font-family:'Avenir Next',AvenirNext,=
+Avenir,Arial,'Helvetica Neue',Helvetica,sans-serif">Tired of following up w=
+ith candidates? We can help you. <a href=3D"https://u1664773.ct.sendgrid.ne=
+t/wf/click?upn=3Dsjt-2B7uNFuT-2FbZAMb1Lpd8BMA38Ezvc95GIEcQ-2Fa0ZOjo-2Fzu9pl=
+Xm0MQOISlveC0FbPy-2B0VXJuxFL5iwP-2Bzr5Iw-3D-3D_VxlAuX98jGTImtRfy8qSMjxfPST5=
+8bUH44FH8gukAsqebeueT7cMeQeEArXYtrNuRtquScUAxGuTjStR-2B2T4gFtJhmHh-2FMDBIgK=
+LCgDVe4oGX4CPQXbFSUTf-2FRgdIgfbKccH399GurFBtf341mmWFzUVhil66gJoNRrpp6mgbgnD=
+JJVCqumCKW5FcwDJ6eDlzd-2ByVDGbFgo0UgydYlnr0UlI-2BPTF-2Bi8a-2B0RtEUeomFzcONG=
+cHzoHM1U5BgU-2B9HfT-2BPXo7UedcH01uA5w8bwMHeqOpNBOMArCL9mWykNe4sX2weiOdBZ1-2=
+FtN6sSTrsbSRrb1b18ofoPa1IANz2B3IPsjHgxprVlEWDrJWYREEDIZR2L-2BahTi9OZHRdaywC=
+oMR1lDzxCB2DlbnUuJ3SPVpH9r4ueeKuKcWtkG-2FC2F1MJUBG4IzONN29AQbQZyebyIxyARWbv=
+HK6kesIGymER1iC5uS-2Fo-2F9OsZgWTN8kZ2IYMQ-3D" style=3D"color:#4990e2;font-f=
+amily:'Avenir Next',AvenirNext,Avenir,Arial,'Helvetica Neue',Helvetica,sans=
+-serif;font-weight:600;text-decoration:none">Check our Plans.</a></p>
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </td>
+              </tr>
+              <tr style=3D"font-family:'Avenir Next',AvenirNext,Avenir,Aria=
+l,'Helvetica Neue',Helvetica,sans-serif">
+                <td class=3D"content" style=3D"font-family:'Avenir Next',Av=
+enirNext,Avenir,Arial,'Helvetica Neue',Helvetica,sans-serif;padding:0 30px =
+30px">
+                  <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" w=
+idth=3D"740" class=3D"fullwidth borders" style=3D"border-bottom-color:#e7e7=
+e7;border-bottom-style:solid;border-bottom-width:1px;border-collapse:collap=
+se;border-left-color:#e7e7e7;border-left-style:solid;border-left-width:1px;=
+border-right-color:#e7e7e7;border-right-style:solid;border-right-width:1px;=
+font-family:'Avenir Next',AvenirNext,Avenir,Arial,'Helvetica Neue',Helvetic=
+a,sans-serif;mso-table-lspace:0;mso-table-rspace:0;width:100%">
+                    <tbody style=3D"font-family:'Avenir Next',AvenirNext,Av=
+enir,Arial,'Helvetica Neue',Helvetica,sans-serif">
+                      <tr style=3D"font-family:'Avenir Next',AvenirNext,Ave=
+nir,Arial,'Helvetica Neue',Helvetica,sans-serif">
+                        <td style=3D"font-family:'Avenir Next',AvenirNext,A=
+venir,Arial,'Helvetica Neue',Helvetica,sans-serif;padding:30px;padding-top:=
+20px">
+                          <table border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" align=3D"left" style=3D"border-collapse:collapse;float:left;font-fam=
+ily:'Avenir Next',AvenirNext,Avenir,Arial,'Helvetica Neue',Helvetica,sans-s=
+erif;mso-table-lspace:0;mso-table-rspace:0;width:55%">
+                            <tbody style=3D"font-family:'Avenir Next',Aveni=
+rNext,Avenir,Arial,'Helvetica Neue',Helvetica,sans-serif">
+                              <tr style=3D"font-family:'Avenir Next',Avenir=
+Next,Avenir,Arial,'Helvetica Neue',Helvetica,sans-serif">
+                                <td style=3D"color:#37404A;font-family:'Ave=
+nir Next',AvenirNext,Avenir,sans-serif!important;font-size:14px;font-weight=
+:600;line-height:167%;padding-bottom:10px">Regards</td>
+                              </tr>
+                              <tr style=3D"font-family:'Avenir Next',Avenir=
+Next,Avenir,Arial,'Helvetica Neue',Helvetica,sans-serif">
+                                <td valign=3D"top" style=3D"font-family:'Av=
+enir Next',AvenirNext,Avenir,Arial,'Helvetica Neue',Helvetica,sans-serif;pa=
+dding-top:5px;width:80px"><img src=3D"https://static.aasaanjobs.com/media/p=
+hoto/2017-1-9/aca48668ada0627/arzaan-2.jpg" alt=3D"AJ" style=3D"background-=
+color:#d8d8d8;border:solid 1px #979797;border-radius:5px;font-family:'Aveni=
+r Next',AvenirNext,Avenir,Arial,'Helvetica Neue',Helvetica,sans-serif;heigh=
+t:64px;width:64px"></td>
+                                <td valign=3D"top" style=3D"font-family:'Av=
+enir Next',AvenirNext,Avenir,Arial,'Helvetica Neue',Helvetica,sans-serif;ma=
+rgin-left:-5px">
+                                  <table border=3D"0" cellpadding=3D"0" cel=
+lspacing=3D"0" class=3D"fullwidth" style=3D"border-collapse:collapse;font-f=
+amily:'Avenir Next',AvenirNext,Avenir,Arial,'Helvetica Neue',Helvetica,sans=
+-serif;width:100%">
+                                    <tbody style=3D"font-family:'Avenir Nex=
+t',AvenirNext,Avenir,Arial,'Helvetica Neue',Helvetica,sans-serif">
+                                      <tr style=3D"font-family:'Avenir Next=
+',AvenirNext,Avenir,Arial,'Helvetica Neue',Helvetica,sans-serif">
+                                        <td style=3D"font-family:'Avenir Ne=
+xt',AvenirNext,Avenir,sans-serif;font-size:14px;font-weight:400;line-height=
+:167%;padding-bottom:5px;text-align:left">Arzaan Wadia</td>
+                                      </tr>
+                                      <tr style=3D"font-family:'Avenir Next=
+',AvenirNext,Avenir,Arial,'Helvetica Neue',Helvetica,sans-serif">
+                                        <td style=3D"font-family:'Avenir Ne=
+xt',AvenirNext,Avenir,sans-serif;font-size:14px;font-weight:400;line-height=
+:167%;padding-bottom:5px;text-align:left">Recruitment Consultant</td>
+                                      </tr>
+                                      <tr style=3D"font-family:'Avenir Next=
+',AvenirNext,Avenir,Arial,'Helvetica Neue',Helvetica,sans-serif">
+                                        <td style=3D"font-family:'Avenir Ne=
+xt',AvenirNext,Avenir,sans-serif;font-size:14px;font-weight:400;line-height=
+:167%;padding-bottom:5px;text-align:left">+91 7045921988 | <a href=3D"mailt=
+o:arzaan.wadia@aasaanjobs.com" style=3D"color:#4990e2;font-family:'Avenir N=
+ext',AvenirNext,Avenir,Arial,'Helvetica Neue',Helvetica,sans-serif">arzaan.=
+wadia@aasaanjobs.com</a></td>
+                                      </tr>
+                                    </tbody>
+                                  </table>
+                                </td>
+                              </tr>
+                            </tbody>
+                          </table>
+                          <table border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" align=3D"left" style=3D"border-collapse:collapse;float:right;font-fa=
+mily:'Avenir Next',AvenirNext,Avenir,Arial,'Helvetica Neue',Helvetica,sans-=
+serif;mso-table-lspace:0;mso-table-rspace:0;width:44%">
+                            <tbody style=3D"font-family:'Avenir Next',Aveni=
+rNext,Avenir,Arial,'Helvetica Neue',Helvetica,sans-serif">
+                              <tr style=3D"font-family:'Avenir Next',Avenir=
+Next,Avenir,Arial,'Helvetica Neue',Helvetica,sans-serif">
+                                <td style=3D"color:#37404A;font-family:'Ave=
+nir Next',AvenirNext,Avenir,sans-serif!important;font-size:14px;font-weight=
+:600;line-height:167%;padding-bottom:10px">Connect With Us</td>
+                              </tr>
+                              <tr style=3D"font-family:'Avenir Next',Avenir=
+Next,Avenir,Arial,'Helvetica Neue',Helvetica,sans-serif">
+                                <td valign=3D"top" style=3D"font-family:'Av=
+enir Next',AvenirNext,Avenir,Arial,'Helvetica Neue',Helvetica,sans-serif">
+                                  <table border=3D"0" cellpadding=3D"0" cel=
+lspacing=3D"0" width=3D"185" class=3D"fullwidth" style=3D"border-collapse:c=
+ollapse;font-family:'Avenir Next',AvenirNext,Avenir,Arial,'Helvetica Neue',=
+Helvetica,sans-serif;width:100%">
+                                    <tbody style=3D"font-family:'Avenir Nex=
+t',AvenirNext,Avenir,Arial,'Helvetica Neue',Helvetica,sans-serif">
+                                      <tr style=3D"font-family:'Avenir Next=
+',AvenirNext,Avenir,Arial,'Helvetica Neue',Helvetica,sans-serif">
+                                        <td width=3D"22" style=3D"font-fami=
+ly:'Avenir Next',AvenirNext,Avenir,Arial,'Helvetica Neue',Helvetica,sans-se=
+rif;padding-bottom:5px"><a href=3D"https://u1664773.ct.sendgrid.net/wf/clic=
+k?upn=3Dsjt-2B7uNFuT-2FbZAMb1Lpd8Lz0ALlQLhQIG72udYKu9zPOBhgczJ84-2BEJgBQ1-2=
+BAm8C_VxlAuX98jGTImtRfy8qSMjxfPST58bUH44FH8gukAsqebeueT7cMeQeEArXYtrNuRtquS=
+cUAxGuTjStR-2B2T4gFtJhmHh-2FMDBIgKLCgDVe4oGX4CPQXbFSUTf-2FRgdIgfbKccH399Gur=
+FBtf341mmWFzUVhil66gJoNRrpp6mgbgnDJJVCqumCKW5FcwDJ6eDlzd-2ByVDGbFgo0UgydYln=
+r0UlI-2BPTF-2Bi8a-2B0RtEUeomFw7duxx8FsHGknwaTLga2FtHUYD9RTMuGAEIPssgTcbuwhe=
+vnMS7gjRd3uF-2BRPtth3oPeSwxT6pPyk35iGDPb9MhmpPfNr0EA3eIVD0inP2piphyAHDTKiKn=
+dlju-2B95DDGPZTbTqIde0a-2FnU8MmXfJB6VQx7T1l1DZjk4UUx2As0C0l5P9pF8T8Q8jZ-2Fv=
+-2FYcXrt5ZXTpyiH-2FBBuaeonXhc9SphPp7PKCkI1LmgY1fp6mdATVugXDnp4Y7WFbwGMgsk-3=
+D" style=3D"color:#e4b83a;font-family:'Avenir Next',AvenirNext,Avenir,Arial=
+,'Helvetica Neue',Helvetica,sans-serif;text-decoration:none" target=3D"_bla=
+nk"><img src=3D"https://s3-ap-southeast-1.amazonaws.com/static.aasaanjobs.c=
+om/logos/twitter-logo.png" width=3D"14" alt=3D"Twitter icon" style=3D"borde=
+r:none;display:block;font-family:'Avenir Next',AvenirNext,Avenir,Arial,'Hel=
+vetica Neue',Helvetica,sans-serif"></a></td>
+                                        <td width=3D"163" style=3D"font-fam=
+ily:'Avenir Next',AvenirNext,Avenir,sans-serif!important;font-size:14px;fon=
+t-weight:400;line-height:167%;padding-bottom:5px"><a href=3D"https://u16647=
+73.ct.sendgrid.net/wf/click?upn=3Dsjt-2B7uNFuT-2FbZAMb1Lpd8Lz0ALlQLhQIG72ud=
+YKu9zPOBhgczJ84-2BEJgBQ1-2BAm8C_VxlAuX98jGTImtRfy8qSMjxfPST58bUH44FH8gukAsq=
+ebeueT7cMeQeEArXYtrNuRtquScUAxGuTjStR-2B2T4gFtJhmHh-2FMDBIgKLCgDVe4oGX4CPQX=
+bFSUTf-2FRgdIgfbKccH399GurFBtf341mmWFzUVhil66gJoNRrpp6mgbgnDJJVCqumCKW5FcwD=
+J6eDlzd-2ByVDGbFgo0UgydYlnr0UlI-2BPTF-2Bi8a-2B0RtEUeomFzuoZzAhC1n1ab1Z-2Bog=
+DA8N1NlWhW-2BXftCPmBvcV-2FlPAU3p2HwLh-2BX-2BINoajvTXL6DynlpsY4nMAW6hIROfR3V=
+J80wfHa5ojuVsRuJ2hst8S1JD7kUhqK-2FfdmRP6ZsnAWXC7wUnpxF5nvE-2BU08EHC51kMszRV=
+x-2BpohQHIlKg2F37pun7AiYXiGCvAebFQ697NsG51kS9iEA06GLEV1Xg4ITuJw3FT-2Bv8SKw0=
+nFllPyjejuT20srrQG-2BGV2q7UFl7xk-3D" style=3D"color:#55ACEE;font-family:'Av=
+enir Next',AvenirNext,Avenir,Arial,'Helvetica Neue',Helvetica,sans-serif;te=
+xt-decoration:none" target=3D"_blank">Twitter</a></td>
+                                      </tr>
+                                      <tr style=3D"font-family:'Avenir Next=
+',AvenirNext,Avenir,Arial,'Helvetica Neue',Helvetica,sans-serif">
+                                        <td width=3D"22" style=3D"font-fami=
+ly:'Avenir Next',AvenirNext,Avenir,Arial,'Helvetica Neue',Helvetica,sans-se=
+rif;padding-bottom:6px"><a href=3D"https://u1664773.ct.sendgrid.net/wf/clic=
+k?upn=3Dsjt-2B7uNFuT-2FbZAMb1Lpd8Gf5pTqQv2CONbCvb2LmR0w-2Fhqyc9BsWa-2BKtzHP=
+nize7_VxlAuX98jGTImtRfy8qSMjxfPST58bUH44FH8gukAsqebeueT7cMeQeEArXYtrNuRtquS=
+cUAxGuTjStR-2B2T4gFtJhmHh-2FMDBIgKLCgDVe4oGX4CPQXbFSUTf-2FRgdIgfbKccH399Gur=
+FBtf341mmWFzUVhil66gJoNRrpp6mgbgnDJJVCqumCKW5FcwDJ6eDlzd-2ByVDGbFgo0UgydYln=
+r0UlI-2BPTF-2Bi8a-2B0RtEUeomFwoR54pQC-2BLdKDUJ9-2BhQpFfV-2F61VIc8F5YMoIrttR=
+IEZK5Tw9RQP43U1LlTFRRFBwRWRUaCA4wGbcLjl8JyZdpS-2B7PuzJWuPsWtjcv-2BNKckaeEi2=
+59YkeFRETfWzqziNgjUy9S9qV8jaVPW7dA8lwqgQkm-2FtVJhvRxlmBg8xeUL1fiqTwVTLScY6P=
+QBXlh2gqrg1RxfPSA7-2BRjQT7VAJT1rmLLWicQUAbp5coj4fH2RwhQgjB-2Fmz6LJDLDmE93-2=
+F3KM-3D" style=3D"color:#e4b83a;font-family:'Avenir Next',AvenirNext,Avenir=
+,Arial,'Helvetica Neue',Helvetica,sans-serif;text-decoration:none" target=
+=3D"_blank"><img src=3D"https://s3-ap-southeast-1.amazonaws.com/static.aasa=
+anjobs.com/logos/facebook-logo.png" width=3D"8" alt=3D"Facebook icon" style=
+=3D"border:none;display:block;font-family:'Avenir Next',AvenirNext,Avenir,A=
+rial,'Helvetica Neue',Helvetica,sans-serif"></a></td>
+                                        <td width=3D"163" style=3D"font-fam=
+ily:'Avenir Next',AvenirNext,Avenir,sans-serif!important;font-size:14px;fon=
+t-weight:400;line-height:167%;padding-bottom:5px"><a href=3D"https://u16647=
+73.ct.sendgrid.net/wf/click?upn=3Dsjt-2B7uNFuT-2FbZAMb1Lpd8Gf5pTqQv2CONbCvb=
+2LmR0w-2Fhqyc9BsWa-2BKtzHPnize7_VxlAuX98jGTImtRfy8qSMjxfPST58bUH44FH8gukAsq=
+ebeueT7cMeQeEArXYtrNuRtquScUAxGuTjStR-2B2T4gFtJhmHh-2FMDBIgKLCgDVe4oGX4CPQX=
+bFSUTf-2FRgdIgfbKccH399GurFBtf341mmWFzUVhil66gJoNRrpp6mgbgnDJJVCqumCKW5FcwD=
+J6eDlzd-2ByVDGbFgo0UgydYlnr0UlI-2BPTF-2Bi8a-2B0RtEUeomFw-2FiHh9DgXh-2FSv1al=
+7Ss1gk1-2FXuMGkwb2lVTpAAniw7xeL8uR8cEAx8-2FDs8RLa6V2bedj-2BObgemH3dIjefOef0=
+T0oa8Bqjjre67wZF79QKzD1dBxos-2BOFhxeRHkqXBKimochOLBScHVYzqWeBTWL7tThaKC34KB=
+0tPLJ30ElKm6nJ8kUJBeAuYqxsP8-2Fr6UzD50wc5K-2Fxdpx-2Bca-2BKcuiRkppr46fHbJmj8=
+7TiaVLA361ig0eB9plxE-2BPT8-2Fgc-2B9IZg-3D" style=3D"color:#4B6EA9;font-fami=
+ly:'Avenir Next',AvenirNext,Avenir,Arial,'Helvetica Neue',Helvetica,sans-se=
+rif;text-decoration:none" target=3D"_blank">Facebook</a></td>
+                                      </tr>
+                                      <tr style=3D"font-family:'Avenir Next=
+',AvenirNext,Avenir,Arial,'Helvetica Neue',Helvetica,sans-serif">
+                                        <td width=3D"22" style=3D"font-fami=
+ly:'Avenir Next',AvenirNext,Avenir,Arial,'Helvetica Neue',Helvetica,sans-se=
+rif;padding-bottom:7px"><a href=3D"https://u1664773.ct.sendgrid.net/wf/clic=
+k?upn=3Dsjt-2B7uNFuT-2FbZAMb1Lpd8EfpgmNz7ZY0UcPx3nP7xNjZu-2Frt51RrinMS3eb2e=
+zOjASabLSmW6XXrV5l024wobA-3D-3D_VxlAuX98jGTImtRfy8qSMjxfPST58bUH44FH8gukAsq=
+ebeueT7cMeQeEArXYtrNuRtquScUAxGuTjStR-2B2T4gFtJhmHh-2FMDBIgKLCgDVe4oGX4CPQX=
+bFSUTf-2FRgdIgfbKccH399GurFBtf341mmWFzUVhil66gJoNRrpp6mgbgnDJJVCqumCKW5FcwD=
+J6eDlzd-2ByVDGbFgo0UgydYlnr0UlI-2BPTF-2Bi8a-2B0RtEUeomFzpoLX4o3oF30-2B48vbQ=
+kwVn-2B8CNHyQ-2FF-2ByqjFc4lX1522FtLjosxu-2BKFrPUSfg5RIGqTXpBkPU3qwzQSQF7L0T=
+0TDvUiar2CcnuD1eNbTTxcUKjOWW8ONwWDV35dIrG8PHJ-2BF-2F2PhAw4BVztqNsHPvez-2BiA=
+kmdtXBz61hGH2eIPzLDq8AoB-2F52TsPUQjdIFhgMhithIO-2BnmL0f87KjSpaJA-2Bz36Ww67E=
+K8OjLHiOtoQyvz03N3E1bohqyFEoB5Iwng-3D" style=3D"color:#e4b83a;font-family:'=
+Avenir Next',AvenirNext,Avenir,Arial,'Helvetica Neue',Helvetica,sans-serif;=
+text-decoration:none" target=3D"_blank"><img src=3D"https://s3-ap-southeast=
+-1.amazonaws.com/static.aasaanjobs.com/logos/linkedin-logo.png" width=3D"12=
+" alt=3D"Linkedin icon" style=3D"border:none;display:block;font-family:'Ave=
+nir Next',AvenirNext,Avenir,Arial,'Helvetica Neue',Helvetica,sans-serif"></=
+a></td>
+                                        <td width=3D"163" style=3D"font-fam=
+ily:'Avenir Next',AvenirNext,Avenir,sans-serif!important;font-size:14px;fon=
+t-weight:400;line-height:167%;padding-bottom:5px"><a href=3D"https://u16647=
+73.ct.sendgrid.net/wf/click?upn=3Dsjt-2B7uNFuT-2FbZAMb1Lpd8EfpgmNz7ZY0UcPx3=
+nP7xNjZu-2Frt51RrinMS3eb2ezOjASabLSmW6XXrV5l024wobA-3D-3D_VxlAuX98jGTImtRfy=
+8qSMjxfPST58bUH44FH8gukAsqebeueT7cMeQeEArXYtrNuRtquScUAxGuTjStR-2B2T4gFtJhm=
+Hh-2FMDBIgKLCgDVe4oGX4CPQXbFSUTf-2FRgdIgfbKccH399GurFBtf341mmWFzUVhil66gJoN=
+Rrpp6mgbgnDJJVCqumCKW5FcwDJ6eDlzd-2ByVDGbFgo0UgydYlnr0UlI-2BPTF-2Bi8a-2B0Rt=
+EUeomFzq8F3Rl4Rcd1556SQ07hLRrvpm84SGSwZWUHnyzoERqx4T9OV3QkAgSmTcPSvuy7lzC6h=
+sQqxERPCn00Gg8G65iJtOlLEJRD99whNNzoWU9Wzj5HFZY5M6oOiYL7uQz74K3t2NizPtUoUiqb=
+6SA7n2mcHEshRgFf95R8UrUf8arMpaZSsBSFO8dzJuqj09BCa-2BsUUzqli1-2FxLZmXHPbh98H=
+A8Dc0tPLuhvSKWl-2BSF-2FDRXMPy9bsA4doU-2BYH-2BqBQZM-3D" style=3D"color:#4E86=
+AB;font-family:'Avenir Next',AvenirNext,Avenir,Arial,'Helvetica Neue',Helve=
+tica,sans-serif;text-decoration:none" target=3D"_blank">Linkedin</a></td>
+                                      </tr>
+                                    </tbody>
+                                  </table>
+                                </td>
+                              </tr>
+                            </tbody>
+                          </table>
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </td>
+              </tr>
+              <tr style=3D"font-family:'Avenir Next',AvenirNext,Avenir,Aria=
+l,'Helvetica Neue',Helvetica,sans-serif">
+                <td align=3D"center" style=3D"font-family:'Avenir Next',Ave=
+nirNext,Avenir,Arial,'Helvetica Neue',Helvetica,sans-serif;padding:0 0 100p=
+x"><a href=3D"https://u1664773.ct.sendgrid.net/wf/click?upn=3Dsjt-2B7uNFuT-=
+2FbZAMb1Lpd8BMA38Ezvc95GIEcQ-2Fa0ZOil8fUwZxwzBOsC6QdwvhtT_VxlAuX98jGTImtRfy=
+8qSMjxfPST58bUH44FH8gukAsqebeueT7cMeQeEArXYtrNuRtquScUAxGuTjStR-2B2T4gFtJhm=
+Hh-2FMDBIgKLCgDVe4oGX4CPQXbFSUTf-2FRgdIgfbKccH399GurFBtf341mmWFzUVhil66gJoN=
+Rrpp6mgbgnDJJVCqumCKW5FcwDJ6eDlzd-2ByVDGbFgo0UgydYlnr0UlI-2BPTF-2Bi8a-2B0Rt=
+EUeomFxFw5moI1K9N9DR9Hem67rTEezaDFrztdHJm6STjxM2ROVmraAlI4-2BwemOglCCk6ex7S=
+Sl8M6oQuXkWQ-2BjfmVgPUbbZ62LXYY-2F-2BP4NGXhzGQq6SZ9x8-2BYOMG87YPTNNhf1BLNAp=
+Os-2F2q6x-2BcjtD-2BjorIoMRhYve-2FHNfZJLtSJD4HsYXus2VXGYTxDKaqq0L3y56VEfuX3o=
+AVmhhVaw8qO1OnoVeh3LFhJiHOMFniwyI2Mei2gHaFzSNIxaVKbJ42BM-3D" style=3D"color=
+:#e4b83a;font-family:'Avenir Next',AvenirNext,Avenir,Arial,'Helvetica Neue'=
+,Helvetica,sans-serif;text-decoration:none" target=3D"_blank"><img src=3D"h=
+ttps://s3-ap-southeast-1.amazonaws.com/static.aasaanjobs.com/logos/aasaanjo=
+bs-logo-text.png" width=3D"129" style=3D"border:none;display:block;font-fam=
+ily:'Avenir Next',AvenirNext,Avenir,Arial,'Helvetica Neue',Helvetica,sans-s=
+erif;margin:auto"></a></td>
+              </tr>
+            </tbody>
+          </table>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+  <div class=3D"hide_on_mobile" style=3D"color:#FFF;display:none;font:15px =
+courier;font-family:'Avenir Next',AvenirNext,Avenir,Arial,'Helvetica Neue',=
+Helvetica,sans-serif;white-space:nowrap">- - - - - - - - - - - - - - - - - =
+- - - - - - - - - - - - - - - -</div>
+<img src=3D"https://u1664773.ct.sendgrid.net/wf/open?upn=3DVxlAuX98jGTImtRf=
+y8qSMjxfPST58bUH44FH8gukAsqebeueT7cMeQeEArXYtrNuRtquScUAxGuTjStR-2B2T4gFtJh=
+mHh-2FMDBIgKLCgDVe4oGX4CPQXbFSUTf-2FRgdIgfbKccH399GurFBtf341mmWFzUVhil66gJo=
+NRrpp6mgbgnDJJVCqumCKW5FcwDJ6eDlzd-2ByVDGbFgo0UgydYlnr0UlI-2BPTF-2Bi8a-2B0R=
+tEUeomFy1WMc5qUIu9xhw7wuTkH2-2FYEF-2BvRdj2mGlQWoDBOGDz23qaTm2Ub78i5-2Br2AO8=
+eX6KV7FcsZ0rwH5z0T5qn3-2B75jCIfbCVX5HxzydSwYQgDDVk8bgGCbAQ7FWxDYTpoQyzaHPab=
+qeSsdGVqCu5BybcVMOWZKqxQO-2B-2F93A4JMLoq6sGpBEP1ek0cPs9wwgpdUfoCtuL3dqKA5Jt=
+kNFWOqEf1nui7206337jlug6-2FbHinLxDaHB4RdNWSJOXbbYOMno-3D" alt=3D"" width=3D=
+"1" height=3D"1" border=3D"0" style=3D"height:1px !important;width:1px !imp=
+ortant;border-width:0 !important;margin-top:0 !important;margin-bottom:0 !i=
+mportant;margin-right:0 !important;margin-left:0 !important;padding-top:0 !=
+important;padding-bottom:0 !important;padding-right:0 !important;padding-le=
+ft:0 !important;"/></body>
+
+</html>

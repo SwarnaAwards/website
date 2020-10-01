@@ -1,0 +1,532 @@
+Return-Path: <no-reply@indeed.com>
+Delivered-To: info@successassociates.in
+Received: from sg3plcpnl0078.prod.sin3.secureserver.net
+	by sg3plcpnl0078.prod.sin3.secureserver.net with LMTP id 6IXdHUmcklw8CBgAUghlVg
+	for <info@successassociates.in>; Wed, 20 Mar 2019 13:02:17 -0700
+Return-path: <no-reply@indeed.com>
+Envelope-to: info@successassociates.in
+Delivery-date: Wed, 20 Mar 2019 13:02:17 -0700
+Received: from mail64.indeed.com ([198.58.75.64]:12363)
+	by sg3plcpnl0078.prod.sin3.secureserver.net with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.91)
+	(envelope-from <no-reply@indeed.com>)
+	id 1h6hPj-006itn-7f
+	for info@successassociates.in; Wed, 20 Mar 2019 13:02:17 -0700
+Received: from aus-mexec112.indeed.net (unknown [10.1.3.211])
+	by mail64.indeed.com (Postfix) with ESMTP id 44PgmF3Z1rz7Qwdl
+	for <info@successassociates.in>; Wed, 20 Mar 2019 15:01:33 -0500 (CDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=indeed.com;
+	s=default; t=1553112093;
+	bh=u4+u3yl9mPTyFGXNuJWPhdL0aPLECgvpilxslXNCRDM=;
+	h=From:Reply-To:To:Subject:Date;
+	b=fYm3meyCp7Pka4cOqy6d0xDLXpMvO/wj7Rkw1pl2ZxI7EdZcBWblAN5pP6uUXzoss
+	 +lCeuo25IoSHGjb+Ds22KQr219AUtFPg4wQTD5WMsVpiPjdfM/HIYLCdk3CNUxCDqh
+	 jSF6Zdu4P5UPkJsbVynuJMvINW5LY5tbL/2s1hOU=
+From: Indeed <no-reply@indeed.com>
+Reply-To: Indeed <no-reply@indeed.com>
+To: info@successassociates.in
+Message-ID: <598274804.80573816.1553112093410.JavaMail.notifications@aus-mexec112.indeed.net>
+Subject: 15 Marketing Jobs That Pay Well
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_80573815_250201252.1553112093410"
+X-Indeed-FBL: :3:17d48d7cf0b784a164a4e7ea2446c2507f8813e3477ed274be9ec29b886dde04
+X-Indeed-Client-App: RavenEmailDaemon
+X-Indeed-Content-Type: ravenEmail
+X-Indeed-TK: 1d6eb3kk52gjn801
+Date: Wed, 20 Mar 2019 15:01:33 -0500 (CDT)
+X-Spam-Status: No, score=-13.8
+X-Spam-Score: -137
+X-Spam-Bar: -------------
+X-Ham-Report: Spam detection software, running on the system "sg3plcpnl0078.prod.sin3.secureserver.net",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  Indeed To help you find the right opportunity, here are the
+    top paying marketing jobs employers are looking to fill. ‌ ‌ ‌ ‌
+   ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ �
+ 
+ Content analysis details:   (-13.8 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+                             See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: indeed.com]
+  0.0 SURBL_BLOCKED          ADMINISTRATOR NOTICE: The query to SURBL was blocked.
+                             See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: indeed.com]
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+ -7.5 USER_IN_DEF_DKIM_WL    From: address is in the default DKIM white-list
+ -7.5 USER_IN_DEF_SPF_WL     From: address is in the default SPF white-list
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  0.7 MPART_ALT_DIFF         BODY: HTML and text parts are different
+  1.1 MIME_HTML_ONLY         BODY: Message only has text/html MIME parts
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from author's
+                             domain
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily valid
+  0.0 MIME_HTML_ONLY_MULTI   Multipart message only has text/html MIME parts
+ -0.5 ENV_AND_HDR_SPF_MATCH  Env and Hdr From used in default SPF WL Match
+X-Spam-Flag: NO
+
+------=_Part_80573815_250201252.1553112093410
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml" xmlns:v=3D"urn:schemas-microso=
+ft-com:vml" xmlns:o=3D"urn:schemas-microsoft-com:office:office">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8" />
+<meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D1"=
+ />
+<meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3Dedge" />
+<title>Indeed</title>
+<style type=3D"text/css">
+/* iOS BLUE LINKS */
+a[x-apple-data-detectors] {
+    color: inherit !important;
+    text-decoration: none !important;
+    font-size: inherit !important;
+    font-family: inherit !important;
+    font-weight: inherit !important;
+    line-height: inherit !important;
+}
+</style>
+<style type=3D"text/css">
+a, body, table, td {
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+    box-sizing: border-box !important;
+}
+table, td {
+    mso-table-lspace: 0;
+    mso-table-rspace: 0;
+}
+img {
+    -ms-interpolation-mode: bicubic;
+    border: 0;
+    line-height: 100%;
+    outline: 0;
+    text-decoration: none
+}
+table {
+    border-collapse: collapse!important
+}
+body {
+    height: 100%!important;
+    margin: 0!important;
+    padding: 0!important;
+    width: 100%!important
+}
+</style>
+<!-- CUSTOM CSS -->
+<style type=3D"text/css">
+@media only screen and (max-width:550px) {
+u ~ div #full-wrap {
+    min-width: 100vw;
+}
+#full-wrap .m-contain {
+    padding: 0 24px !important;
+}
+.m-padding {
+    padding: 0 8px !important;
+}
+.m-hide {
+    display: none !important;
+}
+.m-center {
+    margin: 0 auto !important;
+}
+.m-center-align-text {
+    text-align: center !important;
+}
+.m-stack {
+    display: block !important;
+    width: 100% !important;
+}
+.m-full {
+    width: 100% !important;
+}
+.outerContainer {
+    width: 100% !important;
+}
+.innerContainer {
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+}
+.fullWidth {
+    width: 100% !important;
+    display: block !important;
+}
+.fullHeight {
+    height: 100% !important;
+}
+u ~ div #full-wrap {
+    min-width: 100vw;
+}
+.hero-h1 {
+    font-size: 26px !important;
+    line-height: 30px !important;
+    -webkit-text-size-adjust: none !important;
+}
+.hero-h2 {
+    font-size: 22px !important;
+    line-height: 28px !important;
+    -webkit-text-size-adjust: none !important;
+}
+.img-responsive {
+    width: 100% !important;
+}
+.logoFix {
+    width: 135px !important;
+    height: auto !important;
+}
+.ph-16 {
+    padding-left: 16px !important;
+    padding-right: 16px !important;
+}
+.m-padding {
+    padding-left: 16px !important;
+    padding-right: 16px !important;
+}
+.p0 {
+    padding: 0px !important;
+}
+.pt-0 {
+    padding-top: 0px !important;
+}
+.pr-0 {
+    padding-right: 0px !important;
+}
+.pb-0 {
+    padding-bottom: 0px !important;
+}
+.pl-0 {
+    padding-left: 0px !important;
+}
+.pt-16 {
+    padding-top: 16px !important;
+}
+.pr-16 {
+    padding-right: 16px !important;
+}
+.pb-16 {
+    padding-bottom: 16px !important;
+}
+.pl-16 {
+    padding-left: 16px !important;
+}
+.pt-24 {
+    padding-top: 24px !important;
+}
+.pr-24 {
+    padding-right: 24px !important;
+}
+.pb-24 {
+    padding-bottom: 24px !important;
+}
+.pl-24 {
+    padding-left: 24px !important;
+}
+.pt-36 {
+    padding-top: 36px !important;
+}
+.pr-36 {
+    padding-right: 36px !important;
+}
+.pb-36 {
+    padding-bottom: 36px !important;
+}
+.pl-36 {
+    padding-left: 36px !important;
+}
+.w100 {
+    width: 100% !important;
+}
+.center {
+    margin: 0 auto !important;
+}
+.center-align-text {
+    text-align: center !important;
+}
+.stack {
+    display: block !important;
+}
+.cta.stack a {
+    width: 100% !important;
+}
+.bl-0 {
+    border-left: 0 !important;
+}
+.i-nps {
+    width: 100% !important;
+    min-width: 0 !important;
+    margin: 0 !important;
+}
+.bb-2 {
+    border-bottom: 2px solid #ECECEC;
+}
+.help-cta {
+    width: 140px !important;
+}
+}
+</style>
+<!--[if gte mso 9]>
+            <xml>
+                <o:OfficeDocumentSettings>
+                <o:AllowPNG/>
+                <o:PixelsPerInch>96</o:PixelsPerInch>
+              </o:OfficeDocumentSettings>
+            </xml>
+        <![endif]-->
+</head>
+<body bgcolor=3D"#f2f2f2" class=3D"body" style=3D"Margin:0;padding:0;">
+<div id=3D"preview-text" style=3D"display: none; max-height: 0px; overflow:=
+ hidden;">To help you find the right opportunity, here are the top paying m=
+arketing jobs employers are looking to fill.</div>
+<div style=3D"display: none; max-height: 0px; overflow: hidden;"> &nbsp;&zw=
+nj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;=
+&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nb=
+sp;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;=
+&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nb=
+sp;&zwnj;&nbsp;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;=
+&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nb=
+sp;&zwnj;&nbsp;&zwnj;&nbsp;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;=
+&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nb=
+sp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;=
+&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nb=
+sp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&nbsp;&zwnj;&nbsp;&zwnj;=
+&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nb=
+sp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;=
+&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zw=
+nj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;=
+&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nb=
+sp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;=
+&zwnj;&nbsp; </div>
+<table id=3D"full-wrap" width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" =
+border=3D"0">
+  <tr>
+    <td align=3D"center"><table width=3D"100%" cellpadding=3D"0" cellspacin=
+g=3D"0" border=3D"0">
+       =20
+        <!-- Header -->
+        <tr>
+          <td style=3D"padding-bottom: 40px;"><table id=3D"header" bgcolor=
+=3D"#F3F3F3" width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0=
+">
+              <tr>
+                <td align=3D"center"><!--[if (gte mso 9)|(IE)]>
+                                                <table width=3D"550" border=
+=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+                                                    <tr>
+                                                        <td>
+                                            <![endif]-->
+                 =20
+                  <table width=3D"100%" style=3D"max-width:600px;" cellpadd=
+ing=3D"0" cellspacing=3D"0" border=3D"0">
+                    <tr>
+                      <td class=3D"m-contain" style=3D"padding-bottom: 40px=
+;"><table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0">
+                         =20
+                          <!-- Indeed employer logo -->
+                          <tr>
+                            <td><table id=3D"logo-container" width=3D"100%"=
+ cellpadding=3D"0" cellspacing=3D"0" border=3D"0">
+                                <tr>
+                                  <td align=3D"center" style=3D"padding: 32=
+px 0;"><a href=3D"https://cts.indeed.com/v0?tk=3D1d6eb2oni3puu80j&r=3Dhttps=
+%3A%2F%2Fwww.indeed.com" style=3D"text-decoration:none;outline:0;"> <img sr=
+c=3D"http://offers.indeed.com/rs/699-SXJ-715/images/indeed_blue.png" alt=3D=
+"Indeed for employers" width=3D"178" style=3D"font-family:'Helvetica Neue',=
+ Helvetica, Arial, 'Liberation Sans', Roboto, Noto, sans-serif;color:#085FF=
+7;font-size:20px;" /> </a></td>
+                                </tr>
+                              </table></td>
+                          </tr>
+                          <!---->=20
+                          <!-- Body 1 -->
+                          <tr>
+                            <td bgcolor=3D"#FFFFFF" style=3D"padding: 32px;=
+"><table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0">
+                                <tr>
+                                  <td><table width=3D"100%" cellpadding=3D"=
+0" cellspacing=3D"0" border=3D"0">
+                                      <tr>
+                                        <td align=3D"center"><img src=3D"ht=
+tps://dpuk71x9wlmkf.cloudfront.net/assets/2019/02/07154123/CareerGuide-Plac=
+eholder-Social.jpg" alt=3D"" width=3D"535" class=3D"img-responsive"></td>
+                                      </tr>
+                                      <tr>
+                                        <td class=3D"sg-heading1 ph-32" ali=
+gn=3D"center" style=3D"font-family: 'Helvetica Neue', Helvetica, Arial, 'Li=
+beration Sans', Roboto, Noto, sans-serif; font-size: 24px; line-height: 32p=
+x; color:#000000; font-weight: 600; padding: 16px 0;">15 Marketing Jobs Tha=
+t Pay Well</td>
+                                      </tr>
+                                      <tr>
+                                        <td align=3D"center" style=3D"font-=
+family: 'Helvetica Neue', Helvetica, Arial, 'Liberation Sans', Roboto, Noto=
+, sans-serif; font-size: 14px; line-height: 20px; color: #4a4a4a; font-weig=
+ht: 400; padding: 0 0 16px;">Whether you are skilled in writing, analytics,=
+ design, strategy or leadership, there are many marketing careers available=
+ to you with high earning potential. See our list of the highest paying mar=
+keting jobs in 2019.</td>
+                                      </tr>
+                                      <tr>
+                                        <td colspan=3D"2" class=3D"pt-24 pb=
+-24" style=3D"padding-top: 16px;"><table width=3D"100%" cellpadding=3D"0" c=
+ellspacing=3D"0" border=3D"0">
+                                            <tr>
+                                              <td class=3D"button cta prima=
+ry stack" align=3D"center"><div>=20
+                                                  <!--[if mso]>
+<v:roundrect xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:w=3D"urn:schem=
+as-microsoft-com:office:word" href=3D"https://cts.indeed.com/v0?tk=3D1d6eb2=
+oni3puu80j&r=3Dhttps%3A%2F%2Fwww.indeed.com%2Fcareer-advice%2Ffinding-a-job=
+%2Fmarketing-jobs-that-pay-well%3Ffrom%3Dmarketing_jobs%26isid%3Dmarketing_=
+jobs%26ikw%3Dmarketing_jobs%26utm_source%3Dmarketing_jobs%26utm_medium%3Dem=
+ail" style=3D"height:44px;v-text-anchor:middle;width:200px;" arcsize=3D"63%=
+" strokecolor=3D"#085FF7" fillcolor=3D"#085FF7">
+<w:anchorlock/>
+<center style=3D"color:#FFFFFF;font-family:'Helvetica Neue', Helvetica, Ari=
+al, 'Liberation Sans', Roboto, Noto, sans-serif;font-size:14px;font-weight:=
+700;">Read More</center>
+                                                                           =
+                                     </v:roundrect>
+                                                                           =
+                                 <![endif]-->=20
+                                                  <a href=3D"https://cts.in=
+deed.com/v0?tk=3D1d6eb2oni3puu80j&r=3Dhttps%3A%2F%2Fwww.indeed.com%2Fcareer=
+-advice%2Ffinding-a-job%2Fmarketing-jobs-that-pay-well%3Ffrom%3Dmarketing_j=
+obs%26isid%3Dmarketing_jobs%26ikw%3Dmarketing_jobs%26utm_source%3Dmarketing=
+_jobs%26utm_medium%3Demail" style=3D"background-color:#085FF7;color:#FFFFFF=
+;display:inline-block;font-family:'Helvetica Neue', Helvetica, Arial, 'Libe=
+ration Sans', Roboto, Noto, sans-serif;font-size:14px;font-weight:700;line-=
+height:44px;text-align:center;text-decoration:none;width:244px;-webkit-text=
+-size-adjust:none;mso-hide:all;border-radius:25px;">Read More</a></div></td=
+>
+                                            </tr>
+                                          </table></td>
+                                      </tr>
+                                    </table></td>
+                                </tr>
+                                <!---->
+                              </table></td>
+                          </tr>
+                          <!---->=20
+                          <!-- Footer, employer -->
+                          <tr>
+                            <td><table id=3D"footer" width=3D"100%" cellpad=
+ding=3D"0" cellspacing=3D"0" border=3D"0">
+                                <tr>
+                                  <td align=3D"center"><!--[if (gte mso 9)|=
+(IE)]>
+                                                <table width=3D"600" border=
+=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+                                                    <tr>
+                                                        <td>
+                                            <![endif]-->
+                                   =20
+                                    <table width=3D"100%" style=3D"max-widt=
+h:600px;" cellpadding=3D"0" cellspacing=3D"0" border=3D"0">
+                                      <tr>
+                                        <td align=3D"left" style=3D"padding=
+:24px 32px;"><table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" bord=
+er=3D"0">
+                                            <tr>
+                                              <td align=3D"center" style=3D=
+"font-family:'Helvetica Neue', Helvetica, Arial, 'Liberation Sans', Roboto,=
+ Noto, sans-serif;letter-spacing:-0.12px;font-size:11px;line-height:14px;co=
+lor:#6F6F6F">&#169; 2019 Indeed.com </td>
+                                            </tr>
+                                            <!-- Horizontal break -->
+                                            <tr>
+                                              <td><table width=3D"100%" cel=
+lpadding=3D"0" cellspacing=3D"0" border=3D"0">
+                                                  <tr>
+                                                    <td class=3D"horizontal=
+-break" style=3D"padding:2px 0;"><table width=3D"100%" cellpadding=3D"0" ce=
+llspacing=3D"0" border=3D"0">
+                                                        <tr>
+                                                          <td style=3D"font=
+-size:0;line-height:0;">&nbsp;</td>
+                                                        </tr>
+                                                      </table></td>
+                                                  </tr>
+                                                </table></td>
+                                            </tr>
+                                            <!---->
+                                            <tr>
+                                              <td align=3D"center" style=3D=
+"font-family:'Helvetica Neue', Helvetica, Arial, 'Liberation Sans', Roboto,=
+ Noto, sans-serif;letter-spacing:-0.12px;font-size:11px;line-height:14px;co=
+lor:#6F6F6F"><a href=3D"" style=3D"color:#6F6F6F;text-decoration:none;">643=
+3 Champion Grandview Way, Building 1, Austin, TX 78750</a></td>
+                                            </tr>
+                                            <tr>
+                                              <td align=3D"center" style=3D=
+"padding:16px 0 24px;font-family:'Helvetica Neue', Helvetica, Arial, 'Liber=
+ation Sans', Roboto, Noto, sans-serif;letter-spacing:-0.12px;font-size:11px=
+;line-height:14px;color:#6F6F6F"><a href=3D"https://cts.indeed.com/v0?tk=3D=
+1d6eb2oni3puu80j&r=3Dhttps%3A%2F%2Fwww.indeed.com%2Flegal%3Fctx%3Demail-14d=
+ay%26utm_source%3Demployer_emails%26utm_medium%3Demail%26utm_campaign%3D14d=
+ay%26utm_pr%3Ddr%26utm_cnt%3Dsite%26utm_type%3Dlink%26utm_loc%3Dmid%26utm_c=
+o%3DUS%23privacy" style=3D"color:#085FF7">Privacy Policy</a>&nbsp;&nbsp;|&n=
+bsp;&nbsp;<a href=3D"https://cts.indeed.com/v0?tk=3D1d6eb2oni3puu80j&r=3Dht=
+tps%3A%2F%2Fwww.indeed.com%2Flegal%3Fctx%3Demail-14day%26isid%3Demail-14day=
+%26ikw%3Dterms%26utm_source%3Demployer_emails%26utm_medium%3Demail%26utm_ca=
+mpaign%3D14day%26utm_pr%3Ddr%26utm_cnt%3Dsite%26utm_type%3Dlink%26utm_loc%3=
+Dmid%26utm_co%3DUS" style=3D"color:#085FF7">Terms</a>&nbsp;&nbsp;|&nbsp;&nb=
+sp;<a href=3D"https://cts.indeed.com/v0?tk=3D1d6eb2oni3puu80j&r=3Dhttps%3A%=
+2F%2Findeedemployers.zendesk.com%2Fhc%2Fen-us%3Fctx%3Demail-14day%26isid%3D=
+email-14day%26ikw%3Dhelp%26utm_source%3Demployer_emails%26utm_medium%3Demai=
+l%26utm_campaign%3D14day%26utm_pr%3Ddr%26utm_cnt%3Dsite%26utm_type%3Dlink%2=
+6utm_loc%3Dmid%26utm_co%3DUS" style=3D"color:#085FF7">Help</a>&nbsp;&nbsp;|=
+&nbsp;&nbsp;<a href=3D"https://cts.indeed.com/v0?tk=3D1d6eb2oni3puu80j&r=3D=
+http%3A%2F%2Fsubscriptions.indeed.com%2F%3Ftoken%3DCkBUNhLYbQuX0ULsNC7V9Nkr=
+l3EJ1eZ_-23QPZH0lpWDjatYfeXBqQJEbTb2ta4wZHZBzYfhXDvna8-45MuOINqxEiDUq7lvx_Q=
+dOv_q8TvpqBNUMb7yWm2-mQd2XXBMh6DgqhoQJb2Uhab85ndsE6wPXuX7EQ%3D%3D" style=3D=
+"color:#085FF7">Unsubscribe</a></td>
+                                            </tr>
+                                          </table></td>
+                                      </tr>
+                                    </table>
+                                   =20
+                                    <!--[if (gte mso 9)|(IE)]>
+                                                        </td>
+                                                    </tr>
+                                                </table>
+                                            <![endif]--></td>
+                                </tr>
+                              </table></td>
+                          </tr>
+                        </table></td>
+                    </tr>
+                  </table>
+                 =20
+                  <!--[if (gte mso 9)|(IE)]>
+                                                        </td>
+                                                    </tr>
+                                                </table>
+                                            <![endif]--></td>
+              </tr>
+            </table></td>
+        </tr>
+        <!---->
+      </table></td>
+  </tr>
+</table>
+<img src=3D"https://subscriptions.indeed.com/imgping?type=3DemailAlerter&co=
+ntentType=3DravenEmail&eventUid=3D1d6eb2oni3puu80j&emailAlerterTk=3D1d6eb3k=
+k52gjn800&tk=3D1d6eb3kk52gjn801" height=3D"1" width=3D"1"></body>
+</html>
+------=_Part_80573815_250201252.1553112093410--

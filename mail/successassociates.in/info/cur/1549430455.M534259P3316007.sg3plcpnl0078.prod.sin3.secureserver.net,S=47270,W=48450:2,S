@@ -1,0 +1,1180 @@
+Return-Path: <bounces+2186522-2f8d-info=successassociates.in@gs.workindia.in>
+Delivered-To: info@successassociates.in
+Received: from sg3plcpnl0078.prod.sin3.secureserver.net
+	by sg3plcpnl0078.prod.sin3.secureserver.net with LMTP id eKrHH7duWlwnmTIAUghlVg
+	for <info@successassociates.in>; Tue, 05 Feb 2019 22:20:55 -0700
+Return-path: <bounces+2186522-2f8d-info=successassociates.in@gs.workindia.in>
+Envelope-to: info@successassociates.in
+Delivery-date: Tue, 05 Feb 2019 22:20:55 -0700
+Received: from o8.email.smsg.in ([208.117.59.202]:57624)
+	by sg3plcpnl0078.prod.sin3.secureserver.net with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.91)
+	(envelope-from <bounces+2186522-2f8d-info=successassociates.in@gs.workindia.in>)
+	id 1grFdi-00DwKs-HA
+	for info@successassociates.in; Tue, 05 Feb 2019 22:20:55 -0700
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; d=workindia.in; 
+	h=content-type:from:mime-version:subject:to; s=s1; 
+	bh=cLydDjvCCHwfU1Qin0WhVUKKhn0=; b=c55fC9L40r8h2i64VSNCbLdz8o5CB
+	ITxpwwaPZxOi12wd40GfZMIbfyFhveprB+VmmPSr3Nhy8BMJyBOxpe7bggblFatj
+	4Tcm8kGfDp0207Yp0OgGls0yKEiWOpSgg36qepHb7XaPaa/Dt0YTyrbocBju7v7A
+	5zCYfSAo/pa95s=
+Received: by filter0446p1iad2.sendgrid.net with SMTP id filter0446p1iad2-18970-5C5A6E87-12
+        2019-02-06 05:20:08.062330186 +0000 UTC m=+32391.743795842
+Received: from MjE4NjUyMg (ec2-13-232-159-124.ap-south-1.compute.amazonaws.com [13.232.159.124])
+	by ismtpd0001p1maa1.sendgrid.net (SG) with HTTP id p4XcJ2FfQ8-L-WNLuODU-g
+	for <info@successassociates.in>; Wed, 06 Feb 2019 05:20:07.658 +0000 (UTC)
+Content-Type: multipart/alternative; boundary=9abee5102b8159baf95432bc0f883557f1f4dd681a2327a65fe76015c8d3
+Date: Wed, 06 Feb 2019 05:20:08 +0000 (UTC)
+From: "Nishit Kagalwala" <help@workindia.in>
+Mime-Version: 1.0
+To: info@successassociates.in
+Message-ID: <p4XcJ2FfQ8-L-WNLuODU-g@ismtpd0001p1maa1.sendgrid.net>
+X-SG-EID: O/CNMu1VWAhooWuHTIQmNzsJmwtfThVfoKhGvTa+NbjLN9slPAECb/cnDZxQUyBe1ELiQgT5fJ8ewi
+ VyzKRS8UPxyPctLjwjLj+jg75EDJlzPf+DrI6W+N0ucbqQ1Q1yJpEk2xJXAWb8JHZTKQ83S3A47dl0
+ srOMz1uVWHYO6mRqAO3NbJHGm1NuHAJdu1DuhHIlG+IjTsNrjd0Oyu9HyMVSo/w8mLNq5FQc4GAap7
+ k=
+X-SG-ID: SmDFk6fVVFXrSNgMN4Q94fwhzAPA9CH2+jGW2utm6cAYb1qrx+cOWvBD7vpKycxEIrj7DCo4MfdhUH
+ h9AZxMgqwqxjEpAuAiOBO9Q0oQxA3xoZ+k3S1cvYghX3gFp146xetp72hLrWyhCmuiSQTK0MUuFXgv
+ zyTCBV+p3XGbQDD5hELJhy4jlTKZF6yDTaic
+X-Spam-Status: Yes, score=7.1
+X-Spam-Score: 71
+X-Spam-Bar: +++++++
+X-Spam-Report: Spam detection software, running on the system "sg3plcpnl0078.prod.sin3.secureserver.net",
+ has identified this incoming email as possible spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  body { margin: 0; padding: 0; } table, tr, td { vertical-align:
+    top; border-collapse: collapse; } .ie-browser table, .mso-container table
+    { table-layout: fixed; } [...] 
+ 
+ Content analysis details:   (7.1 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 SURBL_BLOCKED          ADMINISTRATOR NOTICE: The query to SURBL was blocked.
+                             See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: click2redirect.me]
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+                             See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: click2redirect.me]
+  4.5 URIBL_DBL_SPAM         Contains a spam URL listed in the Spamhaus DBL
+                             blocklist
+                             [URIs: click2redirect.me]
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  0.0 T_KAM_HTML_FONT_INVALID BODY: Test for Invalidly Named or Formatted
+                             Colors in HTML
+  1.1 KAM_REALLYHUGEIMGSRC   RAW: Spam with image tags with ridiculously huge
+                              http urls
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily valid
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from author's
+                             domain
+  0.8 CPANEL_LOTS_OF_EMPTY_LINE RAW: Spam that has large block of empty
+                             lines
+  0.8 KAM_INFOUSMEBIZ        Prevalent use of .info|.us|.me|.me.uk|.biz domains in
+                              spam/malware
+X-Spam-Flag: YES
+Subject:  ***SPAM***  Continue Your Job Posting | WorkIndia
+
+--9abee5102b8159baf95432bc0f883557f1f4dd681a2327a65fe76015c8d3
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=UTF-8
+Mime-Version: 1.0
+
+
+=20=20=20=20
+=20=20=20=20
+=20=20=20=20
+=20=20=20=20
+=20=20=20=20
+
+
+=20=20=20=20
+      body {
+  margin: 0;
+  padding: 0; }
+
+table, tr, td {
+  vertical-align: top;
+  border-collapse: collapse; }
+
+.ie-browser table, .mso-container table {
+  table-layout: fixed; }
+
+* {
+  line-height: inherit; }
+
+a[x-apple-data-detectors=3Dtrue] {
+  color: #ffffff !important;
+  text-decoration: none !important; }
+
+[owa] .img-container div, [owa] .img-container button {
+  display: block !important; }
+
+[owa] .fullwidth button {
+  width: 100% !important; }
+
+[owa] .block-grid .col {
+  display: table-cell;
+  float: none !important;
+  vertical-align: top; }
+
+.ie-browser .num12, .ie-browser .block-grid, [owa] .num12, [owa] .block-gri=
+d {
+  width: 600px !important; }
+
+.ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass font,=
+ .ExternalClass td, .ExternalClass div {
+  line-height: 100%; }
+
+.ie-browser .mixed-two-up .num4, [owa] .mixed-two-up .num4 {
+  width: 200px !important; }
+
+.ie-browser .mixed-two-up .num8, [owa] .mixed-two-up .num8 {
+  width: 400px !important; }
+
+.ie-browser .block-grid.two-up .col, [owa] .block-grid.two-up .col {
+  width: 300px !important; }
+
+.ie-browser .block-grid.three-up .col, [owa] .block-grid.three-up .col {
+  width: 200px !important; }
+
+.ie-browser .block-grid.four-up .col, [owa] .block-grid.four-up .col {
+  width: 150px !important; }
+
+.ie-browser .block-grid.five-up .col, [owa] .block-grid.five-up .col {
+  width: 120px !important; }
+
+.ie-browser .block-grid.six-up .col, [owa] .block-grid.six-up .col {
+  width: 100px !important; }
+
+.ie-browser .block-grid.seven-up .col, [owa] .block-grid.seven-up .col {
+  width: 85px !important; }
+
+.ie-browser .block-grid.eight-up .col, [owa] .block-grid.eight-up .col {
+  width: 75px !important; }
+
+.ie-browser .block-grid.nine-up .col, [owa] .block-grid.nine-up .col {
+  width: 66px !important; }
+
+.ie-browser .block-grid.ten-up .col, [owa] .block-grid.ten-up .col {
+  width: 60px !important; }
+
+.ie-browser .block-grid.eleven-up .col, [owa] .block-grid.eleven-up .col {
+  width: 54px !important; }
+
+.ie-browser .block-grid.twelve-up .col, [owa] .block-grid.twelve-up .col {
+  width: 50px !important; }
+
+@media only screen and (min-width: 620px) {
+  .block-grid {
+    width: 600px !important; }
+  .block-grid .col {
+    vertical-align: top; }
+    .block-grid .col.num12 {
+      width: 600px !important; }
+  .block-grid.mixed-two-up .col.num4 {
+    width: 200px !important; }
+  .block-grid.mixed-two-up .col.num8 {
+    width: 400px !important; }
+  .block-grid.two-up .col {
+    width: 300px !important; }
+  .block-grid.three-up .col {
+    width: 200px !important; }
+  .block-grid.four-up .col {
+    width: 150px !important; }
+  .block-grid.five-up .col {
+    width: 120px !important; }
+  .block-grid.six-up .col {
+    width: 100px !important; }
+  .block-grid.seven-up .col {
+    width: 85px !important; }
+  .block-grid.eight-up .col {
+    width: 75px !important; }
+  .block-grid.nine-up .col {
+    width: 66px !important; }
+  .block-grid.ten-up .col {
+    width: 60px !important; }
+  .block-grid.eleven-up .col {
+    width: 54px !important; }
+  .block-grid.twelve-up .col {
+    width: 50px !important; } }
+
+@media (max-width: 620px) {
+  .block-grid, .col {
+    min-width: 320px !important;
+    max-width: 100% !important;
+    display: block !important; }
+  .block-grid {
+    width: calc(100% - 40px) !important; }
+  .col {
+    width: 100% !important; }
+    .col > div {
+      margin: 0 auto; }
+  img.fullwidth, img.fullwidthOnMobile {
+    max-width: 100% !important; }
+  .no-stack .col {
+    min-width: 0 !important;
+    display: table-cell !important; }
+  .no-stack.two-up .col {
+    width: 50% !important; }
+  .no-stack.mixed-two-up .col.num4 {
+    width: 33% !important; }
+  .no-stack.mixed-two-up .col.num8 {
+    width: 66% !important; }
+  .no-stack.three-up .col.num4 {
+    width: 33% !important; }
+  .no-stack.four-up .col.num3 {
+    width: 25% !important; } }
+
+=20=20=20=20
+
+
+=20=20
+    @media (max-width: 520px) {
+      .block-grid {
+        min-width: 320px!important;
+        max-width: 100%!important;
+        width: 100%!important;
+        display: block!important;
+      }
+
+      .col {
+        min-width: 320px!important;
+        max-width: 100%!important;
+        width: 100%!important;
+        display: block!important;
+      }
+
+        .col > div {
+          margin: 0 auto;
+        }
+
+      img.fullwidth {
+        max-width: 100%!important;
+      }
+			img.fullwidthOnMobile {
+        max-width: 100%!important;
+      }
+      .no-stack .col {
+				min-width: 0!important;
+				display: table-cell!important;
+			}
+			.no-stack.two-up .col {
+				width: 50%!important;
+			}
+			.no-stack.mixed-two-up .col.num4 {
+				width: 33%!important;
+			}
+			.no-stack.mixed-two-up .col.num8 {
+				width: 66%!important;
+			}
+			.no-stack.three-up .col.num4 {
+				width: 33%!important
+			}
+			.no-stack.four-up .col.num3 {
+				width: 25%!important
+			}
+    }
+=20=20
+=20=20
+=20=20
+=20=20
+=09
+=09
+=09=09
+=20=20=20=20
+
+=20=20=20=20
+=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20
+
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+
+
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+=20=20=20=20
+=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20
+=20=20=20=20
+
+
+
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+=20=20=20=20
+=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20
+=20=20=20=20
+
+
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20
+
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+
+
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+=20=20=20=20
+=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20
+=20=20=20=20
+
+
+
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+
+	Hello Sanoj Kumar,You were trying to post a job requirement on workindia.i=
+n but the form was left incomplete.You can finish the posting by clicking h=
+ere=EF=BB=BF and start getting inquiries from candidates
+
+
+
+
+
+
+
+=20=20
+=20=20=20=20
+      CONTINUE YOUR JOB POSTING
+=20=20=20=20
+=20=20
+
+
+
+
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+=20=20=20=20
+=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20
+=20=20=20=20
+
+
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20
+
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+
+
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+
+	1) Database Of Over 7 Lakh Candidates2) Free Job Posting For First Time3) =
+Direct Inquiries From CandidatesFor Any Queries, Call On 02233491366-WorkIn=
+dia Team
+
+
+
+
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20
+=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20
+
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+
+
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+=20=20=20=20
+=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20
+=20=20=20=20
+
+
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20
+=20=20=20=20=20=20=20
+=09=09
+=20=20
+=20=20
+=20=20
+=20=20
+
+
+To unsubscribe, please click here.
+Eloquent Info Solutions Pvt Ltd
+801, Bharatiya Vidya Bhavans Sardar Patel Institute of Technology, Bhavans =
+Campus, Munshi Nagar, Andheri (West), Mumbai, Maharashtra 400058
+
+
+--9abee5102b8159baf95432bc0f883557f1f4dd681a2327a65fe76015c8d3
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=UTF-8
+Mime-Version: 1.0
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Transitional //EN" "http://www=
+.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns=3D"http://www.w3=
+.org/1999/xhtml" xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:s=
+chemas-microsoft-com:office:office"><head>
+    <!--[if gte mso 9]><xml>
+     <o:OfficeDocumentSettings>
+      <o:AllowPNG/>
+      <o:PixelsPerInch>96</o:PixelsPerInch>
+     </o:OfficeDocumentSettings>
+    </xml><![endif]-->
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+    <meta name=3D"viewport" content=3D"width=3Ddevice-width">
+    <!--[if !mso]><!--><meta http-equiv=3D"X-UA-Compatible" content=3D"IE=
+=3Dedge"><!--<![endif]-->
+    <title></title>
+
+
+    <style type=3D"text/css" id=3D"media-query">
+      body {
+  margin: 0;
+  padding: 0; }
+
+table, tr, td {
+  vertical-align: top;
+  border-collapse: collapse; }
+
+.ie-browser table, .mso-container table {
+  table-layout: fixed; }
+
+* {
+  line-height: inherit; }
+
+a[x-apple-data-detectors=3Dtrue] {
+  color: #ffffff !important;
+  text-decoration: none !important; }
+
+[owa] .img-container div, [owa] .img-container button {
+  display: block !important; }
+
+[owa] .fullwidth button {
+  width: 100% !important; }
+
+[owa] .block-grid .col {
+  display: table-cell;
+  float: none !important;
+  vertical-align: top; }
+
+.ie-browser .num12, .ie-browser .block-grid, [owa] .num12, [owa] .block-gri=
+d {
+  width: 600px !important; }
+
+.ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass font,=
+ .ExternalClass td, .ExternalClass div {
+  line-height: 100%; }
+
+.ie-browser .mixed-two-up .num4, [owa] .mixed-two-up .num4 {
+  width: 200px !important; }
+
+.ie-browser .mixed-two-up .num8, [owa] .mixed-two-up .num8 {
+  width: 400px !important; }
+
+.ie-browser .block-grid.two-up .col, [owa] .block-grid.two-up .col {
+  width: 300px !important; }
+
+.ie-browser .block-grid.three-up .col, [owa] .block-grid.three-up .col {
+  width: 200px !important; }
+
+.ie-browser .block-grid.four-up .col, [owa] .block-grid.four-up .col {
+  width: 150px !important; }
+
+.ie-browser .block-grid.five-up .col, [owa] .block-grid.five-up .col {
+  width: 120px !important; }
+
+.ie-browser .block-grid.six-up .col, [owa] .block-grid.six-up .col {
+  width: 100px !important; }
+
+.ie-browser .block-grid.seven-up .col, [owa] .block-grid.seven-up .col {
+  width: 85px !important; }
+
+.ie-browser .block-grid.eight-up .col, [owa] .block-grid.eight-up .col {
+  width: 75px !important; }
+
+.ie-browser .block-grid.nine-up .col, [owa] .block-grid.nine-up .col {
+  width: 66px !important; }
+
+.ie-browser .block-grid.ten-up .col, [owa] .block-grid.ten-up .col {
+  width: 60px !important; }
+
+.ie-browser .block-grid.eleven-up .col, [owa] .block-grid.eleven-up .col {
+  width: 54px !important; }
+
+.ie-browser .block-grid.twelve-up .col, [owa] .block-grid.twelve-up .col {
+  width: 50px !important; }
+
+@media only screen and (min-width: 620px) {
+  .block-grid {
+    width: 600px !important; }
+  .block-grid .col {
+    vertical-align: top; }
+    .block-grid .col.num12 {
+      width: 600px !important; }
+  .block-grid.mixed-two-up .col.num4 {
+    width: 200px !important; }
+  .block-grid.mixed-two-up .col.num8 {
+    width: 400px !important; }
+  .block-grid.two-up .col {
+    width: 300px !important; }
+  .block-grid.three-up .col {
+    width: 200px !important; }
+  .block-grid.four-up .col {
+    width: 150px !important; }
+  .block-grid.five-up .col {
+    width: 120px !important; }
+  .block-grid.six-up .col {
+    width: 100px !important; }
+  .block-grid.seven-up .col {
+    width: 85px !important; }
+  .block-grid.eight-up .col {
+    width: 75px !important; }
+  .block-grid.nine-up .col {
+    width: 66px !important; }
+  .block-grid.ten-up .col {
+    width: 60px !important; }
+  .block-grid.eleven-up .col {
+    width: 54px !important; }
+  .block-grid.twelve-up .col {
+    width: 50px !important; } }
+
+@media (max-width: 620px) {
+  .block-grid, .col {
+    min-width: 320px !important;
+    max-width: 100% !important;
+    display: block !important; }
+  .block-grid {
+    width: calc(100% - 40px) !important; }
+  .col {
+    width: 100% !important; }
+    .col > div {
+      margin: 0 auto; }
+  img.fullwidth, img.fullwidthOnMobile {
+    max-width: 100% !important; }
+  .no-stack .col {
+    min-width: 0 !important;
+    display: table-cell !important; }
+  .no-stack.two-up .col {
+    width: 50% !important; }
+  .no-stack.mixed-two-up .col.num4 {
+    width: 33% !important; }
+  .no-stack.mixed-two-up .col.num8 {
+    width: 66% !important; }
+  .no-stack.three-up .col.num4 {
+    width: 33% !important; }
+  .no-stack.four-up .col.num3 {
+    width: 25% !important; } }
+
+    </style>
+</head>
+<body class=3D"clean-body" style=3D"margin: 0;padding: 0;-webkit-text-size-=
+adjust: 100%;background-color: #ffffff">
+  <style type=3D"text/css" id=3D"media-query-bodytag">
+    @media (max-width: 520px) {
+      .block-grid {
+        min-width: 320px!important;
+        max-width: 100%!important;
+        width: 100%!important;
+        display: block!important;
+      }
+
+      .col {
+        min-width: 320px!important;
+        max-width: 100%!important;
+        width: 100%!important;
+        display: block!important;
+      }
+
+        .col > div {
+          margin: 0 auto;
+        }
+
+      img.fullwidth {
+        max-width: 100%!important;
+      }
+			img.fullwidthOnMobile {
+        max-width: 100%!important;
+      }
+      .no-stack .col {
+				min-width: 0!important;
+				display: table-cell!important;
+			}
+			.no-stack.two-up .col {
+				width: 50%!important;
+			}
+			.no-stack.mixed-two-up .col.num4 {
+				width: 33%!important;
+			}
+			.no-stack.mixed-two-up .col.num8 {
+				width: 66%!important;
+			}
+			.no-stack.three-up .col.num4 {
+				width: 33%!important
+			}
+			.no-stack.four-up .col.num3 {
+				width: 25%!important
+			}
+    }
+  </style>
+  <!--[if IE]><div class=3D"ie-browser"><![endif]-->
+  <!--[if mso]><div class=3D"mso-container"><![endif]-->
+  <table class=3D"nl-container" style=3D"border-collapse: collapse;table-la=
+yout: fixed;border-spacing: 0;mso-table-lspace: 0pt;mso-table-rspace: 0pt;v=
+ertical-align: top;min-width: 320px;Margin: 0 auto;background-color: #fffff=
+f;width: 100%" cellpadding=3D"0" cellspacing=3D"0">
+	<tbody>
+	<tr style=3D"vertical-align: top">
+		<td style=3D"word-break: break-word;border-collapse: collapse !important;=
+vertical-align: top">
+    <!--[if (mso)|(IE)]><table width=3D"100%" cellpadding=3D"0" cellspacing=
+=3D"0" border=3D"0"><tr><td align=3D"center" style=3D"background-color: #ff=
+ffff;"><![endif]-->
+
+    <div style=3D"background-color:transparent;">
+      <div style=3D"Margin: 0 auto;min-width: 320px;max-width: 600px;overfl=
+ow-wrap: break-word;word-wrap: break-word;word-break: break-word;background=
+-color: transparent;" class=3D"block-grid ">
+        <div style=3D"border-collapse: collapse;display: table;width: 100%;=
+background-color:transparent;">
+          <!--[if (mso)|(IE)]><table width=3D"100%" cellpadding=3D"0" cells=
+pacing=3D"0" border=3D"0"><tr><td style=3D"background-color:transparent;" a=
+lign=3D"center"><table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" sty=
+le=3D"width: 600px;"><tr class=3D"layout-full-width" style=3D"background-co=
+lor:transparent;"><![endif]-->
+
+              <!--[if (mso)|(IE)]><td align=3D"center" width=3D"600" style=
+=3D" width:600px; padding-right: 0px; padding-left: 0px; padding-top:0px; p=
+adding-bottom:0px; border-top: 0px solid transparent; border-left: 0px soli=
+d transparent; border-bottom: 0px solid transparent; border-right: 0px soli=
+d transparent;" valign=3D"top"><![endif]-->
+            <div class=3D"col num12" style=3D"min-width: 320px;max-width: 6=
+00px;display: table-cell;vertical-align: top;">
+              <div style=3D"background-color: transparent; width: 100% !imp=
+ortant;">
+              <!--[if (!mso)&(!IE)]><!--><div style=3D"border-top: 0px soli=
+d transparent; border-left: 0px solid transparent; border-bottom: 0px solid=
+ transparent; border-right: 0px solid transparent; padding-top:0px; padding=
+-bottom:0px; padding-right: 0px; padding-left: 0px;"><!--<![endif]-->
+
+
+                    <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0"=
+ width=3D"100%" class=3D"divider" style=3D"border-collapse: collapse;table-=
+layout: fixed;border-spacing: 0;mso-table-lspace: 0pt;mso-table-rspace: 0pt=
+;vertical-align: top;min-width: 100%;-ms-text-size-adjust: 100%;-webkit-tex=
+t-size-adjust: 100%">
+    <tbody>
+        <tr style=3D"vertical-align: top">
+            <td class=3D"divider_inner" style=3D"word-break: break-word;bor=
+der-collapse: collapse !important;vertical-align: top;padding-right: 25px;p=
+adding-left: 25px;padding-top: 25px;padding-bottom: 25px;min-width: 100%;ms=
+o-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-ad=
+just: 100%">
+                <table class=3D"divider_content" align=3D"center" border=3D=
+"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"border-coll=
+apse: collapse;table-layout: fixed;border-spacing: 0;mso-table-lspace: 0pt;=
+mso-table-rspace: 0pt;vertical-align: top;border-top: 0px solid transparent=
+;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%">
+                    <tbody>
+                        <tr style=3D"vertical-align: top">
+                            <td style=3D"word-break: break-word;border-coll=
+apse: collapse !important;vertical-align: top;mso-line-height-rule: exactly=
+;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%">
+                                <span></span>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+
+                    <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0"=
+ width=3D"100%" class=3D"divider" style=3D"border-collapse: collapse;table-=
+layout: fixed;border-spacing: 0;mso-table-lspace: 0pt;mso-table-rspace: 0pt=
+;vertical-align: top;min-width: 100%;-ms-text-size-adjust: 100%;-webkit-tex=
+t-size-adjust: 100%">
+    <tbody>
+        <tr style=3D"vertical-align: top">
+            <td class=3D"divider_inner" style=3D"word-break: break-word;bor=
+der-collapse: collapse !important;vertical-align: top;padding-right: 0px;pa=
+dding-left: 0px;padding-top: 0px;padding-bottom: 0px;min-width: 100%;mso-li=
+ne-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust=
+: 100%">
+                <table class=3D"divider_content" align=3D"center" border=3D=
+"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"border-coll=
+apse: collapse;table-layout: fixed;border-spacing: 0;mso-table-lspace: 0pt;=
+mso-table-rspace: 0pt;vertical-align: top;border-top: 11px solid #cc3333;-m=
+s-text-size-adjust: 100%;-webkit-text-size-adjust: 100%">
+                    <tbody>
+                        <tr style=3D"vertical-align: top">
+                            <td style=3D"word-break: break-word;border-coll=
+apse: collapse !important;vertical-align: top;mso-line-height-rule: exactly=
+;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%">
+                                <span></span>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+              <!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->
+              </div>
+            </div>
+          <!--[if (mso)|(IE)]></td></tr></table></td></tr></table><![endif]=
+-->
+        </div>
+      </div>
+    </div>    <div style=3D"background-color:transparent;">
+      <div style=3D"Margin: 0 auto;min-width: 320px;max-width: 600px;overfl=
+ow-wrap: break-word;word-wrap: break-word;word-break: break-word;background=
+-color: #fffff0;" class=3D"block-grid ">
+        <div style=3D"border-collapse: collapse;display: table;width: 100%;=
+background-color:#fffff0;">
+          <!--[if (mso)|(IE)]><table width=3D"100%" cellpadding=3D"0" cells=
+pacing=3D"0" border=3D"0"><tr><td style=3D"background-color:transparent;" a=
+lign=3D"center"><table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" sty=
+le=3D"width: 600px;"><tr class=3D"layout-full-width" style=3D"background-co=
+lor:#fffff0;"><![endif]-->
+
+              <!--[if (mso)|(IE)]><td align=3D"center" width=3D"600" style=
+=3D" width:600px; padding-right: 0px; padding-left: 0px; padding-top:0px; p=
+adding-bottom:0px; border-top: 0px solid transparent; border-left: 0px soli=
+d transparent; border-bottom: 0px solid transparent; border-right: 0px soli=
+d transparent;" valign=3D"top"><![endif]-->
+            <div class=3D"col num12" style=3D"min-width: 320px;max-width: 6=
+00px;display: table-cell;vertical-align: top;">
+              <div style=3D"background-color: transparent; width: 100% !imp=
+ortant;">
+              <!--[if (!mso)&(!IE)]><!--><div style=3D"border-top: 0px soli=
+d transparent; border-left: 0px solid transparent; border-bottom: 0px solid=
+ transparent; border-right: 0px solid transparent; padding-top:0px; padding=
+-bottom:0px; padding-right: 0px; padding-left: 0px;"><!--<![endif]-->
+
+
+                    <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0"=
+ width=3D"100%" class=3D"divider" style=3D"border-collapse: collapse;table-=
+layout: fixed;border-spacing: 0;mso-table-lspace: 0pt;mso-table-rspace: 0pt=
+;vertical-align: top;min-width: 100%;-ms-text-size-adjust: 100%;-webkit-tex=
+t-size-adjust: 100%">
+    <tbody>
+        <tr style=3D"vertical-align: top">
+            <td class=3D"divider_inner" style=3D"word-break: break-word;bor=
+der-collapse: collapse !important;vertical-align: top;padding-right: 15px;p=
+adding-left: 15px;padding-top: 15px;padding-bottom: 15px;min-width: 100%;ms=
+o-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-ad=
+just: 100%">
+                <table class=3D"divider_content" align=3D"center" border=3D=
+"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"border-coll=
+apse: collapse;table-layout: fixed;border-spacing: 0;mso-table-lspace: 0pt;=
+mso-table-rspace: 0pt;vertical-align: top;border-top: 0px solid transparent=
+;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%">
+                    <tbody>
+                        <tr style=3D"vertical-align: top">
+                            <td style=3D"word-break: break-word;border-coll=
+apse: collapse !important;vertical-align: top;mso-line-height-rule: exactly=
+;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%">
+                                <span></span>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+
+                    <!--[if mso]><table width=3D"100%" cellpadding=3D"0" ce=
+llspacing=3D"0" border=3D"0"><tr><td style=3D"padding-right: 10px; padding-=
+left: 30px; padding-top: 10px; padding-bottom: 5px;"><![endif]-->
+<div style=3D"font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;li=
+ne-height:120%;color:#555555; padding-right: 10px; padding-left: 30px; padd=
+ing-top: 10px; padding-bottom: 5px;">
+	<div style=3D"font-size:12px;line-height:14px;color:#555555;font-family:'H=
+elvetica Neue', Helvetica, Arial, sans-serif;text-align:left;"><p style=3D"=
+margin: 0;font-size: 14px;line-height: 17px"><strong><span style=3D"font-si=
+ze: 20px; line-height: 24px;">Hello Sanoj Kumar,</span></strong></p><p styl=
+e=3D"margin-top: 10px;font-size: 16px;line-height: 18px"><span style=3D"fon=
+t-size: 16px; line-height: 18px;"><span style=3D"line-height: 18px; font-si=
+ze: 16px;">You were trying to post a job requirement on workindia.in but th=
+e form was left incomplete.</span></span></p><p style=3D"margin: 0;font-siz=
+e: 16px;line-height: 18px">You can finish the posting by clicking <a style=
+=3D"color:#0068A5;color:#0068A5;color:#0068A5;text-decoration: underline;" =
+href=3D"http://email.click2redirect.me/wf/click?upn=3DHlawPUGDHEe5eqSMT0so2=
+5wEWsWxsiU-2F6caeNLLNu4c181aougtK-2B0TtXj-2BVk-2BJ9s2KoJ7BoLkwEEO-2BVeNVtzb=
+PBTHHi2fnIfNA68OT9N2Y-3D_VxlAuX98jGTImtRfy8qSMjxfPST58bUH44FH8gukAsqebeueT7=
+cMeQeEArXYtrNuAl64ziD-2Fk28cXWOLrUXebZSm3-2FtyyEixLvTzPGzNuiM86nBDWS9kJRXeO=
+T64nH8lfhynPkH5fVtTnUlADl139RIRHME8FdzMYIyaCcyWzhp2zc-2BzJo-2BBMFcq6HTFg3SH=
+fPvjnZW80uqXMUpPnI4xW4ErSRyW8ok-2FS61LLRUFKykhvHkQn5QmndBldOJOWp1uo6vfgvbTc=
+TW1OBk9H7f7jNUqFdyvvlXLX6up-2B2YufRgb8MkC0iXEMmk9IszkQP1L7YLIyRAghck5vhqEWZ=
+Z7SRzwnwHCxuwTaSjRVosUr2Bz4PMgzB77MjYeAuLCJ5Rlea7FwC-2BBHnDkdhkqACovug-3D-3=
+D" target=3D"_blank" rel=3D"noopener">here</a>=EF=BB=BF and start getting i=
+nquiries from candidates</p></div>
+</div>
+<!--[if mso]></td></tr></table><![endif]-->
+
+
+
+
+<div align=3D"left" class=3D"button-container left" style=3D"padding-right:=
+ 10px; padding-left: 30px; padding-top:10px; padding-bottom:10px;">
+  <!--[if mso]><table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" bo=
+rder=3D"0" style=3D"border-spacing: 0; border-collapse: collapse; mso-table=
+-lspace:0pt; mso-table-rspace:0pt;"><tr><td style=3D"padding-right: 10px; p=
+adding-left: 30px; padding-top:10px; margin-top: 20px; padding-bottom:10px;=
+" align=3D"left"><v:roundrect xmlns:v=3D"urn:schemas-microsoft-com:vml" xml=
+ns:w=3D"urn:schemas-microsoft-com:office:word" href=3D"https://www.workindi=
+a.in" style=3D"height:25pt; v-text-anchor:middle; width:158pt;" arcsize=3D"=
+9%" strokecolor=3D"#cc3333" fillcolor=3D"#cc3333"><w:anchorlock/><v:textbox=
+ inset=3D"0,0,0,0"><center style=3D"color:#fffff0; font-family:'Helvetica N=
+eue', Helvetica, Arial, sans-serif; font-size:14px;"><![endif]-->
+    <a href=3D"http://email.click2redirect.me/wf/click?upn=3DHlawPUGDHEe5eq=
+SMT0so25wEWsWxsiU-2F6caeNLLNu4c181aougtK-2B0TtXj-2BVk-2BJ9s2KoJ7BoLkwEEO-2B=
+VeNVtzbPBTHHi2fnIfNA68OT9N2Y-3D_VxlAuX98jGTImtRfy8qSMjxfPST58bUH44FH8gukAsq=
+ebeueT7cMeQeEArXYtrNuAl64ziD-2Fk28cXWOLrUXebZSm3-2FtyyEixLvTzPGzNuiM86nBDWS=
+9kJRXeOT64nH8lfhynPkH5fVtTnUlADl139RIRHME8FdzMYIyaCcyWzhp2zc-2BzJo-2BBMFcq6=
+HTFg3SHfPvjnZW80uqXMUpPnI4xW4ErSRyW8ok-2FS61LLRUFKykhvHkQn5QmndBldOJOWp1ujR=
+CtjmKYXPGWFCDEDxfPhygvzOJgsW2TEJ-2FvXLdiVTZBLDTg0Ma0NajTfydJyxSSq1go24SmsiX=
+7wvWW-2BLfs85qHQNc8Rq5WL29xZt8tOz71cTiNn6fWEeFW63LaFDXGEi3aj8Bb6cpwpJtPH4Aa=
+sg-3D-3D" target=3D"_blank" style=3D"display: block;text-decoration: none;-=
+webkit-text-size-adjust: none;text-align: center;color: #fffff0; background=
+-color: #cc3333; border-radius: 3px; -webkit-border-radius: 3px; -moz-borde=
+r-radius: 3px; max-width: 211px; width: 171px;width: auto; border-top: 0px =
+solid transparent; border-right: 0px solid transparent; border-bottom: 0px =
+solid transparent; border-left: 0px solid transparent; padding-top: 5px; pa=
+dding-right: 20px; margin-top: 20px; padding-bottom: 5px; padding-left: 20p=
+x; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;mso-border-a=
+lt: none">
+      <span style=3D"font-size:12px;line-height:24px;font-weight: 700">CONT=
+INUE YOUR JOB POSTING</span>
+    </a>
+  <!--[if mso]></center></v:textbox></v:roundrect></td></tr></table><![endi=
+f]-->
+</div>
+
+
+
+                    <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0"=
+ width=3D"100%" class=3D"divider" style=3D"border-collapse: collapse;table-=
+layout: fixed;border-spacing: 0;mso-table-lspace: 0pt;mso-table-rspace: 0pt=
+;vertical-align: top;min-width: 100%;-ms-text-size-adjust: 100%;-webkit-tex=
+t-size-adjust: 100%">
+    <tbody>
+        <tr style=3D"vertical-align: top">
+            <td class=3D"divider_inner" style=3D"word-break: break-word;bor=
+der-collapse: collapse !important;vertical-align: top;padding-right: 15px;p=
+adding-left: 15px;padding-top: 15px;padding-bottom: 15px;min-width: 100%;ms=
+o-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-ad=
+just: 100%">
+                <table class=3D"divider_content" align=3D"center" border=3D=
+"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"border-coll=
+apse: collapse;table-layout: fixed;border-spacing: 0;mso-table-lspace: 0pt;=
+mso-table-rspace: 0pt;vertical-align: top;border-top: 0px solid transparent=
+;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%">
+                    <tbody>
+                        <tr style=3D"vertical-align: top">
+                            <td style=3D"word-break: break-word;border-coll=
+apse: collapse !important;vertical-align: top;mso-line-height-rule: exactly=
+;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%">
+                                <span></span>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+              <!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->
+              </div>
+            </div>
+          <!--[if (mso)|(IE)]></td></tr></table></td></tr></table><![endif]=
+-->
+        </div>
+      </div>
+    </div>    <div style=3D"background-color:transparent;">
+      <div style=3D"Margin: 0 auto;min-width: 320px;max-width: 600px;overfl=
+ow-wrap: break-word;word-wrap: break-word;word-break: break-word;background=
+-color: #fffff0;" class=3D"block-grid ">
+        <div style=3D"border-collapse: collapse;display: table;width: 100%;=
+background-color:#fffff0;">
+          <!--[if (mso)|(IE)]><table width=3D"100%" cellpadding=3D"0" cells=
+pacing=3D"0" border=3D"0"><tr><td style=3D"background-color:transparent;" a=
+lign=3D"center"><table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" sty=
+le=3D"width: 600px;"><tr class=3D"layout-full-width" style=3D"background-co=
+lor:#fffff0;"><![endif]-->
+
+              <!--[if (mso)|(IE)]><td align=3D"center" width=3D"600" style=
+=3D" width:600px; padding-right: 0px; padding-left: 0px; padding-top:5px; p=
+adding-bottom:5px; border-top: 0px solid transparent; border-left: 0px soli=
+d transparent; border-bottom: 0px solid transparent; border-right: 0px soli=
+d transparent;" valign=3D"top"><![endif]-->
+            <div class=3D"col num12" style=3D"min-width: 320px;max-width: 6=
+00px;display: table-cell;vertical-align: top;">
+              <div style=3D"background-color: transparent; width: 100% !imp=
+ortant;">
+              <!--[if (!mso)&(!IE)]><!--><div style=3D"border-top: 0px soli=
+d transparent; border-left: 0px solid transparent; border-bottom: 0px solid=
+ transparent; border-right: 0px solid transparent; padding-top:5px; padding=
+-bottom:5px; padding-right: 0px; padding-left: 0px;"><!--<![endif]-->
+
+
+                    <!--[if mso]><table width=3D"100%" cellpadding=3D"0" ce=
+llspacing=3D"0" border=3D"0"><tr><td style=3D"padding-right: 30px; padding-=
+left: 30px; padding-bottom: 30px;"><![endif]-->
+<div style=3D"font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;li=
+ne-height:180%;color:#555555; padding-right: 30px; padding-left: 30px; padd=
+ing-bottom: 30px;">
+	<div style=3D"font-size:12px;line-height:22px;color:#555555;font-family:'H=
+elvetica Neue', Helvetica, Arial, sans-serif;text-align:left;"><p style=3D"=
+margin: 0;font-size: 12px;line-height: 22px"><span style=3D"font-size: 14px=
+; line-height: 25px;">1) Database Of Over 7 Lakh Candidates</span></p><p st=
+yle=3D"margin: 0;font-size: 12px;line-height: 22px"><span style=3D"font-siz=
+e: 14px; line-height: 25px;">2) Free Job Posting For First Time</span></p><=
+p style=3D"margin: 0;font-size: 12px;line-height: 22px"><span style=3D"font=
+-size: 14px; line-height: 25px;">3) Direct Inquiries From Candidates</span>=
+</p><p style=3D"margin: 0;font-size: 12px;line-height: 22px"><br></p><p sty=
+le=3D"margin: 0;font-size: 12px;line-height: 22px">For Any Queries, Call On=
+ <strong>02233491366</strong></p><p style=3D"margin: 0;font-size: 12px;line=
+-height: 22px"><br data-mce-bogus=3D"1"></p><p style=3D"margin: 0;font-size=
+: 12px;line-height: 22px">-</p><p style=3D"margin: 0;font-size: 12px;line-h=
+eight: 22px"><em><strong><span style=3D"font-size: 14px; line-height: 25px;=
+">WorkIndia Team</span></strong></em></p></div>
+</div>
+<!--[if mso]></td></tr></table><![endif]-->
+
+
+              <!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->
+              </div>
+            </div>
+          <!--[if (mso)|(IE)]></td></tr></table></td></tr></table><![endif]=
+-->
+        </div>
+      </div>
+    </div>
+            <div style=3D"background-color:transparent;">
+      <div style=3D"Margin: 0 auto;min-width: 320px;max-width: 600px;overfl=
+ow-wrap: break-word;word-wrap: break-word;word-break: break-word;background=
+-color: transparent;" class=3D"block-grid ">
+        <div style=3D"border-collapse: collapse;display: table;width: 100%;=
+background-color:transparent;">
+          <!--[if (mso)|(IE)]><table width=3D"100%" cellpadding=3D"0" cells=
+pacing=3D"0" border=3D"0"><tr><td style=3D"background-color:transparent;" a=
+lign=3D"center"><table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" sty=
+le=3D"width: 600px;"><tr class=3D"layout-full-width" style=3D"background-co=
+lor:transparent;"><![endif]-->
+
+              <!--[if (mso)|(IE)]><td align=3D"center" width=3D"600" style=
+=3D" width:600px; padding-right: 0px; padding-left: 0px; padding-top:5px; p=
+adding-bottom:5px; border-top: 0px solid transparent; border-left: 0px soli=
+d transparent; border-bottom: 0px solid transparent; border-right: 0px soli=
+d transparent;" valign=3D"top"><![endif]-->
+            <div class=3D"col num12" style=3D"min-width: 320px;max-width: 6=
+00px;display: table-cell;vertical-align: top;">
+              <div style=3D"background-color: transparent; width: 100% !imp=
+ortant;">
+              <!--[if (!mso)&(!IE)]><!--><div style=3D"border-top: 0px soli=
+d transparent; border-left: 0px solid transparent; border-bottom: 0px solid=
+ transparent; border-right: 0px solid transparent; padding-top:5px; padding=
+-bottom:5px; padding-right: 0px; padding-left: 0px;"><!--<![endif]-->
+
+
+                    <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0"=
+ width=3D"100%" class=3D"divider" style=3D"border-collapse: collapse;table-=
+layout: fixed;border-spacing: 0;mso-table-lspace: 0pt;mso-table-rspace: 0pt=
+;vertical-align: top;min-width: 100%;-ms-text-size-adjust: 100%;-webkit-tex=
+t-size-adjust: 100%">
+    <tbody>
+        <tr style=3D"vertical-align: top">
+            <td class=3D"divider_inner" style=3D"word-break: break-word;bor=
+der-collapse: collapse !important;vertical-align: top;padding-right: 25px;p=
+adding-left: 25px;padding-top: 25px;padding-bottom: 25px;min-width: 100%;ms=
+o-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-ad=
+just: 100%">
+                <table class=3D"divider_content" align=3D"center" border=3D=
+"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"border-coll=
+apse: collapse;table-layout: fixed;border-spacing: 0;mso-table-lspace: 0pt;=
+mso-table-rspace: 0pt;vertical-align: top;border-top: 0px solid transparent=
+;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%">
+                    <tbody>
+                        <tr style=3D"vertical-align: top">
+                            <td style=3D"word-break: break-word;border-coll=
+apse: collapse !important;vertical-align: top;mso-line-height-rule: exactly=
+;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%">
+                                <span></span>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+              <!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->
+              </div>
+            </div>
+          <!--[if (mso)|(IE)]></td></tr></table></td></tr></table><![endif]=
+-->
+        </div>
+      </div>
+    </div>   <!--[if (mso)|(IE)]></td></tr></table><![endif]-->
+		</td>
+  </tr>
+  </tbody>
+  </table>
+  <!--[if (mso)|(IE)]></div><![endif]-->
+
+
+<P style=3D"background-color: white; color: #666666; font: normal normal x-=
+small arial,helvetica,sans-serif; text-align: center">To unsubscribe, pleas=
+e click <A HREF=3D"http://email.click2redirect.me/wf/click?upn=3DnQfKf9PFXX=
+hzNEZCqn5w7BynAbWz-2BZfk2rJNuuWWmH6GZQMLu1OkiI0QIJY0y-2FmtNIecxpX1UkxMJKiVe=
+HqDMN1BqjWuethqeBDTOTcN-2BxEskmpQqIVSL7BJNxaKU1kfOz3RPWtdU4rk97u8fepke-2FvP=
+O7-2F98A9hhZp7Xxc0RUc-3D_VxlAuX98jGTImtRfy8qSMjxfPST58bUH44FH8gukAsqebeueT7=
+cMeQeEArXYtrNuAl64ziD-2Fk28cXWOLrUXebZSm3-2FtyyEixLvTzPGzNuiM86nBDWS9kJRXeO=
+T64nH8lfhynPkH5fVtTnUlADl139RIRHME8FdzMYIyaCcyWzhp2zc-2BzJo-2BBMFcq6HTFg3SH=
+fPvjnZW80uqXMUpPnI4xW4ErSRyW8ok-2FS61LLRUFKykhvHkQn5QmndBldOJOWp1uEl2yHf0qY=
+nSHJvLKmYmhU2I0phLNX2hREzBDXEWqCx93LuO1F76tvTfLD-2B7iJ8Lf-2BGN-2FXceFsWAh3O=
+102TyNcCcLP-2BUR88kaghxnPio74yGbcBJRKEI-2BAU3DMbBunXbq4fBMt04CUVaKNm8NIXnbD=
+Q-3D-3D">here</A>.</P>
+<P style=3D"background-color: white; color: #666666; font: normal normal x-=
+small arial,helvetica,sans-serif; text-align: center">Eloquent Info Solutio=
+ns Pvt Ltd</P>
+<P style=3D"background-color: white; color: #666666; font: normal normal x-=
+small arial,helvetica,sans-serif; text-align: center">801, Bharatiya Vidya =
+Bhavans Sardar Patel Institute of Technology, Bhavans Campus, Munshi Nagar,=
+ Andheri (West), Mumbai, Maharashtra 400058</P>
+<IMG height=3D2 width=3D2 src=3D"http://entlinksapp.webaroo.com/EMSLinkApp/=
+API/rest?action=3DOpened&cid=3D3774192168588627978&sid=3D-59002521229681675=
+14&srno=3D1" alt=3D"Image not available">
+
+<img src=3D"http://email.click2redirect.me/wf/open?upn=3DVxlAuX98jGTImtRfy8=
+qSMjxfPST58bUH44FH8gukAsqebeueT7cMeQeEArXYtrNuAl64ziD-2Fk28cXWOLrUXebZSm3-2=
+FtyyEixLvTzPGzNuiM86nBDWS9kJRXeOT64nH8lfhynPkH5fVtTnUlADl139RIRHME8FdzMYIya=
+CcyWzhp2zc-2BzJo-2BBMFcq6HTFg3SHfPvjnZW80uqXMUpPnI4xW4ErSRyW8ok-2FS61LLRUFK=
+ykhvHkQn5QmndBldOJOWp1uVvVA6VU-2FcuZa38-2BjF-2BS8I4EtqUmyu-2FJzshwYylTJambx=
+EaZUTwSI8V6J1XEBxbsfGyeb2oiYZaFW-2FnD0Ync1eoGWUfqmPRXguRQ2L5sFQIF0WrO4SXyxr=
+mgbj9eLZXd55I9N0qY7HZwHSP9FjfuSDQ-3D-3D" alt=3D"" width=3D"1" height=3D"1" =
+border=3D"0" style=3D"height:1px !important;width:1px !important;border-wid=
+th:0 !important;margin-top:0 !important;margin-bottom:0 !important;margin-r=
+ight:0 !important;margin-left:0 !important;padding-top:0 !important;padding=
+-bottom:0 !important;padding-right:0 !important;padding-left:0 !important;"=
+/>
+</body></html>
+
+--9abee5102b8159baf95432bc0f883557f1f4dd681a2327a65fe76015c8d3--

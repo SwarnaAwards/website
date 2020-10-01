@@ -1,0 +1,189 @@
+Return-Path: <0102016dce12884e-8f2efc2a-6edf-49b2-ae5d-190c1251f471-000000@eu-west-1.amazonses.com>
+Delivered-To: info@successassociates.in
+Received: from sg3plcpnl0078.prod.sin3.secureserver.net
+	by sg3plcpnl0078.prod.sin3.secureserver.net with LMTP
+	id aPw6BjNlpV2fywQAUghlVg
+	(envelope-from <0102016dce12884e-8f2efc2a-6edf-49b2-ae5d-190c1251f471-000000@eu-west-1.amazonses.com>)
+	for <info@successassociates.in>; Mon, 14 Oct 2019 23:20:35 -0700
+Return-path: <0102016dce12884e-8f2efc2a-6edf-49b2-ae5d-190c1251f471-000000@eu-west-1.amazonses.com>
+Envelope-to: info@successassociates.in
+Delivery-date: Mon, 14 Oct 2019 23:20:35 -0700
+Received: from a7-23.smtp-out.eu-west-1.amazonses.com ([54.240.7.23]:44956)
+	by sg3plcpnl0078.prod.sin3.secureserver.net with esmtps (TLSv1.2:ECDHE-RSA-AES128-SHA256:128)
+	(Exim 4.92)
+	(envelope-from <0102016dce12884e-8f2efc2a-6edf-49b2-ae5d-190c1251f471-000000@eu-west-1.amazonses.com>)
+	id 1iKGC2-001QGZ-Ni
+	for info@successassociates.in; Mon, 14 Oct 2019 23:20:35 -0700
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=gjkykxtbbhon73jrp6j3iggl4syfh5w3; d=paymeindia.co.in;
+	t=1571120384;
+	h=Content-Type:MIME-Version:Subject:From:To:Reply-To:Date:Message-ID;
+	bh=vSDxadI+Y/IhuS5TYf2VYp03j9wPe1SOErU+15FpNNU=;
+	b=h1cjYIHOzo1BJAgfN9SZVN1nSdurCJKdHhy4BF895dSm8jNyp8Ftz/ig812N8Mh5
+	62u0aVX3Jn3RN5sbANCRXwPOVjIA1oNhOTlknnAx/NBVz74BREFMFEKZFjgV4pTZOXy
+	t1nR3+aFV6Ykpg3XmT5qSm1MzJVUb72DrDAEeN6g=
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=ihchhvubuqgjsxyuhssfvqohv7z3u4hn; d=amazonses.com; t=1571120384;
+	h=Content-Type:MIME-Version:Subject:From:To:Reply-To:Date:Message-ID:Feedback-ID;
+	bh=vSDxadI+Y/IhuS5TYf2VYp03j9wPe1SOErU+15FpNNU=;
+	b=QpsUpb53qvIpl+Hsky2Qy6jproik0bOJZpaZCNqAccstHSnzLkpQYVqGGw8Q/crO
+	S+YyQtknrr3C6UrXgszRiQOd9/zTSbuTNwcqkdOOJiNR6/WqrhMhvGn/k/6fiuU6E2E
+	dyxiZgmijLaX+B9nmIbHnLc43XOH5GfYTtxkrAbg=
+Content-Type: multipart/alternative;
+ boundary="===============0838783363224489409=="
+MIME-Version: 1.0
+Subject: Veify your office email id - Payme India
+From: PayMe India <info@paymeindia.co.in>
+To: info@successassociates.in
+Reply-To: support@paymeindia.in
+Date: Tue, 15 Oct 2019 06:19:44 +0000
+Message-ID: <0102016dce12884e-8f2efc2a-6edf-49b2-ae5d-190c1251f471-000000@eu-west-1.amazonses.com>
+X-SES-Outgoing: 2019.10.15-54.240.7.23
+Feedback-ID: 1.eu-west-1.L1EJeFf3LUEgbBrZUAkbB6MbCczaBuYu1Bp76R9K3zo=:AmazonSES
+X-Spam-Status: No, score=0.9
+X-Spam-Score: 9
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "sg3plcpnl0078.prod.sin3.secureserver.net",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  Payday Loans in India - Short Term Advance Salary Loans -
+    PayMeIndia Dear Customer, Thanks for application with Payme India. Your OTP
+    is: 6090 In order to verify your office id, enter the otp at the mobile app.
+    
+ 
+ Content analysis details:   (0.9 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was
+                             blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: paymeindia.co.in]
+  0.0 SURBL_BLOCKED          ADMINISTRATOR NOTICE: The query to SURBL was
+                             blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: paymeindia.co.in]
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.2 HEADER_FROM_DIFFERENT_DOMAINS From and EnvelopeFrom 2nd level
+                             mail domains are different
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+ -0.1 DKIM_VALID_EF          Message has a valid DKIM or DK signature from
+                             envelope-from domain
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from
+                             author's domain
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+  0.8 CPANEL_LOTS_OF_EMPTY_LINE RAW: Spam that has large block of
+                             empty lines
+  0.0 T_REMOTE_IMAGE         Message contains an external image
+X-Spam-Flag: NO
+
+--===============0838783363224489409==
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+
+
+
+    Payday Loans in India - Short Term Advance Salary Loans - PayMeIndia
+    
+    
+   
+
+
+    
+        
+            
+                
+            
+            
+                Dear Customer,
+            
+            Thanks for application with Payme India. Your OTP is: 6090
+            In order to verify your office id, enter the otp at the mobile app.
+            
+                
+                    
+                        
+                        PayMe India,
+                        Devasthali Corporate Tower, 5th Floor
+                        Sector 62, Noida, 201309
+                        9953253545
+                        
+                    
+                    
+                        
+                        Email: support@paymeindia.in
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                    
+                
+            
+        
+    
+
+
+--===============0838783363224489409==
+MIME-Version: 1.0
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/html">
+<head>
+    <title>Payday Loans in India - Short Term Advance Salary Loans - PayMeIndia</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+   <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+</head>
+<body>
+    <div class="container" style="display: flex;justify-content: center;flex: 1;">
+        <div class="main_mail_box" style="width: 600pt;background: #fff;box-shadow: 5px 5px 25px 0 rgba(46,61,73,.2);font-family: 'Roboto', sans-serif;">
+            <header style="background: #0cbaba;display:flex;justify-content:center; align-items: center;">
+                <img src="https://www.paymeindia.in/assets/images/common/2.png" style="padding: 8pt;">
+            </header>
+            <section class="mail_content" style="padding: 0pt 10pt;">
+                <h3 style="color: #2f2f2f;">Dear Customer,</h3>
+            </section>
+            <p>Thanks for application with Payme India. Your OTP is: <b>6090</b></p>
+            <p>In order to verify your office id, enter the otp at the mobile app.</p>
+            <footer>
+                <div class="address_mail" style="display:flex;justify-content:space-between;padding: 0 10pt 0 10pt;">
+                    <div>
+                        <ul style="list-style-type: none;font-size: 0.69em;padding: 0;margin: 8px 0px 0 0;color:#313131;">
+                        <li>PayMe India,</li>
+                        <li>Devasthali Corporate Tower, 5th Floor</li>
+                        <li>Sector 62, Noida, 201309</li>
+                        <li><a href="#" style="color: #171717;">9953253545</a></li>
+                        </ul>
+                    </div>
+                    <div>
+                        <ul style="list-style-type:none;float:right,font-size: 0.69em;padding: 0;margin: 8px 0px 0 0;color: #000;">
+                        <li style="list-style-type:none;"><a href="#" style="color: #171717;font-size:0.59em">Email: support@paymeindia.in</a></li>
+                        <li style="display:flex;justify-content: space-between;margin-top:7pt">
+                        <a href="https://www.facebook.com/PayMeIndia.in/" target="_blank" style="color: #171717;"><img src="https://www.paymeindia.in/assets/images/Home/7.png" alt="payme-india" class="social-img"></a>
+                        <a href="https://twitter.com/PayMeIndia" target="_blank" style="color: #171717;"><img src="https://www.paymeindia.in/assets/images/Home/8.png" alt="payme-india" class="social-img"></a>
+                        <a href="https://www.linkedin.com/company/payme-india" target="_blank" style="color: #171717;"><img src="https://www.paymeindia.in/assets/images/Home/9.png" alt="payme-india" class="social-img"></a>
+                        <a href="https://www.instagram.com/paymeindia/" target="_blank" style="color: #171717;"><img src="https://www.paymeindia.in/assets/images/Home/10.png" alt="payme-india" class="social-img"></a>
+                        <a href="https://plus.google.com/107796177992858946179" target="_blank" style="color: #171717;"><img src="https://www.paymeindia.in/assets/images/Home/11.png" alt="payme-india" class="social-img"></a></li>
+                        </ul>
+                    </div>
+                </div>
+            </footer>
+        </div>
+    </div>
+</body>
+</html>
+--===============0838783363224489409==--

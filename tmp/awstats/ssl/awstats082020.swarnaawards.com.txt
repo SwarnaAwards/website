@@ -1,0 +1,637 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 202008 will be lost/reset.
+# Last config file used to build this data file was /home/uhiu77c2vc0e/tmp/awstats/ssl/awstats.swarnaawards.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2021                
+POS_TIME 2708                
+POS_VISITOR 15973               
+POS_DAY 21572               
+POS_DOMAIN 3598                
+POS_LOGIN 4055                
+POS_ROBOT 4210                
+POS_WORMS 4877                
+POS_EMAILSENDER 5008                
+POS_EMAILRECEIVER 5151                
+POS_SESSION 22060               
+POS_SIDER 22273               
+POS_FILETYPES 5286                
+POS_DOWNLOADS 5587                
+POS_OS 7481                
+POS_BROWSER 7720                
+POS_SCREENSIZE 8870                
+POS_UNKNOWNREFERER 8944                
+POS_UNKNOWNREFERERBROWSER 9599                
+POS_ORIGIN 10018               
+POS_SEREFERRALS 10159               
+POS_PAGEREFS 10322               
+POS_SEARCHWORDS 11041               
+POS_KEYWORDS 11193               
+POS_MISC 2372                
+POS_ERRORS 11252               
+POS_CLUSTER 3911                
+POS_SIDER_404 11398               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20200901000234 4361 1175437 13598844945180
+FirstTime 20200807065838
+LastTime 20200831235928
+LastUpdate 20200901051101 4361 0 4359 0 1
+TotalVisits 226                 
+TotalUnique 127                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 132                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+PDFSupport 0 0 0
+DirectorSupport 0 0 0
+JavaEnabled 0 0 0
+FlashSupport 0 0 0
+TotalMisc 0 0 0
+JavascriptDisabled 0 0 0
+AddToFavourites 0 1 0
+RealPlayerSupport 0 0 0
+QuickTimeSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 73 263 1071411703 50 75 357608
+1 62 222 1247178162 31 61 674664
+2 52 236 1392468143 23 32 196771
+3 113 362 2768694707 36 70 8653
+4 104 411 1915465913 30 61 219690
+5 108 353 2639287662 33 67 34292149
+6 111 370 2184309837 35 42 259658
+7 289 1350 5951730946 114 175 4529360
+8 134 519 2664662730 82 90 207853
+9 159 668 3824761481 29 37 18108
+10 144 547 2348432102 49 58 50593
+11 179 760 1805820551 57 65 294402
+12 32 94 313771959 34 37 6786
+13 5 21 66038712 3 22 155312
+14 2 2 13216 8 22 774417
+15 0 0 0 2 5 13831
+16 5 9 454521 4 13 105553
+17 0 2 12741 6 15 1014011
+18 33 136 2126073767 5 8 8732
+19 41 126 1188908094 8 11 3949
+20 245 519 2918984114 65 79 95271
+21 170 698 3029675631 73 75 13778
+22 97 252 1224249083 36 186 155089
+23 73 246 1137019660 29 142 621540
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 15
+in 1901 6701 18974069354
+us 227 977 1790236110
+ca 38 194 394287538
+gb 20 74 170327891
+ru 13 65 105177347
+pl 12 64 170165981
+cn 6 73 53116336
+de 6 6 6608
+it 2 4 206126
+nl 1 1 42269
+se 1 1 7892
+pt 1 2 103063
+ro 1 2 103063
+cl 1 1 6608
+fr 1 1 47123
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 13
+Googlebot/ 101 686239 20200831235527 2
+bot[\s_+:,\.\;\/\\-] 33 3789922 20200831074714 0
+bingpreview 31 34958735 20200830054959 0
+facebookexternalhit/ 18 743239 20200826012226 0
+bingbot/ 17 136873 20200830052546 0
+Googlebot\-Image/ 13 454044 20200829234011 0
+(firefox/)([0-9]\.|[0-1][0]\.) 9 336474 20200831235512 0
+TelegramBot 7 296462 20200831111913 0
+SemrushBot/ 7 46464 20200830163556 0
+baidu 2 103063 20200825165341 0
+curl 1 42084 20200824061754 0
+no_user_agent 1 6939 20200824073727 0
+Apache\-HttpClient/ 1 6608 20200827212126 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 11
+css 1210 11936768 0 0
+svg 2003 6490853 0 0
+jpg 728 431771275 0 0
+png 993 130641657 0 0
+woff2 200 105115596 0 0
+ttf 846 23110122 0 0
+mp4 125 20862502970 0 0
+html 782 6890802 0 0
+js 876 12426769 0 0
+php 384 237023 0 0
+woff 19 1445082 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 32
+/assets/videos/MAIN_COMP02.mp4 50 2173 20716526509
+/upload/videos/053456_29082020.mp4 25 2 18992357
+/upload/videos/84c944e7-b404-4ad7-b7c8-40fcda5de3c1.mp4 3 7 13261281
+/upload/videos/054325_28082020.mp4 2 2 43314092
+/upload/videos/f1a828f1-a33d-448b-9c7f-f33b5e71e6d1.mp4 2 2 2988896
+/upload/videos/061536_30082020.mp4 2 5 19039626
+/upload/videos/d10a4340-a9b8-4987-a4fa-d89b91d31bbe.mp4 2 4 4873556
+/upload/videos/082753_29082020.mp4 1 2 8203890
+/upload/videos/11ea870d-66f4-4a22-a581-e05f68f1d911.mp4 1 1 13252637
+/upload/videos/f6b9be42-ec25-4532-b537-2a551dd4c1ea.mp4 1 3 3251804
+/upload/videos/b0d110a2-6477-437e-abf7-69c8b95d8deb.mp4 1 3 13031231
+/upload/videos/051629_28082020.mp4 1 0 145738
+/upload/videos/5770cc77-3b7d-4c6e-8ea9-85fcff217463.mp4 1 2 2725418
+/upload/videos/100338_29082020.mp4 1 1 1820513
+/upload/videos/064554_24082020.mp4 1 2 9781
+/upload/videos/45aac1c2-3906-4b25-9405-3855ea753d8d.mp4 1 3 13057160
+/upload/videos/071349_25082020.mp4 1 3 2260932
+/upload/videos/060906_24082020.mp4 1 2 2893642
+/upload/videos/5725c6a8-1303-4f30-aee8-d43c6aa908b9.mp4 1 1 3080087
+/upload/videos/062735_28082020.mp4 1 1 5691360
+/upload/videos/100755_28082020.mp4 1 3 32804040
+/upload/videos/055548_24082020.mp4 1 2 2813258
+/upload/videos/1b1de0a3-d0cd-429c-b224-885e0acb7ab3.mp4 1 2 9781
+/upload/videos/065015_25082020.mp4 1 1 13187869
+/upload/videos/051411_28082020.mp4 1 3 5992592
+/upload/videos/ec9d8f21-6c8e-46a6-8409-6dd6c5f5e697.mp4 1 2 3505994
+/upload/videos/49f7f91a-c671-403d-b787-7eabb58f6189.mp4 1 2 3188714
+/upload/videos/41a4a253-fa05-4048-83be-c3c348f63106.mp4 1 2 2872938
+/upload/videos/c4e9b63d-18b6-4d03-ba7e-bcc30a8c0ffa.mp4 1 1 2588420
+/upload/videos/053520_25082020.mp4 1 1 1569956
+/upload/videos/788f1dca-367a-4c42-a712-7c235a050922.mp4 1 1 69486
+/upload/videos/28c2b8d2-f553-4c59-9405-cacea414e4cf.mp4 1 3 3513768
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 12
+winlong 35 7
+Unknown 86 36
+macosx9 2 2
+ios_iphone 186 38
+win10 3067 780
+winxp 1 1
+macosx 2356 456
+linuxandroid 3946 747
+linux 451 98
+macosx8 1 1
+win7 274 65
+linuxubuntu 3 0
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 50
+safari13.1.2 1 1
+chrome49.0.2623.75 6 3
+mozilla 19 3
+chrome74.0.3729.169 1 1
+chrome78.0.3882.0 72 12
+chrome59.0.3071.125 3 2
+chrome84.0.4143.7 418 86
+chrome79.0.3945.79 74 12
+chrome77.0.3865.56 201 26
+chrome84.0.4147.105 35 8
+chrome84.0.4147.125 315 58
+chrome75.0.3770.100 78 14
+chrome61.0.3163.100 4 1
+chrome85.0.4183.83 2363 650
+firefox61.0 1 1
+iphone 7 7
+chrome83.0.4103.61 10 2
+chrome77.0.3865.116 40 6
+chrome40.0.2214.85 5 5
+msie8.0 36 8
+chrome84.0.4147.111 2057 419
+chrome83.0.4103.97 1 1
+chrome85.0.4183.81 314 49
+chrome83.0.4103.116 50 3
+safari13.1.1 52 7
+chrome44.0.2403.133 3 2
+chrome81.0.4044.138 68 18
+chrome74.0.3694.0 146 25
+chrome79.0.3945.136 161 25
+Unknown 67 33
+opera12.10 4 2
+chrome41.0.2227.0 2 2
+safari 112 15
+chrome84.0.4147.140 4 0
+chrome26.0.1410.65 1 1
+chrome67.0.3396.87 40 6
+safari11.0 1 1
+chrome62.0.3202.84 38 9
+chrome73.0.3679.0 37 6
+chrome76.0.3809.71 78 13
+msie6.0 1 1
+chrome35.0.1916.47 2 2
+chrome80.0.3987.92 6 0
+chrome84.0.4147.135 2698 538
+safari14.0 43 7
+chrome77.0.3865.92 147 27
+safari4.0 22 7
+chrome80.0.3987.99 485 91
+firefox58.0 3 3
+chrome80.0.3963.0 76 12
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 12
+WordPress/5.4.2;_https://swarnaawards.com 20200821204459
+PostmanRuntime/7.26.3 20200831014523
+Googlebot-Image/1.0 20200829235222
+Mozilla/5.0_(compatible;_ips-agent) 20200825112104
+Python/3.8_aiohttp/3.6.2 20200814094627
+TelegramBot_(like_TwitterBot) 20200831110621
+keycdn-tools/speed 20200831073129
+Mozilla/5.0_(compatible;_SemrushBot/6~bl;__http://www.semrush.com/bot.html) 20200826100625
+Go-http-client/1.1 20200829055351
+Mozilla/5.0_(compatible;_Googlebot/2.1;__http://www.google.com/bot.html) 20200825184644
+\ 20200830035029
+WhatsApp/2.20.197.20_A 20200831093800
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 9
+\ 20200830035029
+Go-http-client/1.1 20200829055351
+WhatsApp/2.20.197.20_A 20200831093800
+Googlebot-Image/1.0 20200829235222
+PostmanRuntime/7.26.3 20200831014523
+WordPress/5.4.2;_https://swarnaawards.com 20200821204459
+keycdn-tools/speed 20200831073129
+TelegramBot_(like_TwitterBot) 20200831110621
+Python/3.8_aiohttp/3.6.2 20200814094627
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 724 820
+From1 9 9
+From2 3 3
+From3 9 92
+From4 1486 9484
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+www_google_com 3 3
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 9
+http://sucuri.net 7 35
+https://l.instagram.com 2 2
+https://api.razorpay.com 0 1
+https://api.razorpay.com/v1/checkout/public/canary 0 1
+https://api.razorpay.com/v1/checkout/public 0 14
+https://sg3plcpnl0078.prod.sin3.secureserver.net:2083 0 20
+https://sg3plcpnl0078.prod.sin3.secureserver.net:2083/cpsess4676947586/frontend/paper_lantern/filemanager/editors/html_editor.html 0 6
+https://sg3plcpnl0078.prod.sin3.secureserver.net:2083/cpsess4439845371/frontend/paper_lantern/filemanager/editors/html_editor.html 0 6
+https://sg3plcpnl0078.prod.sin3.secureserver.net:2083 0 7
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 6
+400 69 6252
+302 35 0
+206 52 2446630
+401 1 35
+404 993 17146
+500 23 569
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 69
+/razor-php/-1.jpg 1 https://swarnaawards.com/razor-php/charge.php
+/robots.txt 54 -
+/my-account/lost-password/ 2 -
+/razor-php/img/homepage/banner-1.jpg 2 https://swarnaawards.com/razor-php/charge.php
+/404javascript.js 7 http://www.google.com/url/
+/razor-php/assets/css/animate.min.css 45 https://swarnaawards.com/razor-php/charge.php
+/public_html/upload/videos/f6b9be42-ec25-4532-b537-2a551dd4c1ea.mp4 1 -
+/razor-php/banner-1.jpg 1 https://swarnaawards.com/razor-php/charge.php
+/img/homepage/banner-1.jpg 2 https://swarnaawards.com/razor-php/charge.php
+/myadmin/print.css 1 -
+/upload/videos/home/uhiu77c2vc0e/public_html/upload/videos/2ac19119-9567-40af-986e-87402e2d9e4b.mp4 1 -
+/razor-php/mg/homepage/banner-1.jpg 1 https://swarnaawards.com/razor-php/charge.php
+/phpMyAdmin/print.css 1 -
+/banner-1.jpg 1 https://swarnaawards.com/razor-php/charge.php
+/assets/css/bootstrap.min.css.map 163 -
+/assets/img/swarna-logo.png 40 https://swarnaawards.com/contact.html
+/razor-php/anner-1.jpg 1 https://swarnaawards.com/razor-php/charge.php
+/ads.txt 1 http://swarnaawards.com/ads.txt
+/razor-php/jpg 1 https://swarnaawards.com/razor-php/charge.php
+/razor-php/pg 1 https://swarnaawards.com/razor-php/charge.php
+/asset-manifest.json 13 https://swarnaawards.com/
+/ds 1 -
+/assets/js/bootstrap.min.js.map 173 -
+/razor-php/.jpg 1 https://swarnaawards.com/razor-php/charge.php
+/razor-php/g 1 https://swarnaawards.com/razor-php/charge.php
+/upload/videos/home/uhiu77c2vc0e/public_html/upload/videos/cae54a5a-1687-48c1-b660-5a8dd9d30fa8.mp4 1 -
+/razor-php/epage/banner-1.jpg 1 https://swarnaawards.com/razor-php/charge.php
+/razor-php/nner-1.jpg 1 https://swarnaawards.com/razor-php/charge.php
+/razor-php/g/homepage/banner-1.jpg 1 https://swarnaawards.com/razor-php/charge.php
+/upload/videos/home/uhiu77c2vc0e/public_html/upload/videos/d2c75182-5183-4a3b-942b-4912838535cf.mp4 3 -
+/upload/videos/home/uhiu77c2vc0e/public_html/upload/videos/6674a52c-f5ba-4757-be2d-3d4ad321b5fd.mp4 1 -
+/humans.txt 1 http://swarnaawards.com/humans.txt
+/phpmyadmin/print.css 1 -
+/home/uhiu77c2vc0e/public_html/upload/videos/d2c75182-5183-4a3b-942b-4912838535cf.mp4 1 -
+/razor-php/assets/css/venom-button.min.css 46 https://swarnaawards.com/razor-php/charge.php
+/registration.php 32 https://swarnaawards.com/
+/wp-login.php 2 http://swarnaawards.com/wp-login.php
+/assets/js/popper.min.js.map 173 -
+/pma/print.css 1 -
+/mysql/print.css 1 -
+/razor-php/er-1.jpg 1 https://swarnaawards.com/razor-php/charge.php
+/dashboard 1 -
+/razor-php/1.jpg 1 https://swarnaawards.com/razor-php/charge.php
+/my-account/ 3 -
+/upload/videos/32eaa86b-c43c-4ee8-bac9-7c32707c5a61.mp4 1 -
+/database/print.css 1 -
+/razor-php/omepage/banner-1.jpg 1 https://swarnaawards.com/razor-php/charge.php
+/upload/videos/home/uhiu77c2vc0e/public_html/upload/videos/998ef363-f858-4fd0-a940-a56b22c01b26.mp4 1 -
+/razor-php/assets/css/homepage.css 45 https://swarnaawards.com/razor-php/charge.php
+/upload/videos/home/uhiu77c2vc0e/public_html/upload/videos/28c2b8d2-f553-4c59-9405-cacea414e4cf.mp4 4 -
+/upload/videos/114337_24082020.mp4 3 -
+/razor-php/mepage/banner-1.jpg 1 https://swarnaawards.com/razor-php/charge.php
+/homepage/banner-1.jpg 1 https://swarnaawards.com/razor-php/charge.php
+/razor-php/ner-1.jpg 1 https://swarnaawards.com/razor-php/charge.php
+/add-listing/ 3 -
+/upload/videos/home/uhiu77c2vc0e/public_html/upload/videos/f6b9be42-ec25-4532-b537-2a551dd4c1ea.mp4 4 -
+/razor-php/e/banner-1.jpg 1 https://swarnaawards.com/razor-php/charge.php
+/razor-php/age/banner-1.jpg 1 https://swarnaawards.com/razor-php/charge.php
+/razor-php/page/banner-1.jpg 1 https://swarnaawards.com/razor-php/charge.php
+/razor-php/homepage/banner-1.jpg 1 https://swarnaawards.com/razor-php/charge.php
+/razor-php/r-1.jpg 1 https://swarnaawards.com/razor-php/charge.php
+/razor-php/assets/css/icofont.min.css 45 https://swarnaawards.com/razor-php/charge.php
+/.well-known/assetlinks.json 2 -
+/razor-php/assets/css/boostrap.css 46 https://swarnaawards.com/razor-php/charge.php
+/razor-php/assets/img/swarna-logo.png 9 https://swarnaawards.com/razor-php/charge.php
+/upload/videos/011947_24082020.mp4 4 -
+/razor-php/ge/banner-1.jpg 1 https://swarnaawards.com/razor-php/charge.php
+/uploadHandler.php 20 https://swarnaawards.com/
+/404testpage4525d2fdc 7 http://sucuri.net
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 132
+103.245.188.94 949 3790 7200304102 20200831235928
+122.164.75.165 169 815 783875819 20200831121201
+122.179.61.22 99 524 1115213510 20200831213745
+106.216.160.215 75 274 1063554061 20200831211918
+122.171.46.86 58 333 658480901 20200829045705
+49.207.142.114 50 283 532323279 20200826074803
+223.186.230.111 45 218 766393629 20200829233150
+106.193.61.134 39 170 543919220 20200831212457
+106.193.63.38 36 214 514764651 20200831031619
+27.5.242.37 26 91 105383326 20200831014545
+223.227.22.47 26 175 778247726 20200829093840
+106.193.79.228 23 135 500041945 20200828180100
+223.186.193.155 22 130 245434448 20200830223017
+18.217.195.32 21 49 517247 20200831235528
+106.76.1.143 21 83 73076265 20200829102047
+49.206.124.96 18 107 132651358 20200825094615
+171.61.254.144 17 80 75824600 20200831214128
+66.249.82.181 16 71 40461371 20200831074650
+117.230.132.134 15 51 70669943 20200828092205
+66.249.82.179 15 79 122665079 20200831074647
+106.193.68.65 13 84 175476619 20200826063625
+103.252.25.245 13 76 136766925 20200825202804
+223.186.5.115 13 103 692308882 20200831053435
+185.172.148.96 13 73 105177347 20200831073138
+157.45.12.25 12 74 112246769 20200825102705
+171.61.226.52 7 44 101304489 20200829202253
+27.59.49.186 2 8 353170 20200831054137
+84.17.42.9 1 2 103063 20200825164945
+51.158.170.231 1 1 6608 20200827115442
+223.186.127.54 7 40 84658556 20200825072907
+159.65.210.36 1 2 103063 20200825164945
+64.233.172.246 4 17 34922006 20200831084853
+72.13.62.27 3 3 15662 20200825112104
+183.83.153.113 8 52 101745911 20200826092110
+162.254.206.227 6 38 68895567 20200831074724
+52.29.177.64 0 3 32731482 
+89.22.101.69 1 1 6608 20200828101017
+46.248.187.100 6 40 85214031 20200831074750
+66.212.22.2 6 36 52530451 20200831074724
+162.254.206.229 6 39 85001075 20200831074723
+49.44.66.7 6 31 3293916 20200826092042
+27.59.17.88 0 7 98065874 
+37.120.203.76 1 2 103063 20200825224931
+138.197.143.26 1 1 0 20200823234748
+204.187.14.75 7 38 68406842 20200828075023
+103.252.25.18 9 39 101297568 20200831063215
+65.154.226.100 7 42 68659867 20200828045325
+148.66.137.26 9 9 0 20200821204459
+46.248.187.101 6 39 84951950 20200831074750
+223.186.92.35 6 38 68817474 20200830085809
+208.80.194.41 1 1 42269 20200827125004
+106.206.23.10 7 48 236209568 20200830091858
+223.237.190.99 2 4 4974 20200830013501
+223.186.37.85 8 84 151494955 20200829024353
+13.52.97.234 6 36 52296039 20200828074957
+51.75.141.254 1 2 103063 20200825224930
+34.220.213.54 1 1 10473 20200809010623
+106.76.12.213 5 17 2918388 20200829232124
+223.186.14.43 7 55 235012046 20200830092327
+74.125.208.23 4 15 33151750 20200831084835
+159.65.47.88 6 37 68629941 20200824073718
+106.216.165.213 8 57 200418807 20200830183329
+115.97.51.195 3 9 65652903 20200831095455
+157.49.158.108 5 43 146936977 20200826091345
+106.193.225.70 6 37 52500962 20200831034004
+64.233.172.250 1 2 69735 20200831030829
+184.73.90.224 1 1 10883 20200818232530
+223.181.209.238 6 37 68814926 20200831180733
+87.115.231.210 2 2 84538 20200825224930
+184.107.126.165 6 40 83298353 20200831074725
+82.13.54.182 1 1 42269 20200825224755
+223.186.5.109 2 21 85842062 20200831010855
+66.249.93.53 1 7 33252944 20200831074722
+192.71.42.108 1 1 7892 20200829055307
+147.147.220.91 1 2 103063 20200825164953
+219.143.171.36 3 38 757677 20200828061443
+223.186.37.117 9 16 30388214 20200828092219
+66.249.93.55 3 15 794399 20200831074726
+103.252.25.40 7 45 107490124 20200829103707
+223.186.37.95 7 49 158269608 20200828204927
+66.102.9.89 1 2 16351345 20200825075001
+157.45.76.200 1 14 323776 20200829093556
+223.228.23.226 8 36 101811904 20200831083124
+74.125.208.21 2 13 51193544 20200831084845
+65.154.226.220 7 42 68725403 20200828022238
+81.92.207.80 1 2 103063 20200825224930
+138.246.253.15 5 5 0 20200829031816
+66.102.9.83 4 31 117191621 20200831084826
+204.187.14.72 7 38 68856473 20200831074838
+223.186.39.37 12 69 186540739 20200827105844
+195.12.50.155 6 39 84968271 20200831074752
+195.154.62.232 1 1 47123 20200829043754
+34.72.81.208 1 1 10882 20200814094627
+65.154.226.109 6 36 52049002 20200828021551
+184.107.126.166 6 39 84886378 20200831074724
+74.125.208.19 4 16 49961107 20200831084857
+159.89.166.235 12 71 88839492 20200831074702
+66.102.9.79 7 29 35676417 20200831084831
+66.249.82.183 11 60 53702370 20200831074647
+223.186.49.227 0 6 67304560 
+18.237.149.208 1 1 6608 20200826144029
+159.203.24.107 1 1 0 20200823234746
+18.144.71.247 6 37 68662378 20200828074939
+181.41.202.194 1 1 6608 20200826122525
+49.206.127.70 7 25 68590071 20200827004856
+51.15.191.81 2 2 84540 20200829033444
+64.233.172.244 2 15 66015409 20200831084858
+195.12.50.156 6 39 84935539 20200831074750
+49.205.78.36 6 42 68593429 20200829085349
+38.122.112.147 1 1 6608 20200826215706
+71.114.67.60 1 1 0 20200828074932
+106.76.15.79 0 2 12741 
+44.234.72.129 0 1 15164 
+212.102.35.102 1 2 103063 20200825164953
+66.102.9.81 6 24 99151148 20200831084814
+64.233.172.57 1 2 67402 20200828055742
+49.207.133.37 2 31 75828522 20200827092958
+106.216.160.205 6 35 51307440 20200831081707
+199.244.88.132 1 1 6608 20200825143019
+64.233.172.248 1 2 283257 20200825085136
+223.186.37.77 3 13 97909595 20200829031024
+101.132.103.113 1 7 337993 20200831074732
+223.186.37.97 1 17 51765024 20200829080830
+64.233.172.242 3 11 33360178 20200831084841
+223.186.39.43 7 41 85139625 20200827221415
+68.183.241.134 2 3 145332 20200825224930
+46.182.106.190 1 1 42269 20200825224757
+3.81.245.94 6 6 247766 20200830034827
+65.155.30.101 6 36 52311146 20200828021859
+66.249.93.51 3 13 2164212 20200831074722
+106.14.156.213 2 31 52020666 20200831075022
+54.193.109.166 6 37 68662378 20200828074939
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 18
+20200807 2 2 0 2
+20200809 3 4 25637 2
+20200813 2 2 0 2
+20200814 2 2 10882 2
+20200815 1 1 0 1
+20200818 3 3 10883 3
+20200820 1 1 0 1
+20200821 2 2 0 2
+20200822 1 1 37507 1
+20200823 2 2 0 2
+20200824 7 33 134006698 2
+20200825 138 556 2481972014 32
+20200826 96 429 1911500338 13
+20200827 88 388 1822153691 15
+20200828 227 951 4628665551 30
+20200829 370 1266 8150148435 35
+20200830 123 448 3160510386 21
+20200831 1163 4075 19530383413 60
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+2mn-5mn 14
+30s-2mn 21
+0s-30s 133
+15mn-30mn 14
+5mn-15mn 12
+30mn-1h 13
+1h+ 19
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 24
+/ 720 6737282 189 84
+/assets/fonts/poppins-regular-webfont.ttf 216 4726512 3 6
+/assets/fonts/poppins-semibold-webfont.ttf 210 4784850 2 11
+/assets/fonts/cavet-webfont.ttf 210 8979180 2 2
+/assets/fonts/poppins-medium-webfont.ttf 210 4619580 5 9
+/assets/fonts/icofont.woff2 198 105082094 1 30
+/registration.php 133 20739 2 24
+/uploadHandler.php 95 10272 1 2
+/77f8e84c-9632-44d0-a3e6-164887e7a11ed.php 51 112776 4 4
+/razor-php/charge.php 43 51952 1 3
+/razor-php/index.php 38 16108 1 20
+/terms-conditions.html 28 70448 4 4
+/contact.html 27 65946 1 7
+/dashboard.php 13 24758 0 2
+/wp-cron.php 9 0 8 8
+//contact.html 7 17126 0 7
+/assets/fonts/poppins-semibold-webfont.woff 4 91828 1 0
+/assets/fonts/poppins-medium-webfont.woff 4 88632 0 0
+/assets/fonts/cavet-webfont.woff 4 169532 0 0
+/assets/fonts/poppins-regular-webfont.woff 4 88132 0 0
+/assets/fonts/icofont.woff 3 1006958 0 1
+/migration31082020.php 2 418 1 1
+/assets/fonts/poppins-semibold-webfont.woff2 1 17119 0 1
+/assets/fonts/poppins-regular-webfont.woff2 1 16383 0 0
+END_SIDER

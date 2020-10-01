@@ -1,0 +1,98 @@
+Return-Path: <bounce-md_30815334.5d11dca1.v1-5ae90e0199aa4e7cbc386823d28aaa13@mandrillapp.com>
+Delivered-To: info@successassociates.in
+Received: from sg3plcpnl0078.prod.sin3.secureserver.net
+	by sg3plcpnl0078.prod.sin3.secureserver.net with LMTP
+	id SIO7CtTcEV3E0QsAUghlVg
+	(envelope-from <bounce-md_30815334.5d11dca1.v1-5ae90e0199aa4e7cbc386823d28aaa13@mandrillapp.com>)
+	for <info@successassociates.in>; Tue, 25 Jun 2019 01:35:32 -0700
+Return-path: <bounce-md_30815334.5d11dca1.v1-5ae90e0199aa4e7cbc386823d28aaa13@mandrillapp.com>
+Envelope-to: info@successassociates.in
+Delivery-date: Tue, 25 Jun 2019 01:35:32 -0700
+Received: from mail186-20.suw21.mandrillapp.com ([198.2.186.20]:4280)
+	by sg3plcpnl0078.prod.sin3.secureserver.net with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.92)
+	(envelope-from <bounce-md_30815334.5d11dca1.v1-5ae90e0199aa4e7cbc386823d28aaa13@mandrillapp.com>)
+	id 1hfgvE-003VZK-IQ
+	for info@successassociates.in; Tue, 25 Jun 2019 01:35:32 -0700
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; s=mandrill; d=mail186-20.suw21.mandrillapp.com;
+ h=From:Sender:Subject:To:Message-Id:Date:MIME-Version:Content-Type:Content-Transfer-Encoding; i=apps-noreply@mail186-20.suw21.mandrillapp.com;
+ bh=BxcHMKSF9TUCpN7fRAajrmq1Vn73QxuaeCu1jNeLeRw=;
+ b=aGlxOUJH7FS/u8NxeyQjn0LmI31o2BVi4vGfMWMvgmXmUvU4RALOgb3QwBfWJ1HUeSGS+td/hWgq
+   yWv1UxuI3BJ5yLqSix4cYSYRGSBQLI20nQqPJofUevK4xGXXUeypFeWW/auvB97T4B1z3xDpMfok
+   f0HjBdgX7PCmNTSyqhc=
+Received: from pmta02.mandrill.prod.suw01.rsglab.com (127.0.0.1) by mail186-20.suw21.mandrillapp.com id h27eco174bkj for <info@successassociates.in>; Tue, 25 Jun 2019 08:34:41 +0000 (envelope-from <bounce-md_30815334.5d11dca1.v1-5ae90e0199aa4e7cbc386823d28aaa13@mandrillapp.com>)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=mandrillapp.com; 
+ i=@mandrillapp.com; q=dns/txt; s=mandrill; t=1561451681; h=From : 
+ Sender : Subject : To : Message-Id : Date : MIME-Version : Content-Type 
+ : Content-Transfer-Encoding : From : Subject : Date : X-Mandrill-User : 
+ List-Unsubscribe; bh=BxcHMKSF9TUCpN7fRAajrmq1Vn73QxuaeCu1jNeLeRw=; 
+ b=eKzAE2U3NCvAcvbVjZcCLbE5C3rwL5GAzkffSG8rTPX4d4ZERNA+l4e04gn/nfWaeakTR+
+ Y3EP8fhx0Ypq0zlX5/J3lmnSESL4jEUDmiFmK/2rmq1Pn6AnoGztbCtjsyUZL8/A8/FQEfKS
+ 0Fu5AgGaSpKZIHPjh4/siq7RzEgag=
+From: MoneyTap <apps-noreply@moneytap.com>
+Sender: MoneyTap <apps-noreply@mail186-20.suw21.mandrillapp.com>
+Subject: Important: Verify your work email address
+Received: from [13.233.76.187] by mandrillapp.com id 5ae90e0199aa4e7cbc386823d28aaa13; Tue, 25 Jun 2019 08:34:41 +0000
+To: <info@successassociates.in>
+X-Report-Abuse: Please forward a copy of this message, including all headers, to abuse@mandrill.com
+X-Report-Abuse: You can also report abuse here: http://mandrillapp.com/contact/abuse?id=30815334.5ae90e0199aa4e7cbc386823d28aaa13
+X-Mandrill-User: md_30815334
+Message-Id: <30815334.20190625083441.5d11dca1326d81.23655947@mail186-20.suw21.mandrillapp.com>
+Date: Tue, 25 Jun 2019 08:34:41 +0000
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 7bit
+X-Spam-Status: No, score=3.2
+X-Spam-Score: 32
+X-Spam-Bar: +++
+X-Ham-Report: Spam detection software, running on the system "sg3plcpnl0078.prod.sin3.secureserver.net",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  Dear JOSH Pallikkell JAMES, Thank you for verifying your email.
+    Regards MoneyTap Team 
+ 
+ Content analysis details:   (3.2 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was
+                             blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: mandrillapp.com]
+  1.0 SURBL_BLOCKED          ADMINISTRATOR NOTICE: The query to SURBL was
+                             blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: mandrillapp.com]
+ -0.0 SPF_HELO_PASS          SPF: HELO matches SPF record
+  0.2 HEADER_FROM_DIFFERENT_DOMAINS From and EnvelopeFrom 2nd level
+                             mail domains are different
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  1.1 MIME_HTML_ONLY         BODY: Message only has text/html MIME parts
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  0.3 HTML_IMAGE_ONLY_04     BODY: HTML: images with 0-400 bytes of words
+ -0.1 DKIM_VALID_EF          Message has a valid DKIM or DK signature from
+                             envelope-from domain
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+  0.6 HTML_MIME_NO_HTML_TAG  HTML-only message, but there is no HTML
+                             tag
+X-Spam-Flag: NO
+
+<p style="margin: 0; font-weight: normal; font-size: 12pt;">
+	Dear JOSH Pallikkell JAMES,
+</p>
+<br />
+<p style="margin: 0; font-size: 12pt;">
+	Thank you for verifying your email.<br />
+	<br />
+	<br />
+	Regards<br />
+	MoneyTap Team
+</p>
+<br /><img src="https://mandrillapp.com/track/open.php?u=30815334&id=5ae90e0199aa4e7cbc386823d28aaa13" height="1" width="1">

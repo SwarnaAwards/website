@@ -1,0 +1,273 @@
+Return-Path: <bounces+4140642-f9c3-info=successassociates.in@email.stashfin.com>
+Delivered-To: info@successassociates.in
+Received: from sg3plcpnl0078.prod.sin3.secureserver.net
+	by sg3plcpnl0078.prod.sin3.secureserver.net with LMTP
+	id SBz5Bk4gl11ZgQEAUghlVg
+	(envelope-from <bounces+4140642-f9c3-info=successassociates.in@email.stashfin.com>)
+	for <info@successassociates.in>; Fri, 04 Oct 2019 03:34:54 -0700
+Return-path: <bounces+4140642-f9c3-info=successassociates.in@email.stashfin.com>
+Envelope-to: info@successassociates.in
+Delivery-date: Fri, 04 Oct 2019 03:34:54 -0700
+Received: from wrqvxvff.outbound-mail.sendgrid.net ([149.72.168.255]:26678)
+	by sg3plcpnl0078.prod.sin3.secureserver.net with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.92)
+	(envelope-from <bounces+4140642-f9c3-info=successassociates.in@email.stashfin.com>)
+	id 1iGKv7-000VFw-NJ
+	for info@successassociates.in; Fri, 04 Oct 2019 03:34:54 -0700
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=stashfin.com;
+	h=from:subject:mime-version:to:content-type:content-transfer-encoding;
+	s=s1; bh=2h4bZCxDKlutf918B4SepxxG5YbWNS5RdxBzdDs6oX4=;
+	b=C2ahVHr7EpcE+HPwHePValp/VvAwmvpOl1lfAxT8yFiEO4u1LgZfEH02weY4MaAugMUL
+	SimzTSFRjjM+IfP/FTeXWrkl4vqbaNVya274OyHgBRoUYyzJHThiwTndTHqifTUZMVW33C
+	34Y/ODG2LjoONi4RJHlAYb1fv2GiB1i1M=
+Received: by filter0175p3mdw1.sendgrid.net with SMTP id filter0175p3mdw1-4841-5D97201B-10
+        2019-10-04 10:34:03.295902489 +0000 UTC m=+58566.080430523
+Received: from lms.stasheasy.com (unknown [35.154.108.222])
+	by ismtpd0006p1maa1.sendgrid.net (SG) with ESMTP id TYG7oPKuSuWPkzh2KfhOVw
+	for <info@successassociates.in>; Fri, 04 Oct 2019 10:34:02.899 +0000 (UTC)
+Date: Fri, 04 Oct 2019 10:34:03 +0000 (UTC)
+From: Stashfin <noreply@stashfin.com>
+Subject: Email Verification | Stashfin
+Message-ID: <9be899eb70d8173cebafc8751ca21387@lms.stasheasy.com>
+X-Mailer: PHPMailer 5.2.16 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+X-SG-EID: 
+ =?us-ascii?Q?9tzFH0raSthhRdnNGa52VuDLZmrK=2FQnqj9TxHzQRVwWr1UJjOf5aWJZe8G0X0D?=
+ =?us-ascii?Q?JKxhxCr3UYstA95nCWFuFbxDg7gKA4pjo2fODE8?=
+ =?us-ascii?Q?YSBWBanzR6jvIElONmAWgDcCUpLgelWhPif4jZx?=
+ =?us-ascii?Q?SapgqR8KEXE4xTL48fTzzkBS+UHxHSPeD6EL9Ui?=
+ =?us-ascii?Q?awPae82wioPIzvzY1kfWlSelxCfo7k1UAzVPSow?=
+ =?us-ascii?Q?UNHtTfd3h7=2FgnZJTG9Qgo6XAPdfgQXX28EIF68?=
+To: info@successassociates.in
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+X-Spam-Status: No, score=-0.1
+X-Spam-Score: 0
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "sg3plcpnl0078.prod.sin3.secureserver.net",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  Email ID Verification Greetings! Dear Customer, 
+ 
+ Content analysis details:   (-0.1 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  0.0 HTML_FONT_LOW_CONTRAST BODY: HTML font color similar or
+                             identical to background
+  0.1 MIME_HTML_ONLY         BODY: Message only has text/html MIME parts
+ -0.1 DKIM_VALID_EF          Message has a valid DKIM or DK signature from
+                             envelope-from domain
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from
+                             author's domain
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+  0.0 SURBL_BLOCKED          ADMINISTRATOR NOTICE: The query to SURBL was
+                             blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: stashfin.com]
+X-Spam-Flag: NO
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <!-- support for unicode characters in document -->
+
+    <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+
+    <!-- [if !mso]><! -->
+    <!-- for desired display on windows phone -->
+
+    <meta content="IE=edge" http-equiv="X-UA-Compatible">
+
+    <!-- <![endif] -->
+
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+    <title></title>
+    <!-- empty title tag as it is improperly displayed as actual content in some email clients -->
+
+
+    <!-- conditional css for outlook to force collapse borders on all tables and prevent any unwanted gaps. -->
+    <!-- [if (gte mso 9)|(IE)]>
+    <style type="text/css">
+        table {border-collapse: collapse;}
+    </style>
+    <![endif] -->
+    <style>
+    .apply{
+        font-weight: bold;
+    text-align: left;
+    max-width: 90%;
+    width: 100%;
+    font-size: 120%;
+    font-family: Verdana,sans-serif;
+    }
+    .fb,.twitter,.insta,.gplus{
+        display: inline-block;
+        width: 5%;
+        padding-top: 1%;
+        padding-right: 2%;
+    }
+    </style>
+</head>
+</html>
+
+<body style="padding: 0;background-color: #FEFEFE;margin: 0 !important;">
+    <center class="wrapper" style="width: 100%;table-layout: fixed;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;background-color: #FEFEFE;">
+        <!-- to center contents of body -->
+
+        <div class="webkit" style="max-width: 700px;margin: 0 auto;">
+            <!-- adding support for earlier versions of webkit powered mails -->
+            <!-- [if (gte mso 9)|(IE)]>
+<table width="600" align="center">
+<tr>
+<td>
+<![endif] -->
+
+            <table class="outer" align="center" style="border-spacing: 0;font-family: sans-serif;color: #333333;background-color: #FEFEFE;height: auto;margin: 0 auto;width: 100%;max-width: 600px;">
+                <tr>
+                    <td style="padding: 0;">
+                        <table class="outer" align="center" style="border-spacing: 0;font-family: sans-serif;color: #333333;background-color: #FEFEFE;height: auto;margin: 0 auto;width: 100%;max-width: 600px;">
+                            <tr>
+                                <td class="full-width-image" style="padding: 0;">
+                                    <div class="container" style="background:url(https://www.stashfin.com/webroot/images/2355.png);
+                                    background-repeat:no-repeat;background-size:100%;text-align: center;color: white;padding-bottom:27%;">
+                                        <!--<img src="https://www.stashfin.com/webroot/images/2355.png" alt="" style="width: 100%;border: 0;max-width: 700px;height: auto;text-align: center;position: relative;">-->
+                    <div style="text-align:right">
+                                        <div class="fb">
+                                            <a href="http://link.stashfin.com/wf/click?upn=o0y4fc2yJZ-2FnqFMXp5dV4grmj9IieizkUXP2ILpFmZkwOGs94O-2BAn5-2Fls2KUD5IVZxDYXaEjJHpkSWbcbNEFdQ-3D-3D_VxlAuX98jGTImtRfy8qSMjxfPST58bUH44FH8gukAso3aoOu-2Fxda0D6vmPAL903zr7pS7hj5m-2BXMrqDQv5Y42D2-2FD-2FTOK7DAbSfP-2FeTgPRr8cpSK6-2FuTtrMACaeCz-2BF1kt-2F1-2F6WCLfpyvCCg1VsLX5LDlG77n44Z0wCRV6RBj9Qq8gMhqvLmCmkUpTzhGxWMHWhRQXe2j13O8hdHxZFVCat71ozzxsSehTxBHh4CQTw-3D" style="color: #ee6a56;text-decoration: underline;">
+                                                <img src="https://www.stashfin.com/webroot/images/fbNewIcon.png" alt="" style="border: 0;max-width: 700px;height: auto;width: 100%;text-align: center;position: relative;">
+                                            </a>
+                                        </div>
+
+                                        <div class="twitter">
+                                            <a href="http://link.stashfin.com/wf/click?upn=o0y4fc2yJZ-2FnqFMXp5dV4p9bIwDfFFmDNoNOn-2B5gcFR-2Bl0QjulEzgmJegakQsiRm_VxlAuX98jGTImtRfy8qSMjxfPST58bUH44FH8gukAso3aoOu-2Fxda0D6vmPAL903zr7pS7hj5m-2BXMrqDQv5Y42KinItyCLnsAfXK5byiiJ8Jf7zkst5o7xwLcUeVRu6UZb3Aa8ougUATvLjG8mBZWkuDQKztttrttvuBIe5W3v8Gg6q97Lwgnl-2Ba1bg9dPtoeEdl0zbWVUijkcP55nC4aGMVkMT-2BgYUsNNDOdpFB-2BTMg-3D" style="color: #ee6a56;text-decoration: underline;">
+                                                <img src="https://www.stashfin.com/webroot/images/tweet.png" alt="" style="border: 0;max-width: 700px;height: auto;width: 100%;text-align: center;position: relative;">
+                                            </a>
+                                        </div>
+
+                                        <div class="insta">
+                                            <a href="http://link.stashfin.com/wf/click?upn=o0y4fc2yJZ-2FnqFMXp5dV4m6OBVLXD8hpifHxkpTQVi-2BQVzsu9GvQvQiYbRPS2sax_VxlAuX98jGTImtRfy8qSMjxfPST58bUH44FH8gukAso3aoOu-2Fxda0D6vmPAL903zr7pS7hj5m-2BXMrqDQv5Y42LwWeoErEcSIC2dykt21GYyEpnqt-2FWXB-2FobcoP1g-2FdqFatw1dC8ROdZh-2BVesWygWURTMAbxZNnuU7V5bSHggHgOmQRjEacHoXTmbelULKfmxRweab9SrCo5tCdHP8o9y6mhs4dPA5A-2B29laC2-2F8hQDs-3D" style="color: #ee6a56;text-decoration: underline;">
+                                                <img src="https://www.stashfin.com/webroot/images/insta.png" alt="" style="border: 0;max-width: 700px;height: auto;width: 100%;text-align: center;position: relative;">
+                                            </a>
+                                        </div>
+
+
+                    </div>
+                    <div style="padding:6%;color:#fff;">
+                                            <div class="now" style="    font-weight: bold;
+                                            max-width: 55%;
+                                            font-family:helvetica,san-serif;
+                                            width: 100%;
+                                            font-size: 140%;
+                                            text-align: center;
+                                            font-weight:bold">Email ID Verification</div>
+                                            <div class="now" style="    font-weight: bold;
+                                            max-width: 55%;
+                                            font-family:helvetica,san-serif;
+                                            width: 100%;
+                                            font-size: 63%;
+
+                                            text-align: center;"></div>
+
+                    </div>
+                                    </div>
+                                </td>
+
+                                </tr><tr>
+                                    <td style="padding: 0;">
+                                        <div class="greetings-div" style="background-color: #FEFEFE;font-size: 65%;padding-left: 9%;padding-right: 9%;font-family: 'helvetica','san-serif';font-style: normal;">
+                                            <p style="font-size:20px;">Greetings!</p>
+                                            <p style="color: #000000;font-size: 15px;font-weight:norm;">Dear Customer, </p>
+                                            <p  style="color: #424242;font-size: 15px">
+                                                Please click this <a href = "http://link.stashfin.com/wf/click?upn=o0y4fc2yJZ-2FnqFMXp5dV4uiFdFk2ZD8UnKgZtZcYJH9lmG4LlGh6IqsTN5C1Hh3Rf5pOA8Zwj83WTjtPx-2FJ5F44EaQYMdR0R9iUfRXCks449FJaIXGufqCUPjSLbw1Ff_VxlAuX98jGTImtRfy8qSMjxfPST58bUH44FH8gukAso3aoOu-2Fxda0D6vmPAL903zr7pS7hj5m-2BXMrqDQv5Y42EOO8vFVbiQgH8kpx9oMM9-2BP4MMlgsPwyYsg3ejoMOPcmH-2BcaX-2F7Ph5Q-2FCjaUKPHrqMFitCIGA4eXZphrkRi-2Bz8zljatojjYYW62sOiI3c1ELI3nvD34mlmWfTcxrv0czBHin6rzyjwRUO6fbtGl6yY-3D">link</a> to verify your email address.</p>
+                                            <br/>
+                                            <br>
+                                            <div  style="color: #424242;font-size: 15px;line-height: 5px">Best Regards,</div><br/><br/>
+                                            <div  style="color: #424242;font-size: 15px;line-height: 5px"> Team StashFin</div><br/>
+                                            <hr style = "border-color:red;max-width:90%;">
+
+                                                 </div>
+                                             </td>
+                                         </tr>
+                                     </table></td></tr>
+         
+         
+
+         <br/>
+                                        </div>
+                                    </td>
+                                </tr>
+                            </table></td></tr>
+
+           <tr>
+            <td class="two-column" style="padding: 0;padding-top: 10px;text-align: center;font-size: 0;">
+                <!-- [if (gte mso 9)|(IE)]>
+                    <table width="100%">
+                    <tr>
+                    <td width="50%" valign="top">
+                    <![endif] -->
+
+                <div class="column" style="width: 100%;max-width: 250px;display: inline-block;vertical-align: top;">
+                    <div class="stash1">
+                        <img src="https://www.stashfin.com/webroot/images/231.png" alt="" style="border: 0;max-width: 90%;height: auto;width: 100%;padding-top: 20px;padding-bottom: 20px;">
+                    </div>
+                </div>
+
+                <!-- [if (gte mso 9)|(IE)]>
+                    </td><td width="50%" valign="top">
+                    <![endif] -->
+
+                <div class="column" style="width: 100%;max-width:250px;display: inline-block;vertical-align: top;">
+                    <div class="stash2">
+                        <img src="https://www.stashfin.com/webroot/images/121.png" alt="" style="border: 0;max-width: 90%;height: auto;width: 100%;padding-top: 20px;padding-bottom: 20px;">
+                    </div>
+                </div>
+
+                <!-- [if (gte mso 9)|(IE)]>
+                    </td>
+                    </tr>
+                    </table>
+                    <![endif] -->
+            </td>
+        </tr>
+
+        <tr>
+            <td style="padding: 0;">
+                <div class="copyright" style="font-size: 60%;text-align: center;font-family: 'helvetica','san-serif';">
+                    This message is from an unmonitored mailbox. Please do not respond.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;© Copyright 2018 | StashFin
+                </div>
+            </td>
+        </tr>
+
+
+<tr>
+            <td style="padding: 0;">
+                <div class="bottom-bar" style="background: url(https://www.stashfin.com/webroot/images/strip.png);background-repeat: no-repeat;background-size: 100%;color: white;">
+<span style="color: #fff;max-width:90%;font-size:70%;text-align: left;vertical-align: top;padding-top:3%;display: inline-block;padding-left:3%;padding-right:1%;font-weight: bold;font-family: 'helvetica','san-serif';">Download The StashFin App!</span>
+                    <div class="bottom-links" style="max-width:40%;text-align: right;width: 100%;display: inline;padding-left: 8%;font-size: 0px;padding-top: 1%;">
+                        <a class="gstore" href="http://link.stashfin.com/wf/click?upn=o0y4fc2yJZ-2FnqFMXp5dV4nR9Hkwtd0aWIHywnGnZhld0DJiIh-2FT4tYh4oi5ju6iiwwGQ53qBoMwyZMY-2B0OGgtFnxqVtfRyNekhdY9o1U01HMx0W2CI-2BU9hX3ZUtTyE7R_VxlAuX98jGTImtRfy8qSMjxfPST58bUH44FH8gukAso3aoOu-2Fxda0D6vmPAL903zr7pS7hj5m-2BXMrqDQv5Y42BfOcOA6J3QrxCE3oXw99TBY0e0zEZ1Mwe13AvCJxDMxK8InOkmPd93R0bRhkRDgXB3efFH5jRq8yFbhAuugfFdDCtp8n6hS-2BkisdzKUYl77uFPf4UcCsBgeoi8ZLg9SL2C0s0BCEFStfzqh6qrsuzM-3D" style="color: #ee6a56;text-decoration: underline;max-width: 40%;display: inline-block;width: 100%;max-width: 24%;padding-top: 5px;">
+                            <img src="https://www.stashfin.com/webroot/images/google.png" alt="" style="border: 0;max-width: 80%;height: auto;padding-bottom:1px;">
+                        </a>
+
+                        <a class="astore" href="http://link.stashfin.com/wf/click?upn=o0y4fc2yJZ-2FnqFMXp5dV4iSDlpEt9R-2BSno3n-2FSS0rIgIQc6OZIBUqwhm7ER4cnidvdMncmDsIauJZpijEP04YKmE4XKiWtDCLVejjdJbOlA-3D_VxlAuX98jGTImtRfy8qSMjxfPST58bUH44FH8gukAso3aoOu-2Fxda0D6vmPAL903zr7pS7hj5m-2BXMrqDQv5Y42GN1Qzn1EgEXZXQKkXGn3indqz6sB7LEi7o7fQoL3suX7q7bD54pesT9m14VYawzuhRNTjXhLOD0bmYtTzBt5YGAN96ciA5F3hXFjfY37K2boKmuZdyLpylo4ETebVErDZVZygwECnezUl6GgmUT2aI-3D" style="color: #ee6a56;text-decoration: underline;max-width: 24%;display: inline-block;width: 100%;">
+                            <img src="https://www.stashfin.com/webroot/images/app_store.png" alt="" style="border: 0;max-width: 80%;height: auto;padding-left:3px;">
+                        </a>
+                    </div>
+                </div>
+            </td>
+        </tr>
+    </table>
+</div>
+</center>
+<img src="http://link.stashfin.com/wf/open?upn=VxlAuX98jGTImtRfy8qSMjxfPST58bUH44FH8gukAso3aoOu-2Fxda0D6vmPAL903zr7pS7hj5m-2BXMrqDQv5Y42NYbAxRYAmXMRLZSmQ4DQLip8xDkxrwTQftkakFnn-2BSXx7rmFugRQyt2kfaztBS1TdU-2BtKzVY9gE9pUlgfMQs1D7RBEAtibxIoCEAoLKEZLqRTVXjK4L5i2890MQt815-2B3yu0zOJ1C5JiOgGwKNM-2FKQ-3D" alt="" width="1" height="1" border="0" style="height:1px !important;width:1px !important;border-width:0 !important;margin-top:0 !important;margin-bottom:0 !important;margin-right:0 !important;margin-left:0 !important;padding-top:0 !important;padding-bottom:0 !important;padding-right:0 !important;padding-left:0 !important;"/></body></html>
+

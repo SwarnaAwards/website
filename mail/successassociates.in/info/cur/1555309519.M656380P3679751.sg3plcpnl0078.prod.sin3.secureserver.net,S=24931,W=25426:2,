@@ -1,0 +1,495 @@
+Return-Path: <bounces+1664773-2ec9-info=successassociates.in@n.aasaanjobs.com>
+Delivered-To: info@successassociates.in
+Received: from sg3plcpnl0078.prod.sin3.secureserver.net
+	by sg3plcpnl0078.prod.sin3.secureserver.net with LMTP id sAbjGs8jtFwHJjgAUghlVg
+	for <info@successassociates.in>; Sun, 14 Apr 2019 23:25:19 -0700
+Return-path: <bounces+1664773-2ec9-info=successassociates.in@n.aasaanjobs.com>
+Envelope-to: info@successassociates.in
+Delivery-date: Sun, 14 Apr 2019 23:25:19 -0700
+Received: from o198216x97.outbound-mail.sendgrid.net ([198.21.6.97]:33723)
+	by sg3plcpnl0078.prod.sin3.secureserver.net with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.91)
+	(envelope-from <bounces+1664773-2ec9-info=successassociates.in@n.aasaanjobs.com>)
+	id 1hFv3L-00FS5o-1l
+	for info@successassociates.in; Sun, 14 Apr 2019 23:25:19 -0700
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; d=aasaanjobs.com; 
+	h=content-transfer-encoding:content-type:from:mime-version:reply-to:to:subject; 
+	s=s1; bh=XlvRblkslC34mpcQ8XlNZ8lndAU=; b=XwH1eE3b6/qoo+tYF6CnQNq
+	a0kYD8Ex6+BIvIwV7bd0Z6KrKj600Fgmq/+ppCKcrE5fyekk7zT83dF0YL/Dfubq
+	D5ObMOG8FcRH+WPr5BA1viKH5uxMQnspUknUYnl+nnTkuMh8EFZvJXIMgzyQy+sp
+	QXf8pWyKC59nlHmdRXrc=
+Received: by filter0067p3mdw1.sendgrid.net with SMTP id filter0067p3mdw1-13270-5CB423A0-16
+        2019-04-15 06:24:32.494953262 +0000 UTC m=+545944.769120948
+Received: from MTY2NDc3Mw (11.36.244.35.bc.googleusercontent.com [35.244.36.11])
+	by ismtpd0005p1maa1.sendgrid.net (SG) with HTTP id nGE2tScUQXWCOrA4lOHs4Q
+	Mon, 15 Apr 2019 06:24:32.088 +0000 (UTC)
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=UTF-8
+Date: Mon, 15 Apr 2019 06:24:32 +0000 (UTC)
+From: "Aasaanjobs" <noreply@aasaanjobs.com>
+Mime-Version: 1.0
+Reply-to: "Aasaanjobs" <support@aasaanjobs.com>
+To: info@successassociates.in
+Message-ID: <nGE2tScUQXWCOrA4lOHs4Q@ismtpd0005p1maa1.sendgrid.net>
+Subject: Introducing Walk-in Interviews!
+X-SG-EID: O/CNMu1VWAhooWuHTIQmNzsJmwtfThVfoKhGvTa+NbjTWtoOP2ORrEN0YG/dNkmttQ9YSoT7otGaaN
+ oP/FXbiG21ygekiclm/tPwF/2YluqXoxcs7g2Qb5bPKNEdST2b8VhWPcuAb7/KUMUlCMYJaKBfarsm
+ 3anOAlm/eNbkNfMLmFkpklWTRP2qvjab25zFdxbPa+GDDyMBCRhz5LXnl6enqiSRLDPj6YwX/WcQgR
+ o=
+X-SG-ID: gnwugAPEk90ONPODfP9NuzK2URMWkwD8L1I/1i9jgPeI2PIVxRthuPVi6J6etAl58z2iPOHwY8T6H5
+ voEEQBiE3tIjUPBYG4jYUUWL1sbn7SSSMCqyY4msqUNgrUXjdO5wWx0yu0VMmYTjaRijFPauWBtt9Y
+ ADTHTxEpH3EztBOQQ5Aq8ZwVdIGp2OcjNcpkpCWzLBX6ZAxyWTPH9eJyVJPf7Pbn5x0I7W7HS+R2pn
+ TD0M5AvH7D1xjifQa6dLnT
+X-Spam-Status: No, score=2.1
+X-Spam-Score: 21
+X-Spam-Bar: ++
+X-Ham-Report: Spam detection software, running on the system "sg3plcpnl0078.prod.sin3.secureserver.net",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  Introducing Direct Walk-in Interviews 3X More Applications
+    [...] 
+ 
+ Content analysis details:   (2.1 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+                             See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: amazonaws.com]
+  0.0 SURBL_BLOCKED          ADMINISTRATOR NOTICE: The query to SURBL was blocked.
+                             See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: amazonaws.com]
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.0 HTML_FONT_LOW_CONTRAST BODY: HTML font color similar or identical to
+                             background
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  1.1 MIME_HTML_ONLY         BODY: Message only has text/html MIME parts
+  1.1 KAM_REALLYHUGEIMGSRC   RAW: Spam with image tags with ridiculously huge
+                              http urls
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from author's
+                             domain
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily valid
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+X-Spam-Flag: NO
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+<head>
+  <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D=
+1">
+  <style type=3D"text/css">
+    @media only screen and (max-width:480px) {
+      .feature-table {
+        width: 100% !important;
+      }
+      .footer-table td {
+        width: 100% !important;
+        display: block;
+      }
+      .visitor-block {
+        margin:32px 0 35px 0;
+      }
+      .did-you-know-section > tbody > tr > td  {
+        width: 100% !important;
+        display: block;
+        margin-bottom: 10px;
+      }
+      .did-you-know-heading-section > p {
+        padding-top: 35px !important;
+      }
+      .did-you-know-last-section {
+        margin-bottom: 0 !important;
+      }
+      .cta-section .post-walking-job{
+        margin: 0 !important;
+      }
+      .hero-text-banner {
+        margin: 20px 30px;
+      }
+      .feature-table {
+        width: 100% !important;
+        margin-top: 10px !important;
+      }
+      .chunk {
+        width: 100% !important;
+        margin-bottom: 20px;
+      }
+      .chunk td span{
+        width: 100% !important;
+      }
+      .left-side {
+        float: left !important;
+        width: 100% !important;
+        display: block !important;
+      }
+      .right-side {
+        float: right !important;
+        width: 100% !important;
+        display: block !important;
+      }
+      .left-side > div{
+        padding-left: 30px !important;
+      }
+
+
+      .right-side > div{
+        padding-right: 30px !important;
+        margin: 0 auto;
+      }
+    }
+  </style>
+</head>
+<body style=3D"background-color:#fff;align-items:center;font-family: 'Helve=
+tica Neue', Helvetica,arialmt, Arial, sans-serif">
+  <div class=3D"container" style=3D"background-color:#fff;display:block;mar=
+gin-left:auto;margin-right:auto;max-width:600px;">
+    <div class=3D"center_content" style=3D"display:block;margin-left:auto;m=
+argin-right:auto;max-width:600px;">
+      <img src=3D"https://s3-ap-southeast-1.amazonaws.com/aasaan-notificati=
+ons/emailer-images/partner-feature-mail/logotype.png" style=3D"display:bloc=
+k;height:20px;margin:50px 0 32px 0;margin-left:auto;margin-right:auto;objec=
+t-fit:contain;width:132px" id=3D"logotype" alt=3D"logotype.png">
+    </div>
+    <div class=3D"white_bg" style=3D"background-color:#fff;padding-top:16px=
+;padding-bottom:48px;border:1px solid #eee;">
+      <div style=3D"text-align:center;">
+
+      </div>
+      <div class=3D"cta-section" style=3D"text-align:center;margin: 0 30px">
+        <p style=3D"font-size: 20px;font-weight: normal;line-height: 1.6;co=
+lor: #3d4351;margin-bottom: 5px;">Introducing</p>
+        <p style=3D"font-size: 40px;font-weight: bold;line-height: 1.2;text=
+-align: center;color: #3d4351;margin: 0;">
+          Direct Walk-in Interviews
+        </p>
+        <table width=3D"100%" border=3D"0" align=3D"center" cellpadding=3D"=
+0" cellspacing=3D"0" class=3D"feature-table" style=3D"padding:10px 0px;marg=
+in-top: 40px;">
+          <tr>
+            <td style=3D"padding-top: 15px; padding-bottom: 15px;">
+              <table align=3D"left" border=3D"0" cellpadding=3D"0" cellspac=
+ing=3D"0" style=3D"width: 33.33% " class=3D"chunk">
+                <tr>
+                  <td align=3D"center">
+                    <img src=3D"https://s3-ap-southeast-1.amazonaws.com/sta=
+tic.aasaanjobs.com/static/images/more-applications-img.png" style=3D"displa=
+y: block" alt=3D""/>
+                    <p style=3D"display:block;margin:15px 10px 10px 10px;fo=
+nt-size:14px;font-weight:normal;font-style:normal;line-height:20px;letter-s=
+pacing:normal;text-align:center;color:#3d4351;">
+                      3X More
+                      <span style=3D"font-weight: bold;display: block;"> Ap=
+plications </span>
+                    </p>
+                  </td>
+                </tr>
+              </table>
+              <table align=3D"left" border=3D"0" cellpadding=3D"0" cellspac=
+ing=3D"0" style=3D"width: 33.33%" class=3D"chunk">
+                <tr>
+                  <td align=3D"center">
+                    <img src=3D"https://s3-ap-southeast-1.amazonaws.com/sta=
+tic.aasaanjobs.com/static/images/higher-interview-turn-up-img.png" style=3D=
+"display: block" alt=3D""/>
+                    <p style=3D"display:block;margin:15px 10px 10px 10px;fo=
+nt-size:14px;font-weight:normal;font-style:normal;line-height:20px;letter-s=
+pacing:normal;text-align:center;color:#3d4351;">
+                      Higher
+                      <span style=3D"font-weight: bold;display: block;"> In=
+terview Turn-up</span>
+                    </p>
+                  </td>
+                </tr>
+              </table>
+              <table align=3D"left" border=3D"0" cellpadding=3D"0" cellspac=
+ing=3D"0" style=3D"width: 33.33%" class=3D"chunk">
+                <tr>
+                  <td align=3D"center">
+                    <img src=3D"https://s3-ap-southeast-1.amazonaws.com/sta=
+tic.aasaanjobs.com/static/images/faster-job-fulfillment-img.png" style=3D"d=
+isplay: block" alt=3D""/>
+                    <p style=3D"display:block;margin:15px 10px 10px 10px;fo=
+nt-size:14px;font-weight:normal;font-style:normal;line-height:20px;letter-s=
+pacing:normal;text-align:center;color:#3d4351;">
+                      Faster
+                      <span style=3D"font-weight: bold;display: block;">Job=
+ Fulfillment </span>
+                    </p>
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+        </table>
+        <div class=3D"cta-section" style=3D"text-align:center;width: 270px;=
+margin: 0 auto">
+          <a href=3D"https://u1664773.ct.sendgrid.net/wf/click?upn=3Dsjt-2B=
+7uNFuT-2FbZAMb1Lpd8BMA38Ezvc95GIEcQ-2Fa0ZOi2-2BpKQkQnagTRVhf0tfckYsEkdOysUU=
+hfWdoY6QTykWjJ-2B85mBtjFb6yPFkZhlzH6wZWtk7n0RXNaG1GNkRAxagz7S-2F9Dtws8-2Fcn=
+eE4IbMPchGre5pO42UtdCscb9w-2FxNyE4E9NqTnC9-2FjkgFl0hVp43EwZR3nUEMBTJO6Omz76=
+Fnb7joKhJ2mPp9E31ADaXBNXczhYRnuO1q0o-2FzRgkEjDibtQmmof0tFnGZXwEjM7wATTZhnaM=
+GdICRLDpR2dZ5UxW6cYlP8Uf8LXmT96nKYAK-2FaXN7mHH7xQlAg5zX8Gw-3D-3D_VxlAuX98jG=
+TImtRfy8qSMjxfPST58bUH44FH8gukAsqebeueT7cMeQeEArXYtrNuiacdeFfFgIn5SFQs-2FAF=
+oXvuPTxgcm73quK2z-2BS1BNviMP2legbKuvKgwRrOOjTKJqPUaAZkpnNjaoAufiRLfqn7iGf2-=
+2Bu-2BJDiQ7Zovl6zdRU7WCauV-2BWdfaYYx1hnrn3RrqSSYROUkdh-2Fmh66r0x4Iu4SUQsXFz=
+6-2FeSbPLMsotxm1aTtnlxVMEjQShu8AUNqO8-2BsnerhxYZbX1E6TQPNf6lkYD0PG65OXJLyRt=
+gCV6jmFZE9KGFMFKkulBuzYNrF7FK6m-2Fa8JD-2BTUxmc8vQ040AeQjxyyXeyDDKteZUp3yyWt=
+6zIZ99QcZa-2BdzTfew9g2kGoGSqHID40Vz043bb3U6VDRbvxcKd5jRwXj9xTwK4sPn3MHKh2Ey=
+klt5fpDrtUEY8yDjC1PvoY2Gmu5lWvagLvJ84YnxJQ-2FHh98LRGq1w-3D" class=3D"blue_b=
+utton post-walking-job" style=3D"background-color:#1f91cc;border-radius:2px=
+;color:#fff;font-size:16px;font-style:normal;font-weight:bold;line-height:1=
+.5;margin:25px auto 37px;width:100%; padding:10px 0;text-align:center;displ=
+ay:inline-block;text-decoration:none;font-family: 'Helvetica Neue', Helveti=
+ca,arialmt, Arial, sans-serif">Post a Walk-in Job</a>
+        </div>
+      </div>
+    </div>
+    <!-- how it works section starts here -->
+    <div style=3D"border-left:1px solid #eee;border-right:1px solid #eee;bo=
+rder-bottom:1px solid #eee;padding:10px 0;background-color: #f7f8fa;padding=
+: 32px 0 30px 0">
+      <p style=3D"text-align: center;font-size: 28px;font-weight: bold;font=
+-style: normal;line-height: 1.29;text-align: center;color: #3d4351;margin: =
+0 0 40px 0;">
+        How it Works?
+      </p>
+
+      <div>
+        <!-- first step starts here -->
+        <div style=3D"clear: both;width: 100%;margin-bottom: 55px;overflow:=
+ auto;">
+          <div style=3D"width:50%;float:right;" class=3D"left-side">
+            <div style=3D"padding-left: 15px;padding-right: 30px;">
+              <span style=3D"font-size: 40px;font-weight: bold;font-style: =
+normal;line-height: 1;color: #ed9a00;">1</span>
+              <p style=3D"font-size: 16px;font-weight: bold;line-height: 1.=
+5;color: #3d4351;margin: 5px 0 5px 0;">At step 3 of Job posting form, selec=
+t "Walk-in Interview" option</p>
+              <p style=3D"font-size: 12px;font-weight: normal;line-height: =
+1.67;color: #607286;margin: 6px 0;"> Provide the Interview slots, and the  =
+Interview location with the contact details  </p>
+            </div>
+          </div>
+          <div style=3D"float: left;width: 50%;" class=3D"right-side">
+            <div>
+              <img src=3D"https://s3-ap-southeast-1.amazonaws.com/static.aa=
+saanjobs.com/static/images/walk-in-interview-step-one.png" alt=3D"step one =
+image" style=3D"width:100%">
+          </div>
+          </div>
+        </div>
+        <!-- first step ends hrere -->
+        <!-- second step starts here -->
+        <div style=3D"clear: both;width: 100%;margin-bottom: 55px;overflow:=
+ auto;">
+          <div style=3D"float:left;width: 50%;" class=3D"left-side">
+            <div style=3D"padding-left: 30px">
+              <span style=3D"font-size: 40px;font-weight: bold;font-style: =
+normal;line-height: 1;color: #ed9a00;">2</span>
+              <p style=3D"font-size: 16px;font-weight: bold;line-height: 1.=
+5;color: #3d4351;margin: 5px 20px 5px 0;">Candidates can book from provided=
+ interview slots</p>
+              <p style=3D"font-size: 12px;font-weight: normal;line-height: =
+1.67;color: #607286;margin: 6px 0;"> Walk-in Jobs allow candidates to direc=
+tly schedule interview from our mobile app
+              </p>
+            </div>
+          </div>
+          <div style=3D"float:right;width: 50%;" class=3D"right-side">
+            <div>
+              <img src=3D"https://s3-ap-southeast-1.amazonaws.com/static.aa=
+saanjobs.com/static/images/walk-in-interview-step-two.png" alt=3D"step two =
+image" style=3D"width:100%">
+            </div>
+          </div>
+        </div>
+        <!-- second step ends here -->
+
+        <!-- third step starts here -->
+        <div style=3D"clear: both;width: 100%;margin-bottom: 25px;overflow:=
+ auto;">
+          <div style=3D"float:right;width: 50%;" class=3D"left-side">
+            <div style=3D"padding-left: 15px;padding-right: 30px;">
+              <span style=3D"font-size: 40px;font-weight: bold;font-style: =
+normal;line-height: 1;color: #ed9a00;">3</span>
+              <p style=3D"font-size: 16px;font-weight: bold;line-height: 1.=
+5;color: #3d4351;margin: 5px 20px 5px 0;">Candidates Attend Interview on sc=
+heduled time</p>
+              <p style=3D"font-size: 12px;font-weight: normal;line-height: =
+1.67;color: #607286;margin: 6px 0;"> Select the best candidates, extend the=
+ offer & candidates join your organisation</p>
+            </div>
+          </div>
+          <div style=3D"float:left;width: 50%;" class=3D"right-side">
+            <div style=3D"padding-left: 30px">
+              <img src=3D"https://s3-ap-southeast-1.amazonaws.com/static.aa=
+saanjobs.com/static/images/walk-in-interview-step-three.png" alt=3D"step th=
+ree image" style=3D"width:100%">
+            </div>
+          </div>
+
+
+        </div>
+        <!-- third step ends here -->
+      </div>
+      <div style=3D"content: '.';visibility: hidden;display: block;height: =
+0;clear: both;"></div>
+    </div>
+
+    <!-- how it works section ends here -->
+    <!-- waiting for section starts here  -->
+    <div style=3D"padding: 70px 30px;border-left:1px solid #eee;border-righ=
+t:1px solid #eee;clear: both; ">
+      <p style=3D" font-size: 28px;font-weight: bold;font-style: normal;lin=
+e-height: 1.29;text-align: center;color: #3d4351;margin: 0 0 8px 0;">
+        So what are you waiting for?
+      </p>
+      <p style=3D" font-size: 12px;font-weight: normal;font-style: normal;l=
+ine-height: 1.67;text-align: center;color: #607286;margin: 0 0 8px 0;">
+        Time to make your Hiring more efficient!
+      </p>
+      <div class=3D"cta-section" style=3D"text-align:center;width: 270px;ma=
+rgin: 0 auto">
+        <a href=3D"https://u1664773.ct.sendgrid.net/wf/click?upn=3Dsjt-2B7u=
+NFuT-2FbZAMb1Lpd8BMA38Ezvc95GIEcQ-2Fa0ZOi2-2BpKQkQnagTRVhf0tfckYsEkdOysUUhf=
+WdoY6QTykWjJ-2B85mBtjFb6yPFkZhlzH6wZWtk7n0RXNaG1GNkRAxagz7S-2F9Dtws8-2FcneE=
+4IbMPchGre5pO42UtdCscb9w-2FxNyE4E9NqTnC9-2FjkgFl0hVp43EwZR3nUEMBTJO6Omz76Fn=
+b7joKhJ2mPp9E31ADaXBNXczhYRnuO1q0o-2FzRgkEjDibtQmmof0tFnGZXwEjM7wATTZhnaMGd=
+ICRLDpR2dZ5UxW6cYlP8Uf8LXmT96nKYAK-2FaXN7mHH7xQlAg5zX8Gw-3D-3D_VxlAuX98jGTI=
+mtRfy8qSMjxfPST58bUH44FH8gukAsqebeueT7cMeQeEArXYtrNuiacdeFfFgIn5SFQs-2FAFoX=
+vuPTxgcm73quK2z-2BS1BNviMP2legbKuvKgwRrOOjTKJqPUaAZkpnNjaoAufiRLfqn7iGf2-2B=
+u-2BJDiQ7Zovl6zdRU7WCauV-2BWdfaYYx1hnrn3RrqSSYROUkdh-2Fmh66r0x4Iu4SUQsXFz6-=
+2FeSbPLMsotx8XwUOP9aulXZdqQgYjF3GqQhfp4ImQ0IPEdnlYrH7Xsqw7zR3M7PzWkttNMgtYK=
+Ztfodxd3S3r8D06mvKO-2FsvXCsuxYfCHVyH8W-2Bxn5gn4wruYvWuxbUKIG-2F-2F2bCTa6g1j=
+hILqvMXh17EG84-2F3p-2B-2Fd3JkHgXpbCd9IqXUqpLEob4XQ9spGSZv-2FNuMusgkMmI3vDJi=
+d2Tdp7jQYxdogUITS2MzQ36nNQC0bVFIaqESd6D-2Fftd5llLhFLKNj5ylPcQ-3D" class=3D"=
+blue_button" style=3D"background-color:#1f91cc;border-radius:2px;color:#fff=
+;font-size:16px;font-style:normal;font-weight:bold;line-height:1.5;margin:2=
+5px auto 15px;width:100%; padding:10px 0;text-align:center;display:inline-b=
+lock;text-decoration:none;font-family: 'Helvetica Neue', Helvetica,arialmt,=
+ Arial, sans-serif">Post a Walk-in Job</a>
+        <a href=3D"https://u1664773.ct.sendgrid.net/wf/click?upn=3Dsjt-2B7u=
+NFuT-2FbZAMb1Lpd8BMA38Ezvc95GIEcQ-2Fa0ZOi2-2BpKQkQnagTRVhf0tfckY-2B3qvB5Wmv=
+erWvweXDYFMHFg8v3V2yBZ2Ub22w9QSqn3ykLZ8OzojpDd09W459NneHbmWr1fD-2BUy-2BVKn6=
+Xp4MVkoCSGeGw3-2FPOzFbOF57ITjd6wCDKtvxQliEUKfTQFFl62c8Mx3atCv1IBYZIonJOt4d7=
+JQHGCnkPC4KdJQpqOWuE7raoiYOR8CG35J-2FJVN7ACboeE5Nll2hb80-2B4avrpn1YRPHRJdW4=
+s8E8Iz9E7gcQ69oP5M-2BltRNKiOjbzO-2FX0JIg4M-2FHs-2B-2Bf7QKzp7EGAg-3D-3D_VxlA=
+uX98jGTImtRfy8qSMjxfPST58bUH44FH8gukAsqebeueT7cMeQeEArXYtrNuiacdeFfFgIn5SFQ=
+s-2FAFoXvuPTxgcm73quK2z-2BS1BNviMP2legbKuvKgwRrOOjTKJqPUaAZkpnNjaoAufiRLfqn=
+7iGf2-2Bu-2BJDiQ7Zovl6zdRU7WCauV-2BWdfaYYx1hnrn3RrqSSYROUkdh-2Fmh66r0x4Iu4S=
+UQsXFz6-2FeSbPLMsotyEmIU-2FJQN80HobC4ZbAW1nnc2n31n2iNQvwUWLC5RGG2qpaAmsCMbR=
+-2B4g6JhIclZRa94te6iDCcdQx4rUHWsUEnQT2tmuLOTVx0BUsgTHMkg0zNquB4-2F5lWisuPAA=
+d8JLdCKoFODvNUJ73Q4-2B0uL77HqbFHhvGQZVXLgGEBIsLw-2FzN-2FrUcc3gdEll1-2BhGiCo=
+wOF7Q-2FCouYm1N1EJWocKiVTzcp2LusezweeVi1T0uBEUxedeSLOVzggbs2herkAKs-3D" cla=
+ss=3D"blue_button" style=3D"background-color:#ed9a00;border-radius:2px;colo=
+r:#fff;font-size:16px;font-style:normal;font-weight:bold;line-height:1.5;ma=
+rgin:0 auto 15px;width:100%; padding:10px 0;text-align:center;display:inlin=
+e-block;text-decoration:none;font-family: 'Helvetica Neue', Helvetica,arial=
+mt, Arial, sans-serif">Add walk-in slots to a Job</a>
+      </div>
+    </div>
+    <!-- waiting section ends here -->
+    <!-- footer starts here -->
+    <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"footer=
+-table" style=3D"background-color: #3d4351; color: #fff; padding: 20px 20px=
+ 20px 32px; width: 100%;">
+      <tbody>
+        <tr>
+          <td align=3D"left" style=3D"width: 50%;">
+            <span style=3D"display: block; color:#fff;font-family: &quot;Ar=
+ialMT&quot;, Arial, sans-serif;font-size:14px;margin-bottom:7px;">Regards</=
+span><span style=3D"color: #fff;font-family: &quot;ArialMT&quot;, Arial, sa=
+ns-serif;font-size:14px;font-weight:600;">Team Aasaanjobs</span>
+            <p style=3D"width: 180px;color: #fff;font-size: 12px;font-weigh=
+t: normal;font-style: normal;line-height:22px; opacity: 0.75; ">Aasaanjobs =
+Pvt. Ltd.
+              <br>
+              3rd Floor, B-Wing, Krislon House
+              <br>
+              Mumbai, 400072
+            </p>
+          </td>
+          <td align=3D"left" style=3D"width: 50%;">
+            <div class=3D"visitor-block">
+              <span style=3D"display: block; color:#fff;font-family: &quot;=
+ArialMT&quot;, Arial, sans-serif;font-size:14px;margin-bottom:7px;">Visit u=
+s at:</span><a href=3D"www.aasaanjobs.com" target=3D"_blank" style=3D"color=
+: #fff;text-decoration:none;font-size:14px;font-weight:600;">www.aasaanjobs=
+.com</a>
+            </div>
+            <ul style=3D"color: #fff; font-size: 12px; font-weight: bold; l=
+ist-style: none; margin-top: 60px; padding: 0;" class=3D"footer-social">
+              <li style=3D"display: inline-block; margin-left: 0 !important=
+; padding-right: 10px;"><a href=3D"https://u1664773.ct.sendgrid.net/wf/clic=
+k?upn=3Dsjt-2B7uNFuT-2FbZAMb1Lpd8Lz0ALlQLhQIG72udYKu9zPOBhgczJ84-2BEJgBQ1-2=
+BAm8C_VxlAuX98jGTImtRfy8qSMjxfPST58bUH44FH8gukAsqebeueT7cMeQeEArXYtrNuiacde=
+FfFgIn5SFQs-2FAFoXvuPTxgcm73quK2z-2BS1BNviMP2legbKuvKgwRrOOjTKJqPUaAZkpnNja=
+oAufiRLfqn7iGf2-2Bu-2BJDiQ7Zovl6zdRU7WCauV-2BWdfaYYx1hnrn3RrqSSYROUkdh-2Fmh=
+66r0x4Iu4SUQsXFz6-2FeSbPLMsotzIPC4ZPlHZZ7UZc7RXSPFUDSu2bOu4WVU4DsV7YhXipZgr=
+EswccRKpPL1iMG7yEb3R5WJZ2aLb84gjb9lA3UHa-2FWE9PAp-2Ffnq-2B1HQ8YuPjSauJRwzxm=
+91ycKDYTTY3y8yzhJtFAKz-2BQN-2BWXkybk2I6IFMT46xoqqplOQNu2ldhptBbW4AJ7IX93QrQ=
+ZTjRU8OjBFfJhs5S2sOjGV8xYCNXoGDt3LxFkuF6iVMhujsTjYqjNmwUEXPQTIJLfWUXC48-3D"=
+ target=3D"_blank" style=3D"text-decoration: none;color: #fff;display: inli=
+ne-block;"><img src=3D"https://s3-ap-southeast-1.amazonaws.com/static.aasaa=
+njobs.com/logos/twitter-white.png" alt=3D"Twitter Image" style=3D"margin-ri=
+ght:3px;vertical-align: middle;"><span>Twitter</span></a></li>
+              <li style=3D"display: inline-block; margin-left: 0 !important=
+; padding-right: 10px;"><a href=3D"https://u1664773.ct.sendgrid.net/wf/clic=
+k?upn=3Dsjt-2B7uNFuT-2FbZAMb1Lpd8EfpgmNz7ZY0UcPx3nP7xNht4y5ruB00SuvGyeoboNC=
+zIyV-2FPE3wb9YCNNpDF-2ByKgQ-3D-3D_VxlAuX98jGTImtRfy8qSMjxfPST58bUH44FH8gukA=
+sqebeueT7cMeQeEArXYtrNuiacdeFfFgIn5SFQs-2FAFoXvuPTxgcm73quK2z-2BS1BNviMP2le=
+gbKuvKgwRrOOjTKJqPUaAZkpnNjaoAufiRLfqn7iGf2-2Bu-2BJDiQ7Zovl6zdRU7WCauV-2BWd=
+faYYx1hnrn3RrqSSYROUkdh-2Fmh66r0x4Iu4SUQsXFz6-2FeSbPLMsotx2gNeO7WVdSM2i9SGH=
+He0oUD85sQ7l-2FV3-2FVDp8wma99j94svdUXmV-2FtiT7OxxgrH0JVCtu2X-2B-2FB1lMBRDTV=
+cCE1n1aN4leH5fj4sTGjQ1W7NA3dgmhzmfhfGqDFdGL1F-2BbJ53au4u-2FGAAuz-2BiDp3v0DS=
+cJo9LFLuz-2Bq28kHQcduFlXEHBc2tdXoG5RYbm04WWVbUIZkkU7ErsnL5LiTlLhBL1nrZT-2FO=
+NoPgUIruk9snxAqF8GkoWxcikJ-2FRNrKerQ-3D" target=3D"_blank" style=3D"text-de=
+coration: none;color: #fff;display: inline-block;"><img src=3D"https://s3-a=
+p-southeast-1.amazonaws.com/static.aasaanjobs.com/logos/linkedin-white.png"=
+ alt=3D"Linked In Image" style=3D"margin-right:3px;vertical-align: middle;"=
+><span>LinkedIn</span></a></li>
+              <li style=3D"display: inline-block; margin-left: 0 !important=
+; padding-right: 10px;"><a href=3D"https://u1664773.ct.sendgrid.net/wf/clic=
+k?upn=3Dsjt-2B7uNFuT-2FbZAMb1Lpd8Gf5pTqQv2CONbCvb2LmR0wkW9xObLG8zzwGU4F-2Bv=
+2iD_VxlAuX98jGTImtRfy8qSMjxfPST58bUH44FH8gukAsqebeueT7cMeQeEArXYtrNuiacdeFf=
+FgIn5SFQs-2FAFoXvuPTxgcm73quK2z-2BS1BNviMP2legbKuvKgwRrOOjTKJqPUaAZkpnNjaoA=
+ufiRLfqn7iGf2-2Bu-2BJDiQ7Zovl6zdRU7WCauV-2BWdfaYYx1hnrn3RrqSSYROUkdh-2Fmh66=
+r0x4Iu4SUQsXFz6-2FeSbPLMsotxFHBoOs-2FL1-2F88sYrUSJDhCxismHi5u63gxRbj1gE-2B4=
+ghfIljZkBQETSzcB7efo8IvQtD6sS1FApf6LgAMg-2BCC6qeXp-2Bg3SIPrcspglWw6pY32j3Pr=
+PtrxcFEAInj-2Fq1v4JdEjh-2FqP49mqaxoDF-2FdePR4u7HJY3SFlenDLJl6V5iz-2B9VaBx4l=
+SAcdSVzAEZFRh9rtIiin6IpViltkTT-2BkzCsRyWwAV-2BQYrvBYzhi32Yx9Bj13ufCi0nYFCja=
+KTaPvs-3D" target=3D"_blank" style=3D"text-decoration: none;color: #fff;dis=
+play: inline-block;"><img src=3D"https://s3-ap-southeast-1.amazonaws.com/st=
+atic.aasaanjobs.com/logos/facebook-white.png" alt=3D"Facebook Image" style=
+=3D"margin-right:3px;vertical-align: middle;"><span>Facebook</span></a></li>
+            </ul>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    <!-- footer ends here -->
+  </div>
+
+<img src=3D"https://u1664773.ct.sendgrid.net/wf/open?upn=3DVxlAuX98jGTImtRf=
+y8qSMjxfPST58bUH44FH8gukAsqebeueT7cMeQeEArXYtrNuiacdeFfFgIn5SFQs-2FAFoXvuPT=
+xgcm73quK2z-2BS1BNviMP2legbKuvKgwRrOOjTKJqPUaAZkpnNjaoAufiRLfqn7iGf2-2Bu-2B=
+JDiQ7Zovl6zdRU7WCauV-2BWdfaYYx1hnrn3RrqSSYROUkdh-2Fmh66r0x4Iu4SUQsXFz6-2FeS=
+bPLMsotxUsX-2FJabK1I-2FA1EZ6Wmp7mL71LU7zqxSxbtxPD9O2vxI-2FV0ZLgd9nf-2FyT4jB=
+UBdPWRxyy9KkjeaxkpI1A3FOJM0hEjeO4zdgdc4Sg2EdX1dQBdcQyT6XB48xOUywFPfV-2F96RX=
+ZELs2KB1xL5U6UmKGTyQ-2BLGq6EjZrwvZCQxZtiGcnD6EODumSvjSudOKldC3MN746pDU3-2F7=
+aESBLklsxLRDd7WOtOBoaKRU-2FYl6QnSpPMCUi7twWuzeFAEKgKeeg-3D" alt=3D"" width=
+=3D"1" height=3D"1" border=3D"0" style=3D"height:1px !important;width:1px !=
+important;border-width:0 !important;margin-top:0 !important;margin-bottom:0=
+ !important;margin-right:0 !important;margin-left:0 !important;padding-top:=
+0 !important;padding-bottom:0 !important;padding-right:0 !important;padding=
+-left:0 !important;"/>
+</body>
+</html>

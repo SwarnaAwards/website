@@ -1,0 +1,86 @@
+Return-Path: <saurabhgupta9599@gmail.com>
+Delivered-To: Josh@pjbproductions.in
+Received: from sg3plcpnl0078.prod.sin3.secureserver.net
+	by sg3plcpnl0078.prod.sin3.secureserver.net with LMTP id qMvINpOFYVw/6BYAUghlVg
+	for <Josh@pjbproductions.in>; Mon, 11 Feb 2019 07:24:19 -0700
+Return-path: <saurabhgupta9599@gmail.com>
+Envelope-to: Josh@pjbproductions.in
+Delivery-date: Mon, 11 Feb 2019 07:24:19 -0700
+Received: from mail-it1-f172.google.com ([209.85.166.172]:53670)
+	by sg3plcpnl0078.prod.sin3.secureserver.net with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.91)
+	(envelope-from <saurabhgupta9599@gmail.com>)
+	id 1gtCVM-006O3k-2e
+	for Josh@pjbproductions.in; Mon, 11 Feb 2019 07:24:19 -0700
+Received: by mail-it1-f172.google.com with SMTP id g85so26654937ita.3
+        for <Josh@pjbproductions.in>; Mon, 11 Feb 2019 06:23:55 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=+ZpO6LMqLDvxuBVCD/R2BRENTylQgiP/YtEont1oXxM=;
+        b=GiFsKUnk/oU1VFybqM7X9BOafpQwZIGySGCv5SvzvWE7CWpki+A2K6ttFWCQPhtHwq
+         FzMpWjiI8z632ZdXGilBw8QZrW7ZTw4Abv5VI0XnZGhx1Hp4m9bIRotOaDKyrJVWtVSL
+         JduQ36rowcIfmElhrRnK59CuPYTd2bTMN4g10HXrpwu2n17jCL/bArUAZmN3SKP1jbAT
+         AjNDL2Gg5z9ebcuqI3voO7fbDt44t/D0dp1o+YRbqRV//tDcQSk6gpuXZLxh39/wtTJy
+         YNJkc/PPUE2ft79z1OAEWMGQDBZEgGklwvNYsGj+aWf6hJ6JjSn5yHuDWla04tHoeaOw
+         XeQQ==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=+ZpO6LMqLDvxuBVCD/R2BRENTylQgiP/YtEont1oXxM=;
+        b=uEgoHNHAji0yQefdjBgZh0KlGpr5c/fyRQvZnkdj2D002tGiOlrHnmjlAk/hLY0zWZ
+         zPT97CtOYdaCptoI7TzAnlmInMmqGoy1KP3lwYrggZattOau5tRUbT6wnzc/kdV+BdsJ
+         5+J7Wjhq0Sjn4BvjihEkWvVsuFqKBWHigVQj8eSM/Rlq19NNBKAgdaNS1tzzKhuxCelS
+         XWo4jqixDgmSvXXOCdprmtmQ0N0044iELcPgIXvmEmgdi+jyffFGQlmOlAQ8ypCsD0OT
+         cie2SJyPLns4Q8JMbnjwIKSc+BXj2ui3a/VGexPNrDBB7IJhgEenMLaogvE89rgxXjp9
+         TiuA==
+X-Gm-Message-State: AHQUAuaZtcs6MBlyUAjq/wBn+07nDu/EpAql2inKLGoaycCIodhwy5ws
+	udVtxNl92eg5KzpWmMyfuIYEZ/ODJcuTfUg/OXu/Qg==
+X-Google-Smtp-Source: AHgI3IYC7D8u9Ybf7mifGwyXHP20MohCAuBGN0liXwSVwgPSYW6ofW1nlgcIVRlfhWtuAxzJvhuED/b8+5Sn+CYzztA=
+X-Received: by 2002:a02:8a03:: with SMTP id j3mr4824859jak.64.1549895013988;
+ Mon, 11 Feb 2019 06:23:33 -0800 (PST)
+MIME-Version: 1.0
+From: Ssaurabh Gupta <saurabhgupta9599@gmail.com>
+Date: Mon, 11 Feb 2019 19:53:23 +0530
+Message-ID: <CAGXMYqP_WiAQZmykBvZQhxXbSzy_Gghp+V9QQ4MNYONPAJ+wVA@mail.gmail.com>
+Subject: Text mail
+To: Josh@pjbproductions.in
+Content-Type: multipart/alternative; boundary="000000000000bf85bd05819f0d06"
+X-Spam-Status: No, score=0.2
+X-Spam-Score: 2
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "sg3plcpnl0078.prod.sin3.secureserver.net",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  Hi Hi [...] 
+ 
+ Content analysis details:   (0.2 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.0 FREEMAIL_FROM          Sender email is commonly abused enduser mail provider
+                             (saurabhgupta9599[at]gmail.com)
+  0.2 FREEMAIL_ENVFROM_END_DIGIT Envelope-from freemail username ends in
+                             digit (saurabhgupta9599[at]gmail.com)
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily valid
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from author's
+                             domain
+X-Spam-Flag: NO
+
+--000000000000bf85bd05819f0d06
+Content-Type: text/plain; charset="UTF-8"
+
+Hi
+
+--000000000000bf85bd05819f0d06
+Content-Type: text/html; charset="UTF-8"
+
+<div dir="auto">Hi</div>
+
+--000000000000bf85bd05819f0d06--

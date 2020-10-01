@@ -1,0 +1,299 @@
+Return-Path: <employers-noreply@indeed.com>
+Delivered-To: info@successassociates.in
+Received: from sg3plcpnl0078.prod.sin3.secureserver.net
+	by sg3plcpnl0078.prod.sin3.secureserver.net with LMTP id EKHTEd7RYlxrfhIAUghlVg
+	for <info@successassociates.in>; Tue, 12 Feb 2019 07:02:06 -0700
+Return-path: <employers-noreply@indeed.com>
+Envelope-to: info@successassociates.in
+Delivery-date: Tue, 12 Feb 2019 07:02:06 -0700
+Received: from mail64.indeed.com ([198.58.75.64]:35635)
+	by sg3plcpnl0078.prod.sin3.secureserver.net with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.91)
+	(envelope-from <employers-noreply@indeed.com>)
+	id 1gtYdM-0057px-Ee
+	for info@successassociates.in; Tue, 12 Feb 2019 07:02:06 -0700
+Received: from aus-mexec87.indeed.net (unknown [10.1.3.212])
+	by mail64.indeed.com (Postfix) with ESMTP id 43zPTB3Fb0z7QxSg
+	for <info@successassociates.in>; Tue, 12 Feb 2019 08:01:18 -0600 (CST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=indeed.com;
+	s=default; t=1549980078;
+	bh=+Tk/o5ues8piRwewlr6V5LjbRsL3hLFls3a30enbcvk=;
+	h=From:Reply-To:To:Subject:Date;
+	b=ILCOZaS4wHhLQEfsC/6l7pwZOQoHY3z++MkePnQsRg3ubXXQEIUgapug6cADRmc40
+	 FnCfN4P7IPJ/tYu2vDPl8g1IZy+HFK2NUsAq32UzREf20dNzH+tnPIRspJB7LJbAfH
+	 YOov981jEwRYSlJ9r1rJfizY8XcayEWFUDO0Nr0o=
+From: Indeed for employers <employers-noreply@indeed.com>
+Reply-To: Indeed for employers <employers-noreply@indeed.com>
+To: info@successassociates.in
+Message-ID: <125699958.94309294.1549980078374.JavaMail.notifications@aus-mexec87.indeed.net>
+Subject: We want to hear from you
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_94309293_1491132484.1549980078374"
+X-Indeed-FBL: :3:17d48d7cf0b784a164a4e7ea2446c2507f8813e3477ed274be9ec29b886dde04
+X-Indeed-Client-App: RavenEmailDaemon
+X-Indeed-Content-Type: RavenEmailRenderer.RAVEN_EVENT
+X-Indeed-TK: 1d3h0648i3nej801
+Date: Tue, 12 Feb 2019 08:01:18 -0600 (CST)
+X-Spam-Status: No, score=-13.8
+X-Spam-Score: -137
+X-Spam-Bar: -------------
+X-Ham-Report: Spam detection software, running on the system "sg3plcpnl0078.prod.sin3.secureserver.net",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  Indeed NPS How likely are you to recommend Indeed to a friend
+    or colleague? 0 - Not likely 10 - Very likely 0 1 2 3 4 5 6 7 8 9 10 Thanks
+    again for being an Indeed customer! The Indeed Team © 2019 I
+ 
+ Content analysis details:   (-13.8 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+                             See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: indeed.com]
+  0.0 SURBL_BLOCKED          ADMINISTRATOR NOTICE: The query to SURBL was blocked.
+                             See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: indeed.com]
+ -0.0 RCVD_IN_MSPIKE_H2      RBL: Average reputation (+2)
+                             [198.58.75.64 listed in wl.mailspike.net]
+ -7.5 USER_IN_DEF_SPF_WL     From: address is in the default SPF white-list
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+ -7.5 USER_IN_DEF_DKIM_WL    From: address is in the default DKIM white-list
+  1.1 MIME_HTML_ONLY         BODY: Message only has text/html MIME parts
+  0.7 MPART_ALT_DIFF         BODY: HTML and text parts are different
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily valid
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from author's
+                             domain
+  0.0 MIME_HTML_ONLY_MULTI   Multipart message only has text/html MIME parts
+ -0.5 ENV_AND_HDR_SPF_MATCH  Env and Hdr From used in default SPF WL Match
+X-Spam-Flag: NO
+
+------=_Part_94309293_1491132484.1549980078374
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office">
+<head>
+	<!--[if gte mso 9]><xml><o:OfficeDocumentSettings><o:AllowPNG/><o:PixelsPerInch>96</o:PixelsPerInch></o:OfficeDocumentSettings></xml><![endif]-->
+	<title>Indeed NPS</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<style type="text/css">
+		a{
+			outline:none;
+			color:#000;
+			text-decoration:none;
+		}
+		a:hover{text-decoration:underline !important;}
+		a.score{
+			display:block;
+			width:100%;
+			height:100%;
+			font-weight: bold;
+			line-height:40px;
+			color:#0000cc;
+		}
+		td.score-cell{
+			width:9%;
+			height:40px;
+			background-color:#ffffff;
+			border:1px solid #ccdaff;
+			border-radius:4px;
+		}
+		a.score:hover{
+			text-decoration:none !important;
+			border-color:#0000cc;
+		}
+		.header {
+			display: block;
+			padding: 0 30px;
+		}
+		.key0 {
+			text-align:left;
+		}
+		.key10 {
+			text-align:right;
+		}
+		a[x-apple-data-detectors]{color:inherit !important; text-decoration:none !important;}
+		a[href^="tel"]:hover{text-decoration:none !important;}
+		.active-i a:hover,
+		.active-t:hover{opacity:0.8;}
+		.active-i a,
+		.active-t{transition:all 0.3s ease;}
+		a img{border:none;}
+		b, strong{font-weight:700;}
+		th{padding:0;}
+		table td{mso-line-height-rule:exactly;}
+		[owa] div{display:block !important; font-size:1px; line-height:1px;}
+		[owa] div button{display:block; font-size:1px; line-height:1px;}
+		[owa] .outlook div{display:inline-block !important; font-size:1px; line-height:1px;}
+		[owa] .outlook div button{display:inline-block; font-size:1px; line-height:1px;}
+		.active-t:hover a{text-decoration:none !important;}
+		.ns span{
+			color:inherit !important;
+			border:none !important;
+		}
+		@media only screen and (max-width:375px) and (min-width:374px) {.gmail-fix{min-width:374px !important;}}
+		@media only screen and (max-width:414px) and (min-width:413px) {.gmail-fix{min-width:413px !important;}}
+		@media only screen and (max-width:590px) {
+			/* default style */
+			.flexible{width:100% !important;}
+			.img-flex img{width:100% !important; height:auto !important;}
+			.hide-m{display:none !important; width:0 !important; height:0 !important; padding:0 !important; font-size:0 !important; line-height:0 !important;}
+			/* custom style */
+			a.score {
+				width: 180px;
+				background-color:#ffffff;
+				border:1px solid #ccdaff;
+				border-radius:4px;
+			}
+			td.score-cell{
+				display:block;
+				width:100%;
+				background-color:inherit;
+				border:none;
+				border-radius:none;
+				margin: 3px;
+			}
+			.header {
+				font-size: 20px;
+				line-height: 24px;
+				padding:0 10px;
+			}
+			.key0, .key10 {
+				display:block;
+				text-align:center;
+			}
+		}
+	</style>
+</head>
+<body bgcolor="#ffffff" style="margin:0; padding:0; -webkit-text-size-adjust:100%; -ms-text-size-adjust:100%;">
+	<table class="gmail-fix" bgcolor="#ffffff" width="100%" style="min-width:320px;" cellspacing="0" cellpadding="0">
+		<tr>
+			<td style="padding:24px 10px;">
+				<table class="flexible" width="580" align="center" style="width:100% !important; max-width:580px; margin:0 auto;" cellpadding="0" cellspacing="0">
+					<tr>
+						<td align="center" style="padding:0 0 25px;">
+							<img src="https://ads.indeed.com/images/email/indeed-logo.png" width="130" style="width:130px; font:bold 34px/38px HelveticaNeue, Helvetica, Arial, Roboto, Noto, sans-serif; color:#2164f3; vertical-align:top;" alt="Indeed" />
+						</td>
+					</tr>
+					<tr>
+						<td style="padding:0 0 10px;">
+							<!-- blue content area -->
+							<table width="100%" cellpadding="0" cellspacing="0">
+								<tr>
+									<td bgcolor="#eaeffd" style="padding:29px 20px 36px;">
+										<table width="530" align="center" style="width:100% !important; max-width:530px; margin:0 auto;" cellpadding="0" cellspacing="0">
+											<tr>
+												<td align="center" style="padding:0 0px 8px; font:24px/29px HelveticaNeue, Helvetica, Arial, Roboto, Noto, sans-serif; font-weight:bold; color:#000000;">
+													<span class="header">How likely are you to recommend Indeed to a friend or colleague?</span>
+												</td>
+											</tr>
+											<tr>
+												<td align="center" style="font:16px/22px HelveticaNeue, Helvetica, Arial, Roboto, Noto, sans-serif; color:#000; padding:8px 0 12px;">
+													<table style="table-layout:fixed; width:100%">
+														<tr>
+															<td class="key0" style="white-space:nowrap;"><span>0 - Not likely</span></td>
+															<td class="key10" style="white-space:nowrap;"><span>10 - Very likely</span></td>
+														</tr>
+													</table>
+												</td>
+											</tr>
+											<tr>
+												<td align="center" style="font:18px/22px HelveticaNeue, Helvetica, Arial, Roboto, Noto, sans-serif; color:#00c;">
+													<table style="width:100%;" cellspacing="5">
+														<tr>
+																															<td align="center" class="score-cell">
+																	<a href="https://cts.indeed.com/v0?tk=1d3h055l73cup802&r=https%3A%2F%2Fads.indeed.com%2Fsurvey%2F57d566ea-ee50-40%3Fhl%3Den%26rating%3D0%26aid%3D25649023" style="color:#00c; text-decoration:none;" class="score">0</a>
+																</td>
+																															<td align="center" class="score-cell">
+																	<a href="https://cts.indeed.com/v0?tk=1d3h055l73cup802&r=https%3A%2F%2Fads.indeed.com%2Fsurvey%2F57d566ea-ee50-40%3Fhl%3Den%26rating%3D1%26aid%3D25649023" style="color:#00c; text-decoration:none;" class="score">1</a>
+																</td>
+																															<td align="center" class="score-cell">
+																	<a href="https://cts.indeed.com/v0?tk=1d3h055l73cup802&r=https%3A%2F%2Fads.indeed.com%2Fsurvey%2F57d566ea-ee50-40%3Fhl%3Den%26rating%3D2%26aid%3D25649023" style="color:#00c; text-decoration:none;" class="score">2</a>
+																</td>
+																															<td align="center" class="score-cell">
+																	<a href="https://cts.indeed.com/v0?tk=1d3h055l73cup802&r=https%3A%2F%2Fads.indeed.com%2Fsurvey%2F57d566ea-ee50-40%3Fhl%3Den%26rating%3D3%26aid%3D25649023" style="color:#00c; text-decoration:none;" class="score">3</a>
+																</td>
+																															<td align="center" class="score-cell">
+																	<a href="https://cts.indeed.com/v0?tk=1d3h055l73cup802&r=https%3A%2F%2Fads.indeed.com%2Fsurvey%2F57d566ea-ee50-40%3Fhl%3Den%26rating%3D4%26aid%3D25649023" style="color:#00c; text-decoration:none;" class="score">4</a>
+																</td>
+																															<td align="center" class="score-cell">
+																	<a href="https://cts.indeed.com/v0?tk=1d3h055l73cup802&r=https%3A%2F%2Fads.indeed.com%2Fsurvey%2F57d566ea-ee50-40%3Fhl%3Den%26rating%3D5%26aid%3D25649023" style="color:#00c; text-decoration:none;" class="score">5</a>
+																</td>
+																															<td align="center" class="score-cell">
+																	<a href="https://cts.indeed.com/v0?tk=1d3h055l73cup802&r=https%3A%2F%2Fads.indeed.com%2Fsurvey%2F57d566ea-ee50-40%3Fhl%3Den%26rating%3D6%26aid%3D25649023" style="color:#00c; text-decoration:none;" class="score">6</a>
+																</td>
+																															<td align="center" class="score-cell">
+																	<a href="https://cts.indeed.com/v0?tk=1d3h055l73cup802&r=https%3A%2F%2Fads.indeed.com%2Fsurvey%2F57d566ea-ee50-40%3Fhl%3Den%26rating%3D7%26aid%3D25649023" style="color:#00c; text-decoration:none;" class="score">7</a>
+																</td>
+																															<td align="center" class="score-cell">
+																	<a href="https://cts.indeed.com/v0?tk=1d3h055l73cup802&r=https%3A%2F%2Fads.indeed.com%2Fsurvey%2F57d566ea-ee50-40%3Fhl%3Den%26rating%3D8%26aid%3D25649023" style="color:#00c; text-decoration:none;" class="score">8</a>
+																</td>
+																															<td align="center" class="score-cell">
+																	<a href="https://cts.indeed.com/v0?tk=1d3h055l73cup802&r=https%3A%2F%2Fads.indeed.com%2Fsurvey%2F57d566ea-ee50-40%3Fhl%3Den%26rating%3D9%26aid%3D25649023" style="color:#00c; text-decoration:none;" class="score">9</a>
+																</td>
+																															<td align="center" class="score-cell">
+																	<a href="https://cts.indeed.com/v0?tk=1d3h055l73cup802&r=https%3A%2F%2Fads.indeed.com%2Fsurvey%2F57d566ea-ee50-40%3Fhl%3Den%26rating%3D10%26aid%3D25649023" style="color:#00c; text-decoration:none;" class="score">10</a>
+																</td>
+																													</tr>
+													</table>
+												</td>
+											</tr>
+										</table>
+									</td>
+								</tr>
+							</table>
+							<!-- end blue content area -->
+						</td>
+					</tr>
+					<tr>
+						<td style="padding:0 0 10px;">
+							<table width="100%" cellpadding="0" cellspacing="0">
+								<tr>
+									<td bgcolor="#ffffff" style="padding:24px 20px 32px;">
+										<table width="560" align="center" style="width:100% !important; max-width:560px; margin:0 auto;" cellpadding="0" cellspacing="0">
+											<!-- block -->
+											<tr>
+												<td style="font:16px/23px HelveticaNeue, Helvetica, Arial, Roboto, Noto, sans-serif; color:#000000;">
+													Thanks again for being an Indeed customer!<br />
+													<span style="color:#999999; font-style:italic;">The Indeed Team</span>
+												</td>
+											</tr>
+										</table>
+									</td>
+								</tr>
+								<!-- footer -->
+								<tr>
+									<td style="padding:20px 10px; border-top:2px solid #eee">
+										<table width="100%" cellpadding="0" cellspacing="0">
+											<tr>
+												<td class="ns"  align="center" style="padding:0 0 11px; font:11px/18px HelveticaNeue, Helvetica, Arial, Roboto, Noto, sans-serif; color:#000;">
+													&copy; 2019 Indeed<br />
+													Indeed, Inc. | 6433 Champion Grandview Way, Building 1, Austin, TX 78750
+												</td>
+											</tr>
+										</table>
+									</td>
+								</tr>
+							</table>
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	</table>
+<img src="https://subscriptions.indeed.com/imgping?type=emailAlerter&contentType=RavenEmailRenderer.RAVEN_EVENT&eventUid=1d3h055l73cup802&emailAlerterTk=1d3h0648i3nej800&tk=1d3h0648i3nej801" height="1" width="1"></body>
+</html>
+------=_Part_94309293_1491132484.1549980078374--

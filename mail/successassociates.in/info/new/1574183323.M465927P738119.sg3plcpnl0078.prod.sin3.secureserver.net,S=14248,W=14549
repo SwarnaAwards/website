@@ -1,0 +1,301 @@
+Return-Path: <do-not-reply@indeed.com>
+Delivered-To: info@successassociates.in
+Received: from sg3plcpnl0078.prod.sin3.secureserver.net
+	by sg3plcpnl0078.prod.sin3.secureserver.net with LMTP
+	id cIlRGZsh1F1HQwsAUghlVg
+	(envelope-from <do-not-reply@indeed.com>)
+	for <info@successassociates.in>; Tue, 19 Nov 2019 10:08:43 -0700
+Return-path: <do-not-reply@indeed.com>
+Envelope-to: info@successassociates.in
+Delivery-date: Tue, 19 Nov 2019 10:08:43 -0700
+Received: from mail91.indeed.com ([198.58.75.91]:35024)
+	by sg3plcpnl0078.prod.sin3.secureserver.net with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.92)
+	(envelope-from <do-not-reply@indeed.com>)
+	id 1iX6zT-00363X-0W
+	for info@successassociates.in; Tue, 19 Nov 2019 10:08:43 -0700
+Received: from aus-mexec133.indeed.net (aus-smtp2.indeed.net [10.1.3.211])
+	by mail91.indeed.com (Postfix) with ESMTP id 47HXLr6hKrz1666r
+	for <info@successassociates.in>; Tue, 19 Nov 2019 11:07:32 -0600 (CST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=indeed.com;
+	s=default; t=1574183253;
+	bh=bNBH83zZ7/3pMbCToxbBXoeY6muWAMFluylISeBp3LQ=;
+	h=From:Reply-To:To:Subject:Date;
+	b=0RSBXiehFS6wjq+CXZYwQ+XFbcsom5aLuAm1QVeJa3D9XIWNzhOCfjv6hIv+EDrBf
+	 wLVrtV0B38ORyh8+2oJ0WNaO7VPo08eTq8JMy1028zqXsbv1PrQj6RTBf9eeFzKn4P
+	 GQR2KKZxsrOkjFxg/Vl4f3hNHH1ac0oqBBzKwtmc=
+From: "Indeed.com" <do-not-reply@indeed.com>
+Reply-To: do-not-reply@indeed.com
+To: info@successassociates.in
+Message-ID: <1212159031.105666952.1574183252939.JavaMail.notifications@aus-mexec133.indeed.net>
+Subject: =?UTF-8?Q?=EF=BB=BFAnnouncing_our_new_Privacy_Center?=
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_105666951_1360834268.1574183252938"
+X-Indeed-FBL: :1:17d48d7cf0b784a164a4e7ea2446c2507f8813e3477ed274be9ec29b886dde04
+X-Indeed-Client-App: SuperSoaker
+X-Indeed-Content-Type: tosEmailJobSeeker
+X-Indeed-TK: 1dq2a4cqt3dhh801
+Date: Tue, 19 Nov 2019 11:07:32 -0600 (CST)
+X-Spam-Status: No, score=-15.7
+X-Spam-Score: -156
+X-Spam-Bar: ---------------
+X-Ham-Report: Spam detection software, running on the system "sg3plcpnl0078.prod.sin3.secureserver.net",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  Hello! At Indeed we take your privacy seriously and wanted
+    to let you know that we have partnered with our sister companies to create
+    a new Privacy Center (https://hrtechprivacy.com/). This Privacy Center de
+    [...] 
+ 
+ Content analysis details:   (-15.7 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 SURBL_BLOCKED          ADMINISTRATOR NOTICE: The query to SURBL was
+                             blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: indeed.com]
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was
+                             blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: indeed.com]
+ -7.5 USER_IN_DEF_DKIM_WL    From: address is in the default DKIM
+                             white-list
+ -7.5 USER_IN_DEF_SPF_WL     From: address is in the default SPF
+                             white-list
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+ -0.1 DKIM_VALID_EF          Message has a valid DKIM or DK signature from
+                             envelope-from domain
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from
+                             author's domain
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+  0.0 RCVD_IN_MSPIKE_H5      RBL: Excellent reputation (+5)
+                             [198.58.75.91 listed in wl.mailspike.net]
+  0.0 RCVD_IN_MSPIKE_WL      Mailspike good senders
+ -0.5 ENV_AND_HDR_SPF_MATCH  Env and Hdr From used in default SPF WL
+                             Match
+X-Spam-Flag: NO
+
+------=_Part_105666951_1360834268.1574183252938
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Hello!
+
+At Indeed we take your privacy seriously and wanted to let you know that we=
+ have partnered with our sister companies to create a new Privacy Center (h=
+ttps://hrtechprivacy.com/). This Privacy Center details our own privacy pra=
+ctices along with those of our sister companies. In particular, the Privacy=
+ Center:
+
+* provides greater transparency to our users by listing out our sister comp=
+anies;
+* identifies the ways in which we partner with them to provide you with bet=
+ter products and services; and
+* creates a platform which allows users to find and review the privacy prac=
+tices of all our sister companies.
+
+In addition to the Privacy Center, Indeed encourages you to review our Priv=
+acy Policy to understand how we share data with our sister companies and to=
+ exercise any of your privacy rights.
+
+You don=E2=80=99t need to take any further action upon receiving this email=
+. By continuing to use our services, you agree to the updated terms.
+
+Thank you for using Indeed!
+
+Best,
+
+
+
+--
+
+=C2=A9 2019 Indeed, Inc. | 6433 Champion Grandview Way, Building 1, Austin,=
+ TX 78750
+------=_Part_105666951_1360834268.1574183252938
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml" xmlns:v=3D"urn:schemas-microso=
+ft-com:vml" xmlns:o=3D"urn:schemas-microsoft-com:office:office">
+    <head>
+        <!--[if gte mso 9]><xml><o:OfficeDocumentSettings><o:AllowPNG/><o:P=
+ixelsPerInch>96</o:PixelsPerInch></o:OfficeDocumentSettings></xml><![endif]=
+-->
+        <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Du=
+tf-8" />
+        <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-sc=
+ale=3D1.0" />
+        <style type=3D"text/css">
+            a{
+                outline:none;
+                color:#000;
+                text-decoration:none;
+            }
+            a:hover{text-decoration:underline !important;}
+            .h-n a{text-decoration:underline;}
+            .h-n a:hover{text-decoration:none !important;}
+            a[x-apple-data-detectors]{color:inherit !important; text-decora=
+tion:none !important;}
+            a[href^=3D"tel"]:hover{text-decoration:none !important;}
+            .active-i a:hover,
+            .active-t:hover{opacity:0.8;}
+            .active-i a,
+            .active-t{transition:all 0.3s ease;}
+            a img{border:none;}
+            b, strong{font-weight:700;}
+            th{padding:0;}
+            table td{mso-line-height-rule:exactly;}
+            [owa] div{display:block !important; font-size:1px; line-height:=
+1px;}
+            [owa] div button{display:block; font-size:1px; line-height:1px;=
+}
+            [owa] .outlook div{display:inline-block !important; font-size:1=
+px; line-height:1px;}
+            [owa] .outlook div button{display:inline-block; font-size:1px; =
+line-height:1px;}
+            .active-t:hover a{text-decoration:none !important;}
+            .ns span{
+                color:inherit !important;
+                border:none !important;
+            }
+            @media only screen and (max-width:375px) and (min-width:374px) =
+{.gmail-fix{min-width:374px !important;}}
+            @media only screen and (max-width:414px) and (min-width:413px) =
+{.gmail-fix{min-width:413px !important;}}
+            @media only screen and (max-width:500px) {
+                /* default style */
+                .flexible{width:100% !important;}
+                .img-flex img{width:100% !important; height:auto !important=
+;}
+                .hide-m{display:none !important; width:0 !important; height=
+:0 !important; padding:0 !important; font-size:0 !important; line-height:0 =
+!important;}
+                /* custom style */
+            }
+        </style>
+    </head>
+    <body bgcolor=3D"#f2f2f2" style=3D"margin:0; padding:0; -webkit-text-si=
+ze-adjust:100%; -ms-text-size-adjust:100%;"><img src=3D"https://subscriptio=
+ns.indeed.com/imgping?tk=3D1dq2a4cqt3dhh801&type=3DpostOpen&contentType=3Dt=
+osEmailJobSeeker&token=3DCkCIONs4uk475oE2vLBLTuFeq7GIEjlpDSlCY-h6kPlzJMQN6_=
+xCMmbwrrFeud95-PgzfbV1pWZRoongFP3XkiZWEiDkHozR83ig6lyaErMIMh4UOgC2Qwu_G_DXm=
+BMyAiKnTxoQYM33AouDAdiHn0Ix9JIS2g%3D%3D" height=3D"1" width=3D"1">
+        <table class=3D"gmail-fix" bgcolor=3D"#f2f2f2" width=3D"100%" style=
+=3D"min-width:320px;" cellspacing=3D"0" cellpadding=3D"0">
+            <tr>
+                <td style=3D"padding:24px 10px;">
+                    <table class=3D"flexible" width=3D"510" align=3D"center=
+" style=3D"width:100% !important; max-width:510px; margin:0 auto;" cellpadd=
+ing=3D"0" cellspacing=3D"0">
+                        <tr>
+                            <td align=3D"center" style=3D"padding:0 0 25px;=
+">
+                                <a style=3D"text-decoration:none;" href=3D"=
+https://www.indeed.com/">
+                                    <img src=3D"http://tophat-cms-prod.s3.a=
+mazonaws.com/wp-content/uploads/2016/02/18221139/logo9.png" width=3D"130" s=
+tyle=3D"width:130px; font:bold 34px/38px HelveticaNeue, Helvetica, Arial, R=
+oboto, Noto, sans-serif; color:#2164f3; vertical-align:top;" alt=3D"Indeed"=
+ />
+                                </a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td style=3D"padding:0 0 10px;">
+                                <table width=3D"100%" cellpadding=3D"0" cel=
+lspacing=3D"0">
+                                    <tr>
+                                        <td bgcolor=3D"#ffffff" style=3D"pa=
+dding:24px 20px 30px;">
+                                            <table width=3D"100%" cellpaddi=
+ng=3D"0" cellspacing=3D"0">
+                                                <tr>
+                                                    <td align=3D"left" styl=
+e=3D"padding:0 0 27px; font:14px/19px HelveticaNeue, Helvetica, Arial, Robo=
+to, Noto, sans-serif; color:#000;">Hello!
+<br /><br />
+At Indeed we take your privacy seriously and wanted to let you know that we=
+ have partnered with our sister companies to create a new <a href=3D"https:=
+//hrtechprivacy.com/" style=3D"color:#00c; text-decoration:none;">Privacy C=
+enter</a>. This Privacy Center details our own privacy practices along with=
+ those of our sister companies. In particular, the Privacy Center:
+<ul>
+<li style=3D"margin-top: 10px;">provides greater transparency to our users =
+by listing out our sister companies;</li>
+<li style=3D"margin-top: 10px;">identifies the ways in which we partner wit=
+h them to provide you with better products and services; and</li>
+<li style=3D"margin-top: 10px; margin-bottom: 10px;">creates a platform whi=
+ch allows users to find and review the privacy practices of all our sister =
+companies.</li>
+</ul>
+In addition to the Privacy Center, Indeed encourages you to review our Priv=
+acy Policy to understand how we share data with our sister companies and to=
+ exercise any of your privacy rights.
+<br /><br />
+You don=E2=80=99t need to take any further action upon receiving this email=
+. By continuing to use our services, you agree to the updated terms.
+<br /><br />
+Thank you for using Indeed!
+<br /><br />
+Best,
+<br />
+The Indeed Team                                                    </td>
+                                                </tr>
+                                               =20
+                                            </table>
+                                        </td>
+                                    </tr>
+                                </table>
+                            </td>
+                        </tr>
+                                    <!-- footer -->
+                        <tr>
+                            <td style=3D"padding:20px 10px;">
+                                <table width=3D"100%" cellpadding=3D"0" cel=
+lspacing=3D"0">
+                                    <tr>
+                                        <td class=3D"ns"  align=3D"center" =
+style=3D"padding:0 0 11px; font:11px/18px HelveticaNeue, Helvetica, Arial, =
+Roboto, Noto, sans-serif; color:#000;">
+                                            &copy; 2019 Indeed, Inc.<br />
+                                            6433 Champion Grandview Way, Bu=
+ilding 1, Austin, TX 78750
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td align=3D"center" style=3D"font:=
+11px/16px HelveticaNeue, Helvetica, Arial, Roboto, Noto, sans-serif; color:=
+#000;">
+                                            <a style=3D"color:#00c; text-de=
+coration:none;" href=3D"https://hrtechprivacy.com/brands/indeed#privacypoli=
+cy">PRIVACY POLICY</a> &nbsp;|&nbsp; <a style=3D"color:#00c; text-decoratio=
+n:none;" href=3D"https://hrtechprivacy.com/brands/indeed">TERMS</a> &nbsp;|=
+&nbsp; <a style=3D"color:#00c; text-decoration:none;" href=3D"https://suppo=
+rt.indeed.com/hc/en-us">HELP CENTER</a>=20
+                                        </td>
+                                    </tr>
+                                </table>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+    <img src=3D"https://subscriptions.indeed.com/imgping?tk=3D1dq2a4cqt3dhh=
+801&type=3DtosEmailJobSeeker" height=3D"1" width=3D"1"><img src=3D"https://=
+subscriptions.indeed.com/imgping?tk=3D1dq2a4cqt3dhh801&type=3DtosEmailJobSe=
+eker" height=3D"1" width=3D"1"></body>
+</html>
+------=_Part_105666951_1360834268.1574183252938--

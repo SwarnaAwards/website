@@ -1,0 +1,907 @@
+Return-Path: <subhodipr@gmail.com>
+Delivered-To: josh@pjbproductions.in
+Received: from sg3plcpnl0078.prod.sin3.secureserver.net
+	by sg3plcpnl0078.prod.sin3.secureserver.net with LMTP id eElqCw3fLVznfQwAUghlVg
+	for <josh@pjbproductions.in>; Thu, 03 Jan 2019 03:08:13 -0700
+Return-path: <subhodipr@gmail.com>
+Envelope-to: josh@pjbproductions.in
+Delivery-date: Thu, 03 Jan 2019 03:08:13 -0700
+Received: from mail-it1-f195.google.com ([209.85.166.195]:54649)
+	by sg3plcpnl0078.prod.sin3.secureserver.net with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.91)
+	(envelope-from <subhodipr@gmail.com>)
+	id 1gezv6-003SOU-5y
+	for josh@pjbproductions.in; Thu, 03 Jan 2019 03:08:13 -0700
+Received: by mail-it1-f195.google.com with SMTP id i145so44536876ita.4
+        for <josh@pjbproductions.in>; Thu, 03 Jan 2019 02:07:47 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:references:in-reply-to:from:date:message-id:subject:to
+         :cc;
+        bh=M7HlPBUPG7RjVxQTZrANLmiR6ITrLqUWSETnoFGTYVI=;
+        b=q1X8UNwVlRLahuWaiaNVYOvnxOg13vhN+tc/WFdnwDyvyiadYZVsNYbTZCYtnye4vP
+         8BTyxdn7be9J3XVMoGcZy/qOvOoTWfbPmlj5FzKxdYLSLvIKVCQIFcg6TNU5QBW0vhos
+         kZ3Znq2LvQbWsjY8ubrl4L5YJB70EDyUlXO8Iqt1CdY6OlHz7SO6e6aBQH8QOCgcZH1s
+         ngO6JWOrkZc48MooysGAPtrAAW58pgpe+QHJ6pXY2dqTeKHhkXso8GybKO382iFdvO/d
+         ouYN+Qo5JB/3qVbFihHNlpHUPRThrzGry42P9fo+3PBsOezYOrzYNJD/lvUkA+lMx0OW
+         qTaA==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:references:in-reply-to:from:date
+         :message-id:subject:to:cc;
+        bh=M7HlPBUPG7RjVxQTZrANLmiR6ITrLqUWSETnoFGTYVI=;
+        b=Clo7XR3jU/fCh4QmpYZ6kEBD+yLcJJJukAspzc9SU5NZzS7YMs4g8dbalu1IVClDzR
+         gGcby6HR4PzvhNBX5f1gOMGw7EIS0xitWLj7icaTag3J/ER6BRRDhxFQb8z4M+sbxB8c
+         62up6V/PUTZHEYHQYd+3JzFBG7mL2LsxNLhI2Yqt3Y6DZhJVFGTuLLdvUi8cjum9qk+9
+         VqYzbNImsMFahlUvyIm+VO+8FVK7rr5tyoMqHzxI43c4qKth5tfP6oHtC9Mp+Av8Pway
+         +m267Jm4mzSZG97twqOl0XoqP2/vXjyrE2ZYdZCuzRXJBDphshiePiAqPT829ZtHPAJa
+         g6DQ==
+X-Gm-Message-State: AJcUukc6dAH/ME4tgtCGOtCYa5VA9yYswAHAOXmNtQSLjll655IFiHVq
+	PW0wz9yTs1IJkNaPL3tu3umvXykHWD65rTiNphI=
+X-Google-Smtp-Source: ALg8bN4by5oWaFVWXA8k9+dajWRGFZ7g7xa4Xxa6nKu76SehBqs61zvuskI3lU6BK2npOuAG9b6ZEDk49JrSqz7RSP8=
+X-Received: by 2002:a24:32c5:: with SMTP id j188mr29854423ita.139.1546510045958;
+ Thu, 03 Jan 2019 02:07:25 -0800 (PST)
+MIME-Version: 1.0
+References: <1546427932438.1241739982@boxbe>
+In-Reply-To: <1546427932438.1241739982@boxbe>
+From: Subhodip Ray <subhodipr@gmail.com>
+Date: Thu, 3 Jan 2019 15:37:18 +0530
+Message-ID: <CAGJs51dXiOVHuSgj9x27sKVQ+9GUMNZ=fmp1da5zvtZEayho1Q@mail.gmail.com>
+Subject: Fwd: PROJECT DETAILS FOR AUDIO LABEL
+To: tajinder.singh@hungama.com
+Cc: josh@pjbproductions.in
+Content-Type: multipart/alternative; boundary="000000000000ee5891057e8aed9b"
+X-Spam-Status: No, score=2.3
+X-Spam-Score: 23
+X-Spam-Bar: ++
+X-Ham-Report: Spam detection software, running on the system "sg3plcpnl0078.prod.sin3.secureserver.net",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  Greetings from P. J. B. Productions Pvt. Ltd.! We are based
+    in Bangalore and are into event management, branding & promotional activities,
+    film-making, ad film-making, model management, and VFX. I am 
+ 
+ Content analysis details:   (2.3 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+                             See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: wikipedia.org]
+  0.0 FREEMAIL_FROM          Sender email is commonly abused enduser mail provider
+                             (subhodipr[at]gmail.com)
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  1.6 SUBJ_ALL_CAPS          Subject is all capitals
+ -0.0 RCVD_IN_MSPIKE_H2      RBL: Average reputation (+2)
+                             [209.85.166.195 listed in wl.mailspike.net]
+  0.0 SURBL_BLOCKED          ADMINISTRATOR NOTICE: The query to SURBL was blocked.
+                             See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: chiloka.com]
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from author's
+                             domain
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily valid
+  0.8 CPANEL_LOTS_OF_EMPTY_LINE RAW: Spam that has large block of empty
+                             lines
+X-Spam-Flag: NO
+
+--000000000000ee5891057e8aed9b
+Content-Type: text/plain; charset="UTF-8"
+
+Greetings from P. J. B. Productions Pvt. Ltd.!
+
+We are based in Bangalore and are into event management, branding &
+promotional activities, film-making, ad film-making, model management, and
+VFX.
+
+I am writing to you to express my gratitude for showing interest to release
+our song through your record label. We will be extensively promoting the
+song through various media.
+
+I would love to chat more if you are interested in taking this forward. Looking
+forward for a long lasting relationship.
+
+*Below are the details of the video song:*
+The theme of this song is  'Love'. The screenplay depicts three shades of
+love. They are, romantic form, expressive form, and aggressive form.
+*Romantic form:*
+A boy and a girl being deeply in love.
+(Ee saniha madhaveriso premada kadana)
+
+*Expressive form:*
+The boy being ready to cross seven oceans for his girl and being happy with
+her.
+(Kaanada kadalige nee haari hogu)
+
+*Aggressive form:*
+The boy being hurt and enraged when is cheated by the one he loved the most.
+(Kaanada preethige kai chaachi ninte)
+
+*Publicity:*
+Print media: A *full-page* ad in Udayavani, articles in other news papers
+and Kannada movie magazines. The full-page ad will be released on the 19th
+of October 2018 and will be published on Fridays in the subsequent four
+weeks.
+Visual media: All Kannada television channels.
+Social media: All publicity pages
+Radio: All radio stations
+
+The promotion of the song  will be done for 20 days prior to release.
+Attached are the shooting stills of the video and below are the details of
+the cast and crew. The actors have acted in one movie each and several ad
+films. The song has been sung by Vyasa Raj, who is one of the renowned
+singers of Kannada industry. He has lent his voice for movies like* Mufti*,
+*Chakravarthy, *and *Taarak.*
+
+*Below are the details of the video song:*
+
+The theme of this song is  'Love'. The screenplay depicts three shades of
+love. They are, romantic form, expressive form, and aggressive form.
+
+*Romantic form:*
+A boy and a girl being deeply in love.
+(Ee saniha madhaveriso premada kadana)
+
+*Expressive form:*
+The boy being ready to cross seven oceans for his girl and being happy with
+her.
+(Kaanada kadalige nee haari hogu)
+
+*Aggressive form:*
+The boy being hurt and enraged when is cheated by the one he loved the most.
+(Kaanada preethige kai chaachi ninte)
+
+*Publicity:*
+Print media: A full-page ad in Udayavani, articles in other news papers and
+Kannada movie magazines. The full-page ad will be released on the 19th of
+October 2018 and will be published on Fridays in the subsequent four
+weeks.
+Visual media: All Kannada television channels.
+Social media: All publicity pages
+Radio: All radio stations
+
+The promotion of the song and the sponsors will be done for* 20 days prior
+to release*. Attached are the shooting stills of the video and below are
+the details of the cast and crew. The actors have acted in one movie each
+and several ad films. The song has been sung by *Vyasa Raj*, who is one of
+the renowned singers of Kannada industry. He has lent his voice for movies
+like *Mufti, Chakravarthy and Taarak.*
+
+
+We will be producing a trilingual movie once this album has been released.
+We are planning on casting Kishore Kumar (
+https://en.wikipedia.org/wiki/Kishore_(actor)), a well-known face in South
+India. The movie will be directed by Anand, who has already directed one
+movie. We are planning on promoting your brand in the movie as well.
+
+
+
+Hero
+Ayush
+https://www.youtube.com/watch?v=7ORQtGHrJeg
+https://www.youtube.com/watch?v=uKfZHrYAiLE
+https://www.youtube.com/watch?v=dRV0Gl5NnHI
+Heroine
+Chandana Gowda
+https://www.facebook.com/Chandana-Gowda
+https://www.facebook.com/profile.php?id=100007423036824
+DOP
+Rachputi Arun Kumar
+Singer
+Vyasa Raj
+https://www.google.co.in/search?ei=mdOXW5PdMYrTvwSrsbyoBQ&q=vyas+raj+singer&oq=vyas+raj&gs_l=psy-ab.3.1.0l3j0i10k1j0j0i10k1l5.13931.16704.0.18709.8.8.0.0.0.0.311.1380.0j1j4j1.6.0....0...1c.1.64.psy-ab..2.6.1380...0i131k1j0i67k1j0i20i263k1.0.jlzCRj3VL0s
+https://chiloka.com/celebrity/vyas-raj/filmography
+Producer
+P. J. B. Productions Pvt. Ltd.
+VFX
+Ganesh & Team
+Costume
+Shirali
+Programmer
+Anil C. J.
+Musician
+Alap Raj
+Makeup Artist
+Vinodh Raj
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*Thank you for spending your valuable time in going through the sponsorship
+details. We look forward to working with you soon.  *
+
+
+
+*Thanks and regards,*
+*Josh PJ*
+*Managing Director |**PJB Productions Pvt.Ltd. *
+*|Mob: +919880289532 | josh@pjbproductions.in <josh@pjbproductions.in>*
+*|No. 151, 1st floor, 3rd Cross, Kalyan House Building Co-operative
+Society(KHBC),*
+*|Hampinagar,  RPC Layout, Vijayanagar 2nd Stage, Bangalore 560104*
+
+
+[CONFIDENTIALITY NOTICE:
+The contents of this email message and any attachments are intended solely
+for the addressee(s)
+and may contain confidential and/or privileged information and may be
+legally protected from disclosure. If you are not the intended recipient of
+this message or their agent, or if this message has been addressed to you
+in error, please immediately alert the sender by reply email and then
+delete this message and any attachments. If you are not the intended
+recipient, you are hereby notified that any use, dissemination, copying, or
+storage of this message or its attachments is strictly prohibited. ]
+
+--000000000000ee5891057e8aed9b
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><div class=3D"gmail_quote"><div dir=3D"ltr"><br></div>
+<div style=3D"font-size:10pt;font-family:Verdana,Geneva,sans-serif">
+<div class=3D"m_764577572974256180m_-4127028414415728312gmail-adM"><span st=
+yle=3D"color:#003366">Greetings from P. J. B. Productions Pvt. Ltd.!<br></s=
+pan></div>
+<div class=3D"gmail_quote">
+<div>
+<div id=3D"m_764577572974256180m_-4127028414415728312gmail-m_-1894082801351=
+558172m_6965745781839327873yui_3_16_0_ym19_1_1538003877538_3943"><span styl=
+e=3D"color:#003366">=C2=A0</span></div>
+<div id=3D"m_764577572974256180m_-4127028414415728312gmail-m_-1894082801351=
+558172m_6965745781839327873yui_3_16_0_ym19_1_1538003877538_3946"><span styl=
+e=3D"color:#003366">We are based in Bangalore and are into event management=
+, branding &amp; promotional activities, film-making, ad film-making, model=
+ management, and VFX.</span></div>
+<div id=3D"m_764577572974256180m_-4127028414415728312gmail-m_-1894082801351=
+558172m_6965745781839327873yui_3_16_0_ym19_1_1538003877538_3946"><span styl=
+e=3D"color:#003366">=C2=A0</span></div>
+<div id=3D"m_764577572974256180m_-4127028414415728312gmail-m_-1894082801351=
+558172m_6965745781839327873yui_3_16_0_ym19_1_1538003877538_3946" dir=3D"ltr=
+">
+<div><span style=3D"color:#20124d;font-family:tahoma,sans-serif">I am writi=
+ng to you to express my gratitude for showing interest to release our song =
+through your record label. We will be extensively promoting the song throug=
+h various media.=C2=A0</span></div>
+<div><span style=3D"color:#20124d;font-family:tahoma,sans-serif">=C2=A0</sp=
+an></div>
+<div><span style=3D"color:#20124d;font-family:tahoma,sans-serif">I would lo=
+ve to chat more if you are interested in taking this forward.=C2=A0</span><=
+span>Looking forward for a long lasting relationship.</span></div>
+<div><span style=3D"color:#20124d;font-family:tahoma,sans-serif">=C2=A0</sp=
+an></div>
+<div><span style=3D"color:#20124d;font-family:tahoma,sans-serif"><strong>Be=
+low are the details of the video song:</strong></span></div>
+<div><span style=3D"color:#20124d;font-family:tahoma,sans-serif">The theme =
+of this song is=C2=A0 &#39;Love&#39;. The screenplay depicts three shades o=
+f love. They are, romantic form, expressive form, and aggressive form.=C2=
+=A0</span></div>
+<div><span style=3D"color:#20124d;font-family:tahoma,sans-serif"><strong>Ro=
+mantic form:</strong></span></div>
+<div><span style=3D"color:#20124d;font-family:tahoma,sans-serif">A boy and =
+a girl being deeply in love.</span></div>
+<div><span style=3D"color:#20124d;font-family:tahoma,sans-serif">(Ee saniha=
+ madhaveriso premada kadana)</span></div>
+<div><span style=3D"color:#20124d;font-family:tahoma,sans-serif">=C2=A0</sp=
+an></div>
+<div><span style=3D"color:#20124d;font-family:tahoma,sans-serif"><strong>Ex=
+pressive form:</strong></span></div>
+<div><span style=3D"color:#20124d;font-family:tahoma,sans-serif">The boy be=
+ing ready to cross seven oceans for his girl and being happy with her.</spa=
+n></div>
+<div><span style=3D"color:#20124d;font-family:tahoma,sans-serif">(Kaanada k=
+adalige nee haari hogu)</span></div>
+<div><span style=3D"color:#20124d;font-family:tahoma,sans-serif">=C2=A0</sp=
+an></div>
+<div><span style=3D"color:#20124d;font-family:tahoma,sans-serif"><strong>Ag=
+gressive form:</strong></span></div>
+<div><span style=3D"color:#20124d;font-family:tahoma,sans-serif">The boy be=
+ing hurt and enraged when is cheated by the one he loved the most.</span></=
+div>
+<div><span style=3D"color:#20124d;font-family:tahoma,sans-serif">(Kaanada p=
+reethige kai chaachi ninte)</span></div>
+<div><span style=3D"color:#20124d;font-family:tahoma,sans-serif">=C2=A0</sp=
+an></div>
+<div><span style=3D"color:#20124d;font-family:tahoma,sans-serif"><strong>Pu=
+blicity:</strong></span></div>
+<div><span style=3D"color:#20124d;font-family:tahoma,sans-serif">Print medi=
+a: A<span>=C2=A0</span><strong>full-page</strong><span>=C2=A0</span>ad in U=
+dayavani, articles in other news papers and Kannada movie magazines. The fu=
+ll-page ad will be released on the 19th of October 2018 and will be publish=
+ed on Fridays in the subsequent four weeks.=C2=A0=C2=A0</span></div>
+<div><span style=3D"color:#20124d;font-family:tahoma,sans-serif">Visual med=
+ia: All Kannada television channels.</span></div>
+<div><span style=3D"color:#20124d;font-family:tahoma,sans-serif">Social med=
+ia: All publicity pages</span></div>
+<div><span style=3D"color:#20124d;font-family:tahoma,sans-serif">Radio: All=
+ radio stations</span></div>
+<div><span style=3D"color:#20124d;font-family:tahoma,sans-serif">=C2=A0</sp=
+an></div>
+<div><span style=3D"color:#20124d;font-family:tahoma,sans-serif">The promot=
+ion of the song=C2=A0 will be done for 20 days prior to release. Attached a=
+re the shooting stills of the video and below are the details of the cast a=
+nd crew. The actors have acted in one movie each and several ad films. The =
+song has been sung by Vyasa Raj, who is one of the renowned singers of Kann=
+ada industry. He has lent his voice for movies like<strong><span>=C2=A0</sp=
+an>Mufti</strong>,<span>=C2=A0</span><strong>Chakravarthy,=C2=A0</strong>an=
+d<span>=C2=A0</span><strong>Taarak.</strong></span><span>=C2=A0</span></div=
+>
+</div>
+<div id=3D"m_764577572974256180m_-4127028414415728312gmail-m_-1894082801351=
+558172m_6965745781839327873yui_3_16_0_ym19_1_1538003877538_3964">
+<div id=3D"m_764577572974256180m_-4127028414415728312gmail-m_-1894082801351=
+558172m_6965745781839327873yui_3_16_0_ym19_1_1538003877538_3987"><span styl=
+e=3D"color:#003366">=C2=A0</span></div>
+<div id=3D"m_764577572974256180m_-4127028414415728312gmail-m_-1894082801351=
+558172m_6965745781839327873yui_3_16_0_ym19_1_1538003877538_3987"><span id=
+=3D"m_764577572974256180m_-4127028414415728312gmail-m_-1894082801351558172m=
+_6965745781839327873yui_3_16_0_ym19_1_1538003877538_4662" style=3D"color:#0=
+03366"><strong id=3D"m_764577572974256180m_-4127028414415728312gmail-m_-189=
+4082801351558172m_6965745781839327873yui_3_16_0_ym19_1_1538003877538_4666">=
+Below are the details of the video song:</strong></span></div>
+<div id=3D"m_764577572974256180m_-4127028414415728312gmail-m_-1894082801351=
+558172m_6965745781839327873yui_3_16_0_ym19_1_1538003877538_3989">
+<div id=3D"m_764577572974256180m_-4127028414415728312gmail-m_-1894082801351=
+558172m_6965745781839327873yui_3_16_0_ym19_1_1538003877538_3990"><span styl=
+e=3D"color:#003366">=C2=A0</span></div>
+</div>
+</div>
+<div id=3D"m_764577572974256180m_-4127028414415728312gmail-m_-1894082801351=
+558172m_6965745781839327873yui_3_16_0_ym19_1_1538003877538_3993">
+<div id=3D"m_764577572974256180m_-4127028414415728312gmail-m_-1894082801351=
+558172m_6965745781839327873yui_3_16_0_ym19_1_1538003877538_3994"><span styl=
+e=3D"color:#003366"><span id=3D"m_764577572974256180m_-4127028414415728312g=
+mail-m_-1894082801351558172m_6965745781839327873yui_3_16_0_ym19_1_153800387=
+7538_3996">The theme of this song is=C2=A0 &#39;Love&#39;. The screenplay d=
+epicts three shades of love. They are, romantic form, expressive form, and =
+aggressive form.</span><span id=3D"m_764577572974256180m_-41270284144157283=
+12gmail-m_-1894082801351558172m_6965745781839327873yui_3_16_0_ym19_1_153800=
+3877538_3997"></span></span></div>
+<div id=3D"m_764577572974256180m_-4127028414415728312gmail-m_-1894082801351=
+558172m_6965745781839327873yui_3_16_0_ym19_1_1538003877538_3998"><span id=
+=3D"m_764577572974256180m_-4127028414415728312gmail-m_-1894082801351558172m=
+_6965745781839327873yui_3_16_0_ym19_1_1538003877538_3999" style=3D"color:#0=
+03366">=C2=A0</span></div>
+<div id=3D"m_764577572974256180m_-4127028414415728312gmail-m_-1894082801351=
+558172m_6965745781839327873yui_3_16_0_ym19_1_1538003877538_4001"><span styl=
+e=3D"color:#003366"><strong id=3D"m_764577572974256180m_-412702841441572831=
+2gmail-m_-1894082801351558172m_6965745781839327873yui_3_16_0_ym19_1_1538003=
+877538_4003"><span id=3D"m_764577572974256180m_-4127028414415728312gmail-m_=
+-1894082801351558172m_6965745781839327873yui_3_16_0_ym19_1_1538003877538_40=
+04">Romantic form:</span></strong><span id=3D"m_764577572974256180m_-412702=
+8414415728312gmail-m_-1894082801351558172m_6965745781839327873yui_3_16_0_ym=
+19_1_1538003877538_4005"></span></span></div>
+<div id=3D"m_764577572974256180m_-4127028414415728312gmail-m_-1894082801351=
+558172m_6965745781839327873yui_3_16_0_ym19_1_1538003877538_4006"><span styl=
+e=3D"color:#003366"><span id=3D"m_764577572974256180m_-4127028414415728312g=
+mail-m_-1894082801351558172m_6965745781839327873yui_3_16_0_ym19_1_153800387=
+7538_4008">A boy and a girl being deeply in love.</span><span id=3D"m_76457=
+7572974256180m_-4127028414415728312gmail-m_-1894082801351558172m_6965745781=
+839327873yui_3_16_0_ym19_1_1538003877538_4009"></span></span></div>
+<div id=3D"m_764577572974256180m_-4127028414415728312gmail-m_-1894082801351=
+558172m_6965745781839327873yui_3_16_0_ym19_1_1538003877538_4010"><span styl=
+e=3D"color:#003366"><span id=3D"m_764577572974256180m_-4127028414415728312g=
+mail-m_-1894082801351558172m_6965745781839327873yui_3_16_0_ym19_1_153800387=
+7538_4012">(Ee saniha madhaveriso premada kadana)</span><span id=3D"m_76457=
+7572974256180m_-4127028414415728312gmail-m_-1894082801351558172m_6965745781=
+839327873yui_3_16_0_ym19_1_1538003877538_4013"></span></span></div>
+<div id=3D"m_764577572974256180m_-4127028414415728312gmail-m_-1894082801351=
+558172m_6965745781839327873yui_3_16_0_ym19_1_1538003877538_4014"><span id=
+=3D"m_764577572974256180m_-4127028414415728312gmail-m_-1894082801351558172m=
+_6965745781839327873yui_3_16_0_ym19_1_1538003877538_4015" style=3D"color:#0=
+03366">=C2=A0</span></div>
+<div id=3D"m_764577572974256180m_-4127028414415728312gmail-m_-1894082801351=
+558172m_6965745781839327873yui_3_16_0_ym19_1_1538003877538_4017"><span styl=
+e=3D"color:#003366"><strong id=3D"m_764577572974256180m_-412702841441572831=
+2gmail-m_-1894082801351558172m_6965745781839327873yui_3_16_0_ym19_1_1538003=
+877538_4019"><span id=3D"m_764577572974256180m_-4127028414415728312gmail-m_=
+-1894082801351558172m_6965745781839327873yui_3_16_0_ym19_1_1538003877538_40=
+20">Expressive form:</span></strong><span id=3D"m_764577572974256180m_-4127=
+028414415728312gmail-m_-1894082801351558172m_6965745781839327873yui_3_16_0_=
+ym19_1_1538003877538_4021"></span></span></div>
+<div id=3D"m_764577572974256180m_-4127028414415728312gmail-m_-1894082801351=
+558172m_6965745781839327873yui_3_16_0_ym19_1_1538003877538_4022"><span styl=
+e=3D"color:#003366"><span id=3D"m_764577572974256180m_-4127028414415728312g=
+mail-m_-1894082801351558172m_6965745781839327873yui_3_16_0_ym19_1_153800387=
+7538_4024">The boy being ready to cross seven oceans for his girl and being=
+ happy with her.</span><span id=3D"m_764577572974256180m_-41270284144157283=
+12gmail-m_-1894082801351558172m_6965745781839327873yui_3_16_0_ym19_1_153800=
+3877538_4025"></span></span></div>
+<div id=3D"m_764577572974256180m_-4127028414415728312gmail-m_-1894082801351=
+558172m_6965745781839327873yui_3_16_0_ym19_1_1538003877538_4026"><span styl=
+e=3D"color:#003366"><span id=3D"m_764577572974256180m_-4127028414415728312g=
+mail-m_-1894082801351558172m_6965745781839327873yui_3_16_0_ym19_1_153800387=
+7538_4028">(Kaanada kadalige nee haari hogu)</span><span id=3D"m_7645775729=
+74256180m_-4127028414415728312gmail-m_-1894082801351558172m_696574578183932=
+7873yui_3_16_0_ym19_1_1538003877538_4029"></span></span></div>
+<div id=3D"m_764577572974256180m_-4127028414415728312gmail-m_-1894082801351=
+558172m_6965745781839327873yui_3_16_0_ym19_1_1538003877538_4030"><span id=
+=3D"m_764577572974256180m_-4127028414415728312gmail-m_-1894082801351558172m=
+_6965745781839327873yui_3_16_0_ym19_1_1538003877538_4031" style=3D"color:#0=
+03366">=C2=A0</span></div>
+<div id=3D"m_764577572974256180m_-4127028414415728312gmail-m_-1894082801351=
+558172m_6965745781839327873yui_3_16_0_ym19_1_1538003877538_4033"><span styl=
+e=3D"color:#003366"><strong id=3D"m_764577572974256180m_-412702841441572831=
+2gmail-m_-1894082801351558172m_6965745781839327873yui_3_16_0_ym19_1_1538003=
+877538_4035"><span id=3D"m_764577572974256180m_-4127028414415728312gmail-m_=
+-1894082801351558172m_6965745781839327873yui_3_16_0_ym19_1_1538003877538_40=
+36">Aggressive form:</span></strong><span id=3D"m_764577572974256180m_-4127=
+028414415728312gmail-m_-1894082801351558172m_6965745781839327873yui_3_16_0_=
+ym19_1_1538003877538_4037"></span></span></div>
+<div id=3D"m_764577572974256180m_-4127028414415728312gmail-m_-1894082801351=
+558172m_6965745781839327873yui_3_16_0_ym19_1_1538003877538_4038"><span styl=
+e=3D"color:#003366"><span id=3D"m_764577572974256180m_-4127028414415728312g=
+mail-m_-1894082801351558172m_6965745781839327873yui_3_16_0_ym19_1_153800387=
+7538_4040">The boy being hurt and enraged when is cheated by the one he lov=
+ed the most.</span><span id=3D"m_764577572974256180m_-4127028414415728312gm=
+ail-m_-1894082801351558172m_6965745781839327873yui_3_16_0_ym19_1_1538003877=
+538_4041"></span></span></div>
+<div id=3D"m_764577572974256180m_-4127028414415728312gmail-m_-1894082801351=
+558172m_6965745781839327873yui_3_16_0_ym19_1_1538003877538_4042"><span styl=
+e=3D"color:#003366"><span id=3D"m_764577572974256180m_-4127028414415728312g=
+mail-m_-1894082801351558172m_6965745781839327873yui_3_16_0_ym19_1_153800387=
+7538_4044">(Kaanada preethige kai chaachi ninte)</span><span id=3D"m_764577=
+572974256180m_-4127028414415728312gmail-m_-1894082801351558172m_69657457818=
+39327873yui_3_16_0_ym19_1_1538003877538_4045"></span></span></div>
+<div id=3D"m_764577572974256180m_-4127028414415728312gmail-m_-1894082801351=
+558172m_6965745781839327873yui_3_16_0_ym19_1_1538003877538_4046"><span id=
+=3D"m_764577572974256180m_-4127028414415728312gmail-m_-1894082801351558172m=
+_6965745781839327873yui_3_16_0_ym19_1_1538003877538_4047" style=3D"color:#0=
+03366">=C2=A0</span></div>
+<div id=3D"m_764577572974256180m_-4127028414415728312gmail-m_-1894082801351=
+558172m_6965745781839327873yui_3_16_0_ym19_1_1538003877538_4049"><span styl=
+e=3D"color:#003366"><strong id=3D"m_764577572974256180m_-412702841441572831=
+2gmail-m_-1894082801351558172m_6965745781839327873yui_3_16_0_ym19_1_1538003=
+877538_4051"><span id=3D"m_764577572974256180m_-4127028414415728312gmail-m_=
+-1894082801351558172m_6965745781839327873yui_3_16_0_ym19_1_1538003877538_40=
+52">Publicity:</span></strong><span id=3D"m_764577572974256180m_-4127028414=
+415728312gmail-m_-1894082801351558172m_6965745781839327873yui_3_16_0_ym19_1=
+_1538003877538_4053"></span></span></div>
+<div id=3D"m_764577572974256180m_-4127028414415728312gmail-m_-1894082801351=
+558172m_6965745781839327873yui_3_16_0_ym19_1_1538003877538_4054"><span styl=
+e=3D"color:#003366">Print media: A full-page ad in Udayavani, articles in o=
+ther news papers and Kannada movie magazines. The full-page ad will be rele=
+ased on the 19th of October 2018 and will be published on Fridays in the su=
+bsequent four weeks.=C2=A0=C2=A0<br></span></div>
+<div id=3D"m_764577572974256180m_-4127028414415728312gmail-m_-1894082801351=
+558172m_6965745781839327873yui_3_16_0_ym19_1_1538003877538_4058"><span styl=
+e=3D"color:#003366"><span id=3D"m_764577572974256180m_-4127028414415728312g=
+mail-m_-1894082801351558172m_6965745781839327873yui_3_16_0_ym19_1_153800387=
+7538_4060">Visual media: All Kannada television channels.</span><span id=3D=
+"m_764577572974256180m_-4127028414415728312gmail-m_-1894082801351558172m_69=
+65745781839327873yui_3_16_0_ym19_1_1538003877538_4061"></span></span></div>
+<div id=3D"m_764577572974256180m_-4127028414415728312gmail-m_-1894082801351=
+558172m_6965745781839327873yui_3_16_0_ym19_1_1538003877538_4062"><span styl=
+e=3D"color:#003366"><span id=3D"m_764577572974256180m_-4127028414415728312g=
+mail-m_-1894082801351558172m_6965745781839327873yui_3_16_0_ym19_1_153800387=
+7538_4064">Social media: All publicity pages</span><span id=3D"m_7645775729=
+74256180m_-4127028414415728312gmail-m_-1894082801351558172m_696574578183932=
+7873yui_3_16_0_ym19_1_1538003877538_4065"></span></span></div>
+<div id=3D"m_764577572974256180m_-4127028414415728312gmail-m_-1894082801351=
+558172m_6965745781839327873yui_3_16_0_ym19_1_1538003877538_4066"><span styl=
+e=3D"color:#003366"><span id=3D"m_764577572974256180m_-4127028414415728312g=
+mail-m_-1894082801351558172m_6965745781839327873yui_3_16_0_ym19_1_153800387=
+7538_4068">Radio: All radio stations</span><span id=3D"m_764577572974256180=
+m_-4127028414415728312gmail-m_-1894082801351558172m_6965745781839327873yui_=
+3_16_0_ym19_1_1538003877538_4069"></span></span></div>
+<div id=3D"m_764577572974256180m_-4127028414415728312gmail-m_-1894082801351=
+558172m_6965745781839327873yui_3_16_0_ym19_1_1538003877538_4070"><span id=
+=3D"m_764577572974256180m_-4127028414415728312gmail-m_-1894082801351558172m=
+_6965745781839327873yui_3_16_0_ym19_1_1538003877538_4071" style=3D"color:#0=
+03366">=C2=A0</span></div>
+<div id=3D"m_764577572974256180m_-4127028414415728312gmail-m_-1894082801351=
+558172m_6965745781839327873yui_3_16_0_ym19_1_1538003877538_4073" dir=3D"ltr=
+"><span style=3D"color:#003366"><span id=3D"m_764577572974256180m_-41270284=
+14415728312gmail-m_-1894082801351558172m_6965745781839327873yui_3_16_0_ym19=
+_1_1538003877538_4075">The promotion of the song and the sponsors will be d=
+one for</span><strong id=3D"m_764577572974256180m_-4127028414415728312gmail=
+-m_-1894082801351558172m_6965745781839327873yui_3_16_0_ym19_1_1538003877538=
+_4076">=C2=A020 days prior to release</strong><span id=3D"m_764577572974256=
+180m_-4127028414415728312gmail-m_-1894082801351558172m_6965745781839327873y=
+ui_3_16_0_ym19_1_1538003877538_4077">.</span>=C2=A0Attached are the shootin=
+g stills of the video and below are the details of the cast and crew.=C2=A0=
+<span id=3D"m_764577572974256180m_-4127028414415728312gmail-m_-189408280135=
+1558172m_6965745781839327873yui_3_16_0_ym19_1_1538003877538_4078">The actor=
+s have acted in one movie each and several ad films. The song has been sung=
+ by=C2=A0</span><strong id=3D"m_764577572974256180m_-4127028414415728312gma=
+il-m_-1894082801351558172m_6965745781839327873yui_3_16_0_ym19_1_15380038775=
+38_4079">Vyasa Raj</strong><span id=3D"m_764577572974256180m_-4127028414415=
+728312gmail-m_-1894082801351558172m_6965745781839327873yui_3_16_0_ym19_1_15=
+38003877538_4080">, who is one of the renowned singers of Kannada industry.=
+ He has lent his voice for movies like=C2=A0</span><strong id=3D"m_76457757=
+2974256180m_-4127028414415728312gmail-m_-1894082801351558172m_6965745781839=
+327873yui_3_16_0_ym19_1_1538003877538_4081">Mufti, Chakravarthy and Taarak.=
+</strong><br id=3D"m_764577572974256180m_-4127028414415728312gmail-m_-18940=
+82801351558172m_6965745781839327873yui_3_16_0_ym19_1_1538003877538_4082" cl=
+ear=3D"none"></span></div>
+<div id=3D"m_764577572974256180m_-4127028414415728312gmail-m_-1894082801351=
+558172m_6965745781839327873yui_3_16_0_ym19_1_1538003877538_4083"><span styl=
+e=3D"color:#003366">=C2=A0</span></div>
+<div id=3D"m_764577572974256180m_-4127028414415728312gmail-m_-1894082801351=
+558172m_6965745781839327873yui_3_16_0_ym19_1_1538003877538_4086" dir=3D"ltr=
+"><span style=3D"color:#003366">=C2=A0</span></div>
+<div id=3D"m_764577572974256180m_-4127028414415728312gmail-m_-1894082801351=
+558172m_6965745781839327873yui_3_16_0_ym19_1_1538003877538_4089" dir=3D"ltr=
+"><span style=3D"color:#003366">We will be producing a trilingual movie onc=
+e this album has been released. We are planning on casting Kishore Kumar (<=
+a style=3D"color:#003366" href=3D"https://en.wikipedia.org/wiki/Kishore_(ac=
+tor)" rel=3D"noopener noreferrer" target=3D"_blank">https://en.wikipedia.or=
+g/wiki/Kishore_(actor)</a>), a well-known face in South India. The movie wi=
+ll be directed by Anand, who has already directed one movie. We are plannin=
+g on promoting your brand in the movie as well.</span></div>
+<div id=3D"m_764577572974256180m_-4127028414415728312gmail-m_-1894082801351=
+558172m_6965745781839327873yui_3_16_0_ym19_1_1538003877538_4091" dir=3D"ltr=
+"><span style=3D"color:#003366">=C2=A0</span></div>
+<div id=3D"m_764577572974256180m_-4127028414415728312gmail-m_-1894082801351=
+558172m_6965745781839327873yui_3_16_0_ym19_1_1538003877538_4096" dir=3D"ltr=
+"><span style=3D"color:#003366">=C2=A0</span></div>
+<div id=3D"m_764577572974256180m_-4127028414415728312gmail-m_-1894082801351=
+558172m_6965745781839327873yui_3_16_0_ym19_1_1538003877538_4099" dir=3D"ltr=
+"><span style=3D"color:#003366">=C2=A0</span></div>
+<div id=3D"m_764577572974256180m_-4127028414415728312gmail-m_-1894082801351=
+558172m_6965745781839327873yui_3_16_0_ym19_1_1538003877538_4102" dir=3D"ltr=
+">
+<table id=3D"m_764577572974256180m_-4127028414415728312gmail-m_-18940828013=
+51558172m_6965745781839327873yui_3_16_0_ym19_1_1538003877538_4103" border=
+=3D"1" width=3D"623" cellspacing=3D"0" cellpadding=3D"0" align=3D"left">
+<tbody id=3D"m_764577572974256180m_-4127028414415728312gmail-m_-18940828013=
+51558172m_6965745781839327873yui_3_16_0_ym19_1_1538003877538_4104">
+<tr id=3D"m_764577572974256180m_-4127028414415728312gmail-m_-18940828013515=
+58172m_6965745781839327873yui_3_16_0_ym19_1_1538003877538_4105">
+<td id=3D"m_764577572974256180m_-4127028414415728312gmail-m_-18940828013515=
+58172m_6965745781839327873yui_3_16_0_ym19_1_1538003877538_4106" colspan=3D"=
+1" rowspan=3D"1" nowrap width=3D"72">
+<div id=3D"m_764577572974256180m_-4127028414415728312gmail-m_-1894082801351=
+558172m_6965745781839327873yui_3_16_0_ym19_1_1538003877538_4107"><span id=
+=3D"m_764577572974256180m_-4127028414415728312gmail-m_-1894082801351558172m=
+_6965745781839327873yui_3_16_0_ym19_1_1538003877538_4108" style=3D"color:#0=
+03366">Hero</span></div>
+</td>
+<td id=3D"m_764577572974256180m_-4127028414415728312gmail-m_-18940828013515=
+58172m_6965745781839327873yui_3_16_0_ym19_1_1538003877538_4110" colspan=3D"=
+1" rowspan=3D"1" valign=3D"bottom" width=3D"551">
+<div id=3D"m_764577572974256180m_-4127028414415728312gmail-m_-1894082801351=
+558172m_6965745781839327873yui_3_16_0_ym19_1_1538003877538_4111"><span id=
+=3D"m_764577572974256180m_-4127028414415728312gmail-m_-1894082801351558172m=
+_6965745781839327873yui_3_16_0_ym19_1_1538003877538_4112" style=3D"color:#0=
+03366">Ayush</span></div>
+<div id=3D"m_764577572974256180m_-4127028414415728312gmail-m_-1894082801351=
+558172m_6965745781839327873yui_3_16_0_ym19_1_1538003877538_4114"><span id=
+=3D"m_764577572974256180m_-4127028414415728312gmail-m_-1894082801351558172m=
+_6965745781839327873yui_3_16_0_ym19_1_1538003877538_4115" style=3D"color:#0=
+03366"><a style=3D"color:#003366" href=3D"https://www.youtube.com/watch?v=
+=3D7ORQtGHrJeg" rel=3D"noopener noreferrer" target=3D"_blank">https://www.y=
+outube.com/watch?v=3D7ORQtGHrJeg</a>=C2=A0<br id=3D"m_764577572974256180m_-=
+4127028414415728312gmail-m_-1894082801351558172m_6965745781839327873yui_3_1=
+6_0_ym19_1_1538003877538_4117" clear=3D"none"><a style=3D"color:#003366" hr=
+ef=3D"https://www.youtube.com/watch?v=3DuKfZHrYAiLE" rel=3D"noopener norefe=
+rrer" target=3D"_blank">https://www.youtube.com/watch?v=3DuKfZHrYAiLE</a><b=
+r id=3D"m_764577572974256180m_-4127028414415728312gmail-m_-1894082801351558=
+172m_6965745781839327873yui_3_16_0_ym19_1_1538003877538_4118" clear=3D"none=
+"><a style=3D"color:#003366" href=3D"https://www.youtube.com/watch?v=3DdRV0=
+Gl5NnHI" rel=3D"noopener noreferrer" target=3D"_blank">https://www.youtube.=
+com/watch?v=3DdRV0Gl5NnHI</a></span></div>
+</td>
+</tr>
+<tr id=3D"m_764577572974256180m_-4127028414415728312gmail-m_-18940828013515=
+58172m_6965745781839327873yui_3_16_0_ym19_1_1538003877538_4119">
+<td id=3D"m_764577572974256180m_-4127028414415728312gmail-m_-18940828013515=
+58172m_6965745781839327873yui_3_16_0_ym19_1_1538003877538_4120" colspan=3D"=
+1" rowspan=3D"1" nowrap width=3D"72">
+<div id=3D"m_764577572974256180m_-4127028414415728312gmail-m_-1894082801351=
+558172m_6965745781839327873yui_3_16_0_ym19_1_1538003877538_4121"><span id=
+=3D"m_764577572974256180m_-4127028414415728312gmail-m_-1894082801351558172m=
+_6965745781839327873yui_3_16_0_ym19_1_1538003877538_4122" style=3D"color:#0=
+03366">Heroine</span></div>
+</td>
+<td id=3D"m_764577572974256180m_-4127028414415728312gmail-m_-18940828013515=
+58172m_6965745781839327873yui_3_16_0_ym19_1_1538003877538_4124" colspan=3D"=
+1" rowspan=3D"1" valign=3D"bottom" width=3D"551">
+<div id=3D"m_764577572974256180m_-4127028414415728312gmail-m_-1894082801351=
+558172m_6965745781839327873yui_3_16_0_ym19_1_1538003877538_4125"><span id=
+=3D"m_764577572974256180m_-4127028414415728312gmail-m_-1894082801351558172m=
+_6965745781839327873yui_3_16_0_ym19_1_1538003877538_4126" style=3D"color:#0=
+03366">Chandana Gowda</span></div>
+<div id=3D"m_764577572974256180m_-4127028414415728312gmail-m_-1894082801351=
+558172m_6965745781839327873yui_3_16_0_ym19_1_1538003877538_4128"><span id=
+=3D"m_764577572974256180m_-4127028414415728312gmail-m_-1894082801351558172m=
+_6965745781839327873yui_3_16_0_ym19_1_1538003877538_4129" style=3D"color:#0=
+03366"><a style=3D"color:#003366" href=3D"https://www.facebook.com/Chandana=
+-Gowda" rel=3D"noopener noreferrer" target=3D"_blank">https://www.facebook.=
+com/Chandana-Gowda</a><br id=3D"m_764577572974256180m_-4127028414415728312g=
+mail-m_-1894082801351558172m_6965745781839327873yui_3_16_0_ym19_1_153800387=
+7538_4131" clear=3D"none"><a style=3D"color:#003366" href=3D"https://www.fa=
+cebook.com/profile.php?id=3D100007423036824" rel=3D"noopener noreferrer" ta=
+rget=3D"_blank">https://www.facebook.com/profile.php?id=3D100007423036824</=
+a></span></div>
+</td>
+</tr>
+<tr id=3D"m_764577572974256180m_-4127028414415728312gmail-m_-18940828013515=
+58172m_6965745781839327873yui_3_16_0_ym19_1_1538003877538_4132">
+<td id=3D"m_764577572974256180m_-4127028414415728312gmail-m_-18940828013515=
+58172m_6965745781839327873yui_3_16_0_ym19_1_1538003877538_4133" colspan=3D"=
+1" rowspan=3D"1" nowrap width=3D"72">
+<div id=3D"m_764577572974256180m_-4127028414415728312gmail-m_-1894082801351=
+558172m_6965745781839327873yui_3_16_0_ym19_1_1538003877538_4134"><span id=
+=3D"m_764577572974256180m_-4127028414415728312gmail-m_-1894082801351558172m=
+_6965745781839327873yui_3_16_0_ym19_1_1538003877538_4135" style=3D"color:#0=
+03366">DOP</span></div>
+</td>
+<td id=3D"m_764577572974256180m_-4127028414415728312gmail-m_-18940828013515=
+58172m_6965745781839327873yui_3_16_0_ym19_1_1538003877538_4137" colspan=3D"=
+1" rowspan=3D"1" valign=3D"bottom" nowrap width=3D"551">
+<div id=3D"m_764577572974256180m_-4127028414415728312gmail-m_-1894082801351=
+558172m_6965745781839327873yui_3_16_0_ym19_1_1538003877538_4138"><span id=
+=3D"m_764577572974256180m_-4127028414415728312gmail-m_-1894082801351558172m=
+_6965745781839327873yui_3_16_0_ym19_1_1538003877538_4139" style=3D"color:#0=
+03366">Rachputi Arun Kumar</span></div>
+</td>
+</tr>
+<tr id=3D"m_764577572974256180m_-4127028414415728312gmail-m_-18940828013515=
+58172m_6965745781839327873yui_3_16_0_ym19_1_1538003877538_4141">
+<td id=3D"m_764577572974256180m_-4127028414415728312gmail-m_-18940828013515=
+58172m_6965745781839327873yui_3_16_0_ym19_1_1538003877538_4142" colspan=3D"=
+1" rowspan=3D"1" nowrap width=3D"72">
+<div id=3D"m_764577572974256180m_-4127028414415728312gmail-m_-1894082801351=
+558172m_6965745781839327873yui_3_16_0_ym19_1_1538003877538_4143"><span id=
+=3D"m_764577572974256180m_-4127028414415728312gmail-m_-1894082801351558172m=
+_6965745781839327873yui_3_16_0_ym19_1_1538003877538_4144" style=3D"color:#0=
+03366">Singer</span></div>
+</td>
+<td id=3D"m_764577572974256180m_-4127028414415728312gmail-m_-18940828013515=
+58172m_6965745781839327873yui_3_16_0_ym19_1_1538003877538_4146" colspan=3D"=
+1" rowspan=3D"1" valign=3D"bottom" width=3D"551">
+<div id=3D"m_764577572974256180m_-4127028414415728312gmail-m_-1894082801351=
+558172m_6965745781839327873yui_3_16_0_ym19_1_1538003877538_4147"><span id=
+=3D"m_764577572974256180m_-4127028414415728312gmail-m_-1894082801351558172m=
+_6965745781839327873yui_3_16_0_ym19_1_1538003877538_4148" style=3D"color:#0=
+03366">Vyasa Raj</span></div>
+<div id=3D"m_764577572974256180m_-4127028414415728312gmail-m_-1894082801351=
+558172m_6965745781839327873yui_3_16_0_ym19_1_1538003877538_4150"><span id=
+=3D"m_764577572974256180m_-4127028414415728312gmail-m_-1894082801351558172m=
+_6965745781839327873yui_3_16_0_ym19_1_1538003877538_4151" style=3D"color:#0=
+03366"><a style=3D"color:#003366" href=3D"https://www.google.co.in/search?e=
+i=3DmdOXW5PdMYrTvwSrsbyoBQ&amp;q=3Dvyas+raj+singer&amp;oq=3Dvyas+raj&amp;gs=
+_l=3Dpsy-ab.3.1.0l3j0i10k1j0j0i10k1l5.13931.16704.0.18709.8.8.0.0.0.0.311.1=
+380.0j1j4j1.6.0....0...1c.1.64.psy-ab..2.6.1380...0i131k1j0i67k1j0i20i263k1=
+.0.jlzCRj3VL0s" rel=3D"noopener noreferrer" target=3D"_blank">https://www.g=
+oogle.co.in/search?ei=3DmdOXW5PdMYrTvwSrsbyoBQ&amp;q=3Dvyas+raj+singer&amp;=
+oq=3Dvyas+raj&amp;gs_l=3Dpsy-ab.3.1.0l3j0i10k1j0j0i10k1l5.13931.16704.0.187=
+09.8.8.0.0.0.0.311.1380.0j1j4j1.6.0....0...1c.1.64.psy-ab..2.6.1380...0i131=
+k1j0i67k1j0i20i263k1.0.jlzCRj3VL0s</a><br id=3D"m_764577572974256180m_-4127=
+028414415728312gmail-m_-1894082801351558172m_6965745781839327873yui_3_16_0_=
+ym19_1_1538003877538_4153" clear=3D"none"><a style=3D"color:#003366" href=
+=3D"https://chiloka.com/celebrity/vyas-raj/filmography" rel=3D"noopener nor=
+eferrer" target=3D"_blank">https://chiloka.com/celebrity/vyas-raj/filmograp=
+hy</a></span></div>
+</td>
+</tr>
+<tr id=3D"m_764577572974256180m_-4127028414415728312gmail-m_-18940828013515=
+58172m_6965745781839327873yui_3_16_0_ym19_1_1538003877538_4154">
+<td id=3D"m_764577572974256180m_-4127028414415728312gmail-m_-18940828013515=
+58172m_6965745781839327873yui_3_16_0_ym19_1_1538003877538_4155" colspan=3D"=
+1" rowspan=3D"1" nowrap width=3D"72">
+<div id=3D"m_764577572974256180m_-4127028414415728312gmail-m_-1894082801351=
+558172m_6965745781839327873yui_3_16_0_ym19_1_1538003877538_4156"><span id=
+=3D"m_764577572974256180m_-4127028414415728312gmail-m_-1894082801351558172m=
+_6965745781839327873yui_3_16_0_ym19_1_1538003877538_4157" style=3D"color:#0=
+03366">Producer</span></div>
+</td>
+<td id=3D"m_764577572974256180m_-4127028414415728312gmail-m_-18940828013515=
+58172m_6965745781839327873yui_3_16_0_ym19_1_1538003877538_4159" colspan=3D"=
+1" rowspan=3D"1" valign=3D"bottom" nowrap width=3D"551">
+<div id=3D"m_764577572974256180m_-4127028414415728312gmail-m_-1894082801351=
+558172m_6965745781839327873yui_3_16_0_ym19_1_1538003877538_4160"><span id=
+=3D"m_764577572974256180m_-4127028414415728312gmail-m_-1894082801351558172m=
+_6965745781839327873yui_3_16_0_ym19_1_1538003877538_4161" style=3D"color:#0=
+03366">P. J. B. Productions Pvt. Ltd.</span></div>
+</td>
+</tr>
+<tr id=3D"m_764577572974256180m_-4127028414415728312gmail-m_-18940828013515=
+58172m_6965745781839327873yui_3_16_0_ym19_1_1538003877538_4163">
+<td id=3D"m_764577572974256180m_-4127028414415728312gmail-m_-18940828013515=
+58172m_6965745781839327873yui_3_16_0_ym19_1_1538003877538_4164" colspan=3D"=
+1" rowspan=3D"1" nowrap width=3D"72">
+<div id=3D"m_764577572974256180m_-4127028414415728312gmail-m_-1894082801351=
+558172m_6965745781839327873yui_3_16_0_ym19_1_1538003877538_4165"><span id=
+=3D"m_764577572974256180m_-4127028414415728312gmail-m_-1894082801351558172m=
+_6965745781839327873yui_3_16_0_ym19_1_1538003877538_4166" style=3D"color:#0=
+03366">VFX</span></div>
+</td>
+<td id=3D"m_764577572974256180m_-4127028414415728312gmail-m_-18940828013515=
+58172m_6965745781839327873yui_3_16_0_ym19_1_1538003877538_4168" colspan=3D"=
+1" rowspan=3D"1" valign=3D"bottom" nowrap width=3D"551">
+<div id=3D"m_764577572974256180m_-4127028414415728312gmail-m_-1894082801351=
+558172m_6965745781839327873yui_3_16_0_ym19_1_1538003877538_4169"><span id=
+=3D"m_764577572974256180m_-4127028414415728312gmail-m_-1894082801351558172m=
+_6965745781839327873yui_3_16_0_ym19_1_1538003877538_4170" style=3D"color:#0=
+03366">Ganesh &amp; Team</span></div>
+</td>
+</tr>
+<tr id=3D"m_764577572974256180m_-4127028414415728312gmail-m_-18940828013515=
+58172m_6965745781839327873yui_3_16_0_ym19_1_1538003877538_4172">
+<td id=3D"m_764577572974256180m_-4127028414415728312gmail-m_-18940828013515=
+58172m_6965745781839327873yui_3_16_0_ym19_1_1538003877538_4173" colspan=3D"=
+1" rowspan=3D"1" nowrap width=3D"72">
+<div id=3D"m_764577572974256180m_-4127028414415728312gmail-m_-1894082801351=
+558172m_6965745781839327873yui_3_16_0_ym19_1_1538003877538_4174"><span id=
+=3D"m_764577572974256180m_-4127028414415728312gmail-m_-1894082801351558172m=
+_6965745781839327873yui_3_16_0_ym19_1_1538003877538_4175" style=3D"color:#0=
+03366">Costume</span></div>
+</td>
+<td id=3D"m_764577572974256180m_-4127028414415728312gmail-m_-18940828013515=
+58172m_6965745781839327873yui_3_16_0_ym19_1_1538003877538_4177" colspan=3D"=
+1" rowspan=3D"1" valign=3D"bottom" nowrap width=3D"551">
+<div id=3D"m_764577572974256180m_-4127028414415728312gmail-m_-1894082801351=
+558172m_6965745781839327873yui_3_16_0_ym19_1_1538003877538_4178"><span id=
+=3D"m_764577572974256180m_-4127028414415728312gmail-m_-1894082801351558172m=
+_6965745781839327873yui_3_16_0_ym19_1_1538003877538_4179" style=3D"color:#0=
+03366">Shirali</span></div>
+</td>
+</tr>
+<tr id=3D"m_764577572974256180m_-4127028414415728312gmail-m_-18940828013515=
+58172m_6965745781839327873yui_3_16_0_ym19_1_1538003877538_4181">
+<td id=3D"m_764577572974256180m_-4127028414415728312gmail-m_-18940828013515=
+58172m_6965745781839327873yui_3_16_0_ym19_1_1538003877538_4182" colspan=3D"=
+1" rowspan=3D"1" nowrap width=3D"72">
+<div id=3D"m_764577572974256180m_-4127028414415728312gmail-m_-1894082801351=
+558172m_6965745781839327873yui_3_16_0_ym19_1_1538003877538_4183"><span id=
+=3D"m_764577572974256180m_-4127028414415728312gmail-m_-1894082801351558172m=
+_6965745781839327873yui_3_16_0_ym19_1_1538003877538_4184" style=3D"color:#0=
+03366">Programmer</span></div>
+</td>
+<td id=3D"m_764577572974256180m_-4127028414415728312gmail-m_-18940828013515=
+58172m_6965745781839327873yui_3_16_0_ym19_1_1538003877538_4186" colspan=3D"=
+1" rowspan=3D"1" valign=3D"bottom" nowrap width=3D"551">
+<div id=3D"m_764577572974256180m_-4127028414415728312gmail-m_-1894082801351=
+558172m_6965745781839327873yui_3_16_0_ym19_1_1538003877538_4187"><span id=
+=3D"m_764577572974256180m_-4127028414415728312gmail-m_-1894082801351558172m=
+_6965745781839327873yui_3_16_0_ym19_1_1538003877538_4188" style=3D"color:#0=
+03366">Anil C. J.</span></div>
+</td>
+</tr>
+<tr id=3D"m_764577572974256180m_-4127028414415728312gmail-m_-18940828013515=
+58172m_6965745781839327873yui_3_16_0_ym19_1_1538003877538_4190">
+<td id=3D"m_764577572974256180m_-4127028414415728312gmail-m_-18940828013515=
+58172m_6965745781839327873yui_3_16_0_ym19_1_1538003877538_4191" colspan=3D"=
+1" rowspan=3D"1" nowrap width=3D"72">
+<div id=3D"m_764577572974256180m_-4127028414415728312gmail-m_-1894082801351=
+558172m_6965745781839327873yui_3_16_0_ym19_1_1538003877538_4192"><span id=
+=3D"m_764577572974256180m_-4127028414415728312gmail-m_-1894082801351558172m=
+_6965745781839327873yui_3_16_0_ym19_1_1538003877538_4193" style=3D"color:#0=
+03366">Musician</span></div>
+</td>
+<td id=3D"m_764577572974256180m_-4127028414415728312gmail-m_-18940828013515=
+58172m_6965745781839327873yui_3_16_0_ym19_1_1538003877538_4195" colspan=3D"=
+1" rowspan=3D"1" valign=3D"bottom" nowrap width=3D"551">
+<div id=3D"m_764577572974256180m_-4127028414415728312gmail-m_-1894082801351=
+558172m_6965745781839327873yui_3_16_0_ym19_1_1538003877538_4196"><span id=
+=3D"m_764577572974256180m_-4127028414415728312gmail-m_-1894082801351558172m=
+_6965745781839327873yui_3_16_0_ym19_1_1538003877538_4197" style=3D"color:#0=
+03366">Alap Raj</span></div>
+</td>
+</tr>
+<tr id=3D"m_764577572974256180m_-4127028414415728312gmail-m_-18940828013515=
+58172m_6965745781839327873yui_3_16_0_ym19_1_1538003877538_4199">
+<td id=3D"m_764577572974256180m_-4127028414415728312gmail-m_-18940828013515=
+58172m_6965745781839327873yui_3_16_0_ym19_1_1538003877538_4200" colspan=3D"=
+1" rowspan=3D"1" nowrap width=3D"72">
+<div id=3D"m_764577572974256180m_-4127028414415728312gmail-m_-1894082801351=
+558172m_6965745781839327873yui_3_16_0_ym19_1_1538003877538_4201"><span id=
+=3D"m_764577572974256180m_-4127028414415728312gmail-m_-1894082801351558172m=
+_6965745781839327873yui_3_16_0_ym19_1_1538003877538_4202" style=3D"color:#0=
+03366">Makeup Artist</span></div>
+</td>
+<td id=3D"m_764577572974256180m_-4127028414415728312gmail-m_-18940828013515=
+58172m_6965745781839327873yui_3_16_0_ym19_1_1538003877538_4204" colspan=3D"=
+1" rowspan=3D"1" valign=3D"bottom" nowrap width=3D"551">
+<div id=3D"m_764577572974256180m_-4127028414415728312gmail-m_-1894082801351=
+558172m_6965745781839327873yui_3_16_0_ym19_1_1538003877538_4205" dir=3D"ltr=
+"><span id=3D"m_764577572974256180m_-4127028414415728312gmail-m_-1894082801=
+351558172m_6965745781839327873yui_3_16_0_ym19_1_1538003877538_4206" style=
+=3D"color:#003366">Vinodh Raj</span></div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div><span style=3D"color:#003366">=C2=A0</span></div>
+<div><span style=3D"color:#003366">=C2=A0</span></div>
+<div><span style=3D"color:#003366">=C2=A0</span></div>
+<div><span style=3D"color:#003366">=C2=A0</span></div>
+<div><span style=3D"color:#003366">=C2=A0</span></div>
+<div><span style=3D"color:#003366">=C2=A0</span></div>
+<div><span style=3D"color:#003366">=C2=A0</span></div>
+<div><span style=3D"color:#003366">=C2=A0</span></div>
+<div><span style=3D"color:#003366">=C2=A0</span></div>
+<div><span style=3D"color:#003366">=C2=A0</span></div>
+<div><span style=3D"color:#003366">=C2=A0</span></div>
+<div><span style=3D"color:#003366">=C2=A0</span></div>
+<div><span style=3D"color:#003366">=C2=A0</span></div>
+<div><span style=3D"color:#003366">=C2=A0</span></div>
+<div><span style=3D"color:#003366">=C2=A0</span></div>
+<div><span style=3D"color:#003366">=C2=A0</span></div>
+<div><span style=3D"color:#003366">=C2=A0</span></div>
+<div><span style=3D"color:#003366">=C2=A0</span></div>
+<div><span style=3D"color:#003366">=C2=A0</span></div>
+<div><span style=3D"color:#003366">=C2=A0</span></div>
+<div><span style=3D"color:#003366">=C2=A0</span></div>
+<div id=3D"m_764577572974256180m_-4127028414415728312gmail-m_-1894082801351=
+558172m_6965745781839327873yui_3_16_0_ym19_1_1538003877538_4649"><span styl=
+e=3D"color:#003366">=C2=A0</span></div>
+<div id=3D"m_764577572974256180m_-4127028414415728312gmail-m_-1894082801351=
+558172m_6965745781839327873yui_3_16_0_ym19_1_1538003877538_4649"><span styl=
+e=3D"color:#003366"><em id=3D"m_764577572974256180m_-4127028414415728312gma=
+il-m_-1894082801351558172m_6965745781839327873yui_3_16_0_ym19_1_15380038775=
+38_4215">Thank you for spending your valuable time in going through the spo=
+nsorship details. We look forward to working with you soon.=C2=A0=C2=A0</em=
+></span></div>
+<div id=3D"m_764577572974256180m_-4127028414415728312gmail-m_-1894082801351=
+558172m_6965745781839327873yui_3_16_0_ym19_1_1538003877538_4649"><span styl=
+e=3D"color:#003366"><em>=C2=A0</em></span></div>
+<div><span></span><br>
+<p><br></p>
+<p><span style=3D"color:#000080;font-family:tahoma,sans-serif"><strong><spa=
+n class=3D"gmail_default"></span>Thanks and regards,</strong></span></p>
+<div><span style=3D"color:#000080;font-family:tahoma,sans-serif"><strong>Jo=
+sh PJ</strong></span></div>
+<div><span style=3D"color:#000080"><span style=3D"font-family:tahoma,sans-s=
+erif"><strong>Managing Director |</strong></span><strong>PJB Productions Pv=
+t.Ltd. </strong></span></div>
+<div><span style=3D"color:#000080"><strong>|Mob: +919880289532 | <a href=3D=
+"mailto:josh@pjbproductions.in" target=3D"_blank">josh@pjbproductions.in</a=
+></strong></span></div>
+<div><span style=3D"font-size:8pt"><strong>|No. 151, 1st floor, 3rd Cross, =
+Kalyan House Building Co-operative Society(KHBC),</strong></span></div>
+<div><span style=3D"font-size:8pt"><strong>|Hampinagar,=C2=A0 RPC Layout, V=
+ijayanagar 2nd Stage, Bangalore 560104</strong></span></div>
+<div>=C2=A0</div>
+<div><strong>=C2=A0</strong></div>
+<div>
+<div><span style=3D"color:#20124d;font-family:tahoma,sans-serif">[CONFIDENT=
+IALITY NOTICE:</span></div>
+<div><span style=3D"font-size:10pt"><span style=3D"color:#20124d;font-famil=
+y:tahoma,sans-serif">The contents of this email message and any attachments=
+ are intended solely for the addressee(s)=C2=A0</span></span>
+<div><span style=3D"color:#20124d;font-family:tahoma,sans-serif;font-size:1=
+0pt">and may contain confidential and/or privileged information and may be =
+legally protected from disclosure. If you are not the intended recipient of=
+ this message or their agent, or if this message has been addressed to you =
+in error, please immediately alert the sender by reply email and then delet=
+e this message and any attachments. If you are not the intended recipient, =
+you are hereby notified that any use, dissemination, copying, or storage of=
+ this message or its attachments is strictly prohibited. ]</span></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div></div>
+
+--000000000000ee5891057e8aed9b--

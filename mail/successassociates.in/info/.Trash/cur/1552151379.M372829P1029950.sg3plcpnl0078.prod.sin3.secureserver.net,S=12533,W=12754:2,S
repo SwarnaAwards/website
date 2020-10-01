@@ -1,0 +1,221 @@
+Return-Path: <no-reply@indeed.com>
+Delivered-To: info@successassociates.in
+Received: from sg3plcpnl0078.prod.sin3.secureserver.net
+	by sg3plcpnl0078.prod.sin3.secureserver.net with LMTP id QJJaFFPzg1w+tw8AUghlVg
+	for <info@successassociates.in>; Sat, 09 Mar 2019 10:09:39 -0700
+Return-path: <no-reply@indeed.com>
+Envelope-to: info@successassociates.in
+Delivery-date: Sat, 09 Mar 2019 10:09:39 -0700
+Received: from mail64.indeed.com ([198.58.75.64]:33828)
+	by sg3plcpnl0078.prod.sin3.secureserver.net with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.91)
+	(envelope-from <no-reply@indeed.com>)
+	id 1h2fTa-004Udx-9y
+	for info@successassociates.in; Sat, 09 Mar 2019 10:09:39 -0700
+Received: from aus-mexec87.indeed.net (unknown [10.1.3.210])
+	by mail64.indeed.com (Postfix) with ESMTP id 44GrS44DFLz7QW06
+	for <info@successassociates.in>; Sat,  9 Mar 2019 11:08:52 -0600 (CST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=indeed.com;
+	s=default; t=1552151332;
+	bh=I9czZssWvzhxYk2D61zL7QZQamnhXVbnz/n3ezlfCRA=;
+	h=From:Reply-To:To:Subject:Date;
+	b=gyaUjtH2eaZwfBCXFmwp5deQx8CFAaA8Od6m8cU2g8DZxZjvq5R4QJ0yjJsk5W8nH
+	 INx2enlk2AMOzodC8krjhHelAQK3QsL093XwP5ft96zQy9G7FaI6Z3sVkkFaM5so6Y
+	 QFZRfEPy9TmrKuGrlq75lw58RAQtXisv3SMvE63Q=
+From: Indeed for Employers <no-reply@indeed.com>
+Reply-To: Indeed for Employers <no-reply@indeed.com>
+To: info@successassociates.in
+Message-ID: <1564146833.1260244.1552151332483.JavaMail.notifications@aus-mexec87.indeed.net>
+Subject: Your Delivery Person Job Posting Has Been Paused: Please Let Us
+ Know If You Are Still Hiring
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_1260243_980287154.1552151332482"
+X-Indeed-FBL: :2:17d48d7cf0b784a164a4e7ea2446c2507f8813e3477ed274be9ec29b886dde04
+X-Indeed-Client-App: EmailAlerterDaemon
+X-Indeed-Content-Type: DradisEmailService.AUTO_PAUSE_JOB
+X-Indeed-TK: 1d5hmrheg382u801
+Date: Sat,  9 Mar 2019 11:08:52 -0600 (CST)
+X-Spam-Status: No, score=-13.1
+X-Spam-Score: -130
+X-Spam-Bar: -------------
+X-Ham-Report: Spam detection software, running on the system "sg3plcpnl0078.prod.sin3.secureserver.net",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  Your job has been paused Delivery Person - 560040 Your Delivery
+    Person - 560040 job listing has lapsed. After 30 days, jobs on Indeed are
+    automatically paused to ensure that job seekers see only listi
+ 
+ Content analysis details:   (-13.1 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 SURBL_BLOCKED          ADMINISTRATOR NOTICE: The query to SURBL was blocked.
+                             See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: indeed.com]
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+                             See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: indeed.com]
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+ -7.5 USER_IN_DEF_DKIM_WL    From: address is in the default DKIM white-list
+ -7.5 USER_IN_DEF_SPF_WL     From: address is in the default SPF white-list
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  0.0 HTML_FONT_LOW_CONTRAST BODY: HTML font color similar or identical to
+                             background
+  0.7 MPART_ALT_DIFF         BODY: HTML and text parts are different
+  1.1 MIME_HTML_ONLY         BODY: Message only has text/html MIME parts
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from author's
+                             domain
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily valid
+  0.0 MIME_HTML_ONLY_MULTI   Multipart message only has text/html MIME parts
+ -0.5 ENV_AND_HDR_SPF_MATCH  Env and Hdr From used in default SPF WL Match
+  0.6 HTML_MIME_NO_HTML_TAG  HTML-only message, but there is no HTML tag
+X-Spam-Flag: NO
+
+------=_Part_1260243_980287154.1552151332482
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<head><meta http-equiv=3D"Content-Type" content=3D"text/html;charset=3Dutf-=
+8"><meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=
+=3D1.0" /><style type=3D"text/css">
+            a {
+                outline: none;
+                color: #00c;
+                text-decoration: none;
+            }
+
+            a:hover {
+                text-decoration:none !important;
+            }
+            .active:hover {
+                opacity:0.8;
+            }
+            .active {
+                -webkit-transition:all 0.3s ease;
+                -moz-transition:all 0.3s ease;
+                -ms-transition:all 0.3s ease;
+                transition:all 0.3s ease;
+            }
+            a img {
+                border:none;
+            }
+            table td {
+                mso-line-height-rule:exactly;
+            }
+            @media only screen and (max-width:500px) {
+                /* default style */
+                table[class=3D"flexible"] {
+                    width:100% !important;
+                }
+                *[class=3D"hide"] {
+                    display:none !important;
+                    width:0 !important;
+                    height:0 !important;
+                    padding:0 !important;
+                    font-size:0 !important;
+                    line-height:0 !important;
+                }
+                span[class~=3D"db"] {
+                    display:block !important;
+                }
+                div[class~=3D"mobile-inline"] {
+                    display:inline !important;
+                }
+                td[class=3D"mobile-padding"] {
+                    padding: 16px 12px 0 12px !important;
+                }
+                /* custom style */
+                td[class=3D"content"] {
+                    padding: 25px 15px !important;
+                }
+            }
+        </style></head><body style=3D"margin:0; padding:0; -webkit-text-siz=
+e-adjust:100%; -ms-text-size-adjust:100%;" bgcolor=3D"#f2f2f2"><table style=
+=3D"min-width:320px;" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" bg=
+color=3D"#f2f2f2"><!-- fix for gmail --><tr><td style=3D"line-height:0;"><d=
+iv style=3D"display:none; white-space:nowrap; font:15px/1px courier;">&nbsp=
+; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nb=
+sp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &=
+nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;=
+</div></td></tr><tr><td style=3D"padding: 20px 10px;"><table class=3D"flexi=
+ble" align=3D"center" style=3D"margin:0 auto;max-width: 560px;" cellpadding=
+=3D"0" cellspacing=3D"0"><!-- content --><tr><td class=3D"content" bgcolor=
+=3D"#ffffff" style=3D"padding: 32px 20px; font-family: Arial, sans-serif; f=
+ont-size: 14px; font-weight: normal; font-style: normal; font-stretch: norm=
+al; line-height: 1.43;"><table width=3D"100%" cellpadding=3D"0" cellspacing=
+=3D"0"><tr><td align=3D"center" style=3D"padding: 0 0 28px;"><a href=3D"htt=
+p://www.indeed.com" target=3D"_blank" style=3D"text-decoration:none;"><img =
+src=3D"https://ads.indeed.com/images/email/indeed-logo.png?refUid=3D1d5hmrh=
+e80cre000" style=3D"vertical-align:top; width: 137px; height: 36px; font:bo=
+ld 36px/36px HelveticaNeue, Helvetica, Arial, sans-serif; color:#2164f3;" a=
+lt=3D"indeed" width=3D"137" height=3D"36" /></a></td></tr><tr><td class=3D"=
+sg-heading2" align=3D"center" style=3D"padding-top:28px; border-top: 2px so=
+lid #99CCFF; border-bottom:  solid #99CCFF;"><table width=3D"100%" cellpadd=
+ing=3D"0" cellspacing=3D"0"><tr><td align=3D"left" style=3D"font:14px/22px =
+Arial, Helvetica, sans-serif; color:#3c4046; padding: 5px 5px 0;"><div styl=
+e=3D"font-size: 25px;color: #000000;text-align: center;margin-bottom: 15px;=
+">Your job has been paused</div><div style=3D"font-size: 16px;text-align: c=
+enter;margin-bottom: 15px;"><a href=3D"https://employers.indeed.com/j#jobs/=
+view?id=3Dd7187de7e436&lid=3Dunpause&refUid=3D1d5hmrhe80cre000" target=3D"_=
+blank">Delivery Person - 560040</a></div></td></tr></table></td></tr><tr><t=
+d class=3D"sg-heading2" align=3D"center" style=3D"padding-top:28px; border-=
+top: 2px solid #99CCFF; border-bottom:  solid #99CCFF;"><table width=3D"100=
+%" cellpadding=3D"0" cellspacing=3D"0"><tr><td align=3D"left" style=3D"font=
+:14px/22px Arial, Helvetica, sans-serif; color:#3c4046; padding: 5px 5px 0;=
+">Your <b style=3D"color:#000000">Delivery Person - 560040</b> job listing =
+has lapsed. After 30 days, jobs on Indeed are automatically paused to ensur=
+e that job seekers see only listings for which employers are actively hirin=
+g.<br><br><div style=3D"font-family: Arial, sans-serif; font-size: 14px; fo=
+nt-weight: bold; font-style: normal; font-stretch: normal; line-height: 1.2=
+9; color: #000000;">Still hiring?</div>It's easy to reopen your job for ano=
+ther 30 day period.<a href=3D"https://employers.indeed.com/j/unpause-job?id=
+=3Dd7187de7e436&lid=3Dunpause&refUid=3D1d5hmrhe80cre000" target=3D"_blank" =
+style=3D"text-decoration: none;"><div style=3D"display:table; height:44px; =
+font-size:18px; border-radius: 4px; background-image: linear-gradient(to bo=
+ttom, #417af5, #0c52e6); box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.18), 0 1px=
+ 3px 0 rgba(0, 0, 0, 0.09); border-width: 1px; border-image-source: linear-=
+gradient(to bottom, #1159f2, #0b46c5); border-image-slice: 0; border-style:=
+ solid; margin-top:5px; font-size: 15px;"><div style=3D"display:table-cell;=
+vertical-align:middle;padding:15px 25px"><div style=3D"font-family: Helveti=
+caNeue, Helvetica, Arial, sans-serif; font-weight: bold; font-style: normal=
+; font-stretch: normal; line-height: 1; color: #ffffff; margin: auto; text-=
+decoration: none;">I&#39;m still hiring - Reopen my job</div></div></div></=
+a><br><div style=3D"font-family: Arial, sans-serif; font-size: 14px; font-w=
+eight: bold; font-style: normal; font-stretch: normal; line-height: 1.29; c=
+olor: #000000;">Make a hire?</div><a href=3D"https://employers.indeed.com/j=
+#jobs/view?id=3Dd7187de7e436&lid=3Dhired_via_Indeed&refUid=3D1d5hmrhe80cre0=
+00" target=3D"_blank" style=3D"text-decoration: none;"><div style=3D"displa=
+y:table; height:44px; min-width: 230px; font-size:15px; border-radius: 4px;=
+ background-image: linear-gradient(to bottom, #fafafa, #ebebeb); box-shadow=
+: 0 1px 2px 0 rgba(0, 0, 0, 0.18), 0 1px 3px 0 rgba(0, 0, 0, 0.09); border-=
+width: 1px; border-image-source: linear-gradient(to bottom, #c2c2c2, #9c9c9=
+c); border-image-slice: 0; border-style: solid; margin-top:5px; border-colo=
+r: #ebebeb;"><div style=3D"display:table-cell;vertical-align:middle;padding=
+:15px 25px"><div style=3D"font-family: HelveticaNeue, sans-serif; font-weig=
+ht: bold; font-style: normal; font-stretch: normal; line-height: 1; color: =
+#333333; margin: auto; text-decoration: none; margin: 0 28px; text-align: c=
+enter;">I hired through Indeed</div></div></div></a><br><div style=3D"font-=
+family: Arial, sans-serif; font-size: 14px; font-weight: bold; font-style: =
+normal; font-stretch: normal; line-height: 1.29; color: #000000;">Need help=
+?</div>Please contact your sales representative if you have one. For immedi=
+ate assistance or help with your job description, please contact Client Ser=
+vices at 1-800-310-8189, or <a href=3D&quot;http://www.indeed.com/account/l=
+ogin&quot;>sign in</a> and click the contact link at the bottom of the page=
+.<br><br>Happy Hiring!<br>The Indeed Team</td></tr></table></td></tr></tabl=
+e></td></tr></table></td></tr><tr><td align=3D"center" style=3D"font:11px/1=
+8px Arial, Helvetica, sans-serif;color:#999999;padding-bottom: 20px;">Indee=
+d.com&nbsp;|&nbsp;177 Broad Street - Stamford, CT  06901</td></tr></table><=
+img src=3D"https://subscriptions.indeed.com/imgping?type=3DemailAlerter&con=
+tentType=3DDradisEmailService.AUTO_PAUSE_JOB&eventUid=3D1d5hmqc010etj02f&em=
+ailAlerterTk=3D1d5hmrheg382u800&tk=3D1d5hmrheg382u801" height=3D"1" width=
+=3D"1"></body>
+------=_Part_1260243_980287154.1552151332482--

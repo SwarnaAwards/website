@@ -1,0 +1,256 @@
+Return-Path: <noreply@indeed.com>
+Delivered-To: info@successassociates.in
+Received: from sg3plcpnl0078.prod.sin3.secureserver.net
+	by sg3plcpnl0078.prod.sin3.secureserver.net with LMTP id ANbyLNp+fVyPYDsAUghlVg
+	for <info@successassociates.in>; Mon, 04 Mar 2019 12:39:06 -0700
+Return-path: <noreply@indeed.com>
+Envelope-to: info@successassociates.in
+Delivery-date: Mon, 04 Mar 2019 12:39:06 -0700
+Received: from mail64.indeed.com ([198.58.75.64]:31405)
+	by sg3plcpnl0078.prod.sin3.secureserver.net with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.91)
+	(envelope-from <noreply@indeed.com>)
+	id 1h0tQT-00GNgW-Ot
+	for info@successassociates.in; Mon, 04 Mar 2019 12:39:06 -0700
+Received: from aus-mexec36.indeed.net (unknown [10.1.3.211])
+	by mail64.indeed.com (Postfix) with ESMTP id 44Cr0q6my0z7QV7J
+	for <info@successassociates.in>; Mon,  4 Mar 2019 13:38:19 -0600 (CST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=indeed.com;
+	s=default; t=1551728299;
+	bh=Jw/Uxeoaej5vGktHWVfD8vD5JMzSS+zHyxNaujbYmaQ=;
+	h=From:To:Subject:Date;
+	b=yvOewdbphWKbrsidt+9+vGpGSLPOfei+IwrGOLgSIGYzglqzMkpi5/kcrCWYyREKR
+	 FwZ8DoIhu4gX9YWQAFSAvOf/WYAxJQ63Vz0qJRBI9zUMAMMvJPOJIvQ+WaPecDFhA9
+	 kfD9BlaSaZ1TprOE9oR0FVypp8pJR2cJZSW6e6KM=
+From: Indeed <noreply@indeed.com>
+To: info@successassociates.in
+Message-ID: <445736107.83730392.1551728299869.JavaMail.notifications@aus-mexec36.indeed.net>
+Subject: Weekly Job Summary
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_83730391_1992108994.1551728299869"
+X-Indeed-FBL: :3:17d48d7cf0b784a164a4e7ea2446c2507f8813e3477ed274be9ec29b886dde04
+X-Indeed-Client-App: dradis-adceventsdaemon
+X-Indeed-Content-Type: Summary Email
+X-Indeed-TK: 1d553djql39p3800
+Date: Mon,  4 Mar 2019 13:38:19 -0600 (CST)
+X-Spam-Status: No, score=-13.8
+X-Spam-Score: -137
+X-Spam-Bar: -------------
+X-Ham-Report: Spam detection software, running on the system "sg3plcpnl0078.prod.sin3.secureserver.net",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  Weekly Job Summary 2019-03-04 Open Jobs (1) [...] 
+ 
+ Content analysis details:   (-13.8 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 SURBL_BLOCKED          ADMINISTRATOR NOTICE: The query to SURBL was blocked.
+                             See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: indeed.com]
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+                             See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: indeed.com]
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+ -7.5 USER_IN_DEF_DKIM_WL    From: address is in the default DKIM white-list
+ -7.5 USER_IN_DEF_SPF_WL     From: address is in the default SPF white-list
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  0.7 MPART_ALT_DIFF         BODY: HTML and text parts are different
+  1.1 MIME_HTML_ONLY         BODY: Message only has text/html MIME parts
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from author's
+                             domain
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily valid
+  0.0 MIME_HTML_ONLY_MULTI   Multipart message only has text/html MIME parts
+ -0.5 ENV_AND_HDR_SPF_MATCH  Env and Hdr From used in default SPF WL Match
+X-Spam-Flag: NO
+
+------=_Part_83730391_1992108994.1551728299869
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org=
+/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns=3D"http://www.w3.org/1999/xht=
+ml"><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3Dutf-8">
+    <style type=3D"text/css">
+        @media only screen and (min-device-width: 320px) and (max-device-wi=
+dth: 568px),
+        @media only screen and (min-device-width: 320px) and (max-device-wi=
+dth: 480px) {
+            /* iPhones */
+            table[id=3DtableWrapper] {
+                margin: 0 0;
+            }
+            td[id=3DheaderWrapper] {
+                display: table-cell;
+                padding: 10px 10px 20px 10px;
+            }
+        }
+        @media only screen and (min-width: 600px) {
+            /* Apple Mail */
+            #tableWrapper {
+                width: 600px !important;
+            }
+            #featureimage {
+                width: 598px !important;
+            }
+        }
+    </style>
+    <!--[if gte mso 9]>
+        <style type=3D"text/css">
+          /* Outlook 2007-2013 */
+          #tableWrapper { width:600px !important; }
+          .ctaButtonWrapper { width: 33.33% !important; }
+          .ctaButton { background-color: #f5f5f5; padding: 12px 18px; }
+          .ctaButton a { border: none !important; background-color: #f5f5f5=
+ !important; padding:0 !important; }
+          .blueButton { background-color: #2164f3; padding: 10px 18px; }
+          .blueButton a { border: none !important; background-color: #2164f=
+3 !important; padding:0 !important; }
+        </style>
+    <![endif]-->
+    <!--[if IE]>
+        <style type=3D"text/css">
+            /* Older Outlook/Lotus Notes */
+            #tableWrapper { width: 600px !important; }
+            #headerContent { padding: 20px !important; }
+        </style>
+    <![endif]-->
+    </head><body style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adj=
+ust: 100%; margin: 0; padding: 0; width: 100%;"><table id=3D"backgroundTabl=
+e" width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D=
+"margin: 0; padding: 0; width: 100%; line-height: 100%;"><tr><td align=3D"c=
+enter" style=3D"margin:0; border-collapse:collapse;"><table id=3D"tableWrap=
+per" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"margin: 10px=
+ 0; max-width: 600px; border: 1px solid #DDDDDD; background-color:#f0f0f0;"=
+><tr><td align=3D"center" style=3D"margin:0; border-collapse:collapse;"><ta=
+ble id=3D"headerWrapper" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" s=
+tyle=3D"width:100%;"><tr><td align=3D"center" id=3D"headerContent" style=3D=
+"margin:0; border-collapse:collapse; padding: 32px 30px 0px 30px;"><div sty=
+le=3D" padding-top: 20px;background-color:white"><img    height=3D"50" widt=
+h=3D"181" src=3D"https://ads.indeed.com//images/email/indeed-logo.png?refUi=
+d=3D1d553dgr939p3801" alt=3D"Indeed Logo" title=3D"Indeed Logo" border=3D"0=
+" style=3D"outline:none; text-decoration:none; -ms-interpolation-mode:bicub=
+ic; max-width:100%; height:auto; border-style:none;"></div></td></tr></tabl=
+e><table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" st=
+yle=3D"table-layout:fixed;"><tr><td align=3D"center" id=3D"contentWrapper" =
+style=3D"margin: 0;border-collapse: collapse;text-align: left;">
+                <style type=3D"text/css">
+                    @media only screen and (min-device-width: 320px) and (m=
+ax-device-width: 600px) {
+                        #bodyContent {
+                            padding: 0 0 !important;
+                        }
+                        #headerContent {
+                            padding: 0 0 !important;
+                        }
+                        .card {
+                            padding: 26px 20px !important;
+                        }
+                        .card ul li {
+                            padding-right: 30px !important;
+                        }
+                        .card ul li:last-child {
+                            padding-right: 0px !important;
+                        }
+                        #jobTitle {
+                            font-size: 20px !important;
+                        }
+                        .jobStats {
+                            font-size: 24px !important;
+                        }
+                    }
+                </style>
+            <div id=3D"bodyContent" style=3D"padding: 0 30px; font-size: 16=
+px; font-family: HelveticaNeue, Arial, sans-serif; font-weight: 300;"><div =
+style=3D"text-align: center; padding-bottom: 20px; background-color: white;=
+ padding-top: 18px;"><div style=3D"font-size: 26px; margin-bottom: 8px;">We=
+ekly Job Summary</div><div style=3D"color: #666666; padding-top: 10px;">201=
+9-03-04</div></div><div style=3D"text-align: center; vertical-align: middle=
+; padding: 14px; font-weight: bold;">Open Jobs (1)</div><div class=3D"card"=
+ style=3D"background-color: white; padding: 30px 25px; margin-bottom: 5px;"=
+><div style=3D"font-size: 16px; margin-bottom: 5px; line-height:normal;"><s=
+pan style=3D"float: right; line-height: 25px; margin-left: 10px;"><a style=
+=3D"vertical-align: middle;" href=3Dhttps://employers.indeed.com/j#jobs/vie=
+w?id=3Dd7187de7e436&amp;isid=3Dweeklyjobssummary&amp;refUid=3D1d553dgri39p3=
+801&amp;lid=3Dmanage-job&amp;ikw=3Dmanage-job&amp;ctx=3Demail-job-summary>M=
+anage job</a></span><span id=3D"jobTitle" style=3D"font-size: 22px; font-we=
+ight: bold; word-wrap: break-word;">Delivery Person</span></div><div style=
+=3D"margin-bottom: 5px; color: #666666;">560,040 locations</div><div style=
+=3D"margin-top: 15px;" ><ul style=3D"list-style: none; margin: 0; padding: =
+0; display: block;"><li style=3D"margin: 0; padding-right: 40px; display: i=
+nline-block;"><span>Candidates</span><br><span style=3D"font-size: 30px; li=
+ne-height: 1.3em;"><a href=3Dhttps://employers.indeed.com/c#candidates?id=
+=3Dd7187de7e436&amp;isid=3Dweeklyjobssummary&amp;refUid=3D1d553dgri39p3801&=
+amp;lid=3Dcandidate-count&amp;ikw=3Dcandidate-count&amp;ctx=3Demail-job-sum=
+mary>33</a></span></li><li style=3D"margin: 0; padding-right: 40px; display=
+: inline-block;"><span>Views</span><br><span style=3D"font-size: 30px; line=
+-height: 1.3em;">332</span></li><li style=3D"margin: 0; padding-right: 40px=
+; display: inline-block;"><span>Cost</span><br><span class=3D"jobStats" sty=
+le=3D"font-size: 30px; line-height: 1.3em;">Free</span></li></ul></div><a h=
+ref=3D"https://employers.indeed.com/c#candidates?id=3Dd7187de7e436&amp;unre=
+adToggle=3Don&amp;isid=3Dweeklyjobsummary&amp;refUid=3D1d553dgri39p3801&amp=
+;lid=3Dunread_candidates_link&amp;ikw=3Dunread_candidates_link&amp;ctx=3Dem=
+ail-job-summary" style=3D"position: relative; line-height: 1.36; font-size:=
+ 14px; margin-top: 15px; border-radius: 3px; background-color: #eaeffa; tex=
+t-decoration: none; display: block; color: black;"><span style=3D"line-heig=
+ht: 0px; display: inline-block; padding: 15px;"><img height=3D"16" width=3D=
+"16" src=3D"https://d3l2aiuysuvlk2.cloudfront.net/draw/s/71a4cf4/icon-candi=
+date@2x.png" title=3D"Unread candidate icon" alt=3D"Unread candidate icon" =
+style=3D"outline:none; text-decoration:none; -ms-interpolation-mode:bicubic=
+; max-width:100%; height:auto; border-style:none;"></span><span style=3D"ve=
+rtical-align: text-bottom;"><strong>2</strong> unread candidates</span><spa=
+n style=3D"float: right; line-height: 46px; padding-right: 35px; color: blu=
+e;">View<span style=3D"font-size: 35px; position: absolute; right: 15px; to=
+p: -3px;">&rsaquo;</span></span></a><div style=3D"position: relative; line-=
+height: 1.36; font-size: 14px; margin-top: 15px;"><div style=3D"position: a=
+bsolute; margin-top: -13px; top:50%; float: left;"><img height=3D"25" width=
+=3D"25" src=3D"https://d3l2aiuysuvlk2.cloudfront.net/draw/s/694402d/icon-up=
+sell@2x.png" title=3D"More views icon" alt=3D"More views icon" style=3D"out=
+line:none; text-decoration:none; -ms-interpolation-mode:bicubic; max-width:=
+100%; height:auto; border-style:none;"></div><div style=3D"margin-left: 36p=
+x;"><a href=3D"https://employers.indeed.com/j#sponsor?id=3Dd7187de7e436&amp=
+;isid=3Dweeklyjobssummary&amp;refUid=3D1d553dgri39p3801&amp;lid=3Dsponsor_l=
+ink&amp;ikw=3Dsponsor_link&amp;ctx=3Demail-job-summary">Sponsor for more vi=
+ews</a></div></div></div><div class=3D"card" style=3D"background-color: whi=
+te; padding: 30px 25px; margin-bottom: 5px;"><div style=3D"display: inline-=
+block; margin: 0px 15px 10px 0; white-space:nowrap;"><a href=3D"https://emp=
+loyers.indeed.com/j#post-job?isid=3Dweeklyjobssummary&amp;refUid=3D1d553dgr=
+939p3801&amp;lid=3Dpostajob&amp;ikw=3Dpostajob&amp;ctx=3Demail-job-summary"=
+ style=3D"color: #ffffff; text-align: center; text-decoration: none; font-w=
+eight: bold; font-family: Arial,sans-serif; display: block; padding: 16px 2=
+4px; border: 1px solid #1642BB;background-color: #5585f2;background-image: =
+linear-gradient(to bottom,#6598FF,#2E5AD7);background-repeat: repeat-x;-ms-=
+filter: progid:DXImageTransform.Microsoft.dropshadow(OffX=3D0,OffY=3D-1,Col=
+or=3D#e80f2299,Positive=3Dtrue);filter: progid:DXImageTransform.Microsoft.g=
+radient(enabled =3D false);zoom: 1;*background-color: #2E5AD7;-webkit-borde=
+r-radius: 6px;-moz-border-radius: 6px;border-radius: 6px;box-shadow: 0px 1p=
+x 2px rgba(0,0,0,0.5);">Post a Job</a></div><div style=3D"display: inline-b=
+lock; max-width:100%;"><a style=3D"margin:15px 15px 0 0; white-space: nowra=
+p; display: inline-block;" href=3Dhttps://ads.indeed.com/account/billing?cc=
+=3DUS&amp;hl=3Den&amp;isid=3Dweeklyjobssummary&amp;refUid=3D1d553dgr939p380=
+1&amp;lid=3Dbilling_report&amp;ikw=3Dbilling_report&amp;ctx=3Demail-job-sum=
+mary>Billing summary &amp; receipts</a><a style=3D"white-space: nowrap; dis=
+play: inline-block; margin-top: 15px;" href=3Dhttps://employers.indeed.com/=
+j#jobs?isid=3Dweeklyjobssummary&amp;refUid=3D1d553dgr939p3801&amp;lid=3Dvie=
+w_all_jobs&amp;ikw=3Dview_all_jobs&amp;ctx=3Demail-job-summary>View all job=
+s</a></div></div></div><table id=3D"footerWrapper" border=3D"0" cellspacing=
+=3D"0" cellpadding=3D"0" style=3D"width:100%; "><tr><td id=3D"footerContent=
+" style=3D"margin:0; border-collapse:collapse; font-family: 'Helvetica Neue=
+', Helvetica, Arial, 'Lucida Grande', sans-serif; padding: 24px 7%;"><span =
+id=3D"copyright" style=3D"font-size: 11px; color: #999999; text-decoration:=
+ none;"><a href=3D"http://www.indeed.com?isid=3Dapplication-email&hl=3Den&c=
+o=3DUS" style=3D"color: #2164f3; text-decoration: none; font-size: 11px;">I=
+ndeed</a> - one search. all jobs.<br /><bdi>6433 Champion Grandview Way, Bu=
+ilding 1, Austin, TX 78750</bdi><br />=C2=A92019 Indeed</span></td></tr></t=
+able></td></tr></table></td></tr></table></td></tr></table></body></html>
+------=_Part_83730391_1992108994.1551728299869--

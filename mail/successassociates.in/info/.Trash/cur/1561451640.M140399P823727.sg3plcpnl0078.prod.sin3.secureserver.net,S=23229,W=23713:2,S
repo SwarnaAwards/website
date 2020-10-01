@@ -1,0 +1,484 @@
+Return-Path: <bounce-md_30815334.5d11dc45.v1-15bf094eef8b438e835982514d0a8abe@mandrillapp.com>
+Delivered-To: info@successassociates.in
+Received: from sg3plcpnl0078.prod.sin3.secureserver.net
+	by sg3plcpnl0078.prod.sin3.secureserver.net with LMTP
+	id IFeWBnjcEV2vkQwAUghlVg
+	(envelope-from <bounce-md_30815334.5d11dc45.v1-15bf094eef8b438e835982514d0a8abe@mandrillapp.com>)
+	for <info@successassociates.in>; Tue, 25 Jun 2019 01:34:00 -0700
+Return-path: <bounce-md_30815334.5d11dc45.v1-15bf094eef8b438e835982514d0a8abe@mandrillapp.com>
+Envelope-to: info@successassociates.in
+Delivery-date: Tue, 25 Jun 2019 01:34:00 -0700
+Received: from mail128-18.atl41.mandrillapp.com ([198.2.128.18]:63541)
+	by sg3plcpnl0078.prod.sin3.secureserver.net with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.92)
+	(envelope-from <bounce-md_30815334.5d11dc45.v1-15bf094eef8b438e835982514d0a8abe@mandrillapp.com>)
+	id 1hfgtk-003T6F-1m
+	for info@successassociates.in; Tue, 25 Jun 2019 01:34:00 -0700
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; s=mandrill; d=mail128-18.atl41.mandrillapp.com;
+ h=From:Sender:Subject:To:Message-Id:Date:MIME-Version:Content-Type:Content-Transfer-Encoding; i=apps-noreply@mail128-18.atl41.mandrillapp.com;
+ bh=ArvjkSeSfDcp8C2kLQEScYwq9UqpAJNxUDxeDe2CEEE=;
+ b=A6X9iNkJhYi002FPXdkoW8O25wsVAlBS04JafXaVHhWuzSb1ufXIbdJGZJr+bXdPPbiXSUcWdfhm
+   PwClLVtR8Rvt2CVqc3kGhg0fCI6paNU+elGYc/LBvtJPnj6Ip2wJ8kOTe6+Na/z0Q7b2oC5hy26Y
+   6xgmb6FKcrOeyYWeD/s=
+Received: from pmta01.mandrill.prod.atl01.rsglab.com (127.0.0.1) by mail128-18.atl41.mandrillapp.com id h27e701mqukq for <info@successassociates.in>; Tue, 25 Jun 2019 08:33:09 +0000 (envelope-from <bounce-md_30815334.5d11dc45.v1-15bf094eef8b438e835982514d0a8abe@mandrillapp.com>)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=mandrillapp.com; 
+ i=@mandrillapp.com; q=dns/txt; s=mandrill; t=1561451589; h=From : 
+ Sender : Subject : To : Message-Id : Date : MIME-Version : Content-Type 
+ : Content-Transfer-Encoding : From : Subject : Date : X-Mandrill-User : 
+ List-Unsubscribe; bh=ArvjkSeSfDcp8C2kLQEScYwq9UqpAJNxUDxeDe2CEEE=; 
+ b=ouYGlUJT92kzUOHVjARMkw10ZlO6d46rDANFcHhDUKydBdTeC54lRdVBGUi5YXZ7XkAO5s
+ XFiD5KFTMueNaHZZarVIsXPEPrpqKOs9THCM5eDPEa6sw6FiMiSGn0B9SGuPGqf7d7rJcaih
+ xunIVHf+lBSat8SflCtg6bPNsW56g=
+From: MoneyTap <apps-noreply@moneytap.com>
+Sender: MoneyTap <apps-noreply@mail128-18.atl41.mandrillapp.com>
+Subject: Important: Verify your work email address
+Received: from [13.233.76.187] by mandrillapp.com id 15bf094eef8b438e835982514d0a8abe; Tue, 25 Jun 2019 08:33:09 +0000
+To: <info@successassociates.in>
+X-Report-Abuse: Please forward a copy of this message, including all headers, to abuse@mandrill.com
+X-Report-Abuse: You can also report abuse here: http://mandrillapp.com/contact/abuse?id=30815334.15bf094eef8b438e835982514d0a8abe
+X-Mandrill-User: md_30815334
+Message-Id: <30815334.20190625083309.5d11dc459dc5e2.76777551@mail128-18.atl41.mandrillapp.com>
+Date: Tue, 25 Jun 2019 08:33:09 +0000
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+X-Spam-Status: No, score=2.3
+X-Spam-Score: 23
+X-Spam-Bar: ++
+X-Ham-Report: Spam detection software, running on the system "sg3plcpnl0078.prod.sin3.secureserver.net",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  Verify your email address Hi JOSH Pallikkell JAMES, Thank
+   you for registering on MoneyTap - India's 1st app based Credit Line 
+ 
+ Content analysis details:   (2.3 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  1.0 SURBL_BLOCKED          ADMINISTRATOR NOTICE: The query to SURBL was
+                             blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: mandrillapp.com]
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was
+                             blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: mandrillapp.com]
+ -0.0 SPF_HELO_PASS          SPF: HELO matches SPF record
+  0.2 HEADER_FROM_DIFFERENT_DOMAINS From and EnvelopeFrom 2nd level
+                             mail domains are different
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  1.1 MIME_HTML_ONLY         BODY: Message only has text/html MIME parts
+  0.0 HTML_IMAGE_RATIO_06    BODY: HTML has a low ratio of text to image
+                             area
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+ -0.1 DKIM_VALID_EF          Message has a valid DKIM or DK signature from
+                             envelope-from domain
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+X-Spam-Flag: NO
+
+<!DOCTYPE html>
+<html xmlns=3D"http://www.w3.org/1999/xhtml" xmlns:v=3D"urn:schemas-microso=
+ft-com:vml" xmlns:o=3D"urn:schemas-microsoft-com:office:office">
+
+<head>
+=09<title></title>
+=09<!--[if !mso]><!-- -->
+=09<meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3Dedge">
+=09<!--<![endif]-->
+=09<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8"=
+>
+=09<meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=
+=3D1.0">
+=09<style type=3D"text/css">
+        #outlook a {
+            padding: 0;
+        }
+
+        .ReadMsgBody {
+            width: 100%;
+        }
+
+        .ExternalClass {
+            width: 100%;
+        }
+
+        .ExternalClass * {
+            line-height: 100%;
+        }
+
+        body {
+            margin: 0;
+            padding: 0;
+            -webkit-text-size-adjust: 100%;
+            -ms-text-size-adjust: 100%;
+        }
+
+        table,
+        td {
+            border-collapse: collapse;
+            mso-table-lspace: 0pt;
+            mso-table-rspace: 0pt;
+        }
+
+        img {
+            border: 0;
+            height: auto;
+            line-height: 100%;
+            outline: none;
+            text-decoration: none;
+            -ms-interpolation-mode: bicubic;
+        }
+
+        p {
+            display: block;
+            margin: 13px 0;
+        }
+    </style>
+=09<!--[if !mso]><!-->
+=09<style type=3D"text/css">
+        @media only screen and (max-width:480px) {
+            @-ms-viewport {
+                width: 320px;
+            }
+            @viewport {
+                width: 320px;
+            }
+        }
+    </style>
+=09<!--<![endif]-->
+=09<!--[if mso]><xml>  <o:OfficeDocumentSettings>    <o:AllowPNG/>    <o:Pi=
+xelsPerInch>96</o:PixelsPerInch>  </o:OfficeDocumentSettings></xml><![endif=
+]-->
+=09<!--[if lte mso 11]><style type=3D"text/css">  .outlook-group-fix {    w=
+idth:100% !important;  }</style><![endif]-->
+=09<!--[if !mso]><!-->
+=09<link href=3D"https://fonts.googleapis.com/css?family=3DLato" rel=3D"sty=
+lesheet" type=3D"text/css">
+=09<style type=3D"text/css">
+        @import url(https://fonts.googleapis.com/css?family=3DLato);
+    </style>
+=09<!--<![endif]-->
+=09<style type=3D"text/css">
+        @media only screen and (min-width:480px) {
+            .mj-column-per-100 {
+                width: 100%!important;
+            }
+        }
+    </style>
+</head>
+
+<body style=3D"background: #171724;">
+<div class=3D"mj-container" style=3D"background-color:#171724;">
+=09<!--[if mso | IE]>      <table role=3D"presentation" border=3D"0" cellpa=
+dding=3D"0" cellspacing=3D"0" width=3D"600" align=3D"center" style=3D"width=
+:600px;">        <tr>          <td style=3D"line-height:0px;font-size:0px;m=
+so-line-height-rule:exactly;">      <![endif]-->
+=09<div style=3D"margin:0px auto;max-width:600px;background:#FFFFFF;">
+=09=09<table role=3D"presentation" cellpadding=3D"0" cellspacing=3D"0" styl=
+e=3D"font-size:0px;width:100%;background:#FFFFFF;" align=3D"center" border=
+=3D"0">
+=09=09=09<tbody>
+=09=09=09<tr>
+=09=09=09=09<td style=3D"text-align:center;vertical-align:top;direction:ltr=
+;font-size:0px;padding:0px 0px 0px 0px;">
+=09=09=09=09=09<!--[if mso | IE]>      <table role=3D"presentation" border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0">        <tr>          <td style=
+=3D"vertical-align:top;width:600px;">      <![endif]-->
+=09=09=09=09=09<div class=3D"mj-column-per-100 outlook-group-fix" style=3D"=
+vertical-align:top;display:inline-block;direction:ltr;font-size:13px;text-a=
+lign:left;width:100%;">
+=09=09=09=09=09=09<table role=3D"presentation" cellpadding=3D"0" cellspacin=
+g=3D"0" style=3D"vertical-align:top;" width=3D"100%" border=3D"0">
+=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09<td style=3D"word-wrap:break-word;font-size:0px;pad=
+ding:10px 10px 10px 10px;" align=3D"center">
+=09=09=09=09=09=09=09=09=09<table role=3D"presentation" cellpadding=3D"0" c=
+ellspacing=3D"0" style=3D"border-collapse:collapse;border-spacing:0px;" ali=
+gn=3D"center" border=3D"0">
+=09=09=09=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09<td style=3D"width:180px;">
+=09=09=09=09=09=09=09=09=09=09=09=09<a href=3D"https://mandrillapp.com/trac=
+k/click/30815334/moneytap.onelink.me?p=3DeyJzIjoiYmx1alFuUEdZWDgzQUJIM1pRWl=
+RGNERTdEFjIiwidiI6MSwicCI6IntcInVcIjozMDgxNTMzNCxcInZcIjoxLFwidXJsXCI6XCJod=
+HRwczpcXFwvXFxcL21vbmV5dGFwLm9uZWxpbmsubWVcXFwvNTExNzc5ODA0P3BpZD1FbWFpbCZp=
+c19yZXRhcmdldGluZz10cnVlJmFmX2RwPW1vbmV5dGFwJTNBJTJGJTJGYXBwX3N0YXJ0JmFmX3d=
+lYl9kcD1odHRwcyUzQSUyRiUyRnBsYXkuZ29vZ2xlLmNvbSUyRnN0b3JlJTJGYXBwcyUyRmRldG=
+FpbHMlM0ZpZCUzRGNvbS5teWNhc2gubW9uZXl0YXAuYXBwXCIsXCJpZFwiOlwiMTViZjA5NGVlZ=
+jhiNDM4ZTgzNTk4MjUxNGQwYThhYmVcIixcInVybF9pZHNcIjpbXCI1NDBhOTExZWUyZTE4M2U3=
+MjU3OTQ4ZDUwMWFjYjNiZDk5M2E2YzA0XCJdfSJ9" target=3D"_blank"><img alt=3D"Hel=
+lo! Greetings from MoneyTap. " height=3D"auto" src=3D"http://res.moneytap.c=
+om/Emailicons/logo_MT300px.png" style=3D"border:none;border-radius:0px;disp=
+lay:block;font-size:13px;outline:none;text-decoration:none;width:100%;heigh=
+t:auto;" width=3D"180"></a>
+=09=09=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09=09=09=09</table>
+=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09</table>
+=09=09=09=09=09</div>
+=09=09=09=09=09<!--[if mso | IE]>      </td></tr></table>      <![endif]-->
+=09=09=09=09</td>
+=09=09=09</tr>
+=09=09=09</tbody>
+=09=09</table>
+=09</div>
+=09<!--[if mso | IE]>      </td></tr></table>      <![endif]-->
+=09<!--[if mso | IE]>      <table role=3D"presentation" border=3D"0" cellpa=
+dding=3D"0" cellspacing=3D"0" width=3D"600" align=3D"center" style=3D"width=
+:600px;">        <tr>          <td style=3D"line-height:0px;font-size:0px;m=
+so-line-height-rule:exactly;">      <![endif]-->
+=09<div style=3D"margin:0px auto;max-width:600px;background:#FFFFFF;">
+=09=09<table role=3D"presentation" cellpadding=3D"0" cellspacing=3D"0" styl=
+e=3D"font-size:0px;width:100%;background:#FFFFFF;" align=3D"center" border=
+=3D"0">
+=09=09=09<tbody>
+=09=09=09<tr>
+=09=09=09=09<td style=3D"text-align:center;vertical-align:top;direction:ltr=
+;font-size:0px;padding:0px 0px 0px 0px;">
+=09=09=09=09=09<!--[if mso | IE]>      <table role=3D"presentation" border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0">        <tr>          <td style=
+=3D"vertical-align:top;width:600px;">      <![endif]-->
+=09=09=09=09=09<div class=3D"mj-column-per-100 outlook-group-fix" style=3D"=
+vertical-align:top;display:inline-block;direction:ltr;font-size:13px;text-a=
+lign:left;width:100%;">
+=09=09=09=09=09=09<table role=3D"presentation" cellpadding=3D"0" cellspacin=
+g=3D"0" style=3D"vertical-align:top;" width=3D"100%" border=3D"0">
+=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09<td style=3D"word-wrap:break-word;font-size:0px;pad=
+ding:0px 0px 0px 0px;" align=3D"center">
+=09=09=09=09=09=09=09=09=09<table role=3D"presentation" cellpadding=3D"0" c=
+ellspacing=3D"0" style=3D"border-collapse:collapse;border-spacing:0px;" ali=
+gn=3D"center" border=3D"0">
+=09=09=09=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09<td style=3D"width:210px;">
+=09=09=09=09=09=09=09=09=09=09=09=09<a href=3D"https://mandrillapp.com/trac=
+k/click/30815334/moneytap.onelink.me?p=3DeyJzIjoiYmx1alFuUEdZWDgzQUJIM1pRWl=
+RGNERTdEFjIiwidiI6MSwicCI6IntcInVcIjozMDgxNTMzNCxcInZcIjoxLFwidXJsXCI6XCJod=
+HRwczpcXFwvXFxcL21vbmV5dGFwLm9uZWxpbmsubWVcXFwvNTExNzc5ODA0P3BpZD1FbWFpbCZp=
+c19yZXRhcmdldGluZz10cnVlJmFmX2RwPW1vbmV5dGFwJTNBJTJGJTJGYXBwX3N0YXJ0JmFmX3d=
+lYl9kcD1odHRwcyUzQSUyRiUyRnBsYXkuZ29vZ2xlLmNvbSUyRnN0b3JlJTJGYXBwcyUyRmRldG=
+FpbHMlM0ZpZCUzRGNvbS5teWNhc2gubW9uZXl0YXAuYXBwXCIsXCJpZFwiOlwiMTViZjA5NGVlZ=
+jhiNDM4ZTgzNTk4MjUxNGQwYThhYmVcIixcInVybF9pZHNcIjpbXCI1NDBhOTExZWUyZTE4M2U3=
+MjU3OTQ4ZDUwMWFjYjNiZDk5M2E2YzA0XCJdfSJ9" target=3D"_blank"><img alt=3D"Ver=
+ify your email address, please!" height=3D"auto" src=3D"http://res.moneytap=
+.com/Emailicons/work_email_verify.png" style=3D"border:none;border-radius:0=
+px;display:block;font-size:13px;outline:none;text-decoration:none;width:100=
+%;height:auto;" width=3D"210"></a>
+=09=09=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09=09=09=09</table>
+=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09<td style=3D"word-wrap:break-word;font-size:0px;pad=
+ding:0px 20px 0px 20px;" align=3D"center">
+=09=09=09=09=09=09=09=09=09<div style=3D"cursor:auto;color:#4E4C4C;font-fam=
+ily:Lato, Tahoma, sans-serif;font-size:11px;line-height:22px;text-align:cen=
+ter;">
+=09=09=09=09=09=09=09=09=09=09<p><strong><span style=3D"font-size:20px;"><s=
+pan style=3D"color:#f48132;">Verify your email address</span></span></stron=
+g></p>
+=09=09=09=09=09=09=09=09=09</div>
+=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09</table>
+=09=09=09=09=09</div>
+=09=09=09=09=09<!--[if mso | IE]>      </td></tr></table>      <![endif]-->
+=09=09=09=09</td>
+=09=09=09</tr>
+=09=09=09</tbody>
+=09=09</table>
+=09</div>
+=09<!--[if mso | IE]>      </td></tr></table>      <![endif]-->
+=09<!--[if mso | IE]>      <table role=3D"presentation" border=3D"0" cellpa=
+dding=3D"0" cellspacing=3D"0" width=3D"600" align=3D"center" style=3D"width=
+:600px;">        <tr>          <td style=3D"line-height:0px;font-size:0px;m=
+so-line-height-rule:exactly;">      <![endif]-->
+=09<div style=3D"margin:0px auto;max-width:600px;background:#FFFFFF;">
+=09=09<table role=3D"presentation" cellpadding=3D"0" cellspacing=3D"0" styl=
+e=3D"font-size:0px;width:100%;background:#FFFFFF;" align=3D"center" border=
+=3D"0">
+=09=09=09<tbody>
+=09=09=09<tr>
+=09=09=09=09<td style=3D"text-align:center;vertical-align:top;direction:ltr=
+;font-size:0px;padding:0px 0px 0px 0px;">
+=09=09=09=09=09<!--[if mso | IE]>      <table role=3D"presentation" border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0">        <tr>          <td style=
+=3D"vertical-align:top;width:600px;">      <![endif]-->
+=09=09=09=09=09<div class=3D"mj-column-per-100 outlook-group-fix" style=3D"=
+vertical-align:top;display:inline-block;direction:ltr;font-size:13px;text-a=
+lign:left;width:100%;">
+=09=09=09=09=09=09<table role=3D"presentation" cellpadding=3D"0" cellspacin=
+g=3D"0" style=3D"vertical-align:top;" width=3D"100%" border=3D"0">
+=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09<td style=3D"word-wrap:break-word;font-size:0px;pad=
+ding:0px 30px 0px 30px;" align=3D"left">
+=09=09=09=09=09=09=09=09=09<div style=3D"cursor:auto;color:#4E4C4C;font-fam=
+ily:Lato, Tahoma, sans-serif;font-size:18px;line-height:22px;text-align:lef=
+t;">
+=09=09=09=09=09=09=09=09=09=09<p><span style=3D"font-size:16px;">Hi JOSH Pa=
+llikkell JAMES,</span></p>
+=09=09=09=09=09=09=09=09=09=09<p><span style=3D"font-size:16px;">Thank you =
+for registering on MoneyTap - India&apos;s 1st app based Credit Line</span>=
+</p>
+=09=09=09=09=09=09=09=09=09=09<p><span style=3D"font-size:16px;">To verify =
+your email address, click on the button below.</span></p>
+=09=09=09=09=09=09=09=09=09=09<p><span style=3D"font-size:16px;">Completing=
+ this step will help process your application for final approval faster.</s=
+pan><span style=3D"font-size:16px;"> Hence, we urge you to do it now.</span=
+></p>
+=09=09=09=09=09=09=09=09=09</div>
+=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09<td style=3D"word-wrap:break-word;font-size:0px;pad=
+ding:0px 30px 0px 30px;" align=3D"left">
+=09=09=09=09=09=09=09=09=09<div style=3D"cursor:auto;color:#4E4C4C;font-fam=
+ily:Lato, Tahoma, sans-serif;font-size:11px;line-height:22px;text-align:lef=
+t;">
+=09=09=09=09=09=09=09=09=09=09<p><strong><span style=3D"font-size:16px;">Ch=
+eers,</span></strong></p>
+=09=09=09=09=09=09=09=09=09=09<p><strong><span style=3D"font-size:16px;">Th=
+e MoneyTap Team</span></strong></p>
+=09=09=09=09=09=09=09=09=09</div>
+=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09</table>
+=09=09=09=09=09</div>
+=09=09=09=09=09<!--[if mso | IE]>      </td></tr></table>      <![endif]-->
+=09=09=09=09</td>
+=09=09=09</tr>
+=09=09=09</tbody>
+=09=09</table>
+=09</div>
+=09<!--[if mso | IE]>      </td></tr></table>      <![endif]-->
+=09<!--[if mso | IE]>      <table role=3D"presentation" border=3D"0" cellpa=
+dding=3D"0" cellspacing=3D"0" width=3D"600" align=3D"center" style=3D"width=
+:600px;">        <tr>          <td style=3D"line-height:0px;font-size:0px;m=
+so-line-height-rule:exactly;">      <![endif]-->
+=09<div style=3D"margin:0px auto;max-width:600px;background:#FFFFFF;">
+=09=09<table role=3D"presentation" cellpadding=3D"0" cellspacing=3D"0" styl=
+e=3D"font-size:0px;width:100%;background:#FFFFFF;" align=3D"center" border=
+=3D"0">
+=09=09=09<tbody>
+=09=09=09<tr>
+=09=09=09=09<td style=3D"text-align:center;vertical-align:top;direction:ltr=
+;font-size:0px;padding:0px 0px 0px 0px;">
+=09=09=09=09=09<!--[if mso | IE]>      <table role=3D"presentation" border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0">        <tr>          <td style=
+=3D"vertical-align:top;width:600px;">      <![endif]-->
+=09=09=09=09=09<div class=3D"mj-column-per-100 outlook-group-fix" style=3D"=
+vertical-align:top;display:inline-block;direction:ltr;font-size:13px;text-a=
+lign:left;width:100%;">
+=09=09=09=09=09=09<table role=3D"presentation" cellpadding=3D"0" cellspacin=
+g=3D"0" style=3D"vertical-align:top;" width=3D"100%" border=3D"0">
+=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09<td style=3D"word-wrap:break-word;font-size:0px;pad=
+ding:10px 30px 10px 30px;padding-top:10px;padding-left:25px;" align=3D"cent=
+er">
+=09=09=09=09=09=09=09=09=09<table role=3D"presentation" cellpadding=3D"0" c=
+ellspacing=3D"0" style=3D"border-collapse:separate;" align=3D"center" borde=
+r=3D"0">
+=09=09=09=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09<td style=3D"border:none;border-radius:24p=
+x;color:#fff;cursor:auto;padding:14px 40px;" align=3D"center" valign=3D"mid=
+dle" bgcolor=3D"#f48132">
+
+=09=09=09=09=09=09=09=09=09=09=09=09<a href=3D"https://mandrillapp.com/trac=
+k/click/30815334/app.moneytap.com?p=3DeyJzIjoiaEptQmEtOWFLZzdMRkRlMVgxZ1RRW=
+FBRYmc0IiwidiI6MSwicCI6IntcInVcIjozMDgxNTMzNCxcInZcIjoxLFwidXJsXCI6XCJodHRw=
+czpcXFwvXFxcL2FwcC5tb25leXRhcC5jb21cXFwvdjFcXFwvY3VzdG9tZXJcXFwvZDNhYmI4YTA=
+tNGUyOS00MjMwLTk2ZmMtY2QzODIwMjBkNjVmXFxcL2VtYWlsXFxcL3ZlcmlmeVxcXC8yZnBidj=
+NhOTgzYW03Ym5yZnJrM2ptamcxZnFrdGhtMHB2bDI5ZjdjMnF0NWM4dWw2ODZhNTQ0NXMzYjZsY=
+zczbGl2Z290cmlndWJoczA3ZGpqYzRzaXYyNXJhdjRnM3JzZzA2amFuXCIsXCJpZFwiOlwiMTVi=
+ZjA5NGVlZjhiNDM4ZTgzNTk4MjUxNGQwYThhYmVcIixcInVybF9pZHNcIjpbXCJjNzg0ZTgyMTB=
+iZmUyNjBkM2JmMTZjYWVkY2I0MmIzZmJiYThlZWVkXCJdfSJ9" style=3D"text-decoration=
+:none;background:#f48132;color:#fff;font-family:Lato, Tahoma, sans-serif;fo=
+nt-size:20px;font-weight:normal;line-height:120%;text-transform:none;margin=
+:0px;" target=3D"_blank">Verify email address</a></td>
+=09=09=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09=09=09=09</table>
+=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09</table>
+=09=09=09=09=09</div>
+=09=09=09=09=09<!--[if mso | IE]>      </td></tr></table>      <![endif]-->
+=09=09=09=09</td>
+=09=09=09</tr>
+=09=09=09</tbody>
+=09=09</table>
+=09</div>
+=09<!--[if mso | IE]>      </td></tr></table>      <![endif]-->
+=09<!--[if mso | IE]>      <table role=3D"presentation" border=3D"0" cellpa=
+dding=3D"0" cellspacing=3D"0" width=3D"600" align=3D"center" style=3D"width=
+:600px;">        <tr>          <td style=3D"line-height:0px;font-size:0px;m=
+so-line-height-rule:exactly;">      <![endif]-->
+=09<div style=3D"margin:0px auto;max-width:600px;background:#d2d3d5;">
+=09=09<table role=3D"presentation" cellpadding=3D"0" cellspacing=3D"0" styl=
+e=3D"font-size:0px;width:100%;background:#d2d3d5;" align=3D"center" border=
+=3D"0">
+=09=09=09<tbody>
+=09=09=09<tr>
+=09=09=09=09<td style=3D"text-align:center;vertical-align:top;direction:ltr=
+;font-size:0px;padding:9px 0px 9px 0px;">
+=09=09=09=09=09<!--[if mso | IE]>      <table role=3D"presentation" border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0">        <tr>          <td style=
+=3D"vertical-align:top;width:600px;">      <![endif]-->
+=09=09=09=09=09<div class=3D"mj-column-per-100 outlook-group-fix" style=3D"=
+vertical-align:top;display:inline-block;direction:ltr;font-size:13px;text-a=
+lign:left;width:100%;">
+=09=09=09=09=09=09<table role=3D"presentation" cellpadding=3D"0" cellspacin=
+g=3D"0" style=3D"vertical-align:top;" width=3D"100%" border=3D"0">
+=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09<td style=3D"word-wrap:break-word;font-size:0px;pad=
+ding:15px 15px 15px 15px;" align=3D"center">
+=09=09=09=09=09=09=09=09=09<div style=3D"cursor:auto;color:#4E4C4C;font-fam=
+ily:Lato, Tahoma, sans-serif;font-size:11px;line-height:1.5;text-align:cent=
+er;">
+=09=09=09=09=09=09=09=09=09=09<p><span style=3D"font-size:14px;">&#x24B8;<s=
+pan style=3D"font-size:16px;"> </span>All rights reserved @ MoneyTap,&#xA0;=
+ Whitefield, Bangalore, India.</span>
+=09=09=09=09=09=09=09=09=09=09</p>
+=09=09=09=09=09=09=09=09=09</div>
+=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09</table>
+=09=09=09=09=09</div>
+=09=09=09=09=09<!--[if mso | IE]>      </td></tr></table>      <![endif]-->
+=09=09=09=09</td>
+=09=09=09</tr>
+=09=09=09</tbody>
+=09=09</table>
+=09</div>
+=09<!--[if mso | IE]>      </td></tr></table>      <![endif]-->
+</div>
+<img src=3D"https://mandrillapp.com/track/open.php?u=3D30815334&id=3D15bf09=
+4eef8b438e835982514d0a8abe" height=3D"1" width=3D"1"></body>
+
+</html>
+

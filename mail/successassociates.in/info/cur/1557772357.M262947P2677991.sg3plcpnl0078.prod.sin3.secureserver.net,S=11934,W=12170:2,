@@ -1,0 +1,236 @@
+Return-Path: <noreply@mudrakwik.com>
+Delivered-To: info@successassociates.in
+Received: from sg3plcpnl0078.prod.sin3.secureserver.net
+	by sg3plcpnl0078.prod.sin3.secureserver.net with LMTP
+	id CkhvDUW42Vzn3CgAUghlVg
+	(envelope-from <noreply@mudrakwik.com>)
+	for <info@successassociates.in>; Mon, 13 May 2019 11:32:37 -0700
+Return-path: <noreply@mudrakwik.com>
+Envelope-to: info@successassociates.in
+Delivery-date: Mon, 13 May 2019 11:32:37 -0700
+Received: from forward100p.mail.yandex.net ([77.88.28.100]:56859)
+	by sg3plcpnl0078.prod.sin3.secureserver.net with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.91)
+	(envelope-from <noreply@mudrakwik.com>)
+	id 1hQFkR-00BE6Z-Cz
+	for info@successassociates.in; Mon, 13 May 2019 11:32:37 -0700
+Received: from mxback21o.mail.yandex.net (mxback21o.mail.yandex.net [IPv6:2a02:6b8:0:1a2d::72])
+	by forward100p.mail.yandex.net (Yandex) with ESMTP id 8F7305980AA5
+	for <info@successassociates.in>; Mon, 13 May 2019 21:31:44 +0300 (MSK)
+Received: from smtp3p.mail.yandex.net (smtp3p.mail.yandex.net [2a02:6b8:0:1472:2741:0:8b6:8])
+	by mxback21o.mail.yandex.net (nwsmtp/Yandex) with ESMTP id ZnHyjT44E2-VihSVe4u;
+	Mon, 13 May 2019 21:31:44 +0300
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=mudrakwik.com; s=mail; t=1557772304;
+	bh=ySoL/yQoLWtiSBFpQQHrw1BDFflYXEdpVhDHesLUfMQ=;
+	h=To:From:Subject:Date:Message-ID;
+	b=fbR90NUjL6Z4QVeHUNyYRQfN2J5BFp8MMCEMUgJWJdf11xGa5SraMQS+HmMSf9C5U
+	 eU4MzubAbB5nd3XQyGJ20urmqvuITOzIuTx7roQpfomfDiiCa1PW/NrXYIix4boSGz
+	 qUPpDjXeTcOdZDro4q/YwZiqX3Q02Ygyh7mITo9A=
+Authentication-Results: mxback21o.mail.yandex.net; dkim=pass header.i=@mudrakwik.com
+Received: by smtp3p.mail.yandex.net (nwsmtp/Yandex) with ESMTPSA id CyxpGU3aye-VhXGIxZc;
+	Mon, 13 May 2019 21:31:43 +0300
+	(using TLSv1.2 with cipher ECDHE-RSA-AES128-GCM-SHA256 (128/128 bits))
+	(Client certificate not present)
+Content-Type: text/html; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Subject: MudraKwik - Loan Pending
+From: noreply@mudrakwik.com
+To: info@successassociates.in
+Date: Mon, 13 May 2019 18:31:43 -0000
+Message-ID: 
+ <155777230325.1629.17835026561700778373@ip-172-31-31-229.ap-south-1.compute.internal>
+X-Spam-Status: No, score=0.9
+X-Spam-Score: 9
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "sg3plcpnl0078.prod.sin3.secureserver.net",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  Dear Josh Pallikkel James, We regret to inform you that your
+    loan application number #792610721 has been pending, Kindly check below details
+    
+ 
+ Content analysis details:   (0.9 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was
+                             blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: anandfin.com]
+  0.0 SURBL_BLOCKED          ADMINISTRATOR NOTICE: The query to SURBL was
+                             blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: anandfin.com]
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  1.1 MIME_HTML_ONLY         BODY: Message only has text/html MIME parts
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+ -0.1 DKIM_VALID_EF          Message has a valid DKIM or DK signature from
+                             envelope-from domain
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from
+                             author's domain
+X-Spam-Flag: NO
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+    <head>
+        <meta name=3D"viewport" content=3D"width=3Ddevice-width" />
+        <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DU=
+TF-8" />
+        <style>
+            * { margin: 0; font-family: "Helvetica Neue", Helvetica, Arial,=
+ sans-serif; box-sizing: border-box; font-size: 14px; } img { max-width: 10=
+0%; } body { -webkit-font-smoothing: antialiased; -webkit-text-size-adjust:=
+ none; width: 100% !important; height: 100%; line-height: 1.6em; } table td=
+ { vertical-align: top; } body { background-color: #f6f6f6; } .body-wrap { =
+background-color: #f6f6f6; width: 100%; } .container { display: block !impo=
+rtant; max-width: 600px !important; margin: 0 auto !important; clear: both =
+!important; } .content { max-width: 600px; margin: 0 auto; display: block; =
+padding: 20px; } .main { background-color: #fff; border: 1px solid #e9e9e9;=
+ border-radius: 3px; } .content-wrap { padding: 20px; } .content-block { pa=
+dding: 0 0 20px; } .header { width: 100%; margin-bottom: 20px; } .footer { =
+width: 100%; clear: both; color: #999; padding: 20px; } .footer p, .footer =
+a, .footer td { color: #999; font-size: 12px; } h1, h2, h3 { font-family: "=
+Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; color: #000=
+; margin: 40px 0 0; line-height: 1.2em; font-weight: 400; } h1 { font-size:=
+ 32px; font-weight: 500; } h2 { font-size: 24px; } h3 { font-size: 18px; } =
+h4 { font-size: 14px; font-weight: 600; } p, ul, ol { margin-bottom: 10px; =
+font-weight: normal; } p li, ul li, ol li { margin-left: 5px; list-style-po=
+sition: inside; } a { color: #348eda; text-decoration: underline; } .btn-pr=
+imary { text-decoration: none; color: #FFF; background-color: #348eda; bord=
+er: solid #348eda; border-width: 10px 20px; line-height: 2em; font-weight: =
+bold; text-align: center; cursor: pointer; display: inline-block; border-ra=
+dius: 5px; text-transform: capitalize; } .last { margin-bottom: 0; } .first=
+ { margin-top: 0; } .aligncenter { text-align: center; } .alignright { text=
+-align: right; } .alignleft { text-align: left; } .clear { clear: both; } .=
+alert { font-size: 16px; color: #fff; font-weight: 500; padding: 20px; text=
+-align: center; border-radius: 3px 3px 0 0; } .alert a { color: #fff; text-=
+decoration: none; font-weight: 500; font-size: 16px; } .alert.alert-warning=
+ { background-color: #FF9F00; } .alert.alert-bad { background-color: #D0021=
+B; } .alert.alert-good { background-color: #68B90F; } .invoice { margin: 40=
+px auto; text-align: left; width: 80%; } .order { text-align: left; width: =
+100%; } .invoice td, .order td { padding: 5px 0; } .invoice .invoice-items,=
+ .order .order-items { width: 100%; } <!--.invoice .invoice-items td, .orde=
+r .order-items td {--> <!--border-top: #eee 1px solid;--> <!--}--> .invoice=
+ .invoice-items .total td, .order .order-items .total td { <!--border-top: =
+2px solid #333;--> <!--border-bottom: 2px solid #333;--> font-weight: 700; =
+} @media only screen and (max-width: 640px) { body { padding: 0 !important;=
+ } h1, h2, h3, h4 { font-weight: 800 !important; margin: 20px 0 5px !import=
+ant; } h1 { font-size: 22px !important; } h2 { font-size: 18px !important; =
+} h3 { font-size: 16px !important; } .container { padding: 0 !important; wi=
+dth: 100% !important; } .content { padding: 0 !important; } .content-wrap {=
+ padding: 10px !important; } .invoice { width: 100% !important; } .order { =
+width: 100% !important; } } .greytext{ color:#666; }
+        </style>
+    </head>
+
+    <body itemscope itemtype=3D"http://schema.org/EmailMessage">
+
+        <table class=3D"body-wrap">
+            <tr>
+                <td>
+
+                </td>
+                <td>
+                    <div class=3D"content">
+                        <table class=3D"main" width=3D"100%" cellpadding=3D=
+"0" cellspacing=3D"0" itemprop=3D"action" itemscope itemtype=3D"http://sche=
+ma.org/ConfirmAction">
+                            <tr>
+                                <td class=3D"content-wrap">
+                                    <table width=3D"100%" cellpadding=3D"0"=
+ cellspacing=3D"0">
+
+                                       =20
+                                            <tr>
+                                                <td style=3D"box-shadow: 0p=
+x 0px 10px 0px rgba(0, 0, 0, 0.07);background-color:#fff;">
+                                                    <div style=3D"text-alig=
+n:center;padding:10px; margin-bottom:20px; background-color:#009688">
+                                                        <img src=3D"https:/=
+/anandfin.com//media/logo_for_email/Mudrakwik.png" style=3D"width:15%"/>
+                                                    </div>
+                                                </td>
+                                            </tr>
+                                       =20
+
+                                       =20
+    <tr>
+        <td class=3D"content-block">
+
+            <p xmlns=3D"http://www.w3.org/1999/html"></p>
+            <p>Dear Josh Pallikkel James,</p>
+            <p>We regret to inform you that your loan application number #7=
+92610721 has been pending,</p>
+            <br/>
+            <p>Kindly check below details</p>
+            <p><b>Loan Application Number :</b> 792610721</p>
+            <p><b>Loan Applied Date :</b> May 9, 2019, 1 p.m.</p>
+            <p><b>Loan Amount :</b> 900.00 &#x20B9;</p>
+            <p><b>Loan Applied Tenure :</b> 10 </p>
+
+
+
+            <br>
+            <p>For more details, please contact us on 8956039999 or email u=
+s on hello@mudrakwik.com</p>
+        </td>
+    </tr>
+
+
+                                       =20
+                                            <tr>
+                                                <td class=3D"content-block"=
+ >
+                                                    <p style=3D"">Thank You=
+</p>
+                                                    <p style=3D"">MudraKwik=
+</p>
+                                                    <br/>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td>
+                                                    <div style=3D"text-alig=
+n:center; background-color:#009688;padding:10px; margin-bottom:20px;">
+                                                        <p class=3D"greytex=
+t m" style=3D"font-size:12px; color:#fff;">&copy; 2018 MudraKwik | Designed=
+ & Developed by <a target=3D"_blank" href=3D"#" style=3D"font-size:12px; co=
+lor:#fff;">MudraKwik</a> </p>
+                                                    </div>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td>
+                                                    <p style=3D"font-family=
+:Arial;font-size:10px;color:#878787;padding:10px;">This email was sent from=
+ a notification-only address that cannot accept incoming email. Please do n=
+ot reply to this message. </p>
+                                                </td>
+                                            </tr>
+                                       =20
+
+                                    </table>
+                                </td>
+                            </tr>
+                        </table>
+                    </div>
+                </td>
+                <td>
+
+                </td>
+            </tr>
+        </table>
+
+    </body>
+</html>

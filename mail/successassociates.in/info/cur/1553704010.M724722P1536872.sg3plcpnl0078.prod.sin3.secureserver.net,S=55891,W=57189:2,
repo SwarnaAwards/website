@@ -1,0 +1,1298 @@
+Return-Path: <699-SXJ-715.0.197288.0.0.59964.9.179117493@em-sj-77.mktomail.com>
+Delivered-To: info@successassociates.in
+Received: from sg3plcpnl0078.prod.sin3.secureserver.net
+	by sg3plcpnl0078.prod.sin3.secureserver.net with LMTP id 8F5BKUqkm1xocxcAUghlVg
+	for <info@successassociates.in>; Wed, 27 Mar 2019 09:26:50 -0700
+Return-path: <699-SXJ-715.0.197288.0.0.59964.9.179117493@em-sj-77.mktomail.com>
+Envelope-to: info@successassociates.in
+Delivery-date: Wed, 27 Mar 2019 09:26:50 -0700
+Received: from barrosasaurus.mktdns.com ([192.28.146.14]:32785)
+	by sg3plcpnl0078.prod.sin3.secureserver.net with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.91)
+	(envelope-from <699-SXJ-715.0.197288.0.0.59964.9.179117493@em-sj-77.mktomail.com>)
+	id 1h9BO1-006SFb-Mi
+	for info@successassociates.in; Wed, 27 Mar 2019 09:26:50 -0700
+X-MSFBL: V7DmbPQ/Q9HYdroSHjPyRud00nEh975gelsmoG5STgs=|eyJiIjoiZHZwLTE5Mi0
+	yOC0xNDYtMTQiLCJ1IjoiNjk5LVNYSi03MTU6MTEyNTY2OjI1MTY1OjEwMTc3Njo
+	wOjU5OTY0Ojk6MTk3Mjg4OjE3OTExNzQ5MyIsInIiOiJpbmZvQHN1Y2Nlc3Nhc3N
+	vY2lhdGVzLmluIiwiZyI6ImJnLXNqZC0yMTUifQ==
+Received: from [10.0.87.249] ([10.0.87.249:35602] helo=sjmas02.marketo.org)
+	by sjmta21.marketo.org (envelope-from <employers-noreply@indeed.com>)
+	(ecelerity 4.2.38.62370 r(:)) with ESMTP
+	id 34/82-29967-114AB9C5; Wed, 27 Mar 2019 11:25:53 -0500
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; t=1553703953;
+	s=m1; d=indeed.com; i=@indeed.com;
+	h=Date:From:To:Subject:MIME-Version:Content-Type;
+	bh=bmQQCLyctL/eYyz4HGGuB+Wd0nezseTK4TIH2qmhiHw=;
+	b=esR+ju7e9G3SudG7atBkFMJ1S9dUmMxqx7kEKlsXZe1dJySuKiiOsLMfw9YS4ZG2
+	mEO/RD1SUwyKXBRZM4O0QC+Wo26+HkV0Sr+iqfA5jsGMHoGTihiK3MJT6iVPdk/pa3R
+	6oexqGhJ+xUil8tS6qeQu9KUGkN7ehufgkpIQvAE=
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; t=1553703953;
+	s=m1; d=mktdns.com; i=@mktdns.com;
+	h=Date:From:To:Subject:MIME-Version:Content-Type;
+	bh=bmQQCLyctL/eYyz4HGGuB+Wd0nezseTK4TIH2qmhiHw=;
+	b=VLPOOiEfwj+1qcAfggXKo2nbFhfZvmJLMTZYID4PBGJHjx7DMlg7pcBIgji6v7oJ
+	+6HPIAc5mfdjF40lcJ+wvdckUxLoaFqaQkQHCM0pDjsEtLktLMp/EVuH364C9Cvy2nI
+	xRivOosE6//1VW6NEPVkuOiBJhJChKC3O/q0CpJ8=
+Date: Wed, 27 Mar 2019 11:25:53 -0500 (CDT)
+From: Indeed for Employers <employers-noreply@indeed.com>
+Reply-To: employers-noreply@indeed.com
+To: info@successassociates.in
+Message-ID: <1306822142.-1453846805.1553703953046.JavaMail.root@sjmas02.marketo.org>
+Subject: =?UTF-8?Q?We=E2=80=99re_making_it_easier_for_you_to_hire?=
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_-1453846806_845252647.1553703953046"
+X-PVIQ: mkto-699SXJ715-000001-000000-197288
+X-Binding: bg-sjd-215
+X-MarketoID: 699-SXJ-715:112566:25165:101776:0:59964:9:197288:179117493
+X-MKTOID: qcUEhsFcBiTvMa4PdC35pw==
+List-Unsubscribe: <mailto:GVRWOQRVNBAXCYTJGBRXEZRTJVFU62KNMNMTC43JOA3UQMTMNZLHO4T2OFCES4THNZCESPI.197288.59964.9@unsub-sj.mktomail.com>
+X-Mailfrom: 699-SXJ-715.0.197288.0.0.59964.9.179117493@em-sj-77.mktomail.com
+X-MSYS-API: {"options":{"open_tracking":false,"click_tracking":false}}
+X-MktMailDKIM: true
+X-Spam-Status: No, score=-7.3
+X-Spam-Score: -72
+X-Spam-Bar: -------
+X-Ham-Report: Spam detection software, running on the system "sg3plcpnl0078.prod.sin3.secureserver.net",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  New features to make hiring more efficient.  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌
+ 
+ Content analysis details:   (-7.3 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+                             See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: mktdns.com]
+  0.0 SURBL_BLOCKED          ADMINISTRATOR NOTICE: The query to SURBL was blocked.
+                             See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: mktdns.com]
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+ -0.0 SPF_HELO_PASS          SPF: HELO matches SPF record
+  0.2 HEADER_FROM_DIFFERENT_DOMAINS From and EnvelopeFrom 2nd level mail
+                             domains are different
+ -7.5 USER_IN_DEF_DKIM_WL    From: address is in the default DKIM white-list
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from author's
+                             domain
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily valid
+X-Spam-Flag: NO
+
+------=_Part_-1453846806_845252647.1553703953046
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+New features to make hiring more efficient.=20
+=20
+ =C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=
+=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=
+=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=
+=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=
+=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=C2=A0=E2=80=8C=C2=
+=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=
+=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=
+=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=
+=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0&zw nj;=C2=A0=E2=80=
+=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=
+=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=
+=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=
+=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=
+=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=
+=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=
+=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=20
+=20
+            =20
+
+
+
+                                 The latest improvements     Employers shar=
+e their hiring challenges with us, and we use these insights to improve Ind=
+eed.                          =20
+
+
+
+             =20
+
+
+
+        =C2=A0       =20
+
+
+
+             =20
+
+
+
+         Here are two new features we've added to make hiring faster and ea=
+sier for you.         =C2=A0          =20
+
+
+Post a job
+
+ Post a job <http://content.indeed.com/P0601cWSJX0Pw70C0DaJny2>           =
+=C2=A0          1. Easier collaboration              =C2=A0              Ma=
+nage multiple employer accounts or users on a single account. You can invit=
+e colleagues, manage roles, and remove access to your accounts as needed.  =
+            =C2=A0                          =C2=A0              2. Efficien=
+t communication              =C2=A0              Handle all of your candida=
+te communications in one place, share real-time updates with your hiring te=
+am, and receive notifications when a candidate responds to any message sent=
+ from your account.              =C2=A0                          =C2=A0    =
+                  We're here to help   We can help you optimize your job de=
+scription and choose the right budget. Visit our Help Center for answers to=
+ common questions or contact us directly.        =20
+
+
+Visit Help Center
+
+ Visit Help Center <http://content.indeed.com/Tb1SC0P0n006DXx2cJ7yWJ0>     =
+                 =20
+
+
+
+             =20
+
+
+
+              Sincerely,     The Indeed Team             =20
+
+
+
+             =20
+
+
+
+        =20
+
+
+
+       <http://content.indeed.com/n0SP0yc02y1J0JX0Dnc6WC7>    <http://conte=
+nt.indeed.com/a026cJ0nyS0D00dJzX1C7PW>    <http://content.indeed.com/p0700S=
+6neJ0ycA1XWJ0PDC2>   =20
+
+
+
+       =C2=A9 2019 Indeed <http://content.indeed.com/JX2JSy0qnJ014CD6WP00c7=
+0>   6433 Champion Grandview Way, Building 1, Austin, TX 78750   Privacy Po=
+licy <http://content.indeed.com/lCXyf000JnDP6J2W7010BcS> =C2=A0=C2=A0|=C2=
+=A0=C2=A0Terms <http://content.indeed.com/r70C0J2C6XgJD1SnP0cy0W0> =C2=A0=
+=C2=A0|=C2=A0=C2=A0Help <http://content.indeed.com/b0006WXJCSDcJPnh020yD71>=
+ =C2=A0=C2=A0|=C2=A0=C2=A0Unsubscribe <http://content.indeed.com/lCXyi000Jn=
+DP6J2W7010EcS>
+
+-
+
+------=_Part_-1453846806_845252647.1553703953046
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml" xmlns:v=3D"urn:schemas-microso=
+ft-com:vml" xmlns:o=3D"urn:schemas-microsoft-com:office:office">
+<head>=20
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8" />=
+=20
+<meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D1"=
+ />=20
+<meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3Dedge" />=20
+<title>Indeed for Employers</title>=20
+<!-- CUSTOM CSS -->=20
+<!--[if gte mso 9]>
+<xml>
+<o:OfficeDocumentSettings>
+<o:AllowPNG/>
+<o:PixelsPerInch>96</o:PixelsPerInch>
+</o:OfficeDocumentSettings>
+</xml>
+<![endif]-->=20
+<style type=3D"text/css">
+      /* iOS BLUE LINKS */
+      a[x-apple-data-detectors] {color: inherit !important;text-decoration:=
+ none !important;font-size: inherit !important;font-family: inherit !import=
+ant;font-weight: inherit !important;line-height: inherit !important;}
+      @media only screen and (max-width:550px) {
+        .m-padding {
+          padding:0 8px !important;
+        }
+        .m-hide {
+          display:none !important;
+        }
+        .outerContainer {
+          width: 100% !important;
+        }
+        .innerContainer {
+          padding-left: 0 !important;
+          padding-right: 0 !important;
+        }
+        .fullWidth {
+          width: 100% !important;
+          display: block !important;
+        }
+        .logoFix {
+          width: 135px !important;
+          height: auto !important;
+        }
+        .ph-16  {
+          padding-left:16px !important;
+          padding-right:16px !important;
+        }
+        .p0 {
+          padding:0px !important;
+        }
+        .pt-0 {
+          padding-top:0px !important;
+        }
+        .pr-0 {
+          padding-right:0px !important;
+        }
+        .pb-0 {
+          padding-bottom:0px !important;
+        }
+        .pl-0 {
+          padding-left:0px !important;
+        }
+        .pt-16 {
+          padding-top:16px !important;
+        }
+        .pr-16 {
+          padding-right:16px !important;
+        }
+        .pb-16 {
+          padding-bottom:16px !important;
+        }
+        .pl-16 {
+          padding-left:16px !important;
+        }
+        .pt-24 {
+          padding-top:24px !important;
+        }
+        .pr-24 {
+          padding-right:24px !important;
+        }
+        .pb-24 {
+          padding-bottom:24px !important;
+        }
+        .pl-24 {
+          padding-left:24px !important;
+        }
+        .pt-36 {
+          padding-top:36px !important;
+        }
+        .pr-36 {
+          padding-right:36px !important;
+        }
+        .pb-36 {
+          padding-bottom:36px !important;
+        }
+        .pl-36 {
+          padding-left:36px !important;
+        }
+        .width-100    {
+          width:100% !important;
+        }
+        .center {
+          margin:0 auto !important;
+        }
+        .center-align-text {
+          text-align:center !important;
+        }
+        .stack  {
+          display:block !important;
+        }
+        .cta.stack a {
+          width:100% !important;
+        }
+        .bl-0   {
+          border-left:0 !important;
+        }
+      }
+    </style>=20
+</head>=20
+<body class=3D"body mktEditable" id=3D"Editable" style=3D"-webkit-text-size=
+-adjust:100%;-ms-text-size-adjust:100%;box-sizing:border-box !important;hei=
+ght:100% !important;margin:0 !important;padding:0 !important;width:100% !im=
+portant;Margin:0;padding:0;">
+<div id=3D"preview-text" style=3D"display: none; max-height: 0px; overflow:=
+ hidden;">
+ New features to make hiring more efficient.=20
+</div>=20
+<div style=3D"display: none; max-height: 0px; overflow:=20
+hidden;">
+ &nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=
+=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=
+=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;&nbsp;=E2=80=8C&nbsp;=
+=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=
+=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=
+=E2=80=8C&nbsp;=E2=80=8C&nbsp;&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=
+=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=
+=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;&nbsp;=E2=80=8C&nb=
+sp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nb=
+sp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nb=
+sp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=
+=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;&amp;zw nj;&nbsp;=E2=
+=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=
+=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=
+=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=
+=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=
+=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=
+=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=
+=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=20
+</div>=20
+<table id=3D"full-wrap" width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" =
+border=3D"0" style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust:=
+ 100%; mso-table-lspace: 0; mso-table-rspace: 0; box-sizing: border-box !im=
+portant; border-collapse: collapse !important;">=20
+<tbody>=20
+<tr>=20
+<td align=3D"center" style=3D"-webkit-text-size-adjust: 100%; -ms-text-size=
+-adjust: 100%; mso-table-lspace: 0; mso-table-rspace: 0; box-sizing: border=
+-box !important;">=20
+<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" styl=
+e=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-=
+lspace: 0; mso-table-rspace: 0; box-sizing: border-box !important; border-c=
+ollapse: collapse !important;">=20
+<!-- Header -->=20
+<tbody>=20
+<tr>=20
+<td style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; ms=
+o-table-lspace: 0; mso-table-rspace: 0; box-sizing: border-box !important;"=
+>=20
+<table id=3D"header" bgcolor=3D"#FEF9EF" width=3D"100%" cellpadding=3D"0" c=
+ellspacing=3D"0" border=3D"0" style=3D"-webkit-text-size-adjust: 100%; -ms-=
+text-size-adjust: 100%; mso-table-lspace: 0; mso-table-rspace: 0; box-sizin=
+g: border-box !important; border-collapse: collapse !important;">=20
+<tbody>=20
+<tr>=20
+<td align=3D"center" style=3D"-webkit-text-size-adjust: 100%; -ms-text-size=
+-adjust: 100%; mso-table-lspace: 0; mso-table-rspace: 0; box-sizing: border=
+-box !important;">=20
+<!--[if (gte mso 9)|(IE)]>
+<table width=3D"550" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+<tr>
+<td>
+<![endif]-->=20
+<table width=3D"100%" style=3D"-webkit-text-size-adjust: 100%; -ms-text-siz=
+e-adjust: 100%; mso-table-lspace: 0; mso-table-rspace: 0; box-sizing: borde=
+r-box !important; border-collapse: collapse !important; max-width: 550px;" =
+cellpadding=3D"0" cellspacing=3D"0" border=3D"0">=20
+<tbody>=20
+<tr>=20
+<td class=3D"m-contain" style=3D"-webkit-text-size-adjust: 100%; -ms-text-s=
+ize-adjust: 100%; mso-table-lspace: 0; mso-table-rspace: 0; box-sizing: bor=
+der-box !important;">=20
+<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" styl=
+e=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-=
+lspace: 0; mso-table-rspace: 0; box-sizing: border-box !important; border-c=
+ollapse: collapse !important;">=20
+<!-- Indeed employer logo -->=20
+<tbody>=20
+<tr>=20
+<td style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; ms=
+o-table-lspace: 0; mso-table-rspace: 0; box-sizing: border-box !important;"=
+>=20
+<table id=3D"logo-container" width=3D"100%" cellpadding=3D"0" cellspacing=
+=3D"0" border=3D"0" style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-=
+adjust: 100%; mso-table-lspace: 0; mso-table-rspace: 0; box-sizing: border-=
+box !important; border-collapse: collapse !important;">=20
+<tbody>=20
+<tr>=20
+<td align=3D"left" style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-a=
+djust: 100%; mso-table-lspace: 0; mso-table-rspace: 0; box-sizing: border-b=
+ox !important; padding: 32px 16px 24px 16px;"><a href=3D
+"http://content.indeed.com/gk0D71J0y20nXJ0WSc06YCP" style=3D"-webkit-text-s=
+ize-adjust: 100%; -ms-text-size-adjust: 100%; box-sizing:=20
+border-box !important; text-decoration: none; outline: 0;"
+> <img src=3D"http://offers.indeed.com/rs/699-SXJ-715/images/employers-logo=
+-janus.png" alt=3D"Indeed for employers" width=3D"178" style=3D"-ms-interpo=
+lation-mode: bicubic; border: 0; height: auto; line-height: 100%; outline: =
+0; text-decoration: none; font-family: 'Helvetica Neue', Helvetica, Arial, =
+'Liberation Sans', Roboto, Noto, sans-serif;=20
+color: #085ff7; font-size: 20px;" /> </a></td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+<!---->=20
+<!-- Two-column hero -->=20
+<tr>=20
+<td style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; ms=
+o-table-lspace: 0; mso-table-rspace: 0; box-sizing: border-box !important;"=
+>=20
+<table id=3D"hero-two-column" width=3D"100%" cellpadding=3D"0" cellspacing=
+=3D"0" border=3D"0" style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-=
+adjust: 100%; mso-table-lspace: 0; mso-table-rspace: 0; box-sizing: border-=
+box !important; border-collapse: collapse !important;">=20
+<tbody>=20
+<tr>=20
+<td class=3D"stack center ph-16" valign=3D"top" style=3D"-webkit-text-size-=
+adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0; mso-table-rs=
+pace: 0; box-sizing: border-box !important; padding-left: 16px; padding-bot=
+tom: 16px;">=20
+<table id=3D"hero-text-container" width=3D"100%" cellpadding=3D"0" cellspac=
+ing=3D"0" border=3D"0" style=3D"-webkit-text-size-adjust: 100%; -ms-text-si=
+ze-adjust: 100%; mso-table-lspace: 0; mso-table-rspace: 0; box-sizing: bord=
+er-box !important; border-collapse: collapse !important;">=20
+<tbody>=20
+<tr>=20
+<td class=3D"hero-h1" align=3D"left" style=3D"-webkit-text-size-adjust: 100=
+%; -ms-text-size-adjust: 100%; mso-table-lspace: 0; mso-table-rspace: 0; bo=
+x-sizing: border-box !important;"> <h1 style=3D"font-family: 'Helvetica Neu=
+e', Helvetica, Arial, 'Liberation Sans', Roboto, Noto, sans-serif; font-wei=
+ght: bold; letter-spacing: -0.12px; font-size: 30px; line-height: 34px; col=
+or: #2a2226; margin: 0;">The latest improvements</h1> </td>=20
+</tr>=20
+<tr>=20
+<td class=3D"hero-h2" align=3D"left" style=3D"-webkit-text-size-adjust: 100=
+%; -ms-text-size-adjust: 100%; mso-table-lspace: 0; mso-table-rspace: 0; bo=
+x-sizing: border-box !important; padding-top: 24px;"> <h2 style=3D"font-fam=
+ily: 'Helvetica Neue', Helvetica, Arial, 'Liberation Sans', Roboto, Noto, s=
+ans-serif; font-weight: 400; letter-spacing: -0.12px; font-size: 20px; line=
+-height: 26px; color: #2a2226; margin: 0;">Employers share their hiring cha=
+llenges with us, and we use these insights to improve Indeed.</h2> </td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+<td class=3D"stack center" valign=3D"bottom" style=3D"-webkit-text-size-adj=
+ust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0; mso-table-rspac=
+e: 0; box-sizing: border-box !important; padding: 0 0 0 16px;">=20
+<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" styl=
+e=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-=
+lspace: 0; mso-table-rspace: 0; box-sizing: border-box !important; border-c=
+ollapse: collapse !important;">=20
+<tbody>=20
+<tr>=20
+<td class=3D"center" style=3D"-webkit-text-size-adjust: 100%; -ms-text-size=
+-adjust: 100%; mso-table-lspace: 0; mso-table-rspace: 0; box-sizing: border=
+-box !important;"><img class=3D"center" src=3D"http://offers.indeed.com/rs/=
+699-SXJ-715/images/Getting Candidates.png" width=3D"200" alt=3D"" style=3D"=
+-ms-interpolation-mode: bicubic; border: 0; height: auto; line-height: 100%=
+; outline: 0; text-decoration: none;=20
+display: block;" /></td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+<!---->=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+</tbody>=20
+</table>=20
+<!--[if (gte mso 9)|(IE)]>
+</td>
+</tr>
+</table>
+<![endif]--></td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+<!---->=20
+<!-- Top lip -->=20
+<tr>=20
+<td style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; ms=
+o-table-lspace: 0; mso-table-rspace: 0; box-sizing: border-box !important;"=
+>=20
+<table id=3D"lip-top" bgcolor=3D"#FEF9EF" width=3D"100%" cellpadding=3D"0" =
+cellspacing=3D"0" border=3D"0" style=3D"-webkit-text-size-adjust: 100%; -ms=
+-text-size-adjust: 100%; mso-table-lspace: 0; mso-table-rspace: 0; box-sizi=
+ng: border-box !important; border-collapse: collapse !important;">=20
+<tbody>=20
+<tr>=20
+<td class=3D"m-padding" align=3D"center" style=3D"-webkit-text-size-adjust:=
+ 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0; mso-table-rspace: 0=
+; box-sizing: border-box !important;">=20
+<!--[if (gte mso 9)|(IE)]>
+<table width=3D"550" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+<tr>
+<td>
+<![endif]-->=20
+<table bgcolor=3D"#FFFFFF" width=3D"100%" style=3D"-webkit-text-size-adjust=
+: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0; mso-table-rspace: =
+0; box-sizing: border-box !important; border-collapse: collapse !important;=
+ max-width: 550px;" cellpadding=3D"0" cellspacing=3D"0" border=3D"0">=20
+<tbody>=20
+<tr>=20
+<td class=3D"pl-16" align=3D"left" style=3D"-webkit-text-size-adjust: 100%;=
+ -ms-text-size-adjust: 100%; mso-table-lspace: 0; mso-table-rspace: 0; box-=
+sizing: border-box !important; padding-left: 16px;">=20
+<table class=3D"color-block-top" width=3D"130" cellpadding=3D"0" cellspacin=
+g=3D"0" border=3D"0" style=3D"-webkit-text-size-adjust: 100%; -ms-text-size=
+-adjust: 100%; mso-table-lspace: 0; mso-table-rspace: 0; box-sizing: border=
+-box !important; border-collapse: collapse !important;">=20
+<tbody>=20
+<tr>=20
+<td style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; ms=
+o-table-lspace: 0; mso-table-rspace: 0; box-sizing: border-box !important; =
+border-top: 6px solid #FFDC7A; padding: 16px 0; font-size: 0; line-height: =
+0;">&nbsp;</td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+</tbody>=20
+</table>=20
+<!--[if (gte mso 9)|(IE)]>
+</td>
+</tr>
+</table>
+<![endif]--></td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+<!---->=20
+<!-- Body -->=20
+<tr>=20
+<td style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; ms=
+o-table-lspace: 0; mso-table-rspace: 0; box-sizing: border-box !important;"=
+>=20
+<table id=3D"body" bgcolor=3D"#F6F6F6" width=3D"100%" cellpadding=3D"0" cel=
+lspacing=3D"0" border=3D"0" style=3D"-webkit-text-size-adjust: 100%; -ms-te=
+xt-size-adjust: 100%; mso-table-lspace: 0; mso-table-rspace: 0; box-sizing:=
+ border-box !important; border-collapse: collapse !important;">=20
+<tbody>=20
+<tr>=20
+<td class=3D"m-padding" align=3D"center" style=3D"-webkit-text-size-adjust:=
+ 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0; mso-table-rspace: 0=
+; box-sizing: border-box !important;">=20
+<!--[if (gte mso 9)|(IE)]>
+<table width=3D"550" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+<tr>
+<td>
+<![endif]-->=20
+<table bgcolor=3D"#FFFFFF" width=3D"100%" style=3D"-webkit-text-size-adjust=
+: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0; mso-table-rspace: =
+0; box-sizing: border-box !important; border-collapse: collapse !important;=
+ max-width: 550px;" cellpadding=3D"0" cellspacing=3D"0" border=3D"0">=20
+<tbody>=20
+<tr>=20
+<td class=3D"m-contain" style=3D"-webkit-text-size-adjust: 100%; -ms-text-s=
+ize-adjust: 100%; mso-table-lspace: 0; mso-table-rspace: 0; box-sizing: bor=
+der-box !important; padding: 0 36px;">=20
+<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" styl=
+e=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-=
+lspace: 0; mso-table-rspace: 0; box-sizing: border-box !important; border-c=
+ollapse: collapse !important;">=20
+<tbody>=20
+<tr>=20
+<td valign=3D"top" align=3D"left" style=3D"-webkit-text-size-adjust: 100%; =
+-ms-text-size-adjust: 100%; mso-table-lspace: 0; mso-table-rspace: 0; box-s=
+izing: border-box !important;"> <h2 style=3D"font-family: 'Helvetica Neue',=
+ Helvetica, Arial, 'Liberation Sans', Roboto, Noto, sans-serif; letter-spac=
+ing: -0.12px; font-size: 23px; line-height: 28px; font-weight: normal; colo=
+r: #2a2226; padding: 0; margin: 0;">Here are two new features we've added t=
+o make hiring faster and easier for you.</h2> </td>=20
+<!-- SPACE -->=20
+</tr>=20
+<tr style=3D"mso-line-height-rule: exactly; line-height: 0px;">=20
+<td class=3D"horizontal-break-24" style=3D"-webkit-text-size-adjust: 100%; =
+-ms-text-size-adjust: 100%; mso-table-lspace: 0; mso-table-rspace: 0; box-s=
+izing: border-box !important; padding: 12px 0; margin: 0; font-size: 0; lin=
+e-height: 0;">=20
+<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" styl=
+e=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-=
+lspace: 0; mso-table-rspace: 0; box-sizing: border-box !important; border-c=
+ollapse: collapse !important;">=20
+<tbody>=20
+<tr>=20
+<td style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; ms=
+o-table-lspace: 0; mso-table-rspace: 0; box-sizing: border-box !important; =
+font-size: 0; line-height: 0;">&nbsp;</td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+<!---->=20
+<!-- BUTTON -->=20
+<tr>=20
+<td valign=3D"top" class=3D"cta primary-cta stack center center-align-text"=
+ align=3D"left" style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adju=
+st: 100%; mso-table-lspace: 0; mso-table-rspace: 0; box-sizing: border-box =
+!important;">=20
+<div>=20
+<!--[if mso]>
+<v:roundrect xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:w=3D"urn:schem=
+as-microsoft-com:office:word" href=3D"https://employers.indeed.com/j?ctx=3D=
+email-relcynurture-latestfeatures&isid=3Demail-relcynurture-latestfeatures&=
+ikw=3Dpostjob&utm_source=3Demployer_emails&utm_medium=3Demail&utm_campaign=
+=3Drelcynurture-latestfeatures&utm_pr=3Ddr&utm_cnt=3Dsite&utm_type=3Dlink&u=
+tm_loc=3Dmid&utm_co=3DUS#post-job"=20
+style=3D"height:44px;v-text-anchor:middle;width:235px;" arcsize=3D"63%" str=
+okecolor=3D"#085FF7" fillcolor=3D"#085FF7">
+<w:anchorlock/>
+<center style=3D"color:#FFFFFF;font-family:'Helvetica Neue', Helvetica, Ari=
+al, 'Liberation Sans', Roboto, Noto, sans-serif;font-size:14px;font-weight:=
+700;">Post a job</center>
+</v:roundrect>
+<![endif]-->=20
+<a href=3D
+"http://content.indeed.com/s0lCcJn0DX1Z0S6y7P20W0J" style=3D"-webkit-text-s=
+ize-adjust: none; -ms-text-size-adjust:=20
+100%; box-sizing: border-box !important; background-color: #085ff7; color: =
+#ffffff; border: 2px solid #085FF7; display: inline-block; font-family: 'He=
+lvetica Neue', Helvetica, Arial, 'Liberation Sans', Roboto, Noto, sans-seri=
+f; font-size: 14px; font-weight: bold; line-height: 44px; text-align: cente=
+r; text-decoration: none; width: 235px; mso-hide: all; border-radius: 25px;=
+"
+>Post a job</a>=20
+</div> </td>=20
+</tr>=20
+<!---->=20
+<!-- SPACE -->=20
+<tr style=3D"mso-line-height-rule: exactly; line-height: 0px;">=20
+<td class=3D"horizontal-break-36" style=3D"-webkit-text-size-adjust: 100%; =
+-ms-text-size-adjust: 100%; mso-table-lspace: 0; mso-table-rspace: 0; box-s=
+izing: border-box !important; padding: 18px 0; margin: 0; font-size: 0; lin=
+e-height: 0;">=20
+<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" styl=
+e=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-=
+lspace: 0; mso-table-rspace: 0; box-sizing: border-box !important; border-c=
+ollapse: collapse !important;">=20
+<tbody>=20
+<tr>=20
+<td style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; ms=
+o-table-lspace: 0; mso-table-rspace: 0; box-sizing: border-box !important; =
+font-size: 0; line-height: 0;">&nbsp;</td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+<!---->=20
+<!-- H3 -->=20
+<tr>=20
+<td style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; ms=
+o-table-lspace: 0; mso-table-rspace: 0; box-sizing: border-box !important;"=
+> <h3 style=3D"font-family: 'Helvetica Neue', Helvetica, Arial, 'Liberation=
+ Sans', Roboto, Noto, sans-serif; font-weight: bold; letter-spacing: -0.12p=
+x; font-size: 18px; line-height: 24px; color: #2a2226; margin: 0;" align=3D=
+"left">1. Easier collaboration</h3> </td>=20
+</tr>=20
+<!---->=20
+<!-- Horizontal break -->=20
+<tr>=20
+<td style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; ms=
+o-table-lspace: 0; mso-table-rspace: 0; box-sizing: border-box !important;"=
+>=20
+<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" styl=
+e=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-=
+lspace: 0; mso-table-rspace: 0; box-sizing: border-box !important; border-c=
+ollapse: collapse !important;">=20
+<tbody>=20
+<tr>=20
+<td class=3D"horizontal-break" style=3D"-webkit-text-size-adjust: 100%; -ms=
+-text-size-adjust: 100%; mso-table-lspace: 0; mso-table-rspace: 0; box-sizi=
+ng: border-box !important; padding: 4px 0;">=20
+<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" styl=
+e=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-=
+lspace: 0; mso-table-rspace: 0; box-sizing: border-box !important; border-c=
+ollapse: collapse !important;">=20
+<tbody>=20
+<tr>=20
+<td style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; ms=
+o-table-lspace: 0; mso-table-rspace: 0; box-sizing: border-box !important; =
+font-size: 0; line-height: 0;">&nbsp;</td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+<!---->=20
+<!-- Paragraph -->=20
+<tr>=20
+<td style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; ms=
+o-table-lspace: 0; mso-table-rspace: 0; box-sizing: border-box !important;"=
+> <p align=3D"left" style=3D"font-family: 'Helvetica Neue', Helvetica, Aria=
+l, 'Liberation Sans', Roboto, Noto, sans-serif; font-weight: 400; letter-sp=
+acing: -0.12px; font-size: 16px; line-height: 22px; color: #2a2226; margin:=
+ 0;">Manage multiple employer accounts or users on a single account. You ca=
+n invite colleagues, manage roles, and remove access to your accounts as ne=
+eded.</p> </td>=20
+</tr>=20
+<!---->=20
+<!-- Horizontal break -->=20
+<tr>=20
+<td style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; ms=
+o-table-lspace: 0; mso-table-rspace: 0; box-sizing: border-box !important;"=
+>=20
+<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" styl=
+e=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-=
+lspace: 0; mso-table-rspace: 0; box-sizing: border-box !important; border-c=
+ollapse: collapse !important;">=20
+<tbody>=20
+<tr>=20
+<td class=3D"horizontal-break" style=3D"-webkit-text-size-adjust: 100%; -ms=
+-text-size-adjust: 100%; mso-table-lspace: 0; mso-table-rspace: 0; box-sizi=
+ng: border-box !important; padding: 8px 0;">=20
+<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" styl=
+e=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-=
+lspace: 0; mso-table-rspace: 0; box-sizing: border-box !important; border-c=
+ollapse: collapse !important;">=20
+<tbody>=20
+<tr>=20
+<td style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; ms=
+o-table-lspace: 0; mso-table-rspace: 0; box-sizing: border-box !important; =
+font-size: 0; line-height: 0;">&nbsp;</td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+<!---->=20
+<!-- Image -->=20
+<tr>=20
+<td style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; ms=
+o-table-lspace: 0; mso-table-rspace: 0; box-sizing: border-box !important;"=
+><img src=3D"http://offers.indeed.com/rs/699-SXJ-715/images/Collab_Small.gi=
+f" width=3D"464" alt=3D"" style=3D"-ms-interpolation-mode: bicubic; border:=
+ 0; height: auto; line-height: 100%; outline: 0; text-decoration: none; wid=
+th: 100%; max-width: 464px;=20
+display: block;" /></td>=20
+</tr>=20
+<!---->=20
+<!-- Horizontal break -->=20
+<tr>=20
+<td style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; ms=
+o-table-lspace: 0; mso-table-rspace: 0; box-sizing: border-box !important;"=
+>=20
+<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" styl=
+e=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-=
+lspace: 0; mso-table-rspace: 0; box-sizing: border-box !important; border-c=
+ollapse: collapse !important;">=20
+<tbody>=20
+<tr>=20
+<td class=3D"horizontal-break" style=3D"-webkit-text-size-adjust: 100%; -ms=
+-text-size-adjust: 100%; mso-table-lspace: 0; mso-table-rspace: 0; box-sizi=
+ng: border-box !important; padding: 16px 0;">=20
+<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" styl=
+e=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-=
+lspace: 0; mso-table-rspace: 0; box-sizing: border-box !important; border-c=
+ollapse: collapse !important;">=20
+<tbody>=20
+<tr>=20
+<td style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; ms=
+o-table-lspace: 0; mso-table-rspace: 0; box-sizing: border-box !important; =
+font-size: 0; line-height: 0;">&nbsp;</td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+<!---->=20
+<!-- H3 -->=20
+<tr>=20
+<td style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; ms=
+o-table-lspace: 0; mso-table-rspace: 0; box-sizing: border-box !important;"=
+> <h3 style=3D"font-family: 'Helvetica Neue', Helvetica, Arial, 'Liberation=
+ Sans', Roboto, Noto, sans-serif; font-weight: bold; letter-spacing: -0.12p=
+x; font-size: 18px; line-height: 24px; color: #2a2226; margin: 0;" align=3D=
+"left">2. Efficient communication</h3> </td>=20
+</tr>=20
+<!---->=20
+<!-- Horizontal break -->=20
+<tr>=20
+<td style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; ms=
+o-table-lspace: 0; mso-table-rspace: 0; box-sizing: border-box !important;"=
+>=20
+<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" styl=
+e=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-=
+lspace: 0; mso-table-rspace: 0; box-sizing: border-box !important; border-c=
+ollapse: collapse !important;">=20
+<tbody>=20
+<tr>=20
+<td class=3D"horizontal-break" style=3D"-webkit-text-size-adjust: 100%; -ms=
+-text-size-adjust: 100%; mso-table-lspace: 0; mso-table-rspace: 0; box-sizi=
+ng: border-box !important; padding: 4px 0;">=20
+<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" styl=
+e=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-=
+lspace: 0; mso-table-rspace: 0; box-sizing: border-box !important; border-c=
+ollapse: collapse !important;">=20
+<tbody>=20
+<tr>=20
+<td style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; ms=
+o-table-lspace: 0; mso-table-rspace: 0; box-sizing: border-box !important; =
+font-size: 0; line-height: 0;">&nbsp;</td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+<!---->=20
+<!-- Paragraph -->=20
+<tr>=20
+<td style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; ms=
+o-table-lspace: 0; mso-table-rspace: 0; box-sizing: border-box !important;"=
+> <p align=3D"left" style=3D"font-family: 'Helvetica Neue', Helvetica, Aria=
+l, 'Liberation Sans', Roboto, Noto, sans-serif; font-weight: 400; letter-sp=
+acing: -0.12px; font-size: 16px; line-height: 22px; color: #2a2226; margin:=
+ 0;">Handle all of your candidate communications in one place, share real-t=
+ime updates with your hiring team, and receive notifications when a candida=
+te responds to any message sent from your account.</p> </td>=20
+</tr>=20
+<!---->=20
+<!-- Horizontal break -->=20
+<tr>=20
+<td style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; ms=
+o-table-lspace: 0; mso-table-rspace: 0; box-sizing: border-box !important;"=
+>=20
+<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" styl=
+e=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-=
+lspace: 0; mso-table-rspace: 0; box-sizing: border-box !important; border-c=
+ollapse: collapse !important;">=20
+<tbody>=20
+<tr>=20
+<td class=3D"horizontal-break" style=3D"-webkit-text-size-adjust: 100%; -ms=
+-text-size-adjust: 100%; mso-table-lspace: 0; mso-table-rspace: 0; box-sizi=
+ng: border-box !important; padding: 8px 0;">=20
+<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" styl=
+e=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-=
+lspace: 0; mso-table-rspace: 0; box-sizing: border-box !important; border-c=
+ollapse: collapse !important;">=20
+<tbody>=20
+<tr>=20
+<td style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; ms=
+o-table-lspace: 0; mso-table-rspace: 0; box-sizing: border-box !important; =
+font-size: 0; line-height: 0;">&nbsp;</td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+<!---->=20
+<!-- Image -->=20
+<tr>=20
+<td style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; ms=
+o-table-lspace: 0; mso-table-rspace: 0; box-sizing: border-box !important;"=
+><img src=3D"http://offers.indeed.com/rs/699-SXJ-715/images/Notifications_S=
+mall.gif" width=3D"464" alt=3D"" style=3D"-ms-interpolation-mode: bicubic; =
+border: 0; height: auto; line-height: 100%; outline: 0; text-decoration: no=
+ne; width: 100%; max-width:=20
+464px; display: block;" /></td>=20
+</tr>=20
+<!---->=20
+<!-- Horizontal break -->=20
+<tr>=20
+<td style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; ms=
+o-table-lspace: 0; mso-table-rspace: 0; box-sizing: border-box !important;"=
+>=20
+<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" styl=
+e=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-=
+lspace: 0; mso-table-rspace: 0; box-sizing: border-box !important; border-c=
+ollapse: collapse !important;">=20
+<tbody>=20
+<tr>=20
+<td class=3D"horizontal-break" style=3D"-webkit-text-size-adjust: 100%; -ms=
+-text-size-adjust: 100%; mso-table-lspace: 0; mso-table-rspace: 0; box-sizi=
+ng: border-box !important; padding: 24px 0;">=20
+<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" styl=
+e=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-=
+lspace: 0; mso-table-rspace: 0; box-sizing: border-box !important; border-c=
+ollapse: collapse !important;">=20
+<tbody>=20
+<tr>=20
+<td style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; ms=
+o-table-lspace: 0; mso-table-rspace: 0; box-sizing: border-box !important; =
+font-size: 0; line-height: 0;">&nbsp;</td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+<!---->=20
+<!-- Support card -->=20
+<tr>=20
+<td style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; ms=
+o-table-lspace: 0; mso-table-rspace: 0; box-sizing: border-box !important;"=
+>=20
+<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" styl=
+e=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-=
+lspace: 0; mso-table-rspace: 0; box-sizing: border-box !important; border-c=
+ollapse: collapse !important;">=20
+<tbody>=20
+<tr>=20
+<td class=3D"stack pb-16" valign=3D"top" style=3D"-webkit-text-size-adjust:=
+ 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0; mso-table-rspace: 0=
+; box-sizing: border-box !important; padding-bottom: 32px;"><img src=3D"htt=
+p://offers.indeed.com/rs/699-SXJ-715/images/bandage.png" width=3D"60" alt=
+=3D"" style=3D"-ms-interpolation-mode: bicubic; border: 0; height: auto; li=
+ne-height: 100%; outline: 0;=20
+text-decoration: none; display: block;" /></td>=20
+<td class=3D"stack pl-0" valign=3D"middle" style=3D"-webkit-text-size-adjus=
+t: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0; mso-table-rspace:=
+ 0; box-sizing: border-box !important; padding-left: 36px; padding-bottom: =
+32px;">=20
+<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" styl=
+e=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-=
+lspace: 0; mso-table-rspace: 0; box-sizing: border-box !important; border-c=
+ollapse: collapse !important;">=20
+<tbody>=20
+<tr>=20
+<td class=3D"h3" align=3D"left" style=3D"-webkit-text-size-adjust: 100%; -m=
+s-text-size-adjust: 100%; mso-table-lspace: 0; mso-table-rspace: 0; box-siz=
+ing: border-box !important; font-family: 'Helvetica Neue', Helvetica, Arial=
+, 'Liberation Sans', Roboto, Noto, sans-serif; letter-spacing: -0.12px; fon=
+t-size: 18px; line-height: 24px; font-weight: bold;">We're here to help</td=
+>=20
+</tr>=20
+<tr>=20
+<td class=3D"h3" align=3D"left" style=3D"-webkit-text-size-adjust: 100%; -m=
+s-text-size-adjust: 100%; mso-table-lspace: 0; mso-table-rspace: 0; box-siz=
+ing: border-box !important; padding-top: 8px; font-family: 'Helvetica Neue'=
+, Helvetica, Arial, 'Liberation Sans', Roboto, Noto, sans-serif; letter-spa=
+cing: -0.12px; font-size: 16px; line-height: 22px; color: #2a2226;">We can =
+help you optimize your job description and choose the right budget. Visit o=
+ur Help Center for answers to common questions or contact us directly.</td>=
+=20
+</tr>=20
+<tr>=20
+<td class=3D"button-text-group" style=3D"-webkit-text-size-adjust: 100%; -m=
+s-text-size-adjust: 100%; mso-table-lspace: 0; mso-table-rspace: 0; box-siz=
+ing: border-box !important; padding-top: 16px;">=20
+<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" styl=
+e=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-=
+lspace: 0; mso-table-rspace: 0; box-sizing: border-box !important; border-c=
+ollapse: collapse !important;">=20
+<tbody>=20
+<tr>=20
+<td class=3D"cta help-cta stack center" align=3D"left" style=3D"-webkit-tex=
+t-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0; mso-t=
+able-rspace: 0; box-sizing: border-box !important;">=20
+<div>=20
+<!--[if mso]>
+<v:roundrect xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:w=3D"urn:schem=
+as-microsoft-com:office:word"=20
+href=3D"https://indeedemployers.zendesk.com/hc/en-us?ctx=3Demail-relcynurtu=
+re-latestfeatures&amp;isid=3Demail-relcynurture-latestfeatures&amp;ikw=3Dhe=
+lpcenter&amp;utm_source=3Demployer_emails&amp;utm_medium=3Demail&amp;utm_ca=
+mpaign=3Drelcynurture-latestfeatures&amp;utm_pr=3Ddr&amp;utm_cnt=3Dsite&amp=
+;utm_type=3Dlink&amp;utm_loc=3Dmid&amp;utm_co=3DUS" style=3D"height:36px;v-=
+text-anchor:middle;width:235px;" arcsize=3D"63%"=20
+strokecolor=3D"#ECECEC" fillcolor=3D"#FFFFFF">
+<w:anchorlock/>
+<center style=3D"color:#085FF7;font-family:'Helvetica Neue', Helvetica, Ari=
+al, 'Liberation Sans', Roboto, Noto, sans-serif;font-size:12px;font-weight:=
+700;">Visit Help Center</center>
+</v:roundrect>
+<![endif]-->=20
+<a class=3D"help-cta" href=3D
+"http://content.indeed.com/SX0J2W0DJc701SP6n00Cy0m" style=3D"-webkit-text-s=
+ize-adjust:=20
+none; -ms-text-size-adjust: 100%; box-sizing: border-box !important; backgr=
+ound-color: #ffffff; color: #085ff7; border: 2px solid #ECECEC; display: in=
+line-block; font-family: 'Helvetica Neue', Helvetica, Arial, 'Liberation Sa=
+ns', Roboto, Noto, sans-serif; font-size: 12px; font-weight: bold; line-hei=
+ght: 36px; text-align: center; text-decoration: none; width: 235px; mso-hid=
+e: all; border-radius:=20
+25px;"
+>Visit Help Center</a>=20
+</div> </td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+<!---->=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+</tbody>=20
+</table>=20
+<!--[if (gte mso 9)|(IE)]>
+</td>
+</tr>
+</table>
+<![endif]--></td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+<!---->=20
+<!-- Bottom lip -->=20
+<tr>=20
+<td style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; ms=
+o-table-lspace: 0; mso-table-rspace: 0; box-sizing: border-box !important;"=
+>=20
+<table id=3D"bottom-lip-with-signature" bgcolor=3D"#F6F5F6" width=3D"100%" =
+cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"-webkit-text-size=
+-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0; mso-table-r=
+space: 0; box-sizing: border-box !important; border-collapse: collapse !imp=
+ortant;">=20
+<tbody>=20
+<tr>=20
+<td class=3D"m-padding" align=3D"center" style=3D"-webkit-text-size-adjust:=
+ 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0; mso-table-rspace: 0=
+; box-sizing: border-box !important;">=20
+<!--[if (gte mso 9)|(IE)]>
+<table width=3D"550" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+<tr>
+<td>
+<![endif]-->=20
+<table class=3D"content-550" bgcolor=3D"#FFFFFF" width=3D"100%" style=3D"-w=
+ebkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace:=
+ 0; mso-table-rspace: 0; box-sizing: border-box !important; border-collapse=
+: collapse !important; max-width: 550px;" cellpadding=3D"0" cellspacing=3D"=
+0" border=3D"0">=20
+<tbody>=20
+<tr>=20
+<td class=3D"pl-16" align=3D"left" style=3D"-webkit-text-size-adjust: 100%;=
+ -ms-text-size-adjust: 100%; mso-table-lspace: 0; mso-table-rspace: 0; box-=
+sizing: border-box !important; padding-left: 32px;">=20
+<table class=3D"color-block-bottom" width=3D"170" cellpadding=3D"0" cellspa=
+cing=3D"0" border=3D"0" style=3D"-webkit-text-size-adjust: 100%; -ms-text-s=
+ize-adjust: 100%; mso-table-lspace: 0; mso-table-rspace: 0; box-sizing: bor=
+der-box !important; border-collapse: collapse !important;">=20
+<tbody>=20
+<tr>=20
+<td style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; ms=
+o-table-lspace: 0; mso-table-rspace: 0; box-sizing: border-box !important; =
+border-bottom: 6px solid #FFDC7A; padding-bottom: 16px;">=20
+<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" styl=
+e=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-=
+lspace: 0; mso-table-rspace: 0; box-sizing: border-box !important; border-c=
+ollapse: collapse !important;">=20
+<!-- Signature -->=20
+<tbody>=20
+<tr>=20
+<td style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; ms=
+o-table-lspace: 0; mso-table-rspace: 0; box-sizing: border-box !important;"=
+> <p style=3D"font-family: 'Helvetica Neue', Helvetica, Arial, 'Liberation =
+Sans', Roboto, Noto, sans-serif; font-weight: 400; letter-spacing: -0.12px;=
+ font-size: 16px; line-height: 22px; color: #2a2226; margin: 0;">Sincerely,=
+</p> </td>=20
+</tr>=20
+<tr>=20
+<td style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; ms=
+o-table-lspace: 0; mso-table-rspace: 0; box-sizing: border-box !important;"=
+> <p style=3D"font-family: 'Helvetica Neue', Helvetica, Arial, 'Liberation =
+Sans', Roboto, Noto, sans-serif; font-weight: bold; letter-spacing: -0.12px=
+; font-size: 16px; line-height: 22px; color: #2a2226; margin: 0;">The Indee=
+d Team</p> </td>=20
+</tr>=20
+<!---->=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+</tbody>=20
+</table>=20
+<!--[if (gte mso 9)|(IE)]>
+</td>
+</tr>
+</table>
+<![endif]--></td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+<!---->=20
+<!-- Footer, employer -->=20
+<tr>=20
+<td style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; ms=
+o-table-lspace: 0; mso-table-rspace: 0; box-sizing: border-box !important;"=
+>=20
+<table id=3D"footer" bgcolor=3D"#F6F5F6" width=3D"100%" cellpadding=3D"0" c=
+ellspacing=3D"0" border=3D"0" style=3D"-webkit-text-size-adjust: 100%; -ms-=
+text-size-adjust: 100%; mso-table-lspace: 0; mso-table-rspace: 0; box-sizin=
+g: border-box !important; border-collapse: collapse !important;">=20
+<tbody>=20
+<tr>=20
+<td align=3D"center" style=3D"-webkit-text-size-adjust: 100%; -ms-text-size=
+-adjust: 100%; mso-table-lspace: 0; mso-table-rspace: 0; box-sizing: border=
+-box !important;">=20
+<!--[if (gte mso 9)|(IE)]>
+<table width=3D"550" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+<tr>
+<td>
+<![endif]-->=20
+<table width=3D"100%" style=3D"-webkit-text-size-adjust: 100%; -ms-text-siz=
+e-adjust: 100%; mso-table-lspace: 0; mso-table-rspace: 0; box-sizing: borde=
+r-box !important; border-collapse: collapse !important; max-width: 550px;" =
+cellpadding=3D"0" cellspacing=3D"0" border=3D"0">=20
+<tbody>=20
+<tr>=20
+<td align=3D"left" style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-a=
+djust: 100%; mso-table-lspace: 0; mso-table-rspace: 0; box-sizing: border-b=
+ox !important; padding: 24px 32px;">=20
+<table id=3D"social-links" width=3D"100%" cellpadding=3D"0" cellspacing=3D"=
+0" border=3D"0" style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adju=
+st: 100%; mso-table-lspace: 0; mso-table-rspace: 0; box-sizing: border-box =
+!important; border-collapse: collapse !important;">=20
+<tbody>=20
+<tr>=20
+<td style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; ms=
+o-table-lspace: 0; mso-table-rspace: 0; box-sizing: border-box !important; =
+padding-bottom: 16px;">=20
+<!--[if (gte mso 9)|(IE)]>
+<table width=3D"170" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+<tr>
+<td>
+<![endif]-->=20
+<table width=3D"100%" style=3D"-webkit-text-size-adjust: 100%; -ms-text-siz=
+e-adjust: 100%; mso-table-lspace: 0; mso-table-rspace: 0; box-sizing: borde=
+r-box !important; border-collapse: collapse !important; max-width: 170px;" =
+cellpadding=3D"0" cellspacing=3D"0" border=3D"0">=20
+<tbody>=20
+<tr>=20
+<td align=3D"left" style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-a=
+djust: 100%; mso-table-lspace: 0; mso-table-rspace: 0; box-sizing: border-b=
+ox !important;"><a href=3D
+"http://content.indeed.com/XWJ0P1Xc1600JC7Dy02nSn0" style=3D"-webkit-text-s=
+ize-adjust: 100%; -ms-text-size-adjust: 100%; box-sizing:=20
+border-box !important;"
+> <img src=3D"http://offers.indeed.com/rs/699-SXJ-715/images/ico-facebook.p=
+ng" width=3D"32" alt=3D"" style=3D"-ms-interpolation-mode: bicubic; border:=
+ 0; height: auto; line-height: 100%; outline: 0; text-decoration: none;" />=
+ </a></td>=20
+<td align=3D"left" style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-a=
+djust: 100%; mso-table-lspace: 0; mso-table-rspace: 0; box-sizing: border-b=
+ox !important;"><a href=3D
+"http://content.indeed.com/hJPno7X06S000yWC1c20J2D" style=3D"-webkit-text-s=
+ize-adjust: 100%; -ms-text-size-adjust: 100%; box-sizing: border-box=20
+!important;"
+> <img src=3D"http://offers.indeed.com/rs/699-SXJ-715/images/ico-twitter.pn=
+g" width=3D"32" alt=3D"" style=3D"-ms-interpolation-mode: bicubic; border: =
+0; height: auto; line-height: 100%; outline: 0; text-decoration: none;" /> =
+</a></td>=20
+<td align=3D"left" style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-a=
+djust: 100%; mso-table-lspace: 0; mso-table-rspace: 0; box-sizing: border-b=
+ox !important;"><a href=3D
+"http://content.indeed.com/FnDXJ00p36ScP2Cy000JW17" style=3D"-webkit-text-s=
+ize-adjust: 100%; -ms-text-size-adjust: 100%; box-sizing: border-box=20
+!important;"
+> <img src=3D"http://offers.indeed.com/rs/699-SXJ-715/images/ico-indeed.png=
+" width=3D"32" alt=3D"" style=3D"-ms-interpolation-mode: bicubic; border: 0=
+; height: auto; line-height: 100%; outline: 0; text-decoration: none;" /> <=
+/a></td>=20
+</tr>=20
+</tbody>=20
+</table>=20
+<!--[if (gte mso 9)|(IE)]>
+</td>
+</tr>
+</table>
+<![endif]--></td>=20
+</tr>=20
+</tbody>=20
+</table>=20
+<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" styl=
+e=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-=
+lspace: 0; mso-table-rspace: 0; box-sizing: border-box !important; border-c=
+ollapse: collapse !important;">=20
+<tbody>=20
+<tr>=20
+<td align=3D"left" style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-a=
+djust: 100%; mso-table-lspace: 0; mso-table-rspace: 0; box-sizing: border-b=
+ox !important; font-family: 'Helvetica Neue', Helvetica, Arial, 'Liberation=
+ Sans', Roboto, Noto, sans-serif; letter-spacing: -0.12px; font-size: 11px;=
+ line-height: 14px; color: #6f6f6f;">=C2=A9 2019 <a href=3D
+"http://content.indeed.com/JX2JSy0qnJ014CD6WP00c70" target=3D"_blank" id=3D=
+"" style=3D"color: #085ff7; text-decoration: none;"
+>Indeed</a></td>=20
+</tr>=20
+<tr>=20
+<td align=3D"left" style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-a=
+djust: 100%; mso-table-lspace: 0; mso-table-rspace: 0; box-sizing: border-b=
+ox !important; font-family: 'Helvetica Neue', Helvetica, Arial, 'Liberation=
+ Sans', Roboto, Noto, sans-serif; letter-spacing: -0.12px; font-size: 11px;=
+ line-height: 14px; color: #6f6f6f;"><a style=3D"-webkit-text-size-adjust: =
+100%; -ms-text-size-adjust:=20
+100%; box-sizing: border-box !important; color: #6f6f6f; text-decoration: n=
+one;">6433 Champion Grandview Way, Building 1, Austin, TX 78750</a></td>=20
+</tr>=20
+<tr>=20
+<td align=3D"left" style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-a=
+djust: 100%; mso-table-lspace: 0; mso-table-rspace: 0; box-sizing: border-b=
+ox !important; padding: 16px 0 24px; font-family: 'Helvetica Neue', Helveti=
+ca, Arial, 'Liberation Sans', Roboto, Noto, sans-serif; letter-spacing: -0.=
+12px; font-size: 11px; line-height: 14px; color: #6f6f6f;"><a href=3D
+"http://content.indeed.com/ynCSDyP10W0JJXr67500c20" style=3D"-webkit-text-s=
+ize-adjust: 100%; -ms-text-size-adjust: 100%; box-sizing:=20
+border-box !important; color: #085ff7;"
+>Privacy Policy</a> &nbsp;&nbsp;|&nbsp;&nbsp;<a href=3D
+"http://content.indeed.com/NX00sSyW00cnPCJ66170D2J" style=3D"-webkit-text-s=
+ize-adjust: 100%; -ms-text-size-adjust: 100%; box-sizing: border-box !impor=
+tant; color: #085ff7;"
+>Terms</a> &nbsp;&nbsp;|&nbsp;&nbsp;<a href=3D
+"http://content.indeed.com/b0006WXJCStcJPn7020yD71" style=3D"-webkit-text-s=
+ize-adjust: 100%; -ms-text-size-adjust: 100%;=20
+box-sizing: border-box !important; color: #085ff7;"
+>Help</a> &nbsp;&nbsp;|&nbsp;&nbsp;<a href=3D
+"http://content.indeed.com/lCXy8000JnDP6J2W7010ucS" style=3D"-webkit-text-s=
+ize-adjust: 100%; -ms-text-size-adjust: 100%;=20
+box-sizing: border-box !important; color: #085ff7;"
+>Unsubscribe</a></td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+</tbody>=20
+</table>=20
+<!--[if (gte mso 9)|(IE)]>
+</td>
+</tr>
+</table>
+<![endif]--></td>=20
+</tr>=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+<!---->=20
+</tbody>=20
+</table> </td>=20
+</tr>=20
+</tbody>=20
+</table>
+<a href=3D
+"http://content.indeed.com/I0ncvSD0J7P91W2y0C0XJ06"
+></a>
+<img src=3D"http://content.indeed.com/trk?t=3D1&mid=3DNjk5LVNYSi03MTU6MTEyN=
+TY2OjI1MTY1OjEwMTc3NjowOjU5OTY0Ojk6MTk3Mjg4OjE3OTExNzQ5MzppbmZvQHN1Y2Nlc3Nh=
+c3NvY2lhdGVzLmlu" width=3D"1" height=3D"1" style=3D"display:none !important=
+;" alt=3D"" />
+
+<!-- Unsubscribe Blank Comment -->
+</body>
+</html>
+------=_Part_-1453846806_845252647.1553703953046--
